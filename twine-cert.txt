@@ -74,30 +74,30 @@ tags = common
 [vaccination_add_loading_screen_message]
 de = Impfung wird hinzugefügt
 tags = common
-/***********Start Screen: vaccination certificate**********/
-[vaccination_certificate_title]
+/***********Start Screen: partial immunization certificate**********/
+[vaccination_partial_immunization_title]
 de = COVID-19-Impfzertifikat
 tags = common
-[vaccination_certificate_name]
+[vaccination_partial_immunization_name]
 de = {Name}
 tags = common
-[vaccination_certificate_action_button]
+[vaccination_partial_immunization_action_button]
 de = Impfungen anzeigen
 tags = common
-/***********Start Screen: test vaccination certificate**********/
-[vaccination_test_certificate_title]
+/***********Start Screen: full immunization certificate**********/
+[vaccination_full_immunization_title]
 de = COVID-19-Prüfzertifikat
 tags = common
-[vaccination_test_certificate_name]
+[vaccination_full_immunization_name]
 de = {Name}
 tags = common
-[vaccination_test_certificate_action_button]
+[vaccination_full_immunization_action_button]
 de = Impfungen anzeigen
 tags = common
-[vaccination_test_certificate_status_expired]
+[vaccination_full_immunization_status_expired]
 de = Abgelaufen
 tags = common
-[vaccination_test_certificate_loading_message]
+[vaccination_full_immunization_loading_message]
 de = Das Prüfzertifikat wird angezeigt sobald Ihr Gerät mit dem Internet verbunden ist.
 tags = common
 /***********Detail view vaccinations**********/
@@ -147,7 +147,7 @@ tags = common
 de = Chargennummer
 tags = common
 [vaccination_certificate_detail_view_datas_place]
-de = Impfort
+de = Ort der Impfung
 tags = common
 [vaccination_certificate_detail_view_datas_exhibitor]
 de = Aussteller
