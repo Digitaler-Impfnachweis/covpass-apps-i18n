@@ -1,1 +1,136 @@
+/**********Onboarding***********/
+[start_onboarding_title]
+de = Willkommen in der Prüf-App für Corona-Impfungen
+tags = common
+[start_onboarding_message]
+de = Finden Sie in wenigen Sekunden heraus ob eine Person vollständig geimpft ist. 
+tags = common
+[start_onboarding_secure_title] 
+de = Sicherer Datenaustausch
+tags = common
+[start_onboarding_secure_message]
+de = Gemäß DSGVO werden keine sensiblen Daten gespeichert. Sie sehen nur die nötigsten Informationen. 
+tags = common
+[start_onboarding_button_title]
+de = Los geht's
+tags = common
+[next_onboarding_page_button_title]
+de = Weiter
+tags = common
+[validation_first_onboarding_page_title]
+de = Erster Schritt: Scannen Sie das Prüfzertifikat mit der App
+tags = common
+[validation_first_onboarding_page_message]
+de = Halten Sie das Handy über den QR-Code und scannen Sie diesen mit der App. Die Daten werden datenschutzkonform übermittelt und können nicht gespeichert werden. Sie sehen direkt in der App ob der Impfschutz gültig ist. Und das auch, wenn Sie mal kein Internet haben.
+tags = common
+[validation_second_onboarding_page_title]
+de = Zweiter Schritt: Überprüfen Sie die Identität mit einem Ausweis
+tags = common
+[validation_second_onboarding_page_message]
+de = Sie sehen in der App nur den Impfstatus sowie den Namen und das Geburtsdatum der geimpften Person. Zur sicheren Identifikation gleichen Sie bitte die Informationen mit einem Ausweis ab. 
+tags = common
+[validation_fourth_onboarding_page_title]
+de = Zustimmung für die Nutzung der App
+[validation_fourth_onboarding_page_message]
+de = Um die App zu nutzen, müssen Sie bestätigen, dass Sie den AGBs zustimmen und die Datenschutzerklärung zur Kenntnis genommen haben.
+tags = common
+[validation_fourth_onboarding_page_first_selection]
+de = Ich akzeptiere die AGB.
+tags = common
+[validation_fourth_onboarding_page_second_selection]
+de = Ich habe die Datenschutzerklärung zur Kenntnis genommen.
+tags = common
+[confirmation_fourth_onboarding_page_button_title]
+de = Bestätigen
+tags = common
+/**********Start Screen***********/
+[validation_start_screen_title]
+de = Übersicht
+tags = common
+[validation_start_screen_Scan_title]
+de = Impfschutz prüfen
+tags = common
+[validation_start_screen_Scan_message]
+de = Scannen Sie den QR-Code von einem Prüfzertifikat. Sie sehen sofort ob der Impfschutz gültig ist.
+tags = common
+[validation_start_screen_Scan_action_button_title]
+de = QR-Code scannen
+tags = common
+[validation_start_screen_offline_modus_title]
+de = Offline-Modus
+tags = common
+[validation_start_screen_offline_modus_message]
+de = Um offline prüfen zu können, halten Sie die App auf dem aktuellsten Stand. Stellen Sie dafür ab und an eine Verbindung mit dem Internet her.
+tags = common
+[validation_start_screen_offline_modus_note_latest_version]
+de = Auf dem aktuellsten Stand
+tags = common
+[validation_start_screen_offline_modus_note_old_version]
+de = App-Version veraltet
+tags = common
+[validation_start_screen_offline_modus_note_update]
+de = Letztes Update
+tags = common
+[validation_start_screen_offline_modus_note_update]
+de = Letztes Update
+tags = common
+/**********Popup: Check vaccination***********/
+[validation_check_loading_screen_message]
+de = Impfschutz wird geprüft
+tags = common
+[validation_check_popup_valid_vaccination_title]
+de = Impfschutz gültig
+tags = common
+[validation_check_popup_valid_vaccination_message]
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweis der geimpften Person ab.
+tags = common
+[validation_check_popup_valid_vaccination_name]
+de = Name
+tags = common
+[validation_check_popup_valid_vaccination_date_of_birth]
+de = Geburtsdatum
+tags = common
+[validation_check_popup_valid_vaccination_button_title]
+de = Nächsten QR-Code scannen
+tags = common
+[validation_check_popup_partial_valid_vaccination_title]
+de = Teil-Impfschutz gültig
+tags = common
+[validation_check_popup_partial_valid_vaccination_message]
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweis der geimpften Person ab.
+tags = common
+[validation_check_popup_partial_valid_vaccination_name]
+de = Name
+tags = common
+[validation_check_popup_partial_valid_vaccination_date_of_birth]
+de = Geburtsdatum
+tags = common
+[validation_check_popup_partial_valid_vaccination_button_title]
+de = Nächsten QR-Code scannen
+tags = common
+[validation_check_popup_unsuccessful_test_title]
+de = Prüfung nicht erfolgreich
+tags = common
+[validation_check_popup_unsuccessful_test_message]
+de = Das kann folgende Gründe haben:
+tags = common
+[validation_check_popup_unsuccessful_test_first_reason]
+de = Prüfzertifikat nicht gefunden: Es sind keine Daten auf dem Prüfzertifikat gespeichert. Sollten Sie sich im Offline-Modus befinden, aktualisieren Sie die App. 
+tags = common
+[validation_check_popup_unsuccessful_test_second_reason]
+de = Prüfzertifikat abgelaufen: Das Prüfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der Impfnachweis-App eingesehen werden.
+tags = common
+[validation_check_popup_unsuccessful_test_button_title]
+de = Nächsten QR-Code scannen
+tags = common
+[validation_check_popup_vaccination_not_completely_title]
+de = Impfschutz nicht vollständig
+tags = common
+[validation_check_popup_vaccination_not_completely_message]
+de = Das geprüfte Zertifikat weist keine vollständige Impfung nach. 
+tags = common
+[validation_check_popup_vaccination_not_completely_button_title]
+de = Nächsten QR-Code scannen
+
+
 
