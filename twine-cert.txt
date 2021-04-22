@@ -1,1 +1,164 @@
+/***********Onboarding**********/
+[start_onboarding_title]
+de = Willkommen im digitalen Impfnachweis
+tags = common
+[start_onboarding_message]
+de = Weisen Sie Ihren Impfschutz ganz einfach mit dem Handy nach.
+tags = common
+[start_onboarding_secure_title] 
+de = "Absolute Sicherheit Ihrer Daten"
+tags = common
+[start_onboarding_secure_message]
+de = Ihre Impfdaten werden nur lokal auf Ihrem Handy gespeichert. Sie entscheiden wann und mit wem Sie Ihre Daten teilen wollen.
+tags = common
+[start_onboarding_button_title]
+de = Los geht's
+tags = common
+[next_onboarding_page_button_title]
+de = Weiter
+tags = common
+[vaccination_first_onboarding_page_title]
+de = Erster Schritt: Fügen Sie Corona-Impfungen per QR-Code hinzu
+tags = common
+[vaccination_first_onboarding_page_message]
+de = Scannen Sie mit der App das Impfzertifikat. Halten Sie dafür Ihr Handy über den QR-Code. Der Nachweis für die Impfung wird direkt auf Ihr Handy geladen. Der digitale Impfnachweis ist eine Ergänzung zum gelben Impfpass und enthält dieselben Daten. 
+tags = common
+[vaccination_second_onboarding_page_title]
+de = Zweiter Schritt: Lassen Sie sich das Prüfzertifikat anzeigen
+tags = common
+[vaccination_second_onboarding_page_message]
+de = Mit dem Prüfzertifikat teilen Sie sicher Ihren Impfschutz. Und das auch, wenn Sie mal kein Internet haben. Dazu laden Sie alle Impfungen auf Ihr Handy. Das Prüfzertifikat wird automatisch in der App erstellt. Zu sehen sind nur der Impfstatus, der Name und das Geburtsdatum.
+tags = common
+[vaccination_third_onboarding_page_title]
+de = Letzter Schritt: Zeigen Sie das Prüfzertifikat vor
+tags = common
+[vaccination_third_onboarding_page_message]
+de = Die vollständige Impfung ersetzt den negativen Corona-Test. Lassen Sie dafür das Prüfzerti-fikat auf Ihrem Handy scannen. Die Daten werden verschlüsselt übermittelt und können nicht ge-speichert werden. Bitte halten Sie zudem einen Ausweis der geimpften Person bereit. 
+tags = common
+[vaccination_fourth_onboarding_page_title]
+de = Zustimmung für die Nutzung
+[vaccination_fourth_onboarding_page_message]
+de = Um die App zu nutzen, müssen Sie bestätigen, dass Sie den AGBs zustimmen und die Da-tenschutzerklärung zur Kenntnis genommen haben.
+tags = common
+[vaccination_fourth_onboarding_page_first_selection]
+de = Ich akzeptiere die AGB.
+tags = common
+[vaccination_fourth_onboarding_page_second_selection]
+de = Ich habe die Datenschutzerklärung zur Kenntnis genommen.
+tags = common
+[confirmation_fourth_onboarding_page_button_title]
+de = Bestätigen
+tags = common
+/***********Start Screen**********/
+[vaccination_start_screen_title]
+de = Alle Zertifikate
+tags = common
+[vaccination_start_screen_note_title]
+de = Fügen Sie eine Impfung hinzu
+tags = common
+[vaccination_start_screen_note_message]
+de = Sie haben aktuell keine Impfungen gespeichert. Drücken Sie auf das Plus-Symbol, um eine Impfung hinzuzufügen.
+tags = common
+/***********Popup: add vaccination**********/
+[vaccination_add_popup_title]
+de = Impfung hinzufügen
+tags = common
+[vaccination_add_popup_message]
+Scannen Sie den QR-Code auf dem Impfzertifikat. Es wird automatisch ein Eintrag in der App erstellt.
+[vaccination_add_popup_action_title]
+de = Sie haben keinen QR-Code erhalten?
+tags = common
+[vaccination_add_popup_scan_button_title]
+de = QR-Code scannen
+tags = common
+[vaccination_add_loading_screen_message]
+de = Impfung wird hinzugefügt
+tags = common
+/***********Start Screen: vaccination certificate**********/
+[vaccination_certificate_title]
+de = COVID-19-Impfzertifikat
+tags = common
+[vaccination_certificate_name]
+de = {Name}
+tags = common
+[vaccination_certificate_action_button]
+de = Impfungen anzeigen
+tags = common
+/***********Start Screen: test vaccination certificate**********/
+[vaccination_test_certificate_title]
+de = COVID-19-Prüfzertifikat
+tags = common
+[vaccination_test_certificate_name]
+de = {Name}
+tags = common
+[vaccination_test_certificate_action_button]
+de = Impfungen anzeigen
+tags = common
+[vaccination_test_certificate_status_expired]
+de = Abgelaufen
+tags = common
+[vaccination_test_certificate_loading_message]
+de = Das Prüfzertifikat wird angezeigt sobald Ihr Gerät mit dem Internet verbunden ist.
+tags = common
+/***********Detail view vaccinations**********/
+[vaccination_certificate_detail_view_title]
+de = COVID-19-Impfungen
+tags = common
+[vaccination_certificate_detail_view_name]
+de = {Name}
+tags = common
+[vaccination_certificate_detail_view_incomplete_title]
+de = 1 von 2 Impfungen vorhanden
+tags = common
+[vaccination_certificate_detail_view_incomplete_message]
+de = Ihr Impfschutz ist nicht vollständig. Um ein Prüfzertifikat erstellen zu lassen, fügen Sie bitte die 2. Impfung hinzu.
+tags = common
+[vaccination_certificate_detail_view_incomplete_action_button_title]
+de = Impfung hinzufügen
+tags = common
+[vaccination_certificate_detail_view_complete_title]
+de = Impfschutz vollständig
+tags = common
+[vaccination_certificate_detail_view_complete_message]
+de = Teilen Sie jetzt den Impfschutz sicher mit dem Prüfzertifikat. Zu sehen sind nur Impfstatus, Name und Geburtsdatum.
+tags = common
+[vaccination_certificate_detail_view_complete_action_button_title]
+de = Prüfzertifikat anzeigen
+tags = common
+[vaccination_certificate_detail_view_personal_data_title]
+de = Persönliche Daten
+tags = common
+[vaccination_certificate_detail_view_first_vaccination_title]
+de = Impfung 1 von 2
+tags = common
+[vaccination_certificate_detail_view_second_vaccination_title]
+de = Impfung 2 von 2
+tags = common
+[vaccination_certificate_detail_view_datas_date]
+de = Datum der Impfung
+tags = common
+[vaccination_certificate_detail_view_datas_vaccine]
+de = Impfstoff
+tags = common
+[vaccination_certificate_detail_view_datas_producer]
+de = Hersteller
+tags = common
+[vaccination_certificate_detail_view_datas_bench_number]
+de = Chargennummer
+tags = common
+[vaccination_certificate_detail_view_datas_place]
+de = Impfort
+tags = common
+[vaccination_certificate_detail_view_datas_exhibitor]
+de = Aussteller
+tags = common
+[vaccination_certificate_detail_view_datas_country]
+de = Land
+tags = common
+[vaccination_certificate_detail_view_datas_identification_number]
+de = UVCI (Identifikationsnummer für das Zertifikat)
+tags = common
+[vaccination_certificate_detail_view_delete_button_title]
+de = Zertifikat löschen
+tags = common
 
