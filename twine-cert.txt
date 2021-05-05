@@ -1,4 +1,4 @@
-/***********Onboarding**********/
+[[Onboarding]]
 [start_onboarding_title]
 de = Willkommen im digitalen Impfnachweis
 tags = common
@@ -49,7 +49,7 @@ tags = common
 [confirmation_fourth_onboarding_page_button_title]
 de = Bestätigen
 tags = common
-/***********Start Screen**********/
+[[Start Screen]]
 [vaccination_start_screen_title]
 de = Alle Zertifikate
 tags = common
@@ -59,7 +59,7 @@ tags = common
 [vaccination_start_screen_note_message]
 de = Sie haben aktuell keine Impfungen gespeichert. Drücken Sie auf das Plus-Symbol, um eine Impfung hinzuzufügen.
 tags = common
-/***********Popup: add vaccination**********/
+[[Popup: add vaccination]]
 [vaccination_add_popup_title]
 de = Impfung hinzufügen
 tags = common
@@ -74,7 +74,7 @@ tags = common
 [vaccination_add_loading_screen_message]
 de = Impfung wird hinzugefügt
 tags = common
-/***********Start Screen: partial immunization certificate**********/
+[[Start Screen: partial immunization certificate]]
 [vaccination_partial_immunization_title]
 de = COVID-19-Impfzertifikat
 tags = common
@@ -84,7 +84,7 @@ tags = common
 [vaccination_partial_immunization_action_button]
 de = Impfungen anzeigen
 tags = common
-/***********Start Screen: full immunization certificate**********/
+[[Start Screen: full immunization certificate]]
 [vaccination_full_immunization_title]
 de = COVID-19-Prüfzertifikat
 tags = common
@@ -100,7 +100,7 @@ tags = common
 [vaccination_full_immunization_loading_message]
 de = Das Prüfzertifikat wird angezeigt sobald Ihr Gerät mit dem Internet verbunden ist.
 tags = common
-/***********Detail view vaccinations**********/
+[[Detail view vaccinations]]
 [vaccination_certificate_detail_view_title]
 de = COVID-19-Impfungen
 tags = common
