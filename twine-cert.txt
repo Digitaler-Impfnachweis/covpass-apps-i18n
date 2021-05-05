@@ -79,18 +79,12 @@ tags = common
 [vaccination_partial_immunization_title]
 de = COVID-19-Impfzertifikat
 tags = common
-[vaccination_partial_immunization_name]
-de = {Name}
-tags = common
 [vaccination_partial_immunization_action_button]
 de = Impfungen anzeigen
 tags = common
 [[Start Screen: full immunization certificate]]
 [vaccination_full_immunization_title]
 de = COVID-19-Prüfzertifikat
-tags = common
-[vaccination_full_immunization_name]
-de = {Name}
 tags = common
 [vaccination_full_immunization_action_button]
 de = Impfungen anzeigen
@@ -106,7 +100,10 @@ tags = common
 de = COVID-19-Impfungen
 tags = common
 [vaccination_certificate_detail_view_name]
-de = {Name}
+de = Name
+tags = common
+[vaccination_certificate_detail_view_birthdate]
+de = Geburtsdatum
 tags = common
 [vaccination_certificate_detail_view_incomplete_title]
 de = 1 von 2 Impfungen vorhanden
@@ -135,6 +132,9 @@ tags = common
 [vaccination_certificate_detail_view_second_vaccination_title]
 de = Impfung 2 von 2
 tags = common
+[vaccination_certificate_detail_view_vaccination_title]
+de = Impfung %@ von %@
+tags = common
 [vaccination_certificate_detail_view_datas_date]
 de = Datum der Impfung
 tags = common
@@ -162,4 +162,16 @@ tags = common
 [vaccination_certificate_detail_view_delete_button_title]
 de = Zertifikat löschen
 tags = common
-
+[[Certificate Delete Dialog]]
+[dialog_delete_certificate_title]
+de = Möchten Sie das Zertifikat von %@ wirklich löschen?
+tags = common
+[dialog_delete_certificate_message]
+de = Alle enthaltenen Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
+tags = common
+[dialog_delete_certificate_button_delete]
+de = Löschen
+tags = common
+[dialog_delete_certificate_button_cancel]
+de = Abbrechen
+tags = common
