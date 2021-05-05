@@ -64,7 +64,8 @@ tags = common
 de = Impfung hinzufügen
 tags = common
 [vaccination_add_popup_message]
-Scannen Sie den QR-Code auf dem Impfzertifikat. Es wird automatisch ein Eintrag in der App erstellt.
+de = Scannen Sie den QR-Code auf dem Impfzertifikat. Es wird automatisch ein Eintrag in der App erstellt.
+tags = common
 [vaccination_add_popup_action_title]
 de = Sie haben keinen QR-Code erhalten?
 tags = common
