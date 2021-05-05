@@ -71,9 +71,6 @@ tags = common
 [validation_start_screen_offline_modus_note_update]
 de = Letztes Update
 tags = common
-[validation_start_screen_offline_modus_note_update]
-de = Letztes Update
-tags = common
 [[Popup: Check vaccination]]
 [validation_check_loading_screen_message]
 de = Impfschutz wird geprüft
