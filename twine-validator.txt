@@ -102,6 +102,9 @@ tags = common
 [validation_check_popup_partial_valid_vaccination_date_of_birth]
 de = Geburtsdatum
 tags = common
+[validation_check_popup_partial_valid_vaccination_date_of_birth_at]
+de = Geboren am
+tags = common
 [validation_check_popup_partial_valid_vaccination_button_title]
 de = Nächsten QR-Code scannen
 tags = common
@@ -111,11 +114,17 @@ tags = common
 [validation_check_popup_unsuccessful_test_message]
 de = Das kann folgende Gründe haben:
 tags = common
-[validation_check_popup_unsuccessful_test_first_reason]
-de = Prüfzertifikat nicht gefunden: Es sind keine Daten auf dem Prüfzertifikat gespeichert. Sollten Sie sich im Offline-Modus befinden, aktualisieren Sie die App. 
+[validation_check_popup_unsuccessful_test_first_reason_title]
+de = Prüfzertifikat nicht gefunden:
 tags = common
-[validation_check_popup_unsuccessful_test_second_reason]
-de = Prüfzertifikat abgelaufen: Das Prüfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der Impfnachweis-App eingesehen werden.
+[validation_check_popup_unsuccessful_test_second_reason_title]
+de = Prüfzertifikat abgelaufen:
+tags = common
+[validation_check_popup_unsuccessful_test_first_reason_body]
+de = Es sind keine Daten auf dem Prüfzertifikat gespeichert. Sollten Sie sich im Offline-Modus befinden, aktualisieren Sie die App.
+tags = common
+[validation_check_popup_unsuccessful_test_second_reason_body]
+de = Das Prüfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der Impfnachweis-App eingesehen werden.
 tags = common
 [validation_check_popup_unsuccessful_test_button_title]
 de = Nächsten QR-Code scannen
@@ -128,6 +137,4 @@ de = Das geprüfte Zertifikat weist keine vollständige Impfung nach.
 tags = common
 [validation_check_popup_vaccination_not_completely_button_title]
 de = Nächsten QR-Code scannen
-
-
-
+tags = common
