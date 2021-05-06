@@ -73,7 +73,7 @@ tags = common
 de = Die Impfnachweis-App möchte auf Ihre Kamera zugreifen.
 tags = common
 [Error_camera_access_message]
-de = Erlaube den Zugriff, um QR-Codes scannen zu können. 
+de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können. 
 tags = common
 [Error_camera_access_button_do_not_allow]
 de = Nicht Erlauben
