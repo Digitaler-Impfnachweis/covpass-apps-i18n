@@ -213,6 +213,5 @@ tags = common
 de = Verbindungsfehler
 tags = common
 [error_no_connection_to_servcer_message]
-de = Bei der Verbindung zum Server ist ein Fehler aufgetreten.
-Bitte überprüfen Sie Ihre Internetverbindung.
+de = Bei der Verbindung zum Server ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung.
 tags = common
