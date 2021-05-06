@@ -1,15 +1,15 @@
 [[Onboarding]]
 [start_onboarding_title]
-de = Willkommen im digitalen Impfnachweis
+de = Willkommen in Ihrem Corona-Impfnachweis
 tags = common
 [start_onboarding_message]
-de = Weisen Sie Ihren Impfschutz ganz einfach mit dem Handy nach.
+de = Weisen Sie Ihren Corona-Impfstatus ganz einfach mit dem Smartphone nach.
 tags = common
 [start_onboarding_secure_title] 
 de = "Absolute Sicherheit Ihrer Daten"
 tags = common
 [start_onboarding_secure_message]
-de = Ihre Impfdaten werden nur lokal auf Ihrem Handy gespeichert. Sie entscheiden wann und mit wem Sie Ihre Daten teilen wollen.
+de = Ihre Daten werden nur lokal auf Ihrem Smartphone gespeichert. Sie entscheiden, wann und wem Sie Ihre Daten vorzeigen.
 tags = common
 [start_onboarding_button_title]
 de = Los geht's
@@ -18,36 +18,33 @@ tags = common
 de = Weiter
 tags = common
 [vaccination_first_onboarding_page_title]
-de = Erster Schritt: Fügen Sie Corona-Impfungen per QR-Code hinzu
+de = Erster Schritt: Die Corona-Impfungen per QR-Code hinzufügen
 tags = common
 [vaccination_first_onboarding_page_message]
-de = Scannen Sie mit der App das Impfzertifikat. Halten Sie dafür Ihr Handy über den QR-Code. Der Nachweis für die Impfung wird direkt auf Ihr Handy geladen. Der digitale Impfnachweis ist eine Ergänzung zum gelben Impfpass und enthält dieselben Daten. 
+de = Nach der Corona-Impfung erhalten Sie vom medizinischen Personal ein Impfzertifikat. Scannen Sie mit der Impfnachweis-App das Impfzertifikat. Halten Sie dafür Ihr Smartphone über den QR-Code. Die Corona-Impfung wird direkt auf Ihrem Smartphone gespeichert. Sie können in der Impfnachweis-App die Impfzertifikate für mehrere Personen verwalten.
 tags = common
 [vaccination_second_onboarding_page_title]
-de = Zweiter Schritt: Lassen Sie sich das Prüfzertifikat anzeigen
+de = Zweiter Schritt: Die Impfnachweis-App erstellt das Prüfzertifikat
 tags = common
 [vaccination_second_onboarding_page_message]
-de = Mit dem Prüfzertifikat teilen Sie sicher Ihren Impfschutz. Und das auch, wenn Sie mal kein Internet haben. Dazu laden Sie alle Impfungen auf Ihr Handy. Das Prüfzertifikat wird automatisch in der App erstellt. Zu sehen sind nur der Impfstatus, der Name und das Geburtsdatum.
+de = Das Prüfzertifikat wird automatisch in der Impfnachweis-App erstellt. Es bestätigt den vollständigen Impfschutz. Bei einer Überprüfung werden nur der Impfstatus, der Name und das Geburtsdatum angezeigt. Laden Sie dafür alle notwendigen Corona-Impfungen auf Ihr Smartphone. 
 tags = common
 [vaccination_third_onboarding_page_title]
-de = Letzter Schritt: Zeigen Sie das Prüfzertifikat vor
+de = Dritter Schritt: Das Prüfzertifikat bei Bedarf vorzeigen
 tags = common
 [vaccination_third_onboarding_page_message]
-de = Die vollständige Impfung ersetzt den negativen Corona-Test. Lassen Sie dafür das Prüfzerti-fikat auf Ihrem Handy scannen. Die Daten werden verschlüsselt übermittelt und können nicht ge-speichert werden. Bitte halten Sie zudem einen Ausweis der geimpften Person bereit. 
+de = Es können auch mehrere Prüfzertifikate von zum Beispiel Freunden und Angehörigen erstellt werden. Diese werden alle übersichtlich in der Impfnachweis-App angezeigt. Lassen Sie das Prüfzertifikat ganz einfach von der prüfenden Person scannen. Bitte halten Sie ergänzend Ihr Ausweisdokument bzw. das Ausweisdokument der geimpften Person bereit. 
 tags = common
 [vaccination_fourth_onboarding_page_title]
-de = Zustimmung für die Nutzung
+de = Zustimmung für die Nutzung der Impfnachweis-App
 [vaccination_fourth_onboarding_page_message]
-de = Um die App zu nutzen, müssen Sie bestätigen, dass Sie den AGBs zustimmen und die Da-tenschutzerklärung zur Kenntnis genommen haben.
-tags = common
-[vaccination_fourth_onboarding_page_first_selection]
-de = Ich akzeptiere die AGB.
+de = Um die Impfnachweis-App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
 tags = common
 [vaccination_fourth_onboarding_page_second_selection]
 de = Ich habe die Datenschutzerklärung zur Kenntnis genommen.
 tags = common
 [confirmation_fourth_onboarding_page_button_title]
-de = Bestätigen
+de = Fertig
 tags = common
 [[Start Screen]]
 [vaccination_start_screen_title]
@@ -64,13 +61,25 @@ tags = common
 de = Impfung hinzufügen
 tags = common
 [vaccination_add_popup_message]
-de = Scannen Sie den QR-Code auf dem Impfzertifikat. Es wird automatisch ein Eintrag in der App erstellt.
+de = Scannen Sie den QR-Code auf dem Impfzertifikat. Die Informationen werden direkt in die Impfnachweis-App übertragen.
 tags = common
 [vaccination_add_popup_action_title]
 de = Sie haben keinen QR-Code erhalten?
 tags = common
 [vaccination_add_popup_scan_button_title]
 de = QR-Code scannen
+tags = common
+[Error_camera_access_title]
+de = Die Impfnachweis-App möchte auf Ihre Kamera zugreifen.
+tags = common
+[Error_camera_access_message]
+de = Erlaube den Zugriff, um QR-Codes scannen zu können. 
+tags = common
+[Error_camera_access_button_do_not_allow]
+de = Nicht Erlauben
+tags = common
+[Error_camera_access_button_allow]
+de = Erlauben
 tags = common
 [vaccination_add_loading_screen_message]
 de = Impfung wird hinzugefügt
@@ -92,8 +101,26 @@ tags = common
 [vaccination_full_immunization_status_expired]
 de = Abgelaufen
 tags = common
-[vaccination_full_immunization_loading_message]
-de = Das Prüfzertifikat wird angezeigt sobald Ihr Gerät mit dem Internet verbunden ist.
+[Error_connect_to_internet_title]
+de = Flugzeugmodus ausschalten oder Wi-Fi für den Datenzugriff verwenden
+tags = common
+[Error_connect_to_internet_Button_settings]
+de = Einstellungen
+tags = common
+[Error_connect_to_internet_Button_ok]
+de = OK
+tags = common
+[vaccination_full_immunization_loading_message_no_internet]
+de = Das Prüfzertifikat wird angezeigt, sobald Ihr Gerät mit dem Internet verbunden ist.
+tags = common
+[vaccination_full_immunization_loading_message_check_internet]
+de = Das Prüfzertifikat kann nicht geladen werden. Bitte überprüfen Sie Ihre Internetverbindung.
+tags = common
+[vaccination_full_immunization_loading_message_error]
+de = Es ist ein unerwarteter Fehler aufgetreten. Das Prüfzertifikat kann aktuell nicht geladen werden.
+tags = common
+[vaccination_full_immunization_loading_message_14_days]
+de = Das Prüfzertifikat wird ab dem {Datum} hier angezeigt. Der Impfschutz ist erst 14 Tage nach der vollständigen Impfung wirksam.
 tags = common
 [[Detail view vaccinations]]
 [vaccination_certificate_detail_view_title]
@@ -174,4 +201,18 @@ de = Löschen
 tags = common
 [dialog_delete_certificate_button_cancel]
 de = Abbrechen
+tags = common
+[[error handling]]
+[error_standard_unexpected_title]
+de = Entschuldigung
+tags = common
+[error_stadard_unexpected_message]
+de = Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es später erneut.
+tags = common
+[error_no_connection_to_servcer_title]
+de = Verbindungsfehler
+tags = common
+[error_no_connection_to_servcer_message]
+de = Bei der Verbindung zum Server ist ein Fehler aufgetreten.
+Bitte überprüfen Sie Ihre Internetverbindung.
 tags = common
