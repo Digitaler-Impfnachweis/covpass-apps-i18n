@@ -4,7 +4,7 @@ de = CovPass Check
 tags = common
 [[onboarding]]
 [start_onboarding_title]
-de = Willkommen in der CovPass Check App
+de = Willkommen in der CovPassCheck-App
 tags = common
 [start_onboarding_message]
 de = Finden Sie in wenigen Sekunden heraus, ob eine Person vollständig gegen Corona geimpft ist.
@@ -22,22 +22,22 @@ tags = common
 de = Weiter
 tags = common
 [validation_first_onboarding_page_title]
-de = Erster Schritt: Das Prüfzertifikat mit der CovPass Check App scannen
+de = Erster Schritt: Das Prüfzertifikat mit der CovPassCheck-App scannen
 tags = common
 [validation_first_onboarding_page_message]
-de = Scannen Sie mit der CovPass Check App das Prüfzertifikat. Halten Sie dafür das Smartphone über den QR-Code. Die Daten werden nur zur Prüfung angezeigt und nicht im Smartphone gespeichert. Sie sehen direkt in der CovPass Check App, ob der Impfschutz der geimpften Person gültig ist. Hierfür ist nicht zwingend eine Internetverbindung nötig.
+de = Scannen Sie mit der CovPassCheck-App das Prüfzertifikat. Halten Sie dafür das Smartphone über den QR-Code. Die Daten werden nur zur Prüfung angezeigt und nicht im Smartphone gespeichert. Sie sehen direkt in der CovPassCheck-App, ob der Impfschutz der geimpften Person gültig ist. Hierfür ist nicht zwingend eine Internetverbindung nötig.
 tags = common
 [validation_second_onboarding_page_title]
 de = Zweiter Schritt: Die Identität mit einem Ausweisdokument überprüfen
 tags = common
 [validation_second_onboarding_page_message]
-de = Als prüfende Person sehen Sie in der Prüf-App nur den Impfstatus sowie den Namen und das Geburtsdatum der geimpften Person. Gleichen Sie die Informationen mit einem Ausweisdokument ab.
+de = Als prüfende Person sehen Sie in der CovPassCheck-App nur den Impfstatus sowie den Namen und das Geburtsdatum der geimpften Person. Gleichen Sie die Informationen mit einem Ausweisdokument ab.
 tags = common
 [validation_fourth_onboarding_page_title]
-de = Zustimmung für die Nutzung der CovPass Check App
+de = Zustimmung für die Nutzung der CovPassCheck-App
 tags = common
 [validation_fourth_onboarding_page_message]
-de = Um die CovPass Check App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
+de = Um die CovPassCheck-App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
 tags = common
 [validation_fourth_onboarding_page_second_selection]
 de = Ich habe die Datenschutzerklärung zur Kenntnis genommen.
@@ -71,7 +71,7 @@ tags = common
 de = Offline-Modus
 tags = common
 [validation_start_screen_offline_modus_message]
-de = Um offline prüfen zu können, halten Sie die CovPass Check App auf dem aktuellsten Stand. Stellen Sie dafür ab und an eine Verbindung mit dem Internet her.
+de = Um offline prüfen zu können, halten Sie die CovPassCheck-App auf dem aktuellsten Stand. Stellen Sie dafür ab und an eine Verbindung mit dem Internet her.
 tags = common
 [validation_start_screen_offline_modus_note_latest_version]
 de = Auf dem aktuellsten Stand
@@ -89,14 +89,14 @@ tags = common
 de = App-Version veraltet
 tags = common
 [error_old_version_message]
-de = Um offline prüfen zu können, halten Sie die CovPass Check App auf dem aktuellsten Stand. Stellen Sie dafür eine Verbindung mit dem Internet her.
+de = Um offline prüfen zu können, halten Sie die CovPassCheck-App auf dem aktuellsten Stand. Stellen Sie dafür eine Verbindung mit dem Internet her.
 tags = common
 [error_old_version_button_title]
 de = OK
 tags = common
 [[popup: Check vaccination]]
 [error_camera_access_title]
-de = Die CovPass Check App möchte auf Ihre Kamera zugreifen.
+de = Die CovPassCheck-App möchte auf Ihre Kamera zugreifen.
 tags = common
 [error_camera_access_message]
 de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können.
@@ -159,10 +159,10 @@ tags = common
 de = Prüfzertifikat abgelaufen:
 tags = common
 [validation_check_popup_unsuccessful_test_first_reason_body]
-de = Es sind keine Daten auf dem Prüfzertifikat der geimpften Person gespeichert. Sollten Sie sich im Offline-Modus befinden, aktualisieren Sie die CovPass Check App.
+de = Es sind keine Daten auf dem Prüfzertifikat der geimpften Person gespeichert. Sollten Sie sich im Offline-Modus befinden, aktualisieren Sie die CovPassCheck-App.
 tags = common
 [validation_check_popup_unsuccessful_test_second_reason_body]
-de = Das Prüfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der CovPass Check App eingesehen werden.
+de = Das Prüfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der CovPassCheck-App eingesehen werden.
 tags = common
 [validation_check_popup_unsuccessful_test_button_title]
 de = Nächstes Zertifikat scannen
