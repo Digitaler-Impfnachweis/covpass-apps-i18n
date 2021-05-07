@@ -121,7 +121,7 @@ tags = common
 [validation_check_popup_valid_vaccination_date_of_birth]
 de = Geburtsdatum
 tags = common
-[validation_check_popup_button_title]
+[validation_check_popup_valid_vaccination_button_title]
 de = Nächstes Zertifikat scannen
 tags = common
 [validation_check_popup_partial_valid_vaccination_title]
@@ -142,6 +142,8 @@ tags = common
 [validation_check_popup_date_of_birth_at_pattern]
 de = Geboren am %@
 tags = common
+[validation_check_popup_partial_valid_vaccination_button_title]
+de = Nächstes Zertifikat scannen
 [validation_check_popup_unsuccessful_test_title]
 de = Prüfung nicht erfolgreich
 tags = common
@@ -160,9 +162,13 @@ tags = common
 [validation_check_popup_unsuccessful_test_second_reason_body]
 de = Das Prüfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der CovPass Check App eingesehen werden.
 tags = common
+[validation_check_popup_unsuccessful_test_button_title]
+de = Nächstes Zertifikat scannen
 [validation_check_popup_vaccination_not_completely_title]
 de = Impfstatus nicht gültig
 tags = common
 [validation_check_popup_vaccination_not_completely_message]
 de = Das geprüfte Zertifikat weist keine vollständige Impfung nach.
 tags = common
+[validation_check_popup_vaccination_not_completely_title]
+de = Nächstes Zertifikat scannen
