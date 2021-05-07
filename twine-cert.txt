@@ -1,3 +1,7 @@
+[[App]]
+[cert_app_name]
+de = Impfnachweis
+tags = common
 [[Onboarding]]
 [start_onboarding_title]
 de = Willkommen in Ihrem Corona-Impfnachweis
@@ -5,8 +9,8 @@ tags = common
 [start_onboarding_message]
 de = Weisen Sie Ihren Corona-Impfstatus ganz einfach mit dem Smartphone nach.
 tags = common
-[start_onboarding_secure_title] 
-de = "Absolute Sicherheit Ihrer Daten"
+[start_onboarding_secure_title]
+de = Absolute Sicherheit Ihrer Daten
 tags = common
 [start_onboarding_secure_message]
 de = Ihre Daten werden nur lokal auf Ihrem Smartphone gespeichert. Sie entscheiden, wann und wem Sie Ihre Daten vorzeigen.
@@ -27,13 +31,13 @@ tags = common
 de = Zweiter Schritt: Die Impfnachweis-App erstellt das Prüfzertifikat
 tags = common
 [vaccination_second_onboarding_page_message]
-de = Das Prüfzertifikat wird automatisch in der Impfnachweis-App erstellt. Es bestätigt den vollständigen Impfschutz. Bei einer Überprüfung werden nur der Impfstatus, der Name und das Geburtsdatum angezeigt. Laden Sie dafür alle notwendigen Corona-Impfungen auf Ihr Smartphone. 
+de = Das Prüfzertifikat wird automatisch in der Impfnachweis-App erstellt. Es bestätigt den vollständigen Impfschutz. Bei einer Überprüfung werden nur der Impfstatus, der Name und das Geburtsdatum angezeigt. Laden Sie dafür alle notwendigen Corona-Impfungen auf Ihr Smartphone.
 tags = common
 [vaccination_third_onboarding_page_title]
 de = Dritter Schritt: Das Prüfzertifikat bei Bedarf vorzeigen
 tags = common
 [vaccination_third_onboarding_page_message]
-de = Es können auch mehrere Prüfzertifikate von zum Beispiel Freunden und Angehörigen erstellt werden. Diese werden alle übersichtlich in der Impfnachweis-App angezeigt. Lassen Sie das Prüfzertifikat ganz einfach von der prüfenden Person scannen. Bitte halten Sie ergänzend Ihr Ausweisdokument bzw. das Ausweisdokument der geimpften Person bereit. 
+de = Es können auch mehrere Prüfzertifikate von zum Beispiel Freunden und Angehörigen erstellt werden. Diese werden alle übersichtlich in der Impfnachweis-App angezeigt. Lassen Sie das Prüfzertifikat ganz einfach von der prüfenden Person scannen. Bitte halten Sie ergänzend Ihr Ausweisdokument bzw. das Ausweisdokument der geimpften Person bereit.
 tags = common
 [vaccination_fourth_onboarding_page_title]
 de = Zustimmung für die Nutzung der Impfnachweis-App
@@ -66,6 +70,9 @@ tags = common
 [vaccination_add_popup_action_title]
 de = Sie haben keinen QR-Code erhalten?
 tags = common
+[vaccination_add_popup_action_title_linked]
+de = #Sie haben keinen QR-Code erhalten?::$0#
+tags = common
 [vaccination_add_popup_scan_button_title]
 de = QR-Code scannen
 tags = common
@@ -73,7 +80,7 @@ tags = common
 de = Die Impfnachweis-App möchte auf Ihre Kamera zugreifen.
 tags = common
 [Error_camera_access_message]
-de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können. 
+de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können.
 tags = common
 [Error_camera_access_button_do_not_allow]
 de = Nicht Erlauben
@@ -83,6 +90,10 @@ de = Erlauben
 tags = common
 [vaccination_add_loading_screen_message]
 de = Impfung wird hinzugefügt
+tags = common
+[[Start Screen: favorite immunization certificate]]
+[vaccination_favorite_button_hint]
+de = Als Favorit markieren
 tags = common
 [[Start Screen: partial immunization certificate]]
 [vaccination_partial_immunization_title]
@@ -134,6 +145,9 @@ de = Geburtsdatum
 tags = common
 [vaccination_certificate_detail_view_incomplete_title]
 de = 1 von 2 Impfungen vorhanden
+tags = common
+[vaccination_certificate_detail_view_incomplete_title_pattern]
+de = %@ von %@ Impfungen vorhanden
 tags = common
 [vaccination_certificate_detail_view_incomplete_message]
 de = Ihr Impfschutz ist nicht vollständig. Um ein Prüfzertifikat erstellen zu lassen, fügen Sie bitte die 2. Impfung hinzu.
@@ -213,6 +227,28 @@ tags = common
 de = Verbindungsfehler
 tags = common
 [error_no_connection_to_servcer_message]
-de = Bei der Verbindung zum Server ist ein Fehler aufgetreten.
-Bitte überprüfen Sie Ihre Internetverbindung.
+de = Bei der Verbindung zum Server ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung.
+tags = common
+[[Dialog: delete result]]
+[delete_result_dialog_header]
+de = Nachweis entfernt
+tags = common
+[delete_result_dialog_message]
+de = Sie haben den Nachweis und alle enthaltenen Daten von diesem Telefon entfernt.
+tags = common
+[delete_result_dialog_positive_button_text]
+de = Schließen
+tags = common
+[[Dialog: duplicate certificate]]
+[duplicate_certificate_dialog_header]
+de = Impfzertifikat wurde bereits hinzugefügt
+tags = common
+[duplicate_certificate_dialog_message]
+de = Haben Sie aus Versehen ein Zertifikat doppelt gescannt?
+tags = common
+[duplicate_certificate_dialog_positive_button_text]
+de = Erneut scannen
+tags = common
+[duplicate_certificate_dialog_negative_button_text]
+de = Abbrechen
 tags = common

@@ -1,11 +1,15 @@
+[[App]]
+[validator_app_name]
+de = Impfprüfer
+tags = common
 [[Onboarding]]
 [start_onboarding_title]
 de = Willkommen in der Prüf-App
 tags = common
 [start_onboarding_message]
-de = Finden Sie in wenigen Sekunden heraus, ob eine Person vollständig gegen Corona geimpft ist. 
+de = Finden Sie in wenigen Sekunden heraus, ob eine Person vollständig gegen Corona geimpft ist.
 tags = common
-[start_onboarding_secure_title] 
+[start_onboarding_secure_title]
 de = Sicher und datensparsam
 tags = common
 [start_onboarding_secure_message]
@@ -27,7 +31,7 @@ tags = common
 de = Zweiter Schritt: Die Identität mit einem Ausweisdokument überprüfen
 tags = common
 [validation_second_onboarding_page_message]
-de = Als prüfende Person sehen Sie in der Prüf-App nur den Impfstatus sowie den Namen und das Geburtsdatum der geimpften Person. Gleichen Sie die Informationen mit einem Ausweisdokument ab.  
+de = Als prüfende Person sehen Sie in der Prüf-App nur den Impfstatus sowie den Namen und das Geburtsdatum der geimpften Person. Gleichen Sie die Informationen mit einem Ausweisdokument ab.
 tags = common
 [validation_fourth_onboarding_page_title]
 de = Zustimmung für die Nutzung der Prüf-App
@@ -77,6 +81,9 @@ tags = common
 [validation_start_screen_offline_modus_note_update]
 de = Letztes Update
 tags = common
+[validation_start_screen_offline_modus_note_update_pattern]
+de = Letztes Update: %@
+tags = common
 [Error_old_version_title]
 de = App-Version veraltet
 tags = common
@@ -91,7 +98,7 @@ tags = common
 de = Die Prüf-App möchte auf Ihre Kamera zugreifen.
 tags = common
 [Error_camera_access_message]
-de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können. 
+de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können.
 tags = common
 [Error_camera_access_button_do_not_allow]
 de = Nicht Erlauben
@@ -114,6 +121,9 @@ tags = common
 [validation_check_popup_valid_vaccination_date_of_birth]
 de = Geburtsdatum
 tags = common
+[validation_check_popup_button_title]
+de = Nächstes Zertifikat scannen
+tags = common
 [validation_check_popup_valid_vaccination_button_title]
 de = Nächstes Zertifikat scannen
 tags = common
@@ -132,6 +142,9 @@ tags = common
 [validation_check_popup_partial_valid_vaccination_date_of_birth_at]
 de = Geboren am
 tags = common
+[validation_check_popup_date_of_birth_at_pattern]
+de = Geboren am %@
+tags = common
 [validation_check_popup_partial_valid_vaccination_button_title]
 de = Nächstes Zertifikat scannen
 tags = common
@@ -148,7 +161,7 @@ tags = common
 de = Prüfzertifikat abgelaufen:
 tags = common
 [validation_check_popup_unsuccessful_test_first_reason_body]
-de = Es sind keine Daten auf dem Prüfzertifikat der geimpften Person gespeichert. Sollten Sie sich im Offline-Modus befinden, aktualisieren Sie die Prüf-App. 
+de = Es sind keine Daten auf dem Prüfzertifikat der geimpften Person gespeichert. Sollten Sie sich im Offline-Modus befinden, aktualisieren Sie die Prüf-App.
 tags = common
 [validation_check_popup_unsuccessful_test_second_reason_body]
 de = Das Prüfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der Impfnachweis-App eingesehen werden.
@@ -160,7 +173,7 @@ tags = common
 de = Impfstatus nicht gültig
 tags = common
 [validation_check_popup_vaccination_not_completely_message]
-de = Das geprüfte Zertifikat weist keine vollständige Impfung nach. 
+de = Das geprüfte Zertifikat weist keine vollständige Impfung nach.
 tags = common
 [validation_check_popup_vaccination_not_completely_button_title]
 de = Nächstes Zertifikat scannen
