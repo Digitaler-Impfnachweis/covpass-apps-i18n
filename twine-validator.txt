@@ -173,6 +173,6 @@ tags = common
 [validation_check_popup_vaccination_not_completely_message]
 de = Das geprüfte Zertifikat weist keine vollständige Impfung nach.
 tags = common
-[validation_check_popup_vaccination_not_completely_title]
+[validation_check_popup_vaccination_not_completely_button_title]
 de = Nächstes Zertifikat scannen
 tags = common
