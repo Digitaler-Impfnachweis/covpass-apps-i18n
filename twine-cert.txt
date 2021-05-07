@@ -4,7 +4,7 @@ de = CovPass
 tags = common
 [[onboarding]]
 [start_onboarding_title]
-de = Willkommen in der CovPass App
+de = Willkommen in der CovPass-App
 tags = common
 [start_onboarding_message]
 de = Weisen Sie Ihren Corona-Impfstatus ganz einfach mit dem Smartphone nach.
@@ -25,24 +25,24 @@ tags = common
 de = Erster Schritt: Die Corona-Impfungen per QR-Code hinzufügen
 tags = common
 [vaccination_first_onboarding_page_message]
-de = Nach der Corona-Impfung erhalten Sie vom medizinischen Personal ein Impfzertifikat. Scannen Sie mit der CovPass App das Impfzertifikat. Halten Sie dafür Ihr Smartphone über den QR-Code. Die Corona-Impfung wird direkt auf Ihrem Smartphone gespeichert. Sie können in der CovPass App die Impfzertifikate für mehrere Personen verwalten.
+de = Nach der Corona-Impfung erhalten Sie vom medizinischen Personal ein Impfzertifikat. Scannen Sie mit der CovPass-App das Impfzertifikat. Halten Sie dafür Ihr Smartphone über den QR-Code. Die Corona-Impfung wird direkt auf Ihrem Smartphone gespeichert. Sie können in der CovPass-App die Impfzertifikate für mehrere Personen verwalten.
 tags = common
 [vaccination_second_onboarding_page_title]
-de = Zweiter Schritt: Die CovPass App erstellt das Prüfzertifikat
+de = Zweiter Schritt: Die CovPass-App erstellt das Prüfzertifikat
 tags = common
 [vaccination_second_onboarding_page_message]
-de = Das Prüfzertifikat wird automatisch in der CovPass App erstellt. Es bestätigt den vollständigen Impfschutz. Bei einer Überprüfung werden nur der Impfstatus, der Name und das Geburtsdatum angezeigt. Laden Sie dafür alle notwendigen Corona-Impfungen auf Ihr Smartphone.
+de = Das Prüfzertifikat wird automatisch in der CovPass-App erstellt. Es bestätigt den vollständigen Impfschutz. Bei einer Überprüfung werden nur der Impfstatus, der Name und das Geburtsdatum angezeigt. Laden Sie dafür alle notwendigen Corona-Impfungen auf Ihr Smartphone.
 tags = common
 [vaccination_third_onboarding_page_title]
 de = Dritter Schritt: Das Prüfzertifikat bei Bedarf vorzeigen
 tags = common
 [vaccination_third_onboarding_page_message]
-de = Es können auch mehrere Prüfzertifikate von zum Beispiel Freunden und Angehörigen erstellt werden. Diese werden alle übersichtlich in der CovPass App angezeigt. Lassen Sie das Prüfzertifikat ganz einfach von der prüfenden Person scannen. Bitte halten Sie ergänzend Ihr Ausweisdokument bzw. das Ausweisdokument der geimpften Person bereit.
+de = Es können auch mehrere Prüfzertifikate von zum Beispiel Freunden und Angehörigen erstellt werden. Diese werden alle übersichtlich in der CovPass-App angezeigt. Lassen Sie das Prüfzertifikat ganz einfach von der prüfenden Person scannen. Bitte halten Sie ergänzend Ihr Ausweisdokument bzw. das Ausweisdokument der geimpften Person bereit.
 tags = common
 [vaccination_fourth_onboarding_page_title]
-de = Zustimmung für die Nutzung der CovPass App
+de = Zustimmung für die Nutzung der CovPass-App
 [vaccination_fourth_onboarding_page_message]
-de = Um die CovPass App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
+de = Um die CovPass-App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
 tags = common
 [vaccination_fourth_onboarding_page_second_selection]
 de = Ich habe die Datenschutzerklärung zur Kenntnis genommen.
@@ -65,7 +65,7 @@ tags = common
 de = Impfung hinzufügen
 tags = common
 [vaccination_add_popup_message]
-de = Scannen Sie den QR-Code auf dem Impfzertifikat. Die Informationen werden direkt in die CovPass App übertragen.
+de = Scannen Sie den QR-Code auf dem Impfzertifikat. Die Informationen werden direkt in die CovPass-App übertragen.
 tags = common
 [vaccination_add_popup_action_title]
 de = Sie haben keinen QR-Code erhalten?
@@ -77,7 +77,7 @@ tags = common
 de = QR-Code scannen
 tags = common
 [error_camera_access_title]
-de = Die CovPass App möchte auf Ihre Kamera zugreifen.
+de = Die CovPass-App möchte auf Ihre Kamera zugreifen.
 tags = common
 [error_camera_access_message]
 de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können.
@@ -150,7 +150,7 @@ tags = common
 de = Geburtsdatum
 tags = common
 [vaccination_certificate_detail_view_incomplete_title]
-de = %@ von %@ Impfungen vorhanden
+de = %d von %d Impfungen vorhanden
 tags = common
 [vaccination_certificate_detail_view_incomplete_message]
 de = Ihr Impfschutz ist nicht vollständig. Um ein Prüfzertifikat erstellen zu lassen, fügen Sie bitte die 2. Impfung hinzu.
@@ -171,7 +171,7 @@ tags = common
 de = Persönliche Daten
 tags = common
 [vaccination_certificate_detail_view_vaccination_title]
-de = Impfung %@ von %@
+de = Impfung %d von %d
 tags = common
 [vaccination_certificate_detail_view_data_date]
 de = Datum der Impfung
