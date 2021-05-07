@@ -35,6 +35,7 @@ de = Als prüfende Person sehen Sie in der Prüf-App nur den Impfstatus sowie de
 tags = common
 [validation_fourth_onboarding_page_title]
 de = Zustimmung für die Nutzung der CovPass Check App
+tags = common
 [validation_fourth_onboarding_page_message]
 de = Um die CovPass Check App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
 tags = common
@@ -144,6 +145,7 @@ de = Geboren am %@
 tags = common
 [validation_check_popup_partial_valid_vaccination_button_title]
 de = Nächstes Zertifikat scannen
+tags = common
 [validation_check_popup_unsuccessful_test_title]
 de = Prüfung nicht erfolgreich
 tags = common
@@ -164,6 +166,7 @@ de = Das Prüfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der
 tags = common
 [validation_check_popup_unsuccessful_test_button_title]
 de = Nächstes Zertifikat scannen
+tags = common
 [validation_check_popup_vaccination_not_completely_title]
 de = Impfstatus nicht gültig
 tags = common
@@ -172,3 +175,4 @@ de = Das geprüfte Zertifikat weist keine vollständige Impfung nach.
 tags = common
 [validation_check_popup_vaccination_not_completely_title]
 de = Nächstes Zertifikat scannen
+tags = common
