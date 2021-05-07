@@ -34,9 +34,6 @@ tags = common
 [common_information_row_faq]
 de = #Häufige Fragen::$0#
 tags = common
-[common_information_row_terms_and_conditions]
-de = #Allgemeine Geschäftsbedingungen::$0#
-tags = common
 [common_information_row_data_security_policy]
 de = #Datenschutzerklärung::$0#
 tags = common
