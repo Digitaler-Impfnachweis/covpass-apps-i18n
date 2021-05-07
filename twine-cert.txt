@@ -150,7 +150,7 @@ tags = common
 de = Geburtsdatum
 tags = common
 [vaccination_certificate_detail_view_incomplete_title]
-de = %@ von %@ Impfungen vorhanden
+de = %d von %d Impfungen vorhanden
 tags = common
 [vaccination_certificate_detail_view_incomplete_message]
 de = Ihr Impfschutz ist nicht vollständig. Um ein Prüfzertifikat erstellen zu lassen, fügen Sie bitte die 2. Impfung hinzu.
@@ -171,7 +171,7 @@ tags = common
 de = Persönliche Daten
 tags = common
 [vaccination_certificate_detail_view_vaccination_title]
-de = Impfung %@ von %@
+de = Impfung %d von %d
 tags = common
 [vaccination_certificate_detail_view_data_date]
 de = Datum der Impfung
