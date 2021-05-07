@@ -130,8 +130,11 @@ tags = common
 [vaccination_full_immunization_loading_message_error]
 de = Es ist ein unerwarteter Fehler aufgetreten. Das Prüfzertifikat kann aktuell nicht geladen werden.
 tags = common
-[vaccination_full_immunization_loading_message_14_days]
-de = Das Prüfzertifikat wird ab dem {Datum} hier angezeigt. Der Impfschutz ist erst 14 Tage nach der vollständigen Impfung wirksam.
+[vaccination_full_immunization_loading_message_14_days_title]
+de = Das Prüfzertifikat wird ab dem {Datum} hier angezeigt.
+tags = common
+[vaccination_full_immunization_loading_message_14_days_message]
+de = Der Impfschutz ist erst 14 Tage nach der vollständigen Impfung wirksam.
 tags = common
 [[Detail view vaccinations]]
 [vaccination_certificate_detail_view_title]
