@@ -72,22 +72,3 @@
     [common_open_source_license_header]
         de = Open Source Lizenzen
         tags = common
-
-
-[[Camera Permission]]
-
-    [common_error_missing_camera_permissions_title]
-        de = Fehlende Berechtigung
-        tags = common,camera
-
-    [common_error_missing_camera_permissions_message]
-        de = Bitte aktivieren Sie die Kamera in den Einstellungen
-        tags = common,camera
-
-    [common_error_missing_camera_permissions_actions_goto_settings]
-        de = Einstellungen
-        tags = common,camera
-
-    [common_error_missing_camera_permissions_actions_cancel]
-        de = Abbrechen
-        tags = common,camera
