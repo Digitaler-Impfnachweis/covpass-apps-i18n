@@ -262,12 +262,24 @@ tags = common
 [app_information_title_faq]
 de = Häufige Fragen
 tags = common
+[app_information_title_faq_linked]
+de = #Häufige Fragen::$0#
+tags = common
 [app_information_title_datenschutz]
 de = Datenschutz
+tags = common
+[app_information_title_datenschutz_linked]
+de = #Datenschutz::$0#
 tags = common
 [app_information_title_company_details]
 de = Impressum
 tags = common
+[app_information_title_company_details_linked]
+de = #Impressum::$0#
+tags = common
 [app_information_title_open_source]
 de = Open-Source-Lizenzen
+tags = common
+[app_information_version_label]
+de = Version %@
 tags = common

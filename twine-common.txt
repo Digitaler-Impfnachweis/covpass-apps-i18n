@@ -29,29 +29,6 @@
 
 [[Information Screen]]
 
-    [common_information_row_faq]
-        de = #Häufige Fragen::$0#
-        tags = common
-
-    [common_information_row_data_security_policy]
-        de = #Datenschutzerklärung::$0#
-        tags = common
-
-    [common_information_row_imprint]
-        de = #Impressum::$0#
-        tags = common
-
-    [common_information_row_open_source_licenses]
-        de = Open Source Lizenzen
-        tags = common
-
     [common_information_app_version_label]
-        de = App Version %@
-        tags = common
-
-
-[[Open source license Screen]]
-
-    [common_open_source_license_header]
-        de = Open Source Lizenzen
+        de = Version %@
         tags = common
