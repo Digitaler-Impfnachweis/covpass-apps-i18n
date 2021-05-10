@@ -88,24 +88,6 @@ tags = common
 [validation_start_screen_offline_modus_note_update_pattern]
 de = Letztes Update: %@
 tags = common
-[error_standard_unexpected_title]
-de = Entschuldigung
-tags = common
-[error_standard_unexpected_message]
-de = Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es später erneut.
-tags = common
-[error_standard_unexpected_button_title]
-de = OK
-tags = common
-[error_no_connection_to_server_title]
-de = Verbindungsfehler
-tags = common
-[error_no_connection_to_server_message]
-de = Bei der Verbindung zum Server ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung.
-tags = common
-[error_no_connection_to_server_button_title]
-de = OK
-tags = common
 [error_old_version_title]
 de = App-Version veraltet
 tags = common
@@ -227,4 +209,23 @@ de = Open-Source-Lizenzen
 tags = common
 [app_information_version_label]
 de = Version %@
+tags = common
+[[error handling]]
+[error_standard_unexpected_title]
+de = Entschuldigung
+tags = common
+[error_standard_unexpected_message]
+de = Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es später erneut.
+tags = common
+[error_standard_unexpected_button_title]
+de = OK
+tags = common
+[error_no_connection_to_server_title]
+de = Verbindungsfehler
+tags = common
+[error_no_connection_to_server_message]
+de = Bei der Verbindung zum Server ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung.
+tags = common
+[error_no_connection_to_server_button_title]
+de = OK
 tags = common
