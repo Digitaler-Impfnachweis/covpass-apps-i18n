@@ -176,3 +176,22 @@ tags = common
 [validation_check_popup_vaccination_not_completely_button_title]
 de = Nächstes Zertifikat scannen
 tags = common
+[[app information]]
+[app_information_title]
+de = Informationen
+tags = common
+[app_information_message]
+de = Hier finden Sie alle rechtlichen Informationen und Antworten auf die häufigsten Fragen rund um die CovPassCheck-App.
+tags = common
+[app_information_title_faq]
+de = Häufige Fragen
+tags = common
+[app_information_title_datenschutz]
+de = Datenschutz
+tags = common
+[app_information_title_company_details]
+de = Impressum
+tags = common
+[app_information_title_open_source]
+de = Open-Source-Lizenzen
+tags = common
