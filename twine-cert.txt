@@ -228,13 +228,13 @@ de = Bei der Verbindung zum Server ist ein Fehler aufgetreten. Bitte überprüfe
 tags = common
 [[dialog: delete result]]
 [delete_result_dialog_header]
-de = Nachweis entfernt
+de = Erfolgreich gelöscht
 tags = common
 [delete_result_dialog_message]
-de = Sie haben den Nachweis und alle enthaltenen Daten von diesem Telefon entfernt.
+de = Die Daten zur Impfung wurden erfolgreich von diesem Gerät entfernt.
 tags = common
 [delete_result_dialog_positive_button_text]
-de = Schließen
+de = OK
 tags = common
 [[dialog: duplicate certificate]]
 [duplicate_certificate_dialog_header]
@@ -248,4 +248,23 @@ de = Erneut scannen
 tags = common
 [duplicate_certificate_dialog_negative_button_text]
 de = Abbrechen
+tags = common
+[[app information]]
+[app_information_title]
+de = Informationen
+tags = common
+[app_information_message]
+de = Hier finden Sie alle rechtlichen Informationen und Antworten auf die häufigsten Fragen rund um die CovPass-App.
+tags = common
+[app_information_title_faq]
+de = Häufige Fragen
+tags = common
+[app_information_title_datenschutz]
+de = Datenschutz
+tags = common
+[app_information_title_company_details]
+de = Impressum
+tags = common
+[app_information_title_open_source]
+de = Open-Source-Lizenzen
 tags = common
