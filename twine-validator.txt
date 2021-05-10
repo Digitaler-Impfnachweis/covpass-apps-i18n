@@ -39,8 +39,11 @@ tags = common
 [validation_fourth_onboarding_page_message]
 de = Um die CovPassCheck-App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
 tags = common
-[validation_fourth_onboarding_page_second_selection]
+[fourth_onboarding_page_second_selection]
 de = Ich habe die Datenschutzerklärung zur Kenntnis genommen.
+tags = common
+[fourth_onboarding_page_second_selection_linked]
+de = Ich habe die #Datenschutzerklärung::$0# zur Kenntnis genommen.
 tags = common
 [confirmation_fourth_onboarding_page_button_title]
 de = Fertig

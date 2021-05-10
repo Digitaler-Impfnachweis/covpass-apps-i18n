@@ -1,14 +1,5 @@
 [[Onboarding Screen]]
 
-    [common_start_on_boarding_button_title]
-        de = Los geht's
-        tags = common
-
-    [common_fourth_on_boarding_page_second_selection]
-        de = Ich habe die #Datenschutzerklärung::$0# zur Kenntnis genommen.
-        tags = common
-
-
 [[Error handling]]
 
     [common_error_standard_unexpected_title]
@@ -37,14 +28,6 @@
 
 
 [[Information Screen]]
-
-    [common_information_header]
-        de = Informationen
-        tags = common
-
-    [common_information_content]
-        de = Alle rechtlichen Informationen zur elektronischen Gesundheitsakte im Überblick:
-        tags = common
 
     [common_information_row_faq]
         de = #Häufige Fragen::$0#
