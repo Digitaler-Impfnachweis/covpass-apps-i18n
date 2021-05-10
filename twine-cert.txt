@@ -25,7 +25,7 @@ tags = common
 de = Erster Schritt: Die Corona-Impfungen per QR-Code hinzufügen
 tags = common
 [vaccination_first_onboarding_page_message]
-de = Nach der Corona-Impfung erhalten Sie vom medizinischen Personal ein Impfzertifikat. Scannen Sie mit der CovPass-App das Impfzertifikat. Halten Sie dafür Ihr Smartphone über den QR-Code. Die Corona-Impfung wird direkt auf Ihrem Smartphone gespeichert. Sie können in der CovPass-App die Impfzertifikate für mehrere Personen verwalten.
+de = Nach der Corona-Impfung erhalten Sie vom medizinischen Personal ein Impfzertifikat. Scannen Sie mit der CovPass-App das Impfzertifikat. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Die Corona-Impfung wird direkt auf Ihrem Smartphone gespeichert. Sie können in der CovPass-App die Impfzertifikate für mehrere Personen verwalten.
 tags = common
 [vaccination_second_onboarding_page_title]
 de = Zweiter Schritt: Die CovPass-App erstellt das Prüfzertifikat
