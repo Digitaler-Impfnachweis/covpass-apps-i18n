@@ -39,8 +39,11 @@ tags = common
 [validation_fourth_onboarding_page_message]
 de = Um die CovPassCheck-App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
 tags = common
-[validation_fourth_onboarding_page_second_selection]
+[fourth_onboarding_page_second_selection]
 de = Ich habe die Datenschutzerklärung zur Kenntnis genommen.
+tags = common
+[fourth_onboarding_page_second_selection_linked]
+de = Ich habe die #Datenschutzerklärung::$0# zur Kenntnis genommen.
 tags = common
 [confirmation_fourth_onboarding_page_button_title]
 de = Fertig
@@ -84,6 +87,24 @@ de = Letztes Update
 tags = common
 [validation_start_screen_offline_modus_note_update_pattern]
 de = Letztes Update: %@
+tags = common
+[error_standard_unexpected_title]
+de = Entschuldigung
+tags = common
+[error_standard_unexpected_message]
+de = Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es später erneut.
+tags = common
+[error_standard_unexpected_button_title]
+de = OK
+tags = common
+[error_no_connection_to_server_title]
+de = Verbindungsfehler
+tags = common
+[error_no_connection_to_server_message]
+de = Bei der Verbindung zum Server ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung.
+tags = common
+[error_no_connection_to_server_button_title]
+de = OK
 tags = common
 [error_old_version_title]
 de = App-Version veraltet
@@ -186,12 +207,24 @@ tags = common
 [app_information_title_faq]
 de = Häufige Fragen
 tags = common
+[app_information_title_faq_linked]
+de = #Häufige Fragen::$0#
+tags = common
 [app_information_title_datenschutz]
 de = Datenschutz
+tags = common
+[app_information_title_datenschutz_linked]
+de = #Datenschutz::$0#
 tags = common
 [app_information_title_company_details]
 de = Impressum
 tags = common
+[app_information_title_company_details_linked]
+de = #Impressum::$0#
+tags = common
 [app_information_title_open_source]
 de = Open-Source-Lizenzen
+tags = common
+[app_information_version_label]
+de = Version %@
 tags = common
