@@ -121,7 +121,7 @@ tags = common
 [error_connect_to_internet_button_settings]
 de = Einstellungen
 tags = common
-[error_connect_to_internet_Button_ok]
+[error_connect_to_internet_button_ok]
 de = OK
 tags = common
 [vaccination_full_immunization_loading_message_no_internet]
@@ -223,11 +223,17 @@ tags = common
 [error_standard_unexpected_message]
 de = Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es später erneut.
 tags = common
+[error_standard_unexpected_button_title]
+de = OK
+tags = common
 [error_no_connection_to_server_title]
 de = Verbindungsfehler
 tags = common
 [error_no_connection_to_server_message]
 de = Bei der Verbindung zum Server ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung.
+tags = common
+[error_no_connection_to_server_button_title]
+de = OK
 tags = common
 [[dialog: delete result]]
 [delete_result_dialog_header]
