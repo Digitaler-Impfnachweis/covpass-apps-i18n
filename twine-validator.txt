@@ -165,7 +165,7 @@ tags = common
 de = Es sind keine Daten auf dem QR-Code der geimpften Person gespeichert. Sollten Sie sich im Offline-Modus befinden, aktualisieren Sie die CovPassCheck-App.
 tags = common
 [validation_check_popup_unsuccessful_test_second_reason_body]
-de = Das Impfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der CovPassCheck-App eingesehen werden.
+de = Das Impfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der CovPass-App eingesehen werden.
 tags = common
 [validation_check_popup_unsuccessful_test_button_title]
 de = Nächstes Zertifikat scannen
