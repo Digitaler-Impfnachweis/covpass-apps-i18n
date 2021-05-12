@@ -22,22 +22,22 @@ tags = common
 de = Weiter
 tags = common
 [vaccination_first_onboarding_page_title]
-de = Erster Schritt: Die Corona-Impfungen per QR-Code hinzufügen
+de = Erster Schritt: Die Corona-Impfungen auf Ihr Smartphone übertragen
 tags = common
 [vaccination_first_onboarding_page_message]
 de = Nach der Corona-Impfung erhalten Sie vom medizinischen Personal ein Impfzertifikat. Scannen Sie mit der CovPass-App das Impfzertifikat. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Die Corona-Impfung wird direkt auf Ihrem Smartphone gespeichert. Sie können in der CovPass-App die Impfzertifikate für mehrere Personen verwalten.
 tags = common
 [vaccination_second_onboarding_page_title]
-de = Zweiter Schritt: Die CovPass-App erstellt das Prüfzertifikat
+de = Zweiter Schritt: Die CovPass-App zeigt bei einem vollständigen Impfschutz den QR-Code an
 tags = common
 [vaccination_second_onboarding_page_message]
-de = Das Prüfzertifikat wird automatisch in der CovPass-App erstellt. Es bestätigt den vollständigen Impfschutz. Bei einer Überprüfung werden nur der Impfstatus, der Name und das Geburtsdatum angezeigt. Laden Sie dafür alle notwendigen Corona-Impfungen auf Ihr Smartphone.
+de = Der QR-Code ist der Nachweis für den vollständigen Impfschutz. Dieser wird in der CovPass-App angezeigt. Laden Sie dafür alle notwendigen Impfzertifikate in die CovPass-App. Bitte beachten Sie: Der QR-Code kann erst angezeigt werden, wenn 14 Tage nach der letzten Impfung vergangen sind.
 tags = common
 [vaccination_third_onboarding_page_title]
-de = Dritter Schritt: Das Prüfzertifikat bei Bedarf vorzeigen
+de = Dritter Schritt: Den QR-Code bei Bedarf vorzeigen
 tags = common
 [vaccination_third_onboarding_page_message]
-de = Es können auch mehrere Prüfzertifikate von zum Beispiel Freunden und Angehörigen erstellt werden. Diese werden alle übersichtlich in der CovPass-App angezeigt. Lassen Sie das Prüfzertifikat ganz einfach von der prüfenden Person scannen. Bitte halten Sie ergänzend Ihr Ausweisdokument bzw. das Ausweisdokument der geimpften Person bereit.
+de = Lassen Sie den QR-Code in der CovPass-App ganz einfach von der prüfenden Person scannen. Bei einer Überprüfung werden nur der Impfstatus, der Name und das Geburtsdatum angezeigt. Bitte halten Sie ergänzend Ihr Ausweisdokument bzw. das Ausweisdokument der geimpften Person bereit.
 tags = common
 [vaccination_fourth_onboarding_page_title]
 de = Zustimmung für die Nutzung der CovPass-App
@@ -71,10 +71,10 @@ tags = common
 de = Scannen Sie den QR-Code auf dem Impfzertifikat. Die Informationen werden direkt in die CovPass-App übertragen.
 tags = common
 [vaccination_add_popup_action_title]
-de = Sie haben keinen QR-Code erhalten?
+de = Ich habe keinen QR-Code erhalten?
 tags = common
 [vaccination_add_popup_action_title_linked]
-de = #Sie haben keinen QR-Code erhalten?::$0#
+de = #Ich habe keinen QR-Code erhalten?::$0#
 tags = common
 [vaccination_add_popup_scan_button_title]
 de = QR-Code scannen
@@ -107,7 +107,7 @@ de = Impfungen anzeigen
 tags = common
 [[start screen: full immunization certificate]]
 [vaccination_full_immunization_title]
-de = COVID-19-Prüfzertifikat
+de = COVID-19-Impfzertifikat
 tags = common
 [vaccination_full_immunization_action_button]
 de = Impfungen anzeigen
@@ -125,19 +125,19 @@ tags = common
 de = OK
 tags = common
 [vaccination_full_immunization_loading_message_no_internet]
-de = Das Prüfzertifikat wird angezeigt, sobald Ihr Gerät mit dem Internet verbunden ist.
+de = Der QR-Code wird angezeigt, sobald Ihr Gerät mit dem Internet verbunden ist.
 tags = common
 [vaccination_full_immunization_loading_message_check_internet]
-de = Das Prüfzertifikat kann nicht geladen werden. Bitte überprüfen Sie Ihre Internetverbindung.
+de = Der QR-Code kann nicht geladen werden. Bitte überprüfen Sie Ihre Internetverbindung.
 tags = common
 [vaccination_full_immunization_loading_message_error]
-de = Es ist ein unerwarteter Fehler aufgetreten. Das Prüfzertifikat kann aktuell nicht geladen werden.
+de = Es ist ein unerwarteter Fehler aufgetreten. Der QR-Code kann aktuell nicht geladen werden.
 tags = common
 [vaccination_full_immunization_loading_message_14_days_title]
-de = Das Prüfzertifikat wird ab dem %@ hier angezeigt.
+de = Der QR-Code wird ab dem %@ hier angezeigt.
 tags = common
 [vaccination_full_immunization_loading_message_14_days_title_pattern]
-de = Das Prüfzertifikat wird ab dem %@ hier angezeigt.
+de = Der QR-Code wird ab dem %@ hier angezeigt.
 tags = common
 [vaccination_full_immunization_loading_message_14_days_message]
 de = Der Impfschutz ist erst 14 Tage nach der vollständigen Impfung wirksam.
@@ -156,7 +156,7 @@ tags = common
 de = %d von %d Impfungen vorhanden
 tags = common
 [vaccination_certificate_detail_view_incomplete_message]
-de = Ihr Impfschutz ist nicht vollständig. Um ein Prüfzertifikat erstellen zu lassen, fügen Sie bitte die 2. Impfung hinzu.
+de = Ihr Impfschutz ist nicht vollständig. Um den QR-Code als Nachweis für einen kompletten Impfschutz anzeigen zu können, fügen Sie bitte eine weitere Impfung hinzu.
 tags = common
 [vaccination_certificate_detail_view_incomplete_action_button_title]
 de = Impfung hinzufügen
@@ -165,10 +165,10 @@ tags = common
 de = Impfschutz vollständig
 tags = common
 [vaccination_certificate_detail_view_complete_message]
-de = Teilen Sie jetzt den Impfschutz sicher mit dem Prüfzertifikat. Zu sehen sind nur Impfstatus, Name und Geburtsdatum.
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
 tags = common
 [vaccination_certificate_detail_view_complete_action_button_title]
-de = Prüfzertifikat anzeigen
+de = QR-Code anzeigen
 tags = common
 [vaccination_certificate_detail_view_personal_data_title]
 de = Persönliche Daten
