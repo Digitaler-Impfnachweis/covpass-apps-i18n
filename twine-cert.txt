@@ -71,10 +71,10 @@ tags = common
 de = Scannen Sie den QR-Code auf dem Impfzertifikat. Die Informationen werden direkt in die CovPass-App übertragen.
 tags = common
 [vaccination_add_popup_action_title]
-de = Ich habe keinen QR-Code erhalten?
+de = Sie haben keinen QR-Code erhalten?
 tags = common
 [vaccination_add_popup_action_title_linked]
-de = #Ich habe keinen QR-Code erhalten?::$0#
+de = #Sie haben keinen QR-Code erhalten?::$0#
 tags = common
 [vaccination_add_popup_scan_button_title]
 de = QR-Code scannen
