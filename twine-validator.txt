@@ -229,13 +229,13 @@ tags = common
 [error_no_connection_to_server_button_title]
 de = OK
 tags = common
-[error_scan_qrcode_with_newer_version_of_data_scheme_title]
+[error_scan_present_data_is_not_supported_title]
 de = Aktualisieren Sie die App
 tags = common
-[error_scan_qrcode_with_newer_version_of_data_scheme_message]
+[error_scan_present_data_is_not_supported_message]
 de = Ihre aktuelle Version der App unterstützt das vorliegende Datenformat nicht. Bitte aktualisieren Sie die App.
 tags = common
-[error_scan_qrcode_with_newer_version_of_data_scheme_button_title]
+[error_scan_present_data_is_not_supported_button_title]
 de = OK
 tags = common
 [error_scan_qrcode_cannot_be_parsed_title]
