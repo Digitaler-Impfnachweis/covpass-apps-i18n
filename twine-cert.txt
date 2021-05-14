@@ -272,10 +272,10 @@ tags = common
 de = #Häufige Fragen::$0#
 tags = common
 [app_information_title_datenschutz]
-de = Datenschutz
+de = Datenschutzerklärung
 tags = common
 [app_information_title_datenschutz_linked]
-de = #Datenschutz::$0#
+de = #Datenschutzerklärung::$0#
 tags = common
 [app_information_title_company_details]
 de = Impressum
