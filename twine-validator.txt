@@ -229,3 +229,21 @@ tags = common
 [error_no_connection_to_server_button_title]
 de = OK
 tags = common
+[error_scan_qrcode_with_newer_version_of_data_scheme_title]
+de = Aktualisieren Sie die App
+tags = common
+[error_scan_qrcode_with_newer_version_of_data_scheme_message]
+de = Ihre aktuelle Version der App unterstützt das vorliegende Datenformat nicht. Bitte aktualisieren Sie die App.
+tags = common
+[error_scan_qrcode_with_newer_version_of_data_scheme_button_title]
+de = OK
+tags = common
+[error_scan_qrcode_cannot_be_parsed_title]
+de = QR-Code wurde nicht erkannt
+tags = common
+[error_scan_qrcode_cannot_be_parsed_message]
+de = Dieser QR-Code gehört offenbar nicht zu einem Impfzertifikat. Bitte scannen Sie den QR-Code des Impfzertifikats.
+tags = common
+[error_scan_qrcode_cannot_be_parsed_button_title]
+de = OK
+tags = common
