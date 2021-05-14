@@ -268,7 +268,7 @@ tags = common
 [error_scan_qrcode_without_seal_message]
 de = Das gescannte Impfzertifikat enthält keine gültige Signatur. Das Impfzertifikat wurde wohl von einer nicht autorisierten Person erstellt und kann daher nicht gespeichert werden.
 tags = common
-[error_scan_qrcode_without_seal_title]
+[error_scan_qrcode_without_seal_button_title]
 de = OK
 tags = common
 [[dialog: duplicate certificate]]
