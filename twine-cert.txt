@@ -40,18 +40,26 @@ tags = common
 de = Lassen Sie den QR-Code in der CovPass-App ganz einfach von der prüfenden Person scannen. Bei einer Überprüfung werden nur der Impfstatus, der Name und das Geburtsdatum angezeigt. Bitte halten Sie ergänzend Ihr Ausweisdokument bzw. das Ausweisdokument der geimpften Person bereit.
 tags = common
 [vaccination_fourth_onboarding_page_title]
-de = Zustimmung für die Nutzung der CovPass-App
-[vaccination_fourth_onboarding_page_message]
-de = Um die CovPass-App zu nutzen, müssen Sie bestätigen, dass Sie die Datenschutzerklärung zur Kenntnis genommen haben.
+de = Datenschutz und Datensicherheit
+[vaccination_fourth_onboarding_page_first_list_item]
+de = 1. Die Verwendung der CovPass-App ist freiwillig. Der Nachweis des 
+vollständigen Impfschutzes kann auch auf andere Weise erbracht werden (z. B. 
+mit dem gelben Impfpass).
 tags = common
-[fourth_onboarding_page_second_selection]
-de = Ich habe die Datenschutzerklärung zur Kenntnis genommen.
+[vaccination_fourth_onboarding_page_second_list_item]
+de = 2. Private Personen oder Unternehmen dürfen von Ihnen nicht verlangen, dass Sie Impfzertifikate in der CovPass-App vorzeigen. Stellen Sie den QR-Code niemandem zur Verfügung, wenn Sie nicht wollen, dass die Daten ausgelesen werden.
 tags = common
-[fourth_onboarding_page_second_selection_linked]
-de = Ich habe die #Datenschutzerklärung::$0# zur Kenntnis genommen.
+[vaccination_fourth_onboarding_page_third_list_item]
+de = 3. Sie können Impfzertifikate in der CovPass-App jederzeit wieder entfernen. Bis dahin bleiben diese auf Ihrem Smartphone gespeichert. 
 tags = common
-[confirmation_fourth_onboarding_page_button_title]
-de = Fertig
+[vaccination_fourth_onboarding_page_fourth_list_item]
+de = 4. Sie können Impfzertifikate anderer Personen in der CovPass-App speichern (z. B. von Familienmitgliedern). Es ist wichtig, dass Sie diese Personen zuvor über die Speicherung ihrer Impfzertifikate informieren. Verwenden Sie zudem die Impfzertifikate anderer Personen nur in den Fällen, die laut dem Gesetz vorgesehen sind.
+tags = common
+[vaccination_fourth_onboarding_page_button_title]
+de = Alles klar
+tags = common
+[vaccination_privacy_policy_page_button_title]
+de = Schließen
 tags = common
 [[start Screen]]
 [vaccination_start_screen_title]
@@ -156,7 +164,7 @@ tags = common
 de = %d von %d Impfungen vorhanden
 tags = common
 [vaccination_certificate_detail_view_incomplete_message]
-de = Ihr Impfschutz ist nicht vollständig. Um den QR-Code als Nachweis für einen kompletten Impfschutz anzeigen zu können, fügen Sie bitte eine weitere Impfung hinzu.
+de = Ihr Impfschutz ist nicht vollständig. Um den QR-Code als Nachweis für einen kompletten Impfschutz vorzeigen zu können, fügen Sie bitte eine weitere Impfung hinzu.
 tags = common
 [vaccination_certificate_detail_view_incomplete_action_button_title]
 de = Impfung hinzufügen
@@ -168,7 +176,7 @@ tags = common
 de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
 tags = common
 [vaccination_certificate_detail_view_complete_action_button_title]
-de = QR-Code anzeigen
+de = Aktuellen QR-Code anzeigen
 tags = common
 [vaccination_certificate_detail_view_personal_data_title]
 de = Persönliche Daten
@@ -200,12 +208,21 @@ tags = common
 [vaccination_certificate_detail_view_data_identification_number]
 de = UVCI (Identifikationsnummer für das Zertifikat)
 tags = common
-[vaccination_certificate_detail_view_delete_button_title]
-de = Zertifikat löschen
+[vaccination_certificate_detail_view_qrcode_action_button_title]
+de = Zum QR-Code dieser Impfung
+tags = common
+[vaccination_certificate_detail_view_qrcode_screen_title]
+de = Impfung %d von %d von %@
+tags = common
+[vaccination_certificate_detail_view_qrcode_screen_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor.
+tags = common
+[vaccination_certificate_detail_view_qrcode_screen_action_button_title]
+de = Schließen
 tags = common
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
-de = Möchten Sie das Zertifikat von %@ wirklich löschen?
+de = Möchten Sie die Impfung %d von %d von %@ wirklich löschen?
 tags = common
 [dialog_delete_certificate_message]
 de = Alle enthaltenen Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
