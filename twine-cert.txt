@@ -31,7 +31,7 @@ tags = common
 de = Zweiter Schritt: Die CovPass-App zeigt bei einem vollständigen Impfschutz den QR-Code an
 tags = common
 [vaccination_second_onboarding_page_message]
-de = Der QR-Code ist der Nachweis für den vollständigen Impfschutz. Dieser wird in der CovPass-App angezeigt. Laden Sie dafür alle notwendigen Impfzertifikate in die CovPass-App. Bitte beachten Sie: Der QR-Code kann erst angezeigt werden, wenn 14 Tage nach der letzten Impfung vergangen sind.
+de = Der QR-Code ist der Nachweis für den vollständigen Impfschutz. Dieser wird in der CovPass-App angezeigt. Laden Sie dafür alle notwendigen Impfzertifikate in die CovPass-App. Bitte beachten Sie: Der QR-Code kann erst angezeigt werden, wenn 14 Tage nach der letzten notwendigen Impfung vergangen sind.
 tags = common
 [vaccination_third_onboarding_page_title]
 de = Dritter Schritt: Den QR-Code bei Bedarf vorzeigen
@@ -42,18 +42,16 @@ tags = common
 [vaccination_fourth_onboarding_page_title]
 de = Datenschutz und Datensicherheit
 [vaccination_fourth_onboarding_page_first_list_item]
-de = 1. Die Verwendung der CovPass-App ist freiwillig. Der Nachweis des 
-vollständigen Impfschutzes kann auch auf andere Weise erbracht werden (z. B. 
-mit dem gelben Impfpass).
+de = - Die Verwendung der CovPass-App ist freiwillig. Der Nachweis des vollständigen Impfschutzes kann auch auf eine andere Weise erbracht werden (z. B. mit dem gelben Impfpass).
 tags = common
 [vaccination_fourth_onboarding_page_second_list_item]
-de = 2. Private Personen oder Unternehmen dürfen von Ihnen nicht verlangen, dass Sie Impfzertifikate in der CovPass-App vorzeigen. Stellen Sie den QR-Code niemandem zur Verfügung, wenn Sie nicht wollen, dass die Daten ausgelesen werden.
+de = - Private Personen oder Unternehmen dürfen von Ihnen nicht verlangen, dass Sie Impfzertifikate in der CovPass-App vorzeigen. Stellen Sie den QR-Code niemandem zur Verfügung, wenn Sie nicht wollen, dass die Daten ausgelesen werden.
 tags = common
 [vaccination_fourth_onboarding_page_third_list_item]
-de = 3. Sie können Impfzertifikate in der CovPass-App jederzeit wieder entfernen. Bis dahin bleiben diese auf Ihrem Smartphone gespeichert. 
+de = - Sie können Impfzertifikate in der CovPass-App jederzeit wieder entfernen. Bis dahin bleiben die Impfzertifikate auf Ihrem Smartphone gespeichert. 
 tags = common
 [vaccination_fourth_onboarding_page_fourth_list_item]
-de = 4. Sie können Impfzertifikate anderer Personen in der CovPass-App speichern (z. B. von Familienmitgliedern). Es ist wichtig, dass Sie diese Personen zuvor über die Speicherung ihrer Impfzertifikate informieren. Verwenden Sie zudem die Impfzertifikate anderer Personen nur in den Fällen, die laut dem Gesetz vorgesehen sind.
+de = - Sie können Impfzertifikate anderer Personen in der CovPass-App speichern (z. B. von Familienmitgliedern). Es ist wichtig, dass Sie diese Personen zuvor über die Speicherung ihrer Impfzertifikate informieren. Verwenden Sie zudem die Impfzertifikate anderer Personen nur in den Fällen, die laut dem Gesetz vorgesehen sind.
 tags = common
 [vaccination_fourth_onboarding_page_button_title]
 de = Alles klar
