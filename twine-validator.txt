@@ -45,6 +45,9 @@ tags = common
 [validation_fourth_onboarding_third_list_item]
 de = Die Verwendung der CovPass-App ist freiwillig. Niemand darf zur Nutzung gezwungen werden. Der Nachweis des vollständigen Impfschutzes kann auch auf eine andere Weise erbracht werden (z. B. mit dem gelben Impfpass).
 tags = common
+[vaccination_fourth_onboarding_page_message]
+ de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
+ tags = common
 [confirmation_fourth_onboarding_page_button_title]
 de = Alles klar
 tags = common
@@ -199,7 +202,7 @@ tags = common
 de = Datenschutzerklärung
 tags = common
 [app_information_title_datenschutz_linked]
-de = #Datenschutzerklärug::$0#
+de = Datenschutzerklärug
 tags = common
 [app_information_title_company_details]
 de = Impressum
