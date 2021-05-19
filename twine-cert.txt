@@ -53,6 +53,9 @@ tags = common
 [vaccination_fourth_onboarding_page_fourth_list_item]
 de = Sie können Impfzertifikate anderer Personen in der CovPass-App speichern (z. B. von Familienmitgliedern). Es ist wichtig, dass Sie diese Personen zuvor über die Speicherung ihrer Impfzertifikate informieren. Verwenden Sie zudem die Impfzertifikate anderer Personen nur in den Fällen, die laut dem Gesetz vorgesehen sind.
 tags = common
+[vaccination_fourth_onboarding_page_message]
+de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
+tags = common
 [vaccination_fourth_onboarding_page_button_title]
 de = Alles klar
 tags = common
@@ -323,8 +326,8 @@ tags = common
 de = Datenschutzerklärung
 tags = common
 [app_information_title_datenschutz_linked]
-de = #Datenschutzerklärung::$0#
-tags = common
+ de = Datenschutzerklärug
+ tags = common
 [app_information_title_company_details]
 de = Impressum
 tags = common
