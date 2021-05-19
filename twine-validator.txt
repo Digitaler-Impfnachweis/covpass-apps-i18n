@@ -37,13 +37,16 @@ tags = common
 de = Datenschutz und Datensicherheit
 tags = common
 [validation_fourth_onboarding_first_list_item]
-de = Die Prüfung von Impfzertifikaten anderer Personen ist nur in den Fällen zulässig, die laut Gesetz vorgesehen sind.
+de = Die Überprüfung von QR-Codes anderer Personen und das Auslesen von Daten über die Corona-Impfung ist nur in den gesetzlich vorgesehenen Fällen zulässig.
 tags = common
 [validation_fourth_onboarding_second_list_item]
 de = Die Daten aus fremden Impfzertifikaten dürfen nicht zu anderen Zwecken gespeichert, weitergegeben oder genutzt werden.
 tags = common
 [validation_fourth_onboarding_third_list_item]
-de = Die Verwendung der CovPass-App ist freiwillig. Niemand darf zur Nutzung gezwungen werden. Der Nachweis des vollständigen Impfschutzes kann auch auf eine andere Weise erbracht werden (z. B. mit dem gelben Impfpass).
+de = Die Verwendung des digitalen Impfnachweises ist freiwillig. Niemand darf zur Nutzung gezwungen werden. Der Nachweis des vollständigen Impfschutzes kann auch auf andere Weise erbracht werden (z. B. mit dem gelben Impfpass).
+tags = common
+[validation_fourth_onboarding_fourth_list_item]
+de = Die Impfnachweise enthalten Gesundheitsdaten. Zum Nachweis in den gesetzlich vorgesehenen Fällen ist nur das Scannen des QR-Codes zulässig. Weitere Daten aus der CovPass-App dürfen nicht verlangt werden. 
 tags = common
 [vaccination_fourth_onboarding_page_message]
  de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
