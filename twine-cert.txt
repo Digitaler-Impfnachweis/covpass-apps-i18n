@@ -52,7 +52,7 @@ de = Wenn Sie den QR-Code in der CovPass-App vorzeigen und dieser mit der offizi
 [vaccination_fourth_onboarding_page_fourth_list_item]
 de = Sie haben jederzeit die Möglichkeit, Impfzertifikate in der App wieder zu entfernen. Bis dahin bleiben die Impfzertifikate auf Ihrem Smartphone gespeichert. 
 tags = common
-[vaccination_fourth_onboarding_page_fith_list_item]
+[vaccination_fourth_onboarding_page_fifth_list_item]
 de = Sie können auch Impfzertifikate anderer Personen in der CovPass-App speichern (z. B. von Familienmitgliedern). Es ist wichtig, dass Sie diese Personen zuvor über die Speicherung ihrer Impfzertifikate informieren. Verwenden Sie zudem die Impfzertifikate anderer Personen nur in den Fällen, die laut dem Gesetz vorgesehen sind.
 tags = common
 [vaccination_fourth_onboarding_page_message]
