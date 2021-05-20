@@ -74,13 +74,13 @@ tags = common
 [vaccination_start_screen_note_message]
 de = Sie haben aktuell keine Impfungen gespeichert. Drücken Sie auf das Plus-Symbol, um eine Impfung hinzuzufügen.
 tags = common
-[vaccination_start_screen_qrcode_incomplete_subtitle_]
+[vaccination_start_screen_qrcode_incomplete_subtitle]
 de = Unvollständiger Impfschutz
 tags = common
-[vaccination_start_screen_qrcode_complete_from_date_subtitle_]
+[vaccination_start_screen_qrcode_complete_from_date_subtitle]
 de = Vollständiger Impfschutz ab %@
 tags = common
-[vaccination_start_screen_qrcode_complete_subtitle_]
+[vaccination_start_screen_qrcode_complete_subtitle]
 de = Vollständiger Impfschutz
 tags = common
 [[popup: add vaccination]]
