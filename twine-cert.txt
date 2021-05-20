@@ -336,9 +336,6 @@ tags = common
 [app_information_title_datenschutz]
 de = Datenschutzerklärung
 tags = common
-[app_information_title_datenschutz_linked]
-de = #Datenschutzerklärung::$0#
-tags = common
 [app_information_title_company_details]
 de = Impressum
 tags = common
