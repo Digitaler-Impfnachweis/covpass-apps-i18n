@@ -28,10 +28,10 @@ tags = common
 de = Nach der Corona-Impfung erhalten Sie vom medizinischen Personal ein Impfzertifikat. Scannen Sie mit der CovPass-App das Impfzertifikat. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Die Corona-Impfung wird direkt auf Ihrem Smartphone gespeichert. Sie können in der CovPass-App die Impfzertifikate für mehrere Personen verwalten.
 tags = common
 [vaccination_second_onboarding_page_title]
-de = Zweiter Schritt: Die CovPass-App zeigt bei einem vollständigen Impfschutz den QR-Code an
+de = Zweiter Schritt: Die CovPass-App zeigt den QR-Code an
 tags = common
 [vaccination_second_onboarding_page_message]
-de = Der QR-Code ist der Nachweis für den vollständigen Impfschutz. Dieser wird in der CovPass-App angezeigt. Laden Sie dafür alle notwendigen Impfzertifikate in die CovPass-App. Bitte beachten Sie: Der QR-Code kann erst angezeigt werden, wenn 14 Tage nach der letzten notwendigen Impfung vergangen sind.
+de = Mit dem QR-Code können Sie den Corona-Impfschutz nachweisen. Dieser wird direkt im Startbildschirm der CovPass-App angezeigt. Bitte beachten Sie: Der QR-Code als Nachweis für den vollständigen Impfschutz ist erst 14 Tage nach der letzten notwendigen Corona-Impfung gültig. 
 tags = common
 [vaccination_third_onboarding_page_title]
 de = Dritter Schritt: Den QR-Code bei Bedarf vorzeigen
@@ -136,7 +136,7 @@ tags = common
 de = Abgelaufen
 tags = common
 [error_connect_to_internet_title]
-de = Flugzeugmodus ausschalten oder Wi-Fi für den Datenzugriff verwenden
+de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
 tags = common
 [error_connect_to_internet_button_settings]
 de = Einstellungen
@@ -224,20 +224,17 @@ tags = common
 de = Zum QR-Code dieser Impfung
 tags = common
 [vaccination_certificate_detail_view_qrcode_screen_title]
-de = Impfung %d von %d von %@
-tags = common
-[vaccination_certificate_detail_view_qrcode_screen_message]
-de = Zeigen Sie bei Bedarf den QR-Code vor.
+de = Impfung %d von %d
 tags = common
 [vaccination_certificate_detail_view_qrcode_screen_action_button_title]
 de = Schließen
 tags = common
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
-de = Möchten Sie die Impfung %d von %d von %@ wirklich löschen?
+de = Möchten Sie die Impfung %d von %d wirklich löschen?
 tags = common
 [dialog_delete_certificate_message]
-de = Alle enthaltenen Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
+de = Die Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
 tags = common
 [dialog_delete_certificate_button_delete]
 de = Löschen
@@ -292,10 +289,10 @@ tags = common
 de = OK
 tags = common
 [error_scan_qrcode_without_seal_title]
-de = Ungültiges Impfzertifikat
+de = Impfzertifikat enthält keine gültige Signatur
 tags = common
 [error_scan_qrcode_without_seal_message]
-de = Das gescannte Impfzertifikat enthält keine gültige Signatur. Das Impfzertifikat wurde wohl von einer nicht autorisierten Person erstellt und kann daher nicht gespeichert werden.
+de = Möglicherweise wurde das Zertifikat von einer nicht autorisierten Einrichtung erstellt oder die App ist nicht auf dem aktuellen Stand. Im zuletzt genannten Fall stellen Sie eine Verbindung mit dem Internet her und versuchen Sie es später erneut.
 tags = common
 [error_scan_qrcode_without_seal_button_title]
 de = OK
