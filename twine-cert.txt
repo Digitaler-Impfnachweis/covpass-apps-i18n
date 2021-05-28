@@ -83,20 +83,20 @@ tags = common
 [vaccination_start_screen_qrcode_complete_subtitle]
 de = Vollständiger Impfschutz
 tags = common
-[[popup: add vaccination]]
-[vaccination_add_popup_title]
-de = Impfung hinzufügen
+[[popup: add certification]]
+[certification_add_popup_title]
+de = Nachweis hinzufügen
 tags = common
-[vaccination_add_popup_message]
-de = Scannen Sie den QR-Code auf dem Impfzertifikat. Die Informationen werden direkt in die CovPass-App übertragen.
+[certification_add_popup_message]
+de = Scannen Sie den QR-Code auf dem Impf-, Test- oder Genesenenzertifikat. Die Informationen werden direkt in die CovPass-App übertragen.
 tags = common
-[vaccination_add_popup_action_title]
+[certification_add_popup_action_title]
 de = Sie haben keinen QR-Code erhalten?
 tags = common
-[vaccination_add_popup_action_title_linked]
+[certification_add_popup_action_title_linked]
 de = #Sie haben keinen QR-Code erhalten?::$0#
 tags = common
-[vaccination_add_popup_scan_button_title]
+[certification_add_popup_scan_button_title]
 de = QR-Code scannen
 tags = common
 [error_camera_access_title]
@@ -111,11 +111,20 @@ tags = common
 [error_camera_access_button_allow]
 de = Erlauben
 tags = common
-[vaccination_add_loading_screen_message]
-de = Impfung wird hinzugefügt
+[error_test_certificate_not_valid_title]
+de = Corona-Testzertifikat kann nicht hinzugefügt werden
+tags = common
+[error_test_certificate_not_valid_message]
+de = Der von Ihnen gescannte Nachweis für einen Corona-Test weist kein negatives Testergebnis nach. Die aktuelle Version der CovPass-App kann nur negative Corona-Testergebnisse speichern.
+tags = common
+[error_test_certificate_not_valid_button_title]
+de = OK
+tags = common
+[certification_add_loading_screen_message]
+de = Nachweis wird hinzugefügt
 tags = common
 [[start Screen: favorite immunization certificate]]
-[vaccination_favorite_button_hint]
+[certification_favorite_button_hint]
 de = Als Favorit markieren
 tags = common
 [[start Screen: partial immunization certificate]]
@@ -123,17 +132,37 @@ tags = common
 de = COVID-19-Impfzertifikat
 tags = common
 [vaccination_partial_immunization_action_button]
-de = Impfungen anzeigen
+de = Zertifikate anzeigen
 tags = common
 [[start screen: full immunization certificate]]
 [vaccination_full_immunization_title]
 de = COVID-19-Impfzertifikat
 tags = common
 [vaccination_full_immunization_action_button]
-de = Impfungen anzeigen
+de = Zertifikate anzeigen
 tags = common
 [vaccination_full_immunization_status_expired]
 de = Abgelaufen
+tags = common
+[[start screen: test certificate]]
+[test_certification_title]
+de = Antigen-Schnelltest
+tags = common
+[test_certification_time_of_test]
+de = %@, %d:%d Uhr
+tags = common
+[test_certification_action_button]
+de = Zertifikate anzeigen
+tags = common
+[[start screen: recovery certificate]]
+[recovery_certification_title]
+de = Genesenenzertifikat
+tags = common
+[recovery_certification_validity_date]
+de = Gültig bis %@
+tags = common
+[test_certification_action_button]
+de = Zertifikate anzeigen
 tags = common
 [error_connect_to_internet_title]
 de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
@@ -190,11 +219,77 @@ tags = common
 [vaccination_certificate_detail_view_complete_action_button_title]
 de = Aktuellen QR-Code anzeigen
 tags = common
-[vaccination_certificate_detail_view_personal_data_title]
+[test_certificate_overview_title]
+de = Negativer Antigen-Schnelltest vom %@, %d:%d Uhr
+tags = common
+[test_certificate_overview_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+tags = common
+[test_certificate_overview_action_button_title]
+de = Aktuellen QR-Code anzeigen
+tags = common
+[recovery_certificate_overview_title]
+de = Genesung gültig bis %@
+tags = common
+[recovery_certificate_overview_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+tags = common
+[recovery_certificate_overview_action_button_title]
+de = Aktuellen QR-Code anzeigen
+tags = common
+[certificates_overview_personal_data_title]
 de = Persönliche Daten
+tags = common
+[certificates_overview_personal_data_name]
+de = Name / First name and surname
+tags = common
+[certificates_overview_personal_data_date_of_birth]
+de = Geburtsdatum / Date of birth
+tags = common
+[certificates_overview_all_certificates_title]
+de = Alle Zertifikate
+tags = common
+[certificates_overview_vaccination_certificate_title]
+de = EU Digitales COVID-Impfzertifikat
+tags = common
+[certificates_overview_vaccination_certificate_message]
+de = Impfung %d von %d
+tags = common
+[certificates_overview_vaccination_certificate_date]
+de = %@
+tags = common
+[certificates_overview_recovery_certificate_title]
+de = EU Digitales COVID-Genesenenzertifikat
+tags = common
+[certificates_overview_recovery_certificate_message]
+de = Vollständige Genesung
+tags = common
+[certificates_overview_recovery_certificate_date]
+de = Gültig bis %@
+tags = common
+[certificates_overview_test_certificate_title]
+de = EU Digitales COVID-Testzertifikat
+tags = common
+[certificates_overview_test_certificate_message]
+de = Antigen-Schnelltest
+tags = common
+[certificates_overview_test_certificate_date]
+de = %@, %d:%d Uhr
+tags = common
+[certificates_overview_pcr_test_certificate_title]
+de = EU Digitales COVID-Testzertifikat
+tags = common
+[certificates_overview_pcr_test_certificate_message]
+de = PCR-Test
+tags = common
+[certificates_overview_pcr_test_certificate_date]
+de = %@, %d:%d Uhr
 tags = common
 [vaccination_certificate_detail_view_vaccination_title]
 de = Impfung %d von %d
+tags = common
+[vaccination_certificate_detail_view_vaccination_headline]
+de = EU Digitales COVID-Impfzertifikat
 tags = common
 [vaccination_certificate_detail_view_data_date]
 de = Datum der Impfung
@@ -221,7 +316,7 @@ tags = common
 de = UVCI (Identifikationsnummer für das Zertifikat)
 tags = common
 [vaccination_certificate_detail_view_qrcode_action_button_title]
-de = Zum QR-Code dieser Impfung
+de = QR-Code anzeigen
 tags = common
 [vaccination_certificate_detail_view_qrcode_screen_title]
 de = Impfung %d von %d
@@ -229,9 +324,113 @@ tags = common
 [vaccination_certificate_detail_view_qrcode_screen_action_button_title]
 de = Schließen
 tags = common
+[test_certificate_detail_view_title]
+de = Antigen-Schnelltest
+tags = common
+[test_certificate_detail_view_pcr_test_title]
+de = PCR-Test
+tags = common
+[test_certificate_detail_view_headline]
+de = EU Digitales COVID-Testzertifikat
+tags = common
+[test_certificate_detail_view_data_disease]
+de = Zielkrankheit oder -erreger / Disease or agent targeted
+tags = common
+[test_certificate_detail_view_data_test_type]
+de = Art des Tests / Type of test
+tags = common
+[test_certificate_detail_view_data_test_name]
+de = Produktname / Test name
+tags = common
+[test_certificate_detail_view_data_test_manufactur]
+de = Testhersteller / Test manufacturer
+tags = common
+[test_certificate_detail_view_data_test_date_and_time]
+de = Datum und Uhrzeit der Probenahme / Date and time of the sample collection
+tags = common
+[test_certificate_detail_view_data_test_results]
+de = Testergebnis / Test result
+tags = common
+[test_certificate_detail_view_data_test_centre]
+de = Testzentrum oder -einrichtung / Testing centre or facility
+tags = common
+[test_certificate_detail_view_data_test_country]
+de = Land der Testung / Member State of test
+tags = common
+[test_certificate_detail_view_data_test_issuer]
+de = Zertifikataussteller / Certificate issuer
+tags = common
+[test_certificate_detail_view_data_test_identifier]
+de = Zertifikatkennung / Unique certificate identifier
+tags = common
+[test_certificate_detail_view_data_test_note_de]
+de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen. Informationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter https://reopen.europa.eu/de.
+tags = common
+[test_certificate_detail_view_data_test_note_en]
+de = This certificate is not a travel document. The scientific evidence on COVID-19 vaccination, testing and recovery continues to evolve, also in view of new variants of concern of the virus. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination. Information on the current travel restrictions that apply to EU countries can be found via https://reopen.europa.eu/de.
+tags = common
+[test_certificate_detail_view_qrcode_action_button_title]
+de = QR-Code anzeigen
+tags = common
+[test_certificate_detail_view_qrcode_screen_title]
+de = Antigen-Schnelltest
+tags = common
+[test_certificate_detail_view_qrcode_screen_message]
+de = %@, %d:%d Uhr
+tags = common
+[test_certificate_detail_view_qrcode_screen_action_button_title]
+de = Schließen
+tags = common
+[recovery_certificate_detail_view_title]
+de = COVID-19 Genesung
+tags = common
+[recovery_certificate_detail_view_headline]
+de = EU Digitales COVID-Genesenenzertifikat
+tags = common
+[recovery_certificate_detail_view_data_disease]
+de = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist / Disease or agent the citizen has recovered from
+tags = common
+[recovery_certificate_detail_view_data_country]
+de = Land der Testung / Member State of test
+tags = common
+[recovery_certificate_detail_view_data_issuer]
+de = Zertifikataussteller / Certificate issuer
+[recovery_certificate_detail_view_data_valid_from]
+de = Zertifikat gültig ab / Certificate valid from
+tags = common
+[recovery_certificate_detail_view_data_valid_until]
+de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (no more than 180 days after the date of first positive test result)
+tags = common
+[recovery_certificate_detail_view_data_identifier]
+de = Zertifikatkennung / Unique certificate identifier
+tags = common
+[recovery_certificate_detail_view_data_test_note_de]
+de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen. Informationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter https://reopen.europa.eu/de.
+tags = common
+[test_certificate_detail_view_data_test_note_en]
+de = This certificate is not a travel document. The scientific evidence on COVID-19 vaccination, testing and recovery continues to evolve, also in view of new variants of concern of the virus. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination. Information on the current travel restrictions that apply to EU countries can be found via https://reopen.europa.eu/de.
+tags = common
+[test_certificate_detail_view_qrcode_action_button_title]
+de = QR-Code anzeigen
+tags = common
+[test_certificate_detail_view_qrcode_screen_title]
+de = COVID-19 Genesung
+tags = common
+[test_certificate_detail_view_qrcode_screen_message]
+de = Gültig bis %@
+tags = common
+[test_certificate_detail_view_qrcode_screen_action_button_title]
+de = Schließen
+tags = common
 [[certificate delete dialog]]
-[dialog_delete_certificate_title]
+[dialog_delete_vaccination_certificate_title]
 de = Möchten Sie die Impfung %d von %d wirklich löschen?
+tags = common
+[dialog_delete_test_certificate_title]
+de = Möchten Sie die das Testzertifikat wirklich löschen?
+tags = common
+[dialog_delete_recovery_certificate_title]
+de = Möchten Sie die das Genesenenzertifikat wirklich löschen?
 tags = common
 [dialog_delete_certificate_message]
 de = Die Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
@@ -246,10 +445,25 @@ tags = common
 de = Erfolgreich gelöscht
 tags = common
 [delete_result_dialog_message]
-de = Die Daten zur Impfung wurden erfolgreich von diesem Gerät entfernt.
+de = Die Daten wurden erfolgreich von diesem Gerät entfernt.
 tags = common
 [delete_result_dialog_positive_button_text]
 de = OK
+tags = common
+[test_certificate_detail_view_title]
+de = Negativer Antigen-Schnelltest vom %@, %d:%d Uhr
+tags = common
+[test_certificate_detail_view_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+tags = common
+[test_certificate_detail_view_action_button_title]
+de = Aktuellen QR-Code anzeigen
+tags = common
+[vaccination_certificate_detail_view_complete_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+tags = common
+[vaccination_certificate_detail_view_complete_action_button_title]
+de = Aktuellen QR-Code anzeigen
 tags = common
 [[error handling]]
 [error_standard_unexpected_title]
