@@ -84,19 +84,19 @@ tags = common
 de = Vollständiger Impfschutz
 tags = common
 [[popup: add certification]]
-[certification_add_popup_title]
+[certificate_add_popup_title]
 de = Nachweis hinzufügen
 tags = common
-[certification_add_popup_message]
+[certificate_add_popup_message]
 de = Scannen Sie den QR-Code auf dem Impf-, Test- oder Genesenenzertifikat. Die Informationen werden direkt in die CovPass-App übertragen.
 tags = common
-[certification_add_popup_action_title]
+[certificate_add_popup_action_title]
 de = Sie haben keinen QR-Code erhalten?
 tags = common
-[certification_add_popup_action_title_linked]
+[certificate_add_popup_action_title_linked]
 de = #Sie haben keinen QR-Code erhalten?::$0#
 tags = common
-[certification_add_popup_scan_button_title]
+[certificate_add_popup_scan_button_title]
 de = QR-Code scannen
 tags = common
 [error_camera_access_title]
@@ -120,11 +120,11 @@ tags = common
 [error_test_certificate_not_valid_button_title]
 de = OK
 tags = common
-[certification_add_loading_screen_message]
+[certificate_add_loading_screen_message]
 de = Nachweis wird hinzugefügt
 tags = common
 [[start Screen: favorite immunization certificate]]
-[certification_favorite_button_hint]
+[certificate_favorite_button_hint]
 de = Als Favorit markieren
 tags = common
 [[start Screen: partial immunization certificate]]
@@ -457,12 +457,6 @@ tags = common
 de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
 tags = common
 [test_certificate_detail_view_action_button_title]
-de = Aktuellen QR-Code anzeigen
-tags = common
-[vaccination_certificate_detail_view_complete_message]
-de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
-tags = common
-[vaccination_certificate_detail_view_complete_action_button_title]
 de = Aktuellen QR-Code anzeigen
 tags = common
 [[error handling]]
