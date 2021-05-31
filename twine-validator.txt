@@ -165,16 +165,16 @@ tags = common
 de = Das kann folgende Gründe haben:
 tags = common
 [validation_check_popup_unsuccessful_test_first_reason_title]
-de = Zertifikat nicht gefunden:
+de = QR Code nicht lesbar:
 tags = common
 [validation_check_popup_unsuccessful_test_second_reason_title]
-de = Zertifikat abgelaufen:
+de = Zertifikat nicht gültig:
 tags = common
 [validation_check_popup_unsuccessful_test_first_reason_body]
-de = Es sind keine Daten auf dem QR-Code der geimpften Person gespeichert.
+de = Prüfen Sie, ob das richtige Zertifikat vorgezeigt wurde.
 tags = common
 [validation_check_popup_unsuccessful_test_second_reason_body]
-de = Das Impfzertifikat ist nicht mehr gültig. Der aktuelle Status kann in der CovPass-App eingesehen werden.
+de = Das Zertifikat hat keine gültige Signatur. Unter Umständen muss die geprüfte Person das Zertifikat in der CovPass-App aktualisieren. Für diesen Vorgang ist eine Internetverbindung erforderlich.
 tags = common
 [validation_check_popup_unsuccessful_test_button_title]
 de = Nächstes Zertifikat scannen
@@ -183,10 +183,43 @@ tags = common
 de = Impfstatus nicht gültig
 tags = common
 [validation_check_popup_vaccination_not_completely_message]
-de = Das geprüfte Zertifikat weist keine vollständige Impfung nach.
+de = Das geprüfte Zertifikat weist keine vollständige Impfung nach: Möglicherweise hat die geprüfte Person noch nicht alle Impfdosen erhalten oder die letzte Impfung liegt weniger als 14 Tage zurück.
 tags = common
 [validation_check_popup_vaccination_not_completely_button_title]
 de = Nächstes Zertifikat scannen
+tags = common
+[validation_check_popup_test_last_than_72_h_title]
+de = Antigen-Schnelltest von vor %d Stunden
+tags = common
+[validation_check_popup_test_more_than_72_h_title]
+de = Antigen-Schnelltest vom %@
+tags = common
+[validation_check_popup_test_date_of_issue]
+de = %@, %@ Uhr
+tags = common
+[validation_check_popup_test_utc]
+de = UTC %@
+tags = common
+[validation_check_popup_valid_test_last_than_24_h_title]
+de = Antigen-Schnelltest vom %@, %@ Uhr
+tags = common
+[validation_check_popup_valid_test_last_than_24_h_type]
+de = Antigen-Schnelltest
+tags = common
+[validation_check_popup_valid_test_last_than_24_h_date_of_issue]
+de = %@, %@ Uhr
+tags = common
+[validation_check_popup_valid_pcr_test_last_than_24_h_title]
+de = PCR-Test von vor %d Stunden
+tags = common
+[validation_check_popup_valid_test_last_than_24_h_type]
+de = PCR-Test
+tags = common
+[validation_check_popup_valid_test_last_than_24_h_date_of_issue]
+de = %@, %@ Uhr
+tags = common
+[validation_check_popup_recovery_proven_title]
+de = Genesung nachgewiesen
 tags = common
 [[app information]]
 [app_information_title]
