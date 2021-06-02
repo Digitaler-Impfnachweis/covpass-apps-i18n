@@ -7,7 +7,7 @@ tags = common
 de = Willkommen in der CovPassCheck-App
 tags = common
 [start_onboarding_message]
-de = Finden Sie in wenigen Sekunden heraus, ob die geprüfte Person einen gültigen Corona-Impfstatus besitzt. 
+de = Finden Sie in wenigen Sekunden heraus, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt. 
 tags = common
 [start_onboarding_secure_title]
 de = Sicher und datensparsam
@@ -22,16 +22,16 @@ tags = common
 de = Weiter
 tags = common
 [validation_first_onboarding_page_title]
-de = Erster Schritt: Das Impfzertifikat mit der CovPassCheck-App scannen
+de = Erster Schritt: Den QR-Code mit der CovPassCheck-App scannen
 tags = common
 [validation_first_onboarding_page_message]
-de = Scannen Sie mit der CovPassCheck-App das Impfzertifikat. Halten Sie dafür das Smartphone über den QR-Code. Die Daten werden nur zur Prüfung angezeigt und nicht im Smartphone gespeichert. Sie sehen direkt in der CovPassCheck-App, ob der Impfstatus der geimpften Person gültig ist. Hierfür ist nicht zwingend eine Internetverbindung nötig.
+de = Scannen Sie mit der CovPassCheck-App das EU Digitale COVID-Zertifikat. Halten Sie dafür das Smartphone über den QR-Code. Die Daten werden nur zur Prüfung angezeigt und nicht im Smartphone gespeichert. Sie sehen direkt in der CovPassCheck-App, ob das COVID-Zertifikat der geprüften Person gültig ist. Für die Überprüfung ist keine Internetverbindung nötig.
 tags = common
 [validation_second_onboarding_page_title]
 de = Zweiter Schritt: Die Identität mit einem Ausweisdokument überprüfen
 tags = common
 [validation_second_onboarding_page_message]
-de = Als prüfende Person sehen Sie in der CovPassCheck-App nur den Impfstatus sowie den Namen und das Geburtsdatum der geimpften Person. Gleichen Sie die Informationen mit einem Ausweisdokument ab.
+de = Als prüfende Person sehen Sie in der CovPassCheck-App nur die notwendigsten Informationen: den Corona-Status sowie den Namen, den Vornamen und das Geburtsdatum der geprüften Person. Gleichen Sie die Informationen mit einem Ausweisdokument ab.
 tags = common
 [validation_fourth_onboarding_page_title]
 de = Datenschutz und Datensicherheit
@@ -58,7 +58,7 @@ tags = common
 de = Schließen
 tags = common
 [error_connect_internet_for_scan_title]
-de = Flugzeugmodus ausschalten oder Wi-Fi für den Datenzugriff verwenden
+de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
 tags = common
 [error_connect_internet_for_scan_button_settings]
 de = Einstellungen
@@ -71,10 +71,10 @@ tags = common
 de = Übersicht
 tags = common
 [validation_start_screen_scan_title]
-de = Impfstatus prüfen
+de = Zertifikat prüfen
 tags = common
 [validation_start_screen_scan_message]
-de = Scannen Sie jetzt das Impfzertifikat. Sie sehen sofort, ob die geprüfte Person einen gültigen Impfstatus besitzt.
+de = Scannen Sie jetzt das EU Digitale COVID-Zertifikat. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt. 
 tags = common
 [validation_start_screen_scan_action_button_title]
 de = Zertifikat scannen
@@ -135,7 +135,7 @@ tags = common
 de = Geburtsdatum
 tags = common
 [validation_check_popup_valid_vaccination_button_title]
-de = Nächstes Zertifikat scannen
+de = Weiteres Zertifikat scannen
 tags = common
 [validation_check_popup_partial_valid_vaccination_title]
 de = Teil-Impfschutz gültig
@@ -156,7 +156,7 @@ tags = common
 de = Geboren am %@
 tags = common
 [validation_check_popup_partial_valid_vaccination_button_title]
-de = Nächstes Zertifikat scannen
+de = Weiteres Zertifikat scannen
 tags = common
 [validation_check_popup_unsuccessful_test_title]
 de = Prüfung nicht erfolgreich
@@ -177,16 +177,16 @@ tags = common
 de = Das Zertifikat hat keine gültige Signatur. Unter Umständen muss die geprüfte Person das Zertifikat in der CovPass-App aktualisieren. Für diesen Vorgang ist eine Internetverbindung erforderlich.
 tags = common
 [validation_check_popup_unsuccessful_test_button_title]
-de = Nächstes Zertifikat scannen
+de = Weiteres Zertifikat scannen
 tags = common
 [validation_check_popup_vaccination_not_completely_title]
-de = Impfstatus nicht gültig
+de = Impfstatus nicht vollständig
 tags = common
 [validation_check_popup_vaccination_not_completely_message]
 de = Das geprüfte Zertifikat weist keine vollständige Impfung nach: Möglicherweise hat die geprüfte Person noch nicht alle Impfdosen erhalten oder die letzte Impfung liegt weniger als 14 Tage zurück.
 tags = common
 [validation_check_popup_vaccination_not_completely_button_title]
-de = Nächstes Zertifikat scannen
+de = Weiteres Zertifikat scannen
 tags = common
 [validation_check_popup_test_last_than_72_h_title]
 de = Antigen-Schnelltest von vor %d Stunden
@@ -194,14 +194,35 @@ tags = common
 [validation_check_popup_test_more_than_72_h_title]
 de = Antigen-Schnelltest vom %@
 tags = common
-[validation_check_popup_test_date_of_issue]
+[validation_check_popup_test_more_than_72_h_message]
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+tags = common
+[validation_check_popup_test_more_than_72_h_name]
+de = %@
+tags = common
+[validation_check_popup_test_more_than_72_h_date_of_birth]
+de = Geboren am %@
+tags = common
+[validation_check_popup_test_more_than_72_h_date_of_issue]
 de = %@, %@ Uhr
 tags = common
-[validation_check_popup_test_utc]
+[validation_check_popup_test_more_than_72_h_utc]
 de = UTC %@
+tags = common
+[validation_check_popup_test_more_than_72_h_button_title]
+de = Weiteres Zertifikat scannen
 tags = common
 [validation_check_popup_valid_test_last_than_24_h_title]
 de = Antigen-Schnelltest vom %@, %@ Uhr
+tags = common
+[validation_check_popup_valid_test_last_than_24_h_message]
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+tags = common
+[validation_check_popup_valid_test_last_than_24_h_name]
+de = %@
+tags = common
+[validation_check_popup_valid_test_last_than_24_h_date_of_birth]
+de = Geboren am %@
 tags = common
 [validation_check_popup_valid_test_last_than_24_h_type]
 de = Antigen-Schnelltest
@@ -209,18 +230,42 @@ tags = common
 [validation_check_popup_valid_test_last_than_24_h_date_of_issue]
 de = %@, %@ Uhr
 tags = common
+[validation_check_popup_valid_test_last_than_24_h_button_title]
+de = Weiteres Zertifikat scannen
 [validation_check_popup_valid_pcr_test_last_than_24_h_title]
 de = PCR-Test von vor %d Stunden
 tags = common
-[validation_check_popup_valid_test_last_than_24_h_type]
+[validation_check_popup_valid_pcr_test_last_than_24_h_message]
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+tags = common
+[validation_check_popup_valid_pcr_test_last_than_24_h_name]
+de = %@
+tags = common
+[validation_check_popup_valid_pcr_test_last_than_24_h_date_of_birth]
+de = Geboren am %@
+tags = common
+[validation_check_popup_valid_pcr_test_last_than_24_h_type]
 de = PCR-Test
 tags = common
-[validation_check_popup_valid_test_last_than_24_h_date_of_issue]
+[validation_check_popup_valid_pcr_test_last_than_24_h_date_of_issue]
 de = %@, %@ Uhr
 tags = common
+[validation_check_popup_valid_pcr_test_last_than_24_h_button_title]
+de = Weiteres Zertifikat scannen
 [validation_check_popup_recovery_proven_title]
 de = Genesung nachgewiesen
 tags = common
+[validation_check_popup_recovery_proven_message]
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+tags = common
+[validation_check_popup_recovery_proven_name]
+de = %@
+tags = common
+[validation_check_popup_recovery_proven_date_of_birth]
+de = Geboren am %@
+tags = common
+[validation_check_popup_recovery_proven_button_title]
+de = Weiteres Zertifikat scannen
 [[app information]]
 [app_information_title]
 de = Informationen
