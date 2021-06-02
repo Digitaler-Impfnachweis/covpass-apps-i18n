@@ -72,7 +72,7 @@ tags = common
 de = Fügen Sie einen Nachweis hinzu
 tags = common
 [vaccination_start_screen_note_message]
-de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
+de = Sie haben aktuell kein Digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
 tags = common
 [vaccination_start_screen_qrcode_incomplete_subtitle]
 de = Unvollständiger Impfschutz
@@ -88,7 +88,7 @@ tags = common
 de = Nachweis hinzufügen
 tags = common
 [certificate_add_popup_message]
-de = Scannen Sie den QR-Code von einem digitalen COVID-Zertifikat der EU. Der Nachweis wird direkt in die CovPass-App übertragen.
+de = Scannen Sie den QR-Code von einem Digitalen COVID-Zertifikat der EU. Der Nachweis wird direkt in die CovPass-App übertragen.
 tags = common
 [certificate_add_popup_action_title]
 de = Wie erhalte ich einen QR-Code?
@@ -450,17 +450,11 @@ tags = common
 de = Schließen
 tags = common
 [[certificate delete dialog]]
-[dialog_delete_vaccination_certificate_title]
-de = Möchten Sie die Impfung %d von %d wirklich löschen?
-tags = common
-[dialog_delete_test_certificate_title]
-de = Möchten Sie die das Testzertifikat wirklich löschen?
-tags = common
-[dialog_delete_recovery_certificate_title]
-de = Möchten Sie die das Genesenenzertifikat wirklich löschen?
+[dialog_delete_certificate_title]
+de = Möchten Sie das COVID-Zertifikat wirklich löschen?
 tags = common
 [dialog_delete_certificate_message]
-de = Die Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
+de = Alle enthaltenen Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
 tags = common
 [dialog_delete_certificate_button_delete]
 de = Löschen
@@ -472,7 +466,7 @@ tags = common
 de = Erfolgreich gelöscht
 tags = common
 [delete_result_dialog_message]
-de = Die Daten wurden erfolgreich von diesem Gerät entfernt.
+de = Das Digitale COVID-Zertifikat wurde erfolgreich von diesem Gerät entfernt.
 tags = common
 [delete_result_dialog_positive_button_text]
 de = OK
@@ -500,7 +494,7 @@ tags = common
 de = QR-Code wurde nicht erkannt
 tags = common
 [error_scan_qrcode_cannot_be_parsed_message]
-de = Dieser QR-Code gehört offenbar nicht zu einem Impfzertifikat. Bitte scannen Sie den QR-Code des Impfzertifikats.
+de = Dieser QR-Code gehört offenbar nicht zu einem Digitalen COVID-Zertifikat der EU. Bitte scannen Sie ein Digitales COVID-Zertifikat der EU.
 tags = common
 [error_scan_qrcode_cannot_be_parsed_button_title]
 de = OK
@@ -515,7 +509,7 @@ tags = common
 de = OK
 tags = common
 [error_scan_qrcode_without_seal_title]
-de = Impfzertifikat enthält keine gültige Signatur
+de = COVID-Zertifikat enthält keine gültige Signatur
 tags = common
 [error_scan_qrcode_without_seal_message]
 de = Möglicherweise wurde das Zertifikat von einer nicht autorisierten Einrichtung erstellt oder die App ist nicht auf dem aktuellen Stand. Im zuletzt genannten Fall stellen Sie eine Verbindung mit dem Internet her und versuchen Sie es später erneut.
@@ -525,22 +519,12 @@ de = OK
 tags = common
 [[dialog: duplicate certificate]]
 [duplicate_certificate_dialog_header]
-de = Impfzertifikat wurde bereits hinzugefügt
+de = COVID-Zertifikat wurde bereits hinzugefügt
 tags = common
 [duplicate_certificate_dialog_message]
-de = Das gescannte Impfzertifikat ist bereits in der App hinterlegt. Möglicherweise haben Sie das Impfzertifikat doppelt gescannt.
+de = Das gescannte COVID-Zertifikat ist bereits in der App hinterlegt. Möglicherweise haben Sie das COVID-Zertifikat doppelt gescannt.
 tags = common
 [duplicate_certificate_dialog_button_title]
-de = OK
-tags = common
-[[dialog: certificate expired]]
-[vaccination_certificate_expired_title]
-de = Impfzertifikat abgelaufen
-tags = common
-[error_vaccination_certificate_expired_message]
-de = Setzen Sie sich mit Ihrem Arzt oder Ihrer Ärztin in Verbindung und frischen Sie die Impfungen in der App auf.
-tags = common
-[error_vaccination_certificate_expired_title]
 de = OK
 tags = common
 [[app information]]
