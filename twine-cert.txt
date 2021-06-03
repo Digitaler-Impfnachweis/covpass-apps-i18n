@@ -232,13 +232,13 @@ tags = common
 de = Persönliche Daten
 tags = common
 [certificates_overview_personal_data_name]
-de = Name / First name and surname
+de = Name, Vorname / First name, surname
 tags = common
 [certificates_overview_personal_data_date_of_birth]
 de = Geburtsdatum / Date of birth
 tags = common
 [certificates_overview_all_certificates_title]
-de = EU Zertifikate
+de = EU-Zertifikate
 tags = common
 [certificates_overview_currently_uses_certificate_note]
 de = Aktuell verwendetes Zertifikat
@@ -277,7 +277,7 @@ tags = common
 de = PCR-Test
 tags = common
 [certificates_overview_pcr_test_certificate_date]
-de = Probennahme am %@, %d:%d Uhr
+de = Probenahme am %@, %d:%d Uhr
 tags = common
 [vaccination_certificate_detail_view_vaccination_title]
 de = Impfung %d von %d
@@ -286,7 +286,7 @@ tags = common
 de = EU Digitales COVID-Impfzertifikat
 tags = common
 [vaccination_certificate_detail_view_data_name]
-de = Name / First name and surname
+de = Name, Vorname / First name, surname
 tags = common
 [vaccination_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth
@@ -343,7 +343,7 @@ tags = common
 de = EU Digitales COVID-Testzertifikat
 tags = common
 [test_certificate_detail_view_data_name]
-de = Name / First name and surname
+de = Name, Vorname / First name, surname
 tags = common
 [test_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth
@@ -406,7 +406,7 @@ tags = common
 de = EU Digitales COVID-Genesenenzertifikat
 tags = common
 [recovery_certificate_detail_view_data_name]
-de = Name / First name and surname
+de = Name, Vorname / First name, surname
 tags = common
 [recovery_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth
