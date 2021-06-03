@@ -13,7 +13,7 @@ tags = common
 de = Sicher und datensparsam
 tags = common
 [start_onboarding_secure_message]
-de = Die Daten werden nur über den QR-Code eingelesen und nicht gespeichert. Sie sehen nur die nötigsten Informationen.
+de = Die Daten werden nur über den QR-Code eingelesen und nicht gespeichert. Sie sehen nur die notwendigen Informationen.
 tags = common
 [start_onboarding_button_title]
 de = Los geht's
@@ -25,28 +25,28 @@ tags = common
 de = Erster Schritt: Den QR-Code mit der CovPassCheck-App scannen
 tags = common
 [validation_first_onboarding_page_message]
-de = Scannen Sie mit der CovPassCheck-App das EU Digitale COVID-Zertifikat. Halten Sie dafür das Smartphone über den QR-Code. Die Daten werden nur zur Prüfung angezeigt und nicht im Smartphone gespeichert. Sie sehen direkt in der CovPassCheck-App, ob das COVID-Zertifikat der geprüften Person gültig ist. Für die Überprüfung ist keine Internetverbindung nötig.
+de = Scannen Sie mit der CovPassCheck-App den QR-Code auf einem digitalen COVID-Zertifikat. Die QR-Codes der Papierversion enthalten die gleichen Informationen wie die QR-Codes der elektronische Version in der CovPass-App. Daher sind beide Zertifikatsversionen gleichwertig. Die Daten werden nur zur Prüfung angezeigt und nicht im Smartphone gespeichert. Sie sehen direkt in der CovPassCheck-App, ob das vorgelegte digitale COVID-Zertifikat gültig ist.
 tags = common
 [validation_second_onboarding_page_title]
 de = Zweiter Schritt: Die Identität mit einem Ausweisdokument überprüfen
 tags = common
 [validation_second_onboarding_page_message]
-de = Als prüfende Person sehen Sie in der CovPassCheck-App nur die notwendigsten Informationen: den Corona-Status sowie den Namen, den Vornamen und das Geburtsdatum der geprüften Person. Gleichen Sie die Informationen mit einem Ausweisdokument ab.
+de = Als prüfende Person sehen Sie in der CovPassCheck-App nur den Gültigkeitsstatus des digitalen COVID-Zertifikats sowie den Namen und das Geburtsdatum des Zertifikatsinhabers. Gleichen Sie diese Informationen mit einem Ausweisdokument (z. B. Personalausweis, Reisepass) ab. Eine aktive Internetverbindung ist für die Prüfung nicht erforderlich.
 tags = common
 [validation_fourth_onboarding_page_title]
 de = Datenschutz und Datensicherheit
 tags = common
 [validation_fourth_onboarding_first_list_item]
-de = Die Überprüfung von QR-Codes anderer Personen und das Auslesen von Daten über die Corona-Impfung ist nur in den gesetzlich vorgesehenen Fällen zulässig.
+de = Die Überprüfung von QR-Codes anderer Personen und das Auslesen von Daten aus digitalen COVID-Zertifikaten ist nur in den gesetzlich vorgesehenen Fällen zulässig.
 tags = common
 [validation_fourth_onboarding_second_list_item]
-de = Die Daten aus fremden Impfzertifikaten dürfen nicht zu anderen Zwecken gespeichert, weitergegeben oder genutzt werden.
+de = Eine Speicherung, Weitergabe oder Nutzung dieser Daten zu anderen Zwecken ist unzulässig.
 tags = common
 [validation_fourth_onboarding_third_list_item]
-de = Die Verwendung des digitalen Impfnachweises ist freiwillig. Niemand darf zur Nutzung gezwungen werden. Der Nachweis des vollständigen Impfschutzes kann auch auf andere Weise erbracht werden (z. B. mit dem gelben Impfpass).
+de = Die Verwendung der digitalen COVID-Zertifikate ist freiwillig. Niemand darf zur Nutzung gezwungen werden. Der Nachweis eines vollständigen Impfschutzes, eines negativen Testergebnisses oder einer durchgemachten COVID-Infektion kann auch auf andere Weise erbracht werden.
 tags = common
 [validation_fourth_onboarding_fourth_list_item]
-de = Die Impfnachweise enthalten Gesundheitsdaten. Zum Nachweis in den gesetzlich vorgesehenen Fällen ist nur das Scannen des QR-Codes zulässig. Weitere Daten aus der CovPass-App dürfen nicht verlangt werden. 
+de = Die digitalen COVID-Zertifikate enthalten Gesundheitsdaten. Zum Nachweis in den gesetzlich vorgesehenen Fällen ist nur das Scannen des QR-Codes zulässig. Weitere Daten aus der App dürfen nicht verlangt werden.
 tags = common
 [vaccination_fourth_onboarding_page_message]
  de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
@@ -119,9 +119,6 @@ tags = common
 [error_camera_access_button_allow]
 de = Erlauben
 tags = common
-[validation_check_loading_screen_message]
-de = Impfstatus wird geprüft
-tags = common
 [validation_check_popup_valid_vaccination_title]
 de = Impfstatus gültig
 tags = common
@@ -129,10 +126,10 @@ tags = common
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geimpften Person ab.
 tags = common
 [validation_check_popup_valid_vaccination_name]
-de = Name
+de = Geboren am %@
 tags = common
 [validation_check_popup_valid_vaccination_date_of_birth]
-de = Geburtsdatum
+de = Geboren am %@
 tags = common
 [validation_check_popup_valid_vaccination_button_title]
 de = Weiteres Zertifikat scannen
@@ -144,10 +141,10 @@ tags = common
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geimpften Person ab.
 tags = common
 [validation_check_popup_partial_valid_vaccination_name]
-de = Name
+de = %@
 tags = common
 [validation_check_popup_partial_valid_vaccination_date_of_birth]
-de = Geburtsdatum
+de = Geboren am %@
 tags = common
 [validation_check_popup_partial_valid_vaccination_date_of_birth_at]
 de = Geboren am
@@ -188,72 +185,92 @@ tags = common
 [validation_check_popup_vaccination_not_completely_button_title]
 de = Weiteres Zertifikat scannen
 tags = common
-[validation_check_popup_test_last_than_72_h_title]
-de = Antigen-Schnelltest von vor %d Stunden
+[validation_check_popup_test_older_than_24_h_title]
+de = Negativer Schnelltest vom %@
 tags = common
-[validation_check_popup_test_more_than_72_h_title]
-de = Antigen-Schnelltest vom %@
-tags = common
-[validation_check_popup_test_more_than_72_h_message]
+[validation_check_popup_test_older_than_24_h_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_test_more_than_72_h_name]
+[validation_check_popup_test_older_than_24_h_name]
 de = %@
 tags = common
-[validation_check_popup_test_more_than_72_h_date_of_birth]
+[validation_check_popup_test_older_than_24_h_date_of_birth]
 de = Geboren am %@
 tags = common
-[validation_check_popup_test_more_than_72_h_date_of_issue]
-de = %@, %@ Uhr
+[validation_check_popup_test_older_than_24_h_date_of_issue]
+de = Getestet am %@, %@ Uhr
 tags = common
-[validation_check_popup_test_more_than_72_h_utc]
+[validation_check_popup_test_older_than_24_h_utc]
 de = UTC %@
 tags = common
-[validation_check_popup_test_more_than_72_h_button_title]
+[validation_check_popup_test_older_than_24_h_button_title]
 de = Weiteres Zertifikat scannen
+[validation_check_popup_test_less_than_24_h_title]
+de = Negativer Schnelltest von vor %d Stunden
 tags = common
-[validation_check_popup_valid_test_last_than_24_h_title]
-de = Antigen-Schnelltest vom %@, %@ Uhr
-tags = common
-[validation_check_popup_valid_test_last_than_24_h_message]
+[validation_check_popup_test_less_than_24_h_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_valid_test_last_than_24_h_name]
+[validation_check_popup_test_less_than_24_h_name]
 de = %@
 tags = common
-[validation_check_popup_valid_test_last_than_24_h_date_of_birth]
+[validation_check_popup_test_less_than_24_h_date_of_birth]
 de = Geboren am %@
 tags = common
-[validation_check_popup_valid_test_last_than_24_h_type]
-de = Antigen-Schnelltest
+[validation_check_popup_test_less_than_24_h_date_of_issue]
+de = Getestet am %@, %@ Uhr
 tags = common
-[validation_check_popup_valid_test_last_than_24_h_date_of_issue]
-de = %@, %@ Uhr
+[validation_check_popup_test_less_than_24_h_utc]
+de = UTC %@
 tags = common
-[validation_check_popup_valid_test_last_than_24_h_button_title]
+[validation_check_popup_test_less_than_24_h_button_title]
 de = Weiteres Zertifikat scannen
-[validation_check_popup_valid_pcr_test_last_than_24_h_title]
-de = PCR-Test von vor %d Stunden
 tags = common
-[validation_check_popup_valid_pcr_test_last_than_24_h_message]
+[validation_check_popup_test_positive_title]
+de = Positiver Schnelltest vom %@
+tags = common
+[validation_check_popup_test_positive_message]
+de = Das gescannte COVID-Zertifikat weist einen positiven Schnelltest nach.
+tags = common
+[validation_check_popup_test_positive_button_title]
+de = Weiteres Zertifikat scannen
+tags = common
+[validation_check_popup_valid_pcr_test_less_than_72_h_title]
+de = Negativer PCR-Test von vor %d Stunden
+tags = common
+[validation_check_popup_valid_pcr_test_less_than_72_h_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_valid_pcr_test_last_than_24_h_name]
+[validation_check_popup_valid_pcr_test_less_than_72_h_name]
 de = %@
 tags = common
-[validation_check_popup_valid_pcr_test_last_than_24_h_date_of_birth]
+[validation_check_popup_valid_pcr_test_less_than_72_h_date_of_birth]
 de = Geboren am %@
 tags = common
-[validation_check_popup_valid_pcr_test_last_than_24_h_type]
-de = PCR-Test
+[validation_check_popup_valid_pcr_test_less_than_72_h_date_of_issue]
+de = Probenahme am %@, %@ Uhr
 tags = common
-[validation_check_popup_valid_pcr_test_last_than_24_h_date_of_issue]
-de = %@, %@ Uhr
+[validation_check_popup_valid_pcr_test_less_than_72_h_button_title]
+de = Weiteres Zertifikat scannen
+[validation_check_popup_valid_pcr_test_older_than_72_h_title]
+de = Negativer PCR-Test vom %@
 tags = common
-[validation_check_popup_valid_pcr_test_last_than_24_h_button_title]
+[validation_check_popup_valid_pcr_test_older_than_72_h_message]
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+tags = common
+[validation_check_popup_valid_pcr_test_older_than_72_h_name]
+de = %@
+tags = common
+[validation_check_popup_valid_pcr_test_older_than_72_h_date_of_birth]
+de = Geboren am %@
+tags = common
+[validation_check_popup_valid_pcr_test_older_than_72_h_date_of_issue]
+de = Probenahme am %@, %@ Uhr
+tags = common
+[validation_check_popup_valid_pcr_test_older_than_72_h_button_title]
 de = Weiteres Zertifikat scannen
 [validation_check_popup_recovery_proven_title]
-de = Genesung nachgewiesen
+de = Genesenenzertifikat gültig
 tags = common
 [validation_check_popup_recovery_proven_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
@@ -266,6 +283,16 @@ de = Geboren am %@
 tags = common
 [validation_check_popup_recovery_proven_button_title]
 de = Weiteres Zertifikat scannen
+Genesung abgelaufen
+[validation_check_popup_recovery_expired_title]
+de = Genesenenzertifikat abgelaufen
+tags = common
+[validation_check_popup_recovery_expired_message]
+de = Das Datum des ersten positiven Testergebnisses liegt mehr als 180 Tage zurück.
+tags = common
+[validation_check_popup_recovery_expired_button_title]
+de = Weiteres Zertifikat scannen
+tags = common
 [[app information]]
 [app_information_title]
 de = Informationen
