@@ -25,35 +25,33 @@ tags = common
 de = Erster Schritt: Übertragen Sie das COVID-Zertifikat auf Ihr Smartphone
 tags = common
 [vaccination_first_onboarding_page_message]
-de = Nach der Corona-Impfung, dem Corona-Test oder der Genesung von der Corona-Infektion erhalten Sie von Ihrer medizinischen Einrichtung ein EU Digitales COVID-Zertifikat. Öffnen Sie die CovPass-App und scannen Sie das COVID-Zertifikat. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das COVID-Zertifikat wird sofort auf Ihr Smartphone übertragen. 
+de = Scannen Sie mit der CovPass-App das EU Digitale COVID-Zertifikat für eine Corona-Impfung, ein negatives Corona-Testergebnis oder eine Genesung von der Corona-Infektion. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das COVID-Zertifikat wird sofort auf Ihr Smartphone übertragen.
 tags = common
 [vaccination_second_onboarding_page_title]
 de = Zweiter Schritt: Rufen Sie den QR-Code in der CovPass-App auf
 tags = common
 [vaccination_second_onboarding_page_message]
-de = Nach dem Scannen wird der aktuelle QR-Code als Nachweis direkt in der CovPass-App angezeigt. Sie können für jedes weitere COVID-Zertifikat einen eigenen QR-Code aufrufen. Bitte beachten Sie, dass eine ausreichende Wirksamkeit des Impfschutzes erst etwa 14 Tage nach der letzten Impfung eintritt. Der QR-Code als Nachweis über den vollständigen Impfschutz ist daher erst nach Ablauf der 14 Tage gültig. 
+de = Mit dem QR-Code können Sie eine Corona-Impfung, ein negatives Corona-Testergebnis oder eine Genesung von einer Corona-Infektion nachweisen. Nach dem Scannen wird der QR-Code direkt in der CovPass-App angezeigt. Bitte beachten Sie, dass eine ausreichende Wirksamkeit des Impfschutzes erst etwa 14 Tage nach der letzten Impfung eintritt. Der QR-Code für den vollständigen Impfschutz ist deshalb erst nach Ablauf der 14 Tage gültig.
 tags = common
 [vaccination_third_onboarding_page_title]
 de = Dritter Schritt: Zeigen Sie den QR-Code bei Bedarf vor
 tags = common
 [vaccination_third_onboarding_page_message]
-de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Eine Internetverbindung ist nicht notwendig.
+de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen. 
 tags = common
 [vaccination_fourth_onboarding_page_title]
 de = Datenschutz und Datensicherheit
 [vaccination_fourth_onboarding_page_first_list_item]
-de = Die Verwendung der CovPass-App ist freiwillig. Der Nachweis des vollständigen Impfschutzes kann auch auf andere Weise erbracht werden (z. B. mit dem gelben Impfpass).
+de = Die Nutzung der CovPass-App ist freiwillig. Sie können Ihre digitalen COVID-Zertifikate auch in Papierform verwenden.
 tags = common
+
 [vaccination_fourth_onboarding_page_second_list_item]
-de = Das Impfzertifikat enthält die Daten über Ihre Corona-Impfung. Zum Nachweis Ihres Impfschutzes in den gesetzlich vorgesehenen Fällen genügt das Vorzeigen des QR-Codes in der CovPass-App. Stellen Sie die Impfzertifikate und QR-Codes niemandem zur Verfügung, wenn Sie nicht wollen, dass die Daten ausgelesen werden. 
+de = Zum Schutz vor Fälschungen oder Manipulationen werden die digitalen COVID-Zertifikate durch das RKI elektronisch signiert. Hierzu werden die notwendigen Daten einmalig verschlüsselt an das RKI übermittelt. Nach der Erstellung des digitalen COVID-Zertifikats werden Ihre Daten vom RKI sofort unwiderruflich gelöscht. Der QR-Code enthält in kodierter Form die auf dem digitalen COVID-Zertifikat enthaltenen Informationen und die elektronische Signatur des RKI.
 tags = common
 [vaccination_fourth_onboarding_page_third_list_item]
-de = Wenn Sie den QR-Code in der CovPass-App vorzeigen und dieser mit der offiziellen CovPassCheck-App gescannt wird, können andere Personen nachvollziehen, ob Ihr Impfschutz vollständig ist. Bei der Prüfung werden in der CovPassCheck-App auch Ihr Name, Ihr Vorname und Ihr Geburtsdatum angezeigt. 
+de = Wenn Sie den QR-Code eines digitalen COVID-Zertifikats einer anderen Person zur Prüfung vorlegen, werden dem Prüfer der Name und das Geburtsdatum des Zertifikatsinhabers angezeigt. Bei der Prüfung ist gegebenenfalls ergänzend ein Ausweisdokument vorzulegen.
 [vaccination_fourth_onboarding_page_fourth_list_item]
-de = Sie haben jederzeit die Möglichkeit, Impfzertifikate in der App wieder zu entfernen. Bis dahin bleiben die Impfzertifikate auf Ihrem Smartphone gespeichert. 
-tags = common
-[vaccination_fourth_onboarding_page_fifth_list_item]
-de = Sie können auch Impfzertifikate anderer Personen in der CovPass-App speichern (z. B. von Familienmitgliedern). Es ist wichtig, dass Sie diese Personen zuvor über die Speicherung ihrer Impfzertifikate informieren. Verwenden Sie zudem die Impfzertifikate anderer Personen nur in den Fällen, die laut dem Gesetz vorgesehen sind.
+de = Die digitalen COVID-Zertifikate werden ausschließlich auf Ihrem Smartphone gespeichert. Sie haben jederzeit die Möglichkeit, die digitalen COVID-Zertifikate wieder zu entfernen.
 tags = common
 [vaccination_fourth_onboarding_page_message]
 de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
@@ -235,7 +233,7 @@ tags = common
 de = Name / First name and surname
 tags = common
 [certificates_overview_personal_data_date_of_birth]
-de = Geburtsdatum / Date of birth
+de = Geburtsdatum / Date of birth (YYYY-MM-DD)
 tags = common
 [certificates_overview_all_certificates_title]
 de = EU Zertifikate
@@ -289,7 +287,7 @@ tags = common
 de = Name / First name and surname
 tags = common
 [vaccination_certificate_detail_view_data_date_of_birth]
-de = Geburtsdatum / Date of birth
+de = Geburtsdatum / Date of birth (YYYY-MM-DD)
 tags = common
 [vaccination_certificate_detail_view_data_disease]
 de = Zielkrankheit oder -erreger / Disease or agent targeted
@@ -346,7 +344,7 @@ tags = common
 de = Name / First name and surname
 tags = common
 [test_certificate_detail_view_data_date_of_birth]
-de = Geburtsdatum / Date of birth
+de = Geburtsdatum / Date of birth (YYYY-MM-DD)
 tags = common
 [test_certificate_detail_view_data_disease]
 de = Zielkrankheit oder -erreger / Disease or agent targeted
@@ -409,7 +407,7 @@ tags = common
 de = Name / First name and surname
 tags = common
 [recovery_certificate_detail_view_data_date_of_birth]
-de = Geburtsdatum / Date of birth
+de = Geburtsdatum / Date of birth (YYYY-MM-DD)
 tags = common
 [recovery_certificate_detail_view_data_disease]
 de = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist / Disease or agent the citizen has recovered from
