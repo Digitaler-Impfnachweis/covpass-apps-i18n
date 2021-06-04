@@ -235,6 +235,27 @@ tags = common
 [validation_check_popup_test_positive_button_title]
 de = Weiteres Zertifikat scannen
 tags = common
+[validation_check_popup_pcr_test_positive_title]
+de = Positiver PCR-Test vom %@
+tags = common
+[validation_check_popup_pcr_test_positive_message]
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+tags = common
+[validation_check_popup_pcr_test_positive_name]
+de = %@
+tags = common
+[validation_check_popup_pcr_test_positive_date_of_birth]
+de = Geboren am %@
+tags = common
+[validation_check_popup_pcr_test_positive_date_of_issue]
+de = Probenahme am %@, %@ Uhr
+tags = common
+[validation_check_popup_pcr_test_positive_utc]
+de = UTC %@
+tags = common
+[validation_check_popup_pcr_test_positive_button_title]
+de = Weiteres Zertifikat scannen
+tags = common
 [validation_check_popup_valid_pcr_test_less_than_72_h_title]
 de = Negativer PCR-Test von vor %d Stunden
 tags = common
@@ -283,7 +304,7 @@ de = Geboren am %@
 tags = common
 [validation_check_popup_recovery_proven_button_title]
 de = Weiteres Zertifikat scannen
-Genesung abgelaufen
+tags = common
 [validation_check_popup_recovery_expired_title]
 de = Genesenenzertifikat abgelaufen
 tags = common
