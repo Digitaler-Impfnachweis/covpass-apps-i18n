@@ -294,7 +294,7 @@ de = Weiteres Zertifikat scannen
 de = Genesenenzertifikat gültig
 tags = common
 [validation_check_popup_recovery_proven_message]
-de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der genesenen Person ab.
 tags = common
 [validation_check_popup_recovery_proven_name]
 de = %@
