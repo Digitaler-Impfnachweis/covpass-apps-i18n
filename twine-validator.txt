@@ -271,6 +271,9 @@ tags = common
 [validation_check_popup_valid_pcr_test_less_than_72_h_date_of_issue]
 de = Probenahme am %@, %@ Uhr
 tags = common
+[validation_check_popup_valid_pcr_test_less_than_72_h_utc]
+de = UTC %@
+tags = common
 [validation_check_popup_valid_pcr_test_less_than_72_h_button_title]
 de = Weiteres Zertifikat scannen
 [validation_check_popup_valid_pcr_test_older_than_72_h_title]
@@ -287,6 +290,9 @@ de = Geboren am %@
 tags = common
 [validation_check_popup_valid_pcr_test_older_than_72_h_date_of_issue]
 de = Probenahme am %@, %@ Uhr
+tags = common
+[validation_check_popup_valid_pcr_test_older_than_72_h_utc]
+de = UTC %@
 tags = common
 [validation_check_popup_valid_pcr_test_older_than_72_h_button_title]
 de = Weiteres Zertifikat scannen
