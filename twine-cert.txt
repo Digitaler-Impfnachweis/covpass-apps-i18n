@@ -44,7 +44,6 @@ de = Datenschutz und Datensicherheit
 [vaccination_fourth_onboarding_page_first_list_item]
 de = Die Nutzung der CovPass-App ist freiwillig. Sie können Ihre digitalen COVID-Zertifikate auch in Papierform verwenden.
 tags = common
-
 [vaccination_fourth_onboarding_page_second_list_item]
 de = Zum Schutz vor Fälschungen oder Manipulationen werden die digitalen COVID-Zertifikate durch das RKI elektronisch signiert. Hierzu werden die notwendigen Daten einmalig verschlüsselt an das RKI übermittelt. Nach der Erstellung des digitalen COVID-Zertifikats werden Ihre Daten vom RKI sofort unwiderruflich gelöscht. Der QR-Code enthält in kodierter Form die auf dem digitalen COVID-Zertifikat enthaltenen Informationen und die elektronische Signatur des RKI.
 tags = common
