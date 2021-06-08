@@ -80,7 +80,6 @@ tags = common
 [vaccination_start_screen_qrcode_complete_protection_subtitle]
 de = Vollständiger Impfschutz
 tags = common
-
 [[popup: add certification]]
 [certificate_add_popup_title]
 de = Nachweis hinzufügen
@@ -156,8 +155,11 @@ tags = common
 [recovery_certificate_title]
 de = Genesenenzertifikat
 tags = common
-[recovery_certificate_validity_date]
+[recovery_certificate_valid_until_date]
 de = Gültig bis %@
+tags = common
+[recovery_certificate_valid_from_date]
+de = Gültig ab %@
 tags = common
 [recovery_certificate_action_button]
 de = Zertifikate anzeigen
@@ -217,8 +219,11 @@ tags = common
 [test_certificate_overview_action_button_title]
 de = Aktuellen QR-Code anzeigen
 tags = common
-[recovery_certificate_overview_title]
+[recovery_certificate_overview_valid_until_title]
 de = Genesung gültig bis %@
+tags = common
+[recovery_certificate_overview_valid_from_title]
+de = Genesung gültig ab %@
 tags = common
 [recovery_certificate_overview_message]
 de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
@@ -230,7 +235,7 @@ tags = common
 de = Persönliche Daten
 tags = common
 [certificates_overview_personal_data_name]
-de = Name, Vorname / First name, surname
+de = Name, Vorname / Name, first name
 tags = common
 [certificates_overview_personal_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -256,8 +261,11 @@ tags = common
 [certificates_overview_recovery_certificate_message]
 de = Vollständige Genesung
 tags = common
-[certificates_overview_recovery_certificate_date]
+[certificates_overview_recovery_certificate_valid_until_date]
 de = Gültig bis %@
+tags = common
+[certificates_overview_recovery_certificate_valid_from_date]
+de = Gültig ab %@
 tags = common
 [certificates_overview_test_certificate_title]
 de = Testzertifikat
@@ -277,6 +285,11 @@ tags = common
 [certificates_overview_pcr_test_certificate_date]
 de = Probenahme am %@, %d:%d Uhr
 tags = common
+[[detail view: delete certificate]]
+[certificate_delete_button_hint]
+de = Löschen
+tags = common
+[[detail view: certificate]]
 [vaccination_certificate_detail_view_vaccination_title]
 de = Impfung %d von %d
 tags = common
@@ -284,7 +297,7 @@ tags = common
 de = EU Digitales COVID-Impfzertifikat
 tags = common
 [vaccination_certificate_detail_view_data_name]
-de = Name, Vorname / First name, surname
+de = Name, Vorname / Name, first name
 tags = common
 [vaccination_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -305,7 +318,7 @@ tags = common
 de = Nummer der Impfung / Number in a series of vaccinations/doses
 tags = common
 [vaccination_certificate_detail_view_data_vaccine_date_]
-de = Datum der Impfung / Date of vaccination
+de = Datum der Impfung / Date of vaccination (YYYY-MM-DD)
 tags = common
 [vaccination_certificate_detail_view_data_vaccine_country]
 de = Land der Impfung / Member State of vaccination
@@ -341,7 +354,7 @@ tags = common
 de = EU Digitales COVID-Testzertifikat
 tags = common
 [test_certificate_detail_view_data_name]
-de = Name, Vorname / First name, surname
+de = Name, Vorname / Name, first name
 tags = common
 [test_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -359,7 +372,7 @@ tags = common
 de = Testhersteller / Test manufacturer
 tags = common
 [test_certificate_detail_view_data_test_date_and_time]
-de = Datum und Uhrzeit der Probenahme / Date and time of the sample collection
+de = Datum und Uhrzeit der Probenahme / Date and time of the sample collection (YYYY-MM-DD)
 tags = common
 [test_certificate_detail_view_data_test_results]
 de = Testergebnis / Test result
@@ -404,7 +417,7 @@ tags = common
 de = EU Digitales COVID-Genesenenzertifikat
 tags = common
 [recovery_certificate_detail_view_data_name]
-de = Name, Vorname / First name, surname
+de = Name, Vorname / Name, first name
 tags = common
 [recovery_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -413,7 +426,7 @@ tags = common
 de = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist / Disease or agent the citizen has recovered from
 tags = common
 [recovery_certificate_detail_view_data_date_first_positive_result]
-de = Datum des ersten positiven Testergebnisses / Date of first positive test result
+de = Datum des ersten positiven Testergebnisses / Date of first positive test result (YYYY-MM-DD)
 tags = common
 [recovery_certificate_detail_view_data_country]
 de = Land der Testung / Member State of test
@@ -421,7 +434,7 @@ tags = common
 [recovery_certificate_detail_view_data_issuer]
 de = Zertifikataussteller / Certificate issuer
 [recovery_certificate_detail_view_data_valid_from]
-de = Zertifikat gültig ab / Certificate valid from
+de = Zertifikat gültig ab / Certificate valid from (YYYY-MM-DD)
 tags = common
 [recovery_certificate_detail_view_data_valid_until]
 de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (no more than 180 days after the date of first positive test result)
@@ -452,7 +465,7 @@ tags = common
 de = Möchten Sie das COVID-Zertifikat wirklich löschen?
 tags = common
 [dialog_delete_certificate_message]
-de = Alle enthaltenen Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
+de = Die Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
 tags = common
 [dialog_delete_certificate_button_delete]
 de = Löschen
@@ -501,7 +514,7 @@ tags = common
 de = Aktualisieren Sie die App
 tags = common
 [error_scan_present_data_is_not_supported_message]
-de = Ihre aktuelle Version der App unterstützt das vorliegende Datenformat nicht. Bitte aktualisieren Sie die App.
+de = Ihre aktuelle Version der App unterstützt das vorliegende Datenformat nicht. Bitte überprüfen Sie, ob Sie die aktuelle Version der App aus dem App Store auf Ihrem Smartphone installiert haben.
 tags = common
 [error_scan_present_data_is_not_supported_button_title]
 de = OK
