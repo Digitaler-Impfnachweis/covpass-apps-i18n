@@ -155,8 +155,11 @@ tags = common
 [recovery_certificate_title]
 de = Genesenenzertifikat
 tags = common
-[recovery_certificate_validity_date]
+[recovery_certificate_valid_until_date]
 de = Gültig bis %@
+tags = common
+[recovery_certificate_valid_from_date]
+de = Gültig ab %@
 tags = common
 [recovery_certificate_action_button]
 de = Zertifikate anzeigen
@@ -216,8 +219,11 @@ tags = common
 [test_certificate_overview_action_button_title]
 de = Aktuellen QR-Code anzeigen
 tags = common
-[recovery_certificate_overview_title]
+[recovery_certificate_overview_valid_until_title]
 de = Genesung gültig bis %@
+tags = common
+[recovery_certificate_overview_valid_from_title]
+de = Genesung gültig ab %@
 tags = common
 [recovery_certificate_overview_message]
 de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
@@ -229,7 +235,7 @@ tags = common
 de = Persönliche Daten
 tags = common
 [certificates_overview_personal_data_name]
-de = Name, Vorname / Surname, first name
+de = Name, Vorname / Name, first name
 tags = common
 [certificates_overview_personal_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -255,8 +261,11 @@ tags = common
 [certificates_overview_recovery_certificate_message]
 de = Vollständige Genesung
 tags = common
-[certificates_overview_recovery_certificate_date]
+[certificates_overview_recovery_certificate_valid_until_date]
 de = Gültig bis %@
+tags = common
+[certificates_overview_recovery_certificate_valid_from_date]
+de = Gültig ab %@
 tags = common
 [certificates_overview_test_certificate_title]
 de = Testzertifikat
@@ -288,7 +297,7 @@ tags = common
 de = EU Digitales COVID-Impfzertifikat
 tags = common
 [vaccination_certificate_detail_view_data_name]
-de = Name, Vorname / Surname, first name
+de = Name, Vorname / Name, first name
 tags = common
 [vaccination_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -345,7 +354,7 @@ tags = common
 de = EU Digitales COVID-Testzertifikat
 tags = common
 [test_certificate_detail_view_data_name]
-de = Name, Vorname / Surname, first name
+de = Name, Vorname / Name, first name
 tags = common
 [test_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -408,7 +417,7 @@ tags = common
 de = EU Digitales COVID-Genesenenzertifikat
 tags = common
 [recovery_certificate_detail_view_data_name]
-de = Name, Vorname / Surname, first name
+de = Name, Vorname / Name, first name
 tags = common
 [recovery_certificate_detail_view_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
