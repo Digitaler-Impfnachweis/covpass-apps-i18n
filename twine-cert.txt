@@ -304,7 +304,7 @@ tags = common
 de = Nummer der Impfung / Number in a series of vaccinations/doses
 tags = common
 [vaccination_certificate_detail_view_data_vaccine_date_]
-de = Datum der Impfung / Date of vaccination
+de = Datum der Impfung / Date of vaccination (YYYY-MM-DD)
 tags = common
 [vaccination_certificate_detail_view_data_vaccine_country]
 de = Land der Impfung / Member State of vaccination
@@ -358,7 +358,7 @@ tags = common
 de = Testhersteller / Test manufacturer
 tags = common
 [test_certificate_detail_view_data_test_date_and_time]
-de = Datum und Uhrzeit der Probenahme / Date and time of the sample collection
+de = Datum und Uhrzeit der Probenahme / Date and time of the sample collection (YYYY-MM-DD)
 tags = common
 [test_certificate_detail_view_data_test_results]
 de = Testergebnis / Test result
@@ -412,7 +412,7 @@ tags = common
 de = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist / Disease or agent the citizen has recovered from
 tags = common
 [recovery_certificate_detail_view_data_date_first_positive_result]
-de = Datum des ersten positiven Testergebnisses / Date of first positive test result
+de = Datum des ersten positiven Testergebnisses / Date of first positive test result (YYYY-MM-DD)
 tags = common
 [recovery_certificate_detail_view_data_country]
 de = Land der Testung / Member State of test
@@ -420,7 +420,7 @@ tags = common
 [recovery_certificate_detail_view_data_issuer]
 de = Zertifikataussteller / Certificate issuer
 [recovery_certificate_detail_view_data_valid_from]
-de = Zertifikat gültig ab / Certificate valid from
+de = Zertifikat gültig ab / Certificate valid from (YYYY-MM-DD)
 tags = common
 [recovery_certificate_detail_view_data_valid_until]
 de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (no more than 180 days after the date of first positive test result)
