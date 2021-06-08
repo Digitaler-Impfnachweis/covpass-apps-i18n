@@ -80,7 +80,6 @@ tags = common
 [vaccination_start_screen_qrcode_complete_protection_subtitle]
 de = Vollständiger Impfschutz
 tags = common
-
 [[popup: add certification]]
 [certificate_add_popup_title]
 de = Nachweis hinzufügen
@@ -452,7 +451,7 @@ tags = common
 de = Möchten Sie das COVID-Zertifikat wirklich löschen?
 tags = common
 [dialog_delete_certificate_message]
-de = Alle enthaltenen Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
+de = Die Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
 tags = common
 [dialog_delete_certificate_button_delete]
 de = Löschen
@@ -501,7 +500,7 @@ tags = common
 de = Aktualisieren Sie die App
 tags = common
 [error_scan_present_data_is_not_supported_message]
-de = Ihre aktuelle Version der App unterstützt das vorliegende Datenformat nicht. Bitte aktualisieren Sie die App.
+de = Ihre aktuelle Version der App unterstützt das vorliegende Datenformat nicht. Bitte überprüfen Sie, ob Sie die aktuelle Version der App aus dem App Store auf Ihrem Smartphone installiert haben.
 tags = common
 [error_scan_present_data_is_not_supported_button_title]
 de = OK
