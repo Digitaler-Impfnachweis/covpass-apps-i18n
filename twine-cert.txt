@@ -276,6 +276,11 @@ tags = common
 [certificates_overview_pcr_test_certificate_date]
 de = Probenahme am %@, %d:%d Uhr
 tags = common
+[[detail view: delete certificate]]
+[certificate_delete_button_hint]
+de = Löschen
+tags = common
+[[detail view: certificate]]
 [vaccination_certificate_detail_view_vaccination_title]
 de = Impfung %d von %d
 tags = common
