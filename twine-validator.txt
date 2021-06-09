@@ -209,7 +209,7 @@ tags = common
 de = Geboren am %@
 tags = common
 [validation_check_popup_test_less_than_24_h_date_of_issue]
-de = Getestet am
+de = Getestet am %@
 tags = common
 [validation_check_popup_test_less_than_24_h_utc]
 de = UTC %@
