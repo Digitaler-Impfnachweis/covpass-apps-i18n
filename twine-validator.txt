@@ -140,9 +140,6 @@ tags = common
 [validation_check_popup_partial_valid_vaccination_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geimpften Person ab.
 tags = common
-[validation_check_popup_partial_valid_vaccination_name]
-de = %@
-tags = common
 [validation_check_popup_partial_valid_vaccination_date_of_birth]
 de = Geboren am %@
 tags = common
@@ -191,14 +188,11 @@ tags = common
 [validation_check_popup_test_older_than_24_h_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_test_older_than_24_h_name]
-de = %@
-tags = common
 [validation_check_popup_test_older_than_24_h_date_of_birth]
 de = Geboren am %@
 tags = common
 [validation_check_popup_test_older_than_24_h_date_of_issue]
-de = Getestet am %@, %@ Uhr
+de = Getestet am %@
 tags = common
 [validation_check_popup_test_older_than_24_h_utc]
 de = UTC %@
@@ -211,14 +205,11 @@ tags = common
 [validation_check_popup_test_less_than_24_h_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_test_less_than_24_h_name]
-de = %@
-tags = common
 [validation_check_popup_test_less_than_24_h_date_of_birth]
 de = Geboren am %@
 tags = common
 [validation_check_popup_test_less_than_24_h_date_of_issue]
-de = Getestet am %@, %@ Uhr
+de = Getestet am %@
 tags = common
 [validation_check_popup_test_less_than_24_h_utc]
 de = UTC %@
@@ -241,14 +232,11 @@ tags = common
 [validation_check_popup_pcr_test_positive_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_pcr_test_positive_name]
-de = %@
-tags = common
 [validation_check_popup_pcr_test_positive_date_of_birth]
 de = Geboren am %@
 tags = common
 [validation_check_popup_pcr_test_positive_date_of_issue]
-de = Probenahme am %@, %@ Uhr
+de = Probenahme am %@
 tags = common
 [validation_check_popup_pcr_test_positive_utc]
 de = UTC %@
@@ -262,14 +250,11 @@ tags = common
 [validation_check_popup_valid_pcr_test_less_than_72_h_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_valid_pcr_test_less_than_72_h_name]
-de = %@
-tags = common
 [validation_check_popup_valid_pcr_test_less_than_72_h_date_of_birth]
 de = Geboren am %@
 tags = common
 [validation_check_popup_valid_pcr_test_less_than_72_h_date_of_issue]
-de = Probenahme am %@, %@ Uhr
+de = Probenahme am %@
 tags = common
 [validation_check_popup_valid_pcr_test_less_than_72_h_utc]
 de = UTC %@
@@ -282,14 +267,11 @@ tags = common
 [validation_check_popup_valid_pcr_test_older_than_72_h_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_valid_pcr_test_older_than_72_h_name]
-de = %@
-tags = common
 [validation_check_popup_valid_pcr_test_older_than_72_h_date_of_birth]
 de = Geboren am %@
 tags = common
 [validation_check_popup_valid_pcr_test_older_than_72_h_date_of_issue]
-de = Probenahme am %@, %@ Uhr
+de = Probenahme am %@
 tags = common
 [validation_check_popup_valid_pcr_test_older_than_72_h_utc]
 de = UTC %@
@@ -301,9 +283,6 @@ de = Genesenenzertifikat gültig
 tags = common
 [validation_check_popup_recovery_proven_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der genesenen Person ab.
-tags = common
-[validation_check_popup_recovery_proven_name]
-de = %@
 tags = common
 [validation_check_popup_recovery_proven_date_of_birth]
 de = Geboren am %@
