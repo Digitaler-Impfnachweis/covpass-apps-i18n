@@ -145,9 +145,6 @@ tags = common
 [test_certification_title]
 de = Antigen-Schnelltest
 tags = common
-[test_certificate_time_of_test]
-de = %@, %d:%d Uhr
-tags = common
 [test_certificate_action_button]
 de = Zertifikate anzeigen
 tags = common
@@ -274,7 +271,7 @@ tags = common
 de = Antigen-Schnelltest
 tags = common
 [certificates_overview_test_certificate_date]
-de = Getestet am %@, %d:%d Uhr
+de = Getestet am %@
 tags = common
 [certificates_overview_pcr_test_certificate_title]
 de = Testzertifikat
@@ -283,7 +280,7 @@ tags = common
 de = PCR-Test
 tags = common
 [certificates_overview_pcr_test_certificate_date]
-de = Probenahme am %@, %d:%d Uhr
+de = Probenahme am %@
 tags = common
 [[detail view: delete certificate]]
 [certificate_delete_button_hint]
@@ -403,9 +400,6 @@ de = Antigen-Schnelltest
 tags = common
 [test_certificate_detail_view_pcr_test_qrcode_screen_title]
 de = PCR-Test
-tags = common
-[test_certificate_detail_view_qrcode_screen_message]
-de = %@, %d:%d Uhr
 tags = common
 [test_certificate_detail_view_qrcode_screen_action_button_title]
 de = Schließen
