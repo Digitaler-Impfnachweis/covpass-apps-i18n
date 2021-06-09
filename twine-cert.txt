@@ -125,16 +125,10 @@ tags = common
 de = Als Favorit markieren
 tags = common
 [[start Screen: partial immunization certificate]]
-[vaccination_partial_immunization_title]
-de = Impfzertifikat
-tags = common
 [vaccination_partial_immunization_action_button]
 de = Zertifikate anzeigen
 tags = common
 [[start screen: full immunization certificate]]
-[vaccination_full_immunization_title]
-de = Impfzertifikat
-tags = common
 [vaccination_full_immunization_action_button]
 de = Zertifikate anzeigen
 tags = common
@@ -142,25 +136,14 @@ tags = common
 de = Abgelaufen
 tags = common
 [[start screen: test certificate]]
-[test_certification_title]
-de = Antigen-Schnelltest
-tags = common
-[test_certificate_time_of_test]
-de = %@, %d:%d Uhr
-tags = common
 [test_certificate_action_button]
 de = Zertifikate anzeigen
 tags = common
+[[start screen: pcr test certificate]]
+[pcr_test_certificate_action_button]
+de = Zertifikate anzeigen
+tags = common
 [[start screen: recovery certificate]]
-[recovery_certificate_title]
-de = Genesenenzertifikat
-tags = common
-[recovery_certificate_valid_until_date]
-de = Gültig bis %@
-tags = common
-[recovery_certificate_valid_from_date]
-de = Gültig ab %@
-tags = common
 [recovery_certificate_action_button]
 de = Zertifikate anzeigen
 tags = common
@@ -201,22 +184,37 @@ tags = common
 [vaccination_certificate_detail_view_incomplete_action_button_title]
 de = Impfung hinzufügen
 tags = common
-[vaccination_certificate_overview_complete_title]
+[vaccination_certificate_overview_complete_from_title]
 de = Vollständiger Impfschutz ab %@
 tags = common
-[vaccination_certificate_overview_complete_message]
+[vaccination_certificate_overview_complete_from_message]
 de = Ihr Impfschutz ist noch nicht vollständig. Der Impfschutz ist erst 14 Tage nach der letzten Impfung vollständig.
+tags = common
+[vaccination_certificate_overview_complete_title]
+de = Vollständiger Impfschutz
+tags = common
+[vaccination_certificate_overview_complete_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
 tags = common
 [vaccination_certificate_overview_complete_action_button_title]
 de = Aktuellen QR-Code anzeigen
 tags = common
 [test_certificate_overview_title]
-de = Negativer Antigen-Schnelltest vom %@, %d:%d Uhr
+de = Negativer Antigen-Schnelltest vom %@
 tags = common
 [test_certificate_overview_message]
 de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
 tags = common
 [test_certificate_overview_action_button_title]
+de = Aktuellen QR-Code anzeigen
+tags = common
+[pcr_test_certificate_overview_title]
+de = Negativer PCR-Test vom %@
+tags = common
+[pcr_test_certificate_overview_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+tags = common
+[pcr_test_certificate_overview_action_button_title]
 de = Aktuellen QR-Code anzeigen
 tags = common
 [recovery_certificate_overview_valid_until_title]
@@ -274,7 +272,7 @@ tags = common
 de = Antigen-Schnelltest
 tags = common
 [certificates_overview_test_certificate_date]
-de = Getestet am %@, %d:%d Uhr
+de = Getestet am %@
 tags = common
 [certificates_overview_pcr_test_certificate_title]
 de = Testzertifikat
@@ -283,7 +281,7 @@ tags = common
 de = PCR-Test
 tags = common
 [certificates_overview_pcr_test_certificate_date]
-de = Probenahme am %@, %d:%d Uhr
+de = Probenahme am %@
 tags = common
 [[detail view: delete certificate]]
 [certificate_delete_button_hint]
@@ -403,9 +401,6 @@ de = Antigen-Schnelltest
 tags = common
 [test_certificate_detail_view_pcr_test_qrcode_screen_title]
 de = PCR-Test
-tags = common
-[test_certificate_detail_view_qrcode_screen_message]
-de = %@, %d:%d Uhr
 tags = common
 [test_certificate_detail_view_qrcode_screen_action_button_title]
 de = Schließen
