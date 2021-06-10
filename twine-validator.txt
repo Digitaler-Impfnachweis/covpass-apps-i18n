@@ -25,13 +25,13 @@ tags = common
 de = Erster Schritt: Den QR-Code mit der CovPassCheck-App scannen
 tags = common
 [validation_first_onboarding_page_message]
-de = Scannen Sie mit der CovPassCheck-App den QR-Code auf einem digitalen COVID-Zertifikat. Die QR-Codes der Papierversion enthalten die gleichen Informationen wie die QR-Codes der elektronische Version in der CovPass-App. Daher sind beide Zertifikatsversionen gleichwertig. Die Daten werden nur zur Prüfung angezeigt und nicht im Smartphone gespeichert. Sie sehen direkt in der CovPassCheck-App, ob das vorgelegte digitale COVID-Zertifikat gültig ist.
+de = Scannen Sie mit der CovPassCheck-App den QR-Code auf einem digitalen COVID-Zertifikat. Die QR-Codes der Papierversion enthalten die gleichen Informationen wie die QR-Codes der elektronische Version in der CovPass-App oder in anderen Apps, in denen digitale COVID-Zertifikate hinterlegt sind. Daher sind beide Zertifikatsversionen gleichwertig.
 tags = common
 [validation_second_onboarding_page_title]
 de = Zweiter Schritt: Die Identität mit einem Ausweisdokument überprüfen
 tags = common
 [validation_second_onboarding_page_message]
-de = Als prüfende Person sehen Sie in der CovPassCheck-App nur den Gültigkeitsstatus des digitalen COVID-Zertifikats sowie den Namen und das Geburtsdatum des Zertifikatsinhabers. Gleichen Sie diese Informationen mit einem Ausweisdokument (z. B. Personalausweis, Reisepass) ab. Eine aktive Internetverbindung ist für die Prüfung nicht erforderlich.
+de = Als prüfende Person sehen Sie in der CovPassCheck-App nur den Gültigkeitsstatus des digitalen COVID-Zertifikats sowie den Namen und das Geburtsdatum des Zertifikatsinhabers. Gleichen Sie diese Informationen mit einem Ausweisdokument (z. B. Personalausweis, Reisepass) ab. Eine aktive Internetverbindung ist für die Prüfung nicht erforderlich. Eine aktive Internetverbindung ist für die Prüfung nicht erforderlich.
 tags = common
 [validation_fourth_onboarding_page_title]
 de = Datenschutz und Datensicherheit
@@ -44,9 +44,6 @@ de = Eine Speicherung, Weitergabe oder Nutzung dieser Daten zu anderen Zwecken i
 tags = common
 [validation_fourth_onboarding_third_list_item]
 de = Die Verwendung der digitalen COVID-Zertifikate ist freiwillig. Niemand darf zur Nutzung gezwungen werden. Der Nachweis eines vollständigen Impfschutzes, eines negativen Testergebnisses oder einer durchgemachten COVID-Infektion kann auch auf andere Weise erbracht werden.
-tags = common
-[validation_fourth_onboarding_fourth_list_item]
-de = Die digitalen COVID-Zertifikate enthalten Gesundheitsdaten. Zum Nachweis in den gesetzlich vorgesehenen Fällen ist nur das Scannen des QR-Codes zulässig. Weitere Daten aus der App dürfen nicht verlangt werden.
 tags = common
 [vaccination_fourth_onboarding_page_message]
  de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
