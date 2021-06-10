@@ -432,7 +432,7 @@ de = Zertifikataussteller / Certificate issuer
 de = Zertifikat gültig ab / Certificate valid from (YYYY-MM-DD)
 tags = common
 [recovery_certificate_detail_view_data_valid_until]
-de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (no more than 180 days after the date of first positive test result)
+de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (no more than 180 days after the date of first positive test result)(YYYY-MM-DD)
 tags = common
 [recovery_certificate_detail_view_data_identifier]
 de = Zertifikatkennung / Unique certificate identifier
