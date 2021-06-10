@@ -152,13 +152,13 @@ tags = common
 [validation_check_popup_unsuccessful_certificate__test_title]
 de = Testzertifikat
 tags = common
-[validation_check_popup_unsuccessful_certificate_vaccination_body]
+[validation_check_popup_unsuccessful_certificate_test_body]
 de = Das Zertifikat weist einen positiven PCR- oder Schnelltest nach.
 tags = common
 [validation_check_popup_unsuccessful_certificate__problem_title]
 de = Technische Probleme
 tags = common
-[validation_check_popup_unsuccessful_certificate_vaccination_body]
+[validation_check_popup_unsuccessful_certificate_problem_body]
 de = Die Signatur ist nicht gültig oder der QR-Code ist nicht lesbar.
 tags = common
 [validation_check_popup_unsuccessful_certificate_button_title]
