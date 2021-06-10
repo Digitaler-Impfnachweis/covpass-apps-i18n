@@ -31,7 +31,7 @@ tags = common
 de = Zweiter Schritt: Die Identität mit einem Ausweisdokument überprüfen
 tags = common
 [validation_second_onboarding_page_message]
-de = Als prüfende Person sehen Sie in der CovPassCheck-App nur den Gültigkeitsstatus des digitalen COVID-Zertifikats sowie den Namen und das Geburtsdatum des Zertifikatsinhabers. Gleichen Sie diese Informationen mit einem Ausweisdokument (z. B. Personalausweis, Reisepass) ab. Eine aktive Internetverbindung ist für die Prüfung nicht erforderlich. Eine aktive Internetverbindung ist für die Prüfung nicht erforderlich.
+de = Als prüfende Person sehen Sie in der CovPassCheck-App nur den Gültigkeitsstatus des digitalen COVID-Zertifikats sowie den Namen und das Geburtsdatum des Zertifikatsinhabers. Gleichen Sie diese Informationen mit einem Ausweisdokument (z. B. Personalausweis, Reisepass) ab. Eine aktive Internetverbindung ist für die Prüfung nicht erforderlich.
 tags = common
 [validation_fourth_onboarding_page_title]
 de = Datenschutz und Datensicherheit
