@@ -120,7 +120,7 @@ tags = common
 de = Zertifikat gültig*
 tags = common
 [validation_check_popup_valid_vaccination_recovery_message]
-de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geimpften Person ab.
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geimpften oder genesenen Person ab.
 tags = common
 [validation_check_popup_valid_vaccination_date_of_birth]
 de = Geboren am %@
@@ -141,7 +141,7 @@ tags = common
 de = Genesenenzertifikat
 tags = common
 [validation_check_popup_unsuccessful_certificate_recovery_body]
-de = Das Datum des ersten positiven Testergebnisses liegt mehr als 180 Tage zurück
+de = Das Datum des ersten positiven Testergebnisses liegt mehr als 180 Tage zurück.
 tags = common
 [validation_check_popup_unsuccessful_certificate__vaccination_title]
 de = Impfzertifikat
