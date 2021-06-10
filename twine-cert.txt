@@ -370,7 +370,7 @@ tags = common
 de = Testhersteller / Test manufacturer
 tags = common
 [test_certificate_detail_view_data_test_date_and_time]
-de = Datum und Uhrzeit der Probenahme / Date and time of the sample collection (YYYY-MM-DD)
+de = Datum und Uhrzeit der Probenahme / Date and time of the sample collection (YYYY-MM-DD, HH:MM)
 tags = common
 [test_certificate_detail_view_data_test_results]
 de = Testergebnis / Test result
