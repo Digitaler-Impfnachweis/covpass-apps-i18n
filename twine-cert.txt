@@ -355,7 +355,7 @@ tags = common
 de = Name, Vorname / Name, first name
 tags = common
 [test_certificate_detail_view_data_date_of_birth]
-de = Geburtsdatum / Date of birth (YYYY-MM-DD, HH:MM)
+de = Geburtsdatum / Date of birth (YYYY-MM-DD)
 tags = common
 [test_certificate_detail_view_data_disease]
 de = Zielkrankheit oder -erreger / Disease or agent targeted
