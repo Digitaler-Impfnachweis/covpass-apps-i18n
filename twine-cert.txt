@@ -88,10 +88,10 @@ tags = common
 de = Scannen Sie den QR-Code von einem Digitalen COVID-Zertifikat der EU. Der Nachweis wird direkt in die CovPass-App übertragen.
 tags = common
 [certificate_add_popup_action_title]
-de = Wie erhalte ich einen QR-Code?
+de = Welchen QR-Code kann ich einscannen?
 tags = common
 [certificate_add_popup_action_title_linked]
-de = #Wie erhalte ich einen QR-Code?::$0#
+de = #Welchen QR-Code kann ich einscannen?::$0#
 tags = common
 [certificate_add_popup_scan_button_title]
 de = QR-Code scannen
