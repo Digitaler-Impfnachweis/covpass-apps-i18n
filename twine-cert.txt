@@ -182,7 +182,7 @@ tags = common
 de = Ihr Impfschutz ist nicht vollständig. Um den QR-Code als Nachweis für einen kompletten Impfschutz vorzeigen zu können, fügen Sie bitte eine weitere Impfung hinzu.
 tags = common
 [vaccination_certificate_detail_view_incomplete_action_button_title]
-de = Impfung hinzufügen
+de = Aktuellen QR-Code anzeigen
 tags = common
 [vaccination_certificate_overview_complete_from_title]
 de = Vollständiger Impfschutz ab %@
