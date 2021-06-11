@@ -7,7 +7,7 @@ tags = common
 de = Willkommen in der CovPassCheck-App
 tags = common
 [start_onboarding_message]
-de = Finden Sie in wenigen Sekunden heraus, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt. 
+de = Finden Sie in wenigen Sekunden heraus, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
 tags = common
 [start_onboarding_secure_title]
 de = Sicher und datensparsam
@@ -71,7 +71,7 @@ tags = common
 de = Zertifikat prüfen
 tags = common
 [validation_start_screen_scan_message]
-de = Scannen Sie jetzt das EU Digitale COVID-Zertifikat. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt. 
+de = Scannen Sie jetzt das EU Digitale COVID-Zertifikat. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
 tags = common
 [validation_start_screen_scan_action_button_title]
 de = Zertifikat scannen
@@ -293,7 +293,7 @@ tags = common
 de = QR-Code wurde nicht erkannt
 tags = common
 [error_scan_qrcode_cannot_be_parsed_message]
-de = Dieser QR-Code gehört offenbar nicht zu einem COVID-Zertifikat. Bitte scannen Sie den QR-Code eines COVID-Zertifikats.
+de = Der QR-Code gehört nicht zu einem Digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
 tags = common
 [error_scan_qrcode_cannot_be_parsed_button_title]
 de = OK

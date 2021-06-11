@@ -7,7 +7,7 @@ tags = common
 de = Willkommen in der CovPass-App
 tags = common
 [start_onboarding_message]
-de = Weisen Sie EU Digitale COVID-Zertifikate ganz einfach mit dem Smartphone nach. 
+de = Weisen Sie EU Digitale COVID-Zertifikate ganz einfach mit dem Smartphone nach.
 tags = common
 [start_onboarding_secure_title]
 de = Absolute Sicherheit Ihrer Daten
@@ -37,7 +37,7 @@ tags = common
 de = Dritter Schritt: Zeigen Sie den QR-Code bei Bedarf vor
 tags = common
 [vaccination_third_onboarding_page_message]
-de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen. 
+de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen.
 tags = common
 [vaccination_fourth_onboarding_page_title]
 de = Datenschutz und Datensicherheit
@@ -500,7 +500,7 @@ tags = common
 de = QR-Code wurde nicht erkannt
 tags = common
 [error_scan_qrcode_cannot_be_parsed_message]
-de = Dieser QR-Code gehört offenbar nicht zu einem Digitalen COVID-Zertifikat der EU. Bitte scannen Sie ein Digitales COVID-Zertifikat der EU.
+de = Der QR-Code gehört nicht zu einem Digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
 tags = common
 [error_scan_qrcode_cannot_be_parsed_button_title]
 de = OK
