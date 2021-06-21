@@ -258,6 +258,9 @@ tags = common
 [app_information_title_open_source]
 de = Open-Source-Lizenzen
 tags = common
+[app_information_message_open_source]
+ de = Die App verwendet die folgenden Open-Source-Bibliotheken:
+ tags = common
 [app_information_version_label]
 de = Version %@
 tags = common
