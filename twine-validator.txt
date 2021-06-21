@@ -7,7 +7,7 @@ tags = common
 de = Willkommen in der CovPassCheck-App
 tags = common
 [start_onboarding_message]
-de = Finden Sie in wenigen Sekunden heraus, ob die geprüfte Person ein gültiges COVID-Zertifikat der EU besitzt.
+de = Finden Sie in wenigen Sekunden heraus, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
 tags = common
 [start_onboarding_secure_title]
 de = Sicher und datensparsam
