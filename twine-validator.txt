@@ -25,7 +25,7 @@ tags = common
 de = Erster Schritt: Den QR-Code mit der CovPassCheck-App scannen
 tags = common
 [validation_first_onboarding_page_message]
-de = Scannen Sie mit der CovPassCheck-App den QR-Code auf einem digitalen COVID-Zertifikat. Die QR-Codes der Papierversion enthalten die gleichen Informationen wie die QR-Codes der elektronische Version in der CovPass-App oder in anderen Apps, in denen digitale COVID-Zertifikate hinterlegt sind. Daher sind beide Zertifikatsversionen gleichwertig.
+de = Scannen Sie mit der CovPassCheck-App den QR-Code auf einem digitalen COVID-Zertifikat der EU. Die QR-Codes der Papierversion enthalten die gleichen Informationen wie die QR-Codes der elektronische Version in der CovPass-App oder in anderen Apps, in denen digitale COVID-Zertifikate der EU hinterlegt sind. Daher sind beide Zertifikatsversionen gleichwertig.
 tags = common
 [validation_second_onboarding_page_title]
 de = Zweiter Schritt: Die Identität mit einem Ausweisdokument überprüfen
@@ -71,7 +71,7 @@ tags = common
 de = Zertifikat prüfen
 tags = common
 [validation_start_screen_scan_message]
-de = Scannen Sie jetzt das EU Digitale COVID-Zertifikat. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
+de = Scannen Sie jetzt das digitale COVID-Zertifikat der EU. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
 tags = common
 [validation_start_screen_scan_action_button_title]
 de = Zertifikat scannen
@@ -80,7 +80,7 @@ tags = common
 de = Offline-Modus
 tags = common
 [validation_start_screen_offline_modus_message]
-de = Um offline prüfen zu können, halten Sie die CovPassCheck-App auf dem aktuellsten Stand. Stellen Sie dafür ab und an eine Verbindung mit dem Internet her.
+de = Um offline prüfen zu können, halten Sie die CovPassCheck-App auf dem aktuellen Stand. Stellen Sie dafür ab und an eine Verbindung mit dem Internet her.
 tags = common
 [validation_start_screen_offline_modus_note_latest_version]
 de = Offline-Modus verfügbar
@@ -98,7 +98,7 @@ tags = common
 de = Internetverbindung erforderlich
 tags = common
 [error_old_version_message]
-de = Das letzte Update ist eine Weile her. Um offline prüfen zu können, halten Sie die CovPassCheck-App auf dem aktuellsten Stand. Stellen Sie dafür eine Verbindung mit dem Internet her.
+de = Das letzte Update ist eine Weile her. Um offline prüfen zu können, halten Sie die CovPassCheck-App auf dem aktuellen Stand. Stellen Sie dafür eine Verbindung mit dem Internet her.
 tags = common
 [error_old_version_button_title]
 de = OK
@@ -296,7 +296,7 @@ tags = common
 de = QR-Code wurde nicht erkannt
 tags = common
 [error_scan_qrcode_cannot_be_parsed_message]
-de = Der QR-Code gehört nicht zu einem Digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
+de = Der QR-Code gehört nicht zu einem digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
 tags = common
 [error_scan_qrcode_cannot_be_parsed_button_title]
 de = OK
