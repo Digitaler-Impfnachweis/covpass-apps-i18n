@@ -7,7 +7,7 @@ tags = common
 de = Willkommen in der CovPass-App
 tags = common
 [start_onboarding_message]
-de = Weisen Sie EU Digitale COVID-Zertifikate ganz einfach mit dem Smartphone nach.
+de = Weisen Sie digitale COVID-Zertifikate der EU ganz einfach mit dem Smartphone nach.
 tags = common
 [start_onboarding_secure_title]
 de = Absolute Sicherheit Ihrer Daten
@@ -25,7 +25,7 @@ tags = common
 de = Erster Schritt: Übertragen Sie das COVID-Zertifikat auf Ihr Smartphone
 tags = common
 [vaccination_first_onboarding_page_message]
-de = Scannen Sie mit der CovPass-App das EU Digitale COVID-Zertifikat für eine Corona-Impfung, ein negatives Corona-Testergebnis oder eine Genesung von der Corona-Infektion. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das COVID-Zertifikat wird sofort auf Ihr Smartphone übertragen.
+de = Scannen Sie mit der CovPass-App das digitale COVID-Zertifikat der EU für eine Corona-Impfung, ein negatives Corona-Testergebnis oder eine Genesung von der Corona-Infektion. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das COVID-Zertifikat wird sofort auf Ihr Smartphone übertragen.
 tags = common
 [vaccination_second_onboarding_page_title]
 de = Zweiter Schritt: Rufen Sie den QR-Code in der CovPass-App auf
@@ -63,13 +63,13 @@ de = Schließen
 tags = common
 [[start Screen]]
 [vaccination_start_screen_title]
-de = EU Digitales COVID-Zertifikat
+de = Digitale COVID-Zertifikate der EU
 tags = common
 [vaccination_start_screen_note_title]
 de = Fügen Sie einen Nachweis hinzu
 tags = common
 [vaccination_start_screen_note_message]
-de = Sie haben aktuell kein Digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
+de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
 tags = common
 [vaccination_start_screen_qrcode_incomplete_subtitle]
 de = Unvollständiger Impfschutz
@@ -85,7 +85,7 @@ tags = common
 de = Nachweis hinzufügen
 tags = common
 [certificate_add_popup_message]
-de = Scannen Sie den QR-Code von einem Digitalen COVID-Zertifikat der EU. Der Nachweis wird direkt in die CovPass-App übertragen.
+de = Scannen Sie den QR-Code von einem digitalen COVID-Zertifikat der EU. Der Nachweis wird direkt in die CovPass-App übertragen.
 tags = common
 [certificate_add_popup_action_title]
 de = Welchen QR-Code kann ich einscannen?
@@ -292,7 +292,7 @@ tags = common
 de = Impfung %d von %d
 tags = common
 [vaccination_certificate_detail_view_vaccination_headline]
-de = EU Digitales COVID-Impfzertifikat
+de = Digitales COVID-Impfzertifikat der EU
 tags = common
 [vaccination_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
@@ -349,7 +349,7 @@ tags = common
 de = PCR-Test
 tags = common
 [test_certificate_detail_view_headline]
-de = EU Digitales COVID-Testzertifikat
+de = Digitales COVID-Testzertifikat der EU
 tags = common
 [test_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
@@ -409,7 +409,7 @@ tags = common
 de = Vollständige Genesung
 tags = common
 [recovery_certificate_detail_view_headline]
-de = EU Digitales COVID-Genesenenzertifikat
+de = Digitales COVID-Genesenenzertifikat der EU
 tags = common
 [recovery_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
@@ -472,7 +472,7 @@ tags = common
 de = Erfolgreich gelöscht
 tags = common
 [delete_result_dialog_message]
-de = Das Digitale COVID-Zertifikat wurde erfolgreich von diesem Gerät entfernt.
+de = Das digitale COVID-Zertifikat der EU wurde erfolgreich von diesem Gerät entfernt.
 tags = common
 [delete_result_dialog_positive_button_text]
 de = OK
@@ -500,7 +500,7 @@ tags = common
 de = QR-Code wurde nicht erkannt
 tags = common
 [error_scan_qrcode_cannot_be_parsed_message]
-de = Der QR-Code gehört nicht zu einem Digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
+de = Der QR-Code gehört nicht zu einem digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
 tags = common
 [error_scan_qrcode_cannot_be_parsed_button_title]
 de = OK
