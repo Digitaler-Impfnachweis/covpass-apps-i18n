@@ -108,7 +108,8 @@ tags = common
 de = Kamerazugriff benötigt
 tags = common
 [scan_dialog_camera_access_message]
-de = Die CovPassCheck-App verwendet die Kamera Ihres Smartphones, um einen QR-Code scannen zu können.\n\nDer Zugriff auf Ihre Kamera erfolgt nur während der Nutzung der App und dann auch nur mit Ihrer Erlaubnis. Sie haben jederzeit die Möglichkeit, in den Einstellungen Ihres Smartphones die Berechtigung zu ändern.
+de = Die CovPassCheck-App verwendet die Kamera Ihres Smartphones, um einen QR-Code scannen zu können.
+Der Zugriff auf Ihre Kamera erfolgt nur während der Nutzung der App und dann auch nur mit Ihrer Erlaubnis. Sie haben jederzeit die Möglichkeit, in den Einstellungen Ihres Smartphones die Berechtigung zu ändern.
 tags = common
 [scan_dialog_camera_access_action_button]
 de = Zugriff erlauben
@@ -129,7 +130,7 @@ tags = common
 de = Zertifikat gültig*
 tags = common
 [validation_check_popup_valid_vaccination_recovery_message]
-de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geimpften oder genesenen Person ab.
+de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
 [validation_check_popup_valid_vaccination_date_of_birth]
 de = Geboren am %@
@@ -146,101 +147,48 @@ tags = common
 [validation_check_popup_unsuccessful_certificate_message]
 de = Das geprüfte Zertifikat ist aus einem der folgenden Gründe ungültig:
 tags = common
-[validation_check_popup_unsuccessful_certificate__recovery_title]
-de = Genesenenzertifikat
+[validation_check_popup_unsuccessful_certificate_not_valid_title]
+de = Ungültiges Zertifikat
 tags = common
-[validation_check_popup_unsuccessful_certificate_recovery_body]
-de = Das Datum des ersten positiven Testergebnisses liegt mehr als 180 Tage zurück.
+[validation_check_popup_unsuccessful_certificate_not_valid_message]
+de = Das Zertifikat entspricht nicht den in Deutschland geltenden Regelungen für EU Digitale COVID-Zertifikate.
 tags = common
-[validation_check_popup_unsuccessful_certificate__vaccination_title]
-de = Impfzertifikat
-tags = common
-[validation_check_popup_unsuccessful_certificate_vaccination_body]
-de = Das Zertifikat weist keine vollständige Impfung nach. Möglicherweise hat die Person noch nicht alle Impfdosen erhalten oder die letzte Impfung liegt weniger als 14 Tage zurück.
-tags = common
-[validation_check_popup_unsuccessful_certificate__test_title]
-de = Testzertifikat
-tags = common
-[validation_check_popup_unsuccessful_certificate_test_body]
-de = Das Zertifikat weist einen positiven PCR- oder Schnelltest nach.
-tags = common
-[validation_check_popup_unsuccessful_certificate__problem_title]
+[validation_check_popup_unsuccessful_certificate_technical_problems_title]
 de = Technische Probleme
 tags = common
-[validation_check_popup_unsuccessful_certificate_problem_body]
+[validation_check_popup_unsuccessful_certificate_technical_problems_message]
 de = Die Signatur ist nicht gültig oder der QR-Code ist nicht lesbar.
 tags = common
 [validation_check_popup_unsuccessful_certificate_button_title]
 de = Weiteres Zertifikat scannen
-tags = common
-[validation_check_popup_test_older_than_24_h_title]
-de = Negativer Schnelltest vom %@
-tags = common
-[validation_check_popup_test_older_than_24_h_message]
-de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
-tags = common
-[validation_check_popup_test_older_than_24_h_date_of_birth]
-de = Geboren am %@
-tags = common
-[validation_check_popup_test_older_than_24_h_date_of_issue]
-de = Getestet am %@
-tags = common
-[validation_check_popup_test_older_than_24_h_utc]
-de = UTC %@
-tags = common
-[validation_check_popup_test_older_than_24_h_button_title]
-de = Weiteres Zertifikat scannen
-[validation_check_popup_test_less_than_24_h_title]
+[validation_check_popup_test_title]
 de = Negativer Schnelltest von vor %d Stunden
 tags = common
-[validation_check_popup_test_less_than_24_h_message]
+[validation_check_popup_test_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_test_less_than_24_h_date_of_birth]
+[validation_check_popup_test_date_of_birth]
 de = Geboren am %@
 tags = common
-[validation_check_popup_test_less_than_24_h_date_of_issue]
-de = Getestet am %@
+[validation_check_popup_test_date_of_issue]
+de = Zeitpunkt der Probenahme
 tags = common
-[validation_check_popup_test_less_than_24_h_utc]
-de = UTC %@
-tags = common
-[validation_check_popup_test_less_than_24_h_button_title]
+[validation_check_popup_test_button_title]
 de = Weiteres Zertifikat scannen
 tags = common
-[validation_check_popup_valid_pcr_test_less_than_72_h_title]
+[validation_check_popup_valid_pcr_test_title]
 de = Negativer PCR-Test von vor %d Stunden
 tags = common
-[validation_check_popup_valid_pcr_test_less_than_72_h_message]
+[validation_check_popup_valid_pcr_test_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
 tags = common
-[validation_check_popup_valid_pcr_test_less_than_72_h_date_of_birth]
+[validation_check_popup_valid_pcr_test_date_of_birth]
 de = Geboren am %@
 tags = common
-[validation_check_popup_valid_pcr_test_less_than_72_h_date_of_issue]
-de = Probenahme am %@
+[validation_check_popup_valid_pcr_test_date_of_issue]
+de = Zeitpunkt der Probenahme
 tags = common
-[validation_check_popup_valid_pcr_test_less_than_72_h_utc]
-de = UTC %@
-tags = common
-[validation_check_popup_valid_pcr_test_less_than_72_h_button_title]
-de = Weiteres Zertifikat scannen
-[validation_check_popup_valid_pcr_test_older_than_72_h_title]
-de = Negativer PCR-Test vom %@
-tags = common
-[validation_check_popup_valid_pcr_test_older_than_72_h_message]
-de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
-tags = common
-[validation_check_popup_valid_pcr_test_older_than_72_h_date_of_birth]
-de = Geboren am %@
-tags = common
-[validation_check_popup_valid_pcr_test_older_than_72_h_date_of_issue]
-de = Probenahme am %@
-tags = common
-[validation_check_popup_valid_pcr_test_older_than_72_h_utc]
-de = UTC %@
-tags = common
-[validation_check_popup_valid_pcr_test_older_than_72_h_button_title]
+[validation_check_popup_valid_pcr_test_button_title]
 de = Weiteres Zertifikat scannen
 [[app information]]
 [app_information_title]
