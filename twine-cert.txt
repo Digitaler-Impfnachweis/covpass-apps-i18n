@@ -127,6 +127,148 @@ tags = common
 [certificate_action_button_check_validity]
 de = Gültigkeit prüfen
 tags = common
+[[Screen: check validity]]
+[certificate_check_validity_title]
+de = Gültigkeit prüfen
+tags = common
+[certificate_check_validity_message]
+de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
+tags = common
+[certificate_check_validity_selection_country]
+de = Land
+tags = common
+[certificate_check_validity_selection_country_title]
+de = Reiseland wählen
+tags = common
+[certificate_check_validity_selection_country_action_button]
+de = Übernehmen
+tags = common
+[certificate_check_validity_selection_date]
+de = Datum
+tags = common
+[certificate_check_validity_selection_date_title]
+de = Datum wählen
+tags = common
+[certificate_check_validity_selection_date_action_button]
+de = Weiter
+tags = common
+[certificate_check_validity_selection_time_title]
+de = Zeit wählen
+tags = common
+[certificate_check_validity_selection_time_action_button]
+de = OK
+tags = common
+[certificate_check_validity_loading]
+de = Zertifikate werden geprüft
+tags = common
+[certificate_check_validity_no_certificate_saved_title]
+de = Sie haben noch keine Zertifikate gespeichert
+tags = common
+[certificate_check_validity_no_certificate_saved_message]
+de = Fügen Sie ein Zertifikat hinzu, um dessen Gültigkeit zu überprüfen.
+tags = common
+[certificate_check_validity_vaccination]
+de = Impfzertifikat
+tags = common
+[certificate_check_validity_test]
+de = Testzertifikat
+tags = common
+[certificate_check_validity_recovery]
+de = Genesenenzertifikat
+tags = common
+[certificate_check_validity_result_valid]
+de = Gültig
+tags = common
+[certificate_check_validity_result_not_valid]
+de = Berechtigt nicht zur Einreise
+tags = common
+[certificate_check_validity_result_not_testable]
+de = Nicht vollständig prüfbar
+tags = common
+[certificate_check_validity_note]
+de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#.
+tags = common
+[certificate_check_validity_detail_view_vaccination_result_title]
+de = Digitales COVID-Impfzertifikat der EU
+tags = common
+[certificate_check_validity_detail_view_vaccination_result_button]
+de = QR-Code anzeigen
+tags = common
+[certificate_check_validity_detail_view_vaccination_result_note_de]
+de = Das Impfzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen. Informationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu/de::https://reopen.europa.eu/de#.
+tags = common
+[certificate_check_validity_detail_view_vaccination_result_note_en]
+de = The vaccination certificate is valid proof for travel within the EU. The member countries have different entry requirements. You can find more information in the #Frequently Asked Questions::Frequently Asked Questions#. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination. Information on the current travel restrictions that apply to EU countries can be found via #https://reopen.europa.eu/de::https://reopen.europa.eu/de#.
+tags = common
+[certificate_check_validity_detail_view_test_result_title]
+de = Digitales COVID-Testzertifikat der EU
+tags = common
+[certificate_check_validity_detail_view_test_result_button]
+de = QR-Code anzeigen
+tags = common
+[certificate_check_validity_detail_view_test_result_note_de]
+de = Das Testzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#.  Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen. Informationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu/de::https://reopen.europa.eu/de#.
+tags = common
+[certificate_check_validity_detail_view_test_result_note_en]
+de = The test certificate is valid proof for travel within the EU. The member countries have different entry requirements. You can find more information in the #Frequently Asked Questions::Frequently Asked Questions#. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination. Information on the current travel restrictions that apply to EU countries can be found via #https://reopen.europa.eu/de::https://reopen.europa.eu/de#.
+tags = common
+[certificate_check_validity_detail_view_recovery_result_title]
+de = Digitales COVID-Genesenenzertifikat der EU
+tags = common
+[certificate_check_validity_detail_view_recovery_result_button]
+de = QR-Code anzeigen
+tags = common
+[certificate_check_validity_detail_view_recovery_result_note_de]
+de = Das Genesenenzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen. Informationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu/de::https://reopen.europa.eu/de#.
+tags = common
+[certificate_check_validity_detail_view_recovery_result_note_en]
+de = The recovery certificate is valid proof for travel within the EU. The member countries have different entry requirements. You can find more information in the #Frequently Asked Questions::Frequently Asked Questions#. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination. Information on the current travel restrictions that apply to EU countries can be found via #https://reopen.europa.eu/de::https://reopen.europa.eu/de#.
+tags = common
+[certificate_check_validity_detail_view_result_valid_title]
+de = Dieses Zertifikat ist am Reisedatum gültig
+tags = common
+[certificate_check_validity_detail_view_result_valid_message]
+de = Für %@, am %@
+tags = common
+[certificate_check_validity_detail_view_result_not_testable_title]
+de = Dieses Zertifikat ist nicht vollständig prüfbar
+tags = common
+[certificate_check_validity_detail_view_result_not_testable_first_message]
+de = Für %@, am %@
+tags = common
+[certificate_check_validity_detail_view_result_not_testable_second_message]
+de = Leider ist eine automatische Prüfung nicht möglich. Überprüfen Sie die unten markierten Werte bitte selbst.
+tags = common
+[certificate_check_validity_detail_view_result_not_testable_note_title]
+de = Überprüfen Sie diesen Wert
+tags = common
+[certificate_check_validity_detail_view_result_not_testable_note_message]
+de = Regel des Ziellands: Ein Antigentest ist maximal 48 h gültig.
+tags = common
+[certificate_check_validity_detail_view_result_not_valid_title]
+de = Dieses Zertifikat ist am Reisedatum nicht gültig
+tags = common
+[certificate_check_validity_detail_view_result_not_valid_message]
+de = Für %@, am %@
+tags = common
+[certificate_check_validity_detail_view_result_not_valid_note_title]
+de = Dieser Wert erfüllt nicht Regel „TR01"
+tags = common
+[certificate_check_validity_detail_view_result_not_valid_note_message]
+de = Regel des Ziellands: Genesenenzertifikate sind bis zu 180 Tage gültig.
+tags = common
+[error_check_validity_no_internet_title]
+de = Keine Internetverbindung
+tags = common
+[error_check_validity_no_internet_message]
+de = Um die Gültigkeit des Zertifikats prüfen zu können, stellen Sie bitte eine Verbindung mit dem Internet her.
+tags = common
+[error_check_validity_no_internet_button_try_again]
+de = Nochmal versuchen
+tags = common
+[error_check_validity_no_internet_button_cancel]
+de = Abbrechen
+tags = common
 [[start Screen: partial immunization certificate]]
 [vaccination_partial_immunization_action_button]
 de = Zertifikate anzeigen
