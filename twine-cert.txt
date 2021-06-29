@@ -124,6 +124,9 @@ tags = common
 [certificate_favorite_button_hint]
 de = Als Favorit markieren
 tags = common
+[certificate_action_button_check_validity]
+de = Gültigkeit prüfen
+tags = common
 [[start Screen: partial immunization certificate]]
 [vaccination_partial_immunization_action_button]
 de = Zertifikate anzeigen
