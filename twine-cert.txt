@@ -295,7 +295,7 @@ tags = common
 de = Digitales COVID-Impfzertifikat der EU
 tags = common
 [vaccination_certificate_detail_view_vaccination_note]
-de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigen.
+de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
 tags = common
 [vaccination_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
