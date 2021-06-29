@@ -203,7 +203,7 @@ tags = common
 de = Kontakt bei technischen Fragen zur CovPassCheck-App
 tags = common
 [app_information_message_contact_support_phone]
-de = Telefon: #0800-4747-002::tel:0800-4747-002#
+de = Telefon: #0800–4747–002::tel:0800–4747–002#
 tags = common
 [app_information_message_contact_support_mail]
 de = E-Mail: #support@covpasscheck-app.de::mailto:support@covpasscheck-app.de#

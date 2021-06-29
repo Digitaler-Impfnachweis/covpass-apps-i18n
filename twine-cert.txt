@@ -553,7 +553,7 @@ tags = common
 de = Kontakt bei technischen Fragen zur CovPass-App
 tags = common
 [app_information_message_contact_support_phone]
-de = Telefon: #0800-4747-001::tel:0800-4747-001#
+de = Telefon: #0800–4747–001::tel:0800–4747–001#
 tags = common
 [app_information_message_contact_support_mail]
 de = E-Mail: #support@covpass-app.de::mailto:support@covpass-app.de#
