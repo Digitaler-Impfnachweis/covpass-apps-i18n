@@ -118,7 +118,7 @@ tags = common
 de = Das Testzertifikat kann nicht hinzugefügt werden
 tags = common
 [error_test_certificate_not_valid_message]
-de = Der von Ihnen gescannte Nachweis für einen Corona-Test weist kein negatives Testergebnis nach. Die aktuelle Version der CovPass-App kann nur negative Corona-Testergebnisse speichern.
+de = Der von Ihnen gescannte Nachweis für einen Corona-Test weist kein negatives Testergebnis nach. Die aktuelle Version der CovPass-App kann nur negative Corona-Testergebnisse speichern. (PASS_15)
 tags = common
 [error_test_certificate_not_valid_button_title]
 de = OK
@@ -614,7 +614,7 @@ tags = common
 de = Möchten Sie das COVID-Zertifikat wirklich löschen?
 tags = common
 [dialog_delete_certificate_message]
-de = Die Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
+de = Die Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich. (PASS_09)
 tags = common
 [dialog_delete_certificate_button_delete]
 de = Löschen
@@ -626,7 +626,7 @@ tags = common
 de = Erfolgreich gelöscht
 tags = common
 [delete_result_dialog_message]
-de = Das digitale COVID-Zertifikat der EU wurde erfolgreich von diesem Gerät entfernt.
+de = Das digitale COVID-Zertifikat der EU wurde erfolgreich von diesem Gerät entfernt. (PASS_10)
 tags = common
 [delete_result_dialog_positive_button_text]
 de = OK
@@ -636,7 +636,7 @@ tags = common
 de = Entschuldigung
 tags = common
 [error_standard_unexpected_message]
-de = Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es später erneut.
+de = Es ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es später erneut. (PASS_01)
 tags = common
 [error_standard_unexpected_button_title]
 de = OK
@@ -654,7 +654,7 @@ tags = common
 de = QR-Code wurde nicht erkannt
 tags = common
 [error_scan_qrcode_cannot_be_parsed_message]
-de = Der QR-Code gehört nicht zu einem digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
+de = Der QR-Code gehört nicht zu einem digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden. (PASS_03)
 tags = common
 [error_scan_qrcode_cannot_be_parsed_button_title]
 de = OK
@@ -672,7 +672,7 @@ tags = common
 de = COVID-Zertifikat enthält keine gültige Signatur
 tags = common
 [error_scan_qrcode_without_seal_message]
-de = Möglicherweise wurde das Zertifikat von einer nicht autorisierten Einrichtung erstellt oder die App ist nicht auf dem aktuellen Stand. Im zuletzt genannten Fall stellen Sie eine Verbindung mit dem Internet her und versuchen Sie es später erneut.
+de = Möglicherweise wurde das Zertifikat von einer nicht autorisierten Einrichtung erstellt oder die App ist nicht auf dem aktuellen Stand. Im zuletzt genannten Fall stellen Sie eine Verbindung mit dem Internet her und versuchen Sie es später erneut. (PASS_06)
 tags = common
 [error_scan_qrcode_without_seal_button_title]
 de = OK
@@ -682,7 +682,7 @@ tags = common
 de = COVID-Zertifikat wurde bereits hinzugefügt
 tags = common
 [duplicate_certificate_dialog_message]
-de = Das gescannte COVID-Zertifikat ist bereits in der App hinterlegt. Möglicherweise haben Sie das COVID-Zertifikat doppelt gescannt.
+de = Das gescannte COVID-Zertifikat ist bereits in der App hinterlegt. Möglicherweise haben Sie das COVID-Zertifikat doppelt gescannt. (PASS_07)
 tags = common
 [duplicate_certificate_dialog_button_title]
 de = OK
