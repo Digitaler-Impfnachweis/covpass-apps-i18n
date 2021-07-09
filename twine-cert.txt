@@ -146,6 +146,9 @@ tags = common
 [certificate_check_validity_selection_country_title]
 de = Reiseland wählen
 tags = common
+[certificate_check_validity_selection_country_disclaimer]
+de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht.
+tags = common
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
 tags = common
