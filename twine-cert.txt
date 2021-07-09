@@ -146,6 +146,10 @@ tags = common
 [certificate_check_validity_selection_country_title]
 de = Reiseland wählen
 tags = common
+[certificate_check_validity_selection_country_countries]
+de =
+"Italien","Litauen","Dänemark","Griechenland","Tschechien","Kroatien","Island","Portugal","Polen","Belgien","Bulgarien","Deutschland","Luxemburg","Estlad","Zypern","Spanien","Niederlande","Österreich","Lettland","Liechtenstein","Finnland","Schweden","Slowenien","Rumänien","Norwegen","Slowakei","Frankreich","Malta","Ungarn","Irland","Schweiz"
+tags = common
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
 tags = common
