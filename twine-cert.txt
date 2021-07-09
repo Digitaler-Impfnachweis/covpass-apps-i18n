@@ -146,6 +146,9 @@ tags = common
 [certificate_check_validity_selection_country_title]
 de = Reiseland wählen
 tags = common
+[certificate_check_validity_selection_country_note]
+de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen# und unter #https://reopen.europa.eu/de::https://reopen.europa.eu/de#.
+tags = common
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
 tags = common
