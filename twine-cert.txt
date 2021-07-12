@@ -146,6 +146,99 @@ tags = common
 [certificate_check_validity_selection_country_title]
 de = Reiseland wählen
 tags = common
+[IT]
+de = Italien
+tags = common
+[LT]
+de = Litauen
+tags = common
+[DK]
+de = Dänemark
+tags = common
+[GR]
+de = Griechenland
+tags = common
+[CZ]
+de = Tschechien
+tags = common
+[HR]
+de = Kroatien
+tags = common
+[IS]
+de = Island
+tags = common
+[PT]
+de = Portugal
+tags = common
+[PL]
+de = Polen
+tags = common
+[BE]
+de = Belgien
+tags = common
+[BG]
+de = Bulgarien
+tags = common
+[DE]
+de = Deutschland
+tags = common
+[LU]
+de = Luxemburg
+tags = common
+[EE]
+de = Estland
+tags = common
+[CY]
+de = Zypern
+tags = common
+[ES]
+de = Spanien
+tags = common
+[NL]
+de = Niederlande
+tags = common
+[AT]
+de = Österreich
+tags = common
+[LV]
+de = Lettland
+tags = common
+[LI]
+de = Liechtenstein
+tags = common
+[FI]
+de = Finnland
+tags = common
+[SE]
+de = Schweden
+tags = common
+[SI]
+de = Slowenien
+tags = common
+[RO]
+de = Rumänien
+tags = common
+[NO]
+de = Norwegen
+tags = common
+[SK]
+de = Slowakei
+tags = common
+[FR]
+de = Frankreich
+tags = common
+[MT]
+de = Malta
+tags = common
+[HU]
+de = Ungarn
+tags = common
+[IE]
+de = Irland
+tags = common
+[CH]
+de = Schweiz
+tags = common
 [certificate_check_validity_selection_country_note]
 de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen# und unter #https://reopen.europa.eu/de::https://reopen.europa.eu/de#.
 tags = common
