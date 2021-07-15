@@ -95,10 +95,10 @@ tags = common
 de = Letztes Update: %@
 tags = common
 [validation_start_screen_offline_modus_certificates]
-de = Zertifikate:
+de = Zertifikate: %@
 tags = common
 [validation_start_screen_offline_modus_rules]
-de = Regelsets:
+de = Regelsets: %@
 tags = common
 [error_old_version_title]
 de = Internetverbindung erforderlich
