@@ -240,7 +240,7 @@ tags = common
 de = Schweiz
 tags = common
 [certificate_check_validity_selection_country_note]
-de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen# und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
+de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
@@ -288,7 +288,7 @@ tags = common
 de = Nicht vollständig prüfbar
 tags = common
 [certificate_check_validity_note]
-de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen# und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
+de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
 [certificate_check_validity_detail_view_vaccination_result_title]
 de = Digitales COVID-Impfzertifikat der EU
@@ -297,7 +297,7 @@ tags = common
 de = QR-Code anzeigen
 tags = common
 [certificate_check_validity_detail_view_vaccination_result_note_de]
-de = Das Impfzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
+de = Das Impfzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den Häufigen Fragen. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
 [certificate_check_validity_detail_view_vaccination_result_note_en]
 de = The vaccination certificate is valid proof for travel within the EU. The member countries have different entry requirements. You can find more information in the #Frequently Asked Questions::Frequently Asked Questions#. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nInformation on the current travel restrictions that apply to EU countries can be found via #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -309,7 +309,7 @@ tags = common
 de = QR-Code anzeigen
 tags = common
 [certificate_check_validity_detail_view_test_result_note_de]
-de = Das Testzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#.  Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
+de = Das Testzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den Häufigen Fragen.  Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
 [certificate_check_validity_detail_view_test_result_note_en]
 de = The test certificate is valid proof for travel within the EU. The member countries have different entry requirements. You can find more information in the #Frequently Asked Questions::Frequently Asked Questions#. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nInformation on the current travel restrictions that apply to EU countries can be found via #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -321,7 +321,7 @@ tags = common
 de = QR-Code anzeigen
 tags = common
 [certificate_check_validity_detail_view_recovery_result_note_de]
-de = Das Genesenenzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
+de = Das Genesenenzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den Häufigen Fragen. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
 [certificate_check_validity_detail_view_recovery_result_note_en]
 de = The recovery certificate is valid proof for travel within the EU. The member countries have different entry requirements. You can find more information in the #Frequently Asked Questions::Frequently Asked Questions#. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nInformation on the current travel restrictions that apply to EU countries can be found via #https://reopen.europa.eu::https://reopen.europa.eu#.
