@@ -1,7 +1,7 @@
 [[app]]
 [validator_app_name]
 de = CovPass Check
-en = CovPass check
+en = CovPass Check
 tags = common
 [[onboarding]]
 [start_onboarding_title]
