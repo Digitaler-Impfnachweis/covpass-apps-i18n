@@ -62,6 +62,18 @@ tags = common
 de = Schließen
 tags = common
 [[start Screen]]
+[dialog_start_screen_title]
+de = Neues Update verfügbar
+tags = common
+[dialog_start_screen_message]
+de = Möchten Sie jetzt die CovPass-App aktualisieren?
+tags = common
+[dialog_start_screen_button_later]
+de = Später
+tags = common
+[dialog_start_screen_button_update]
+de = Aktualisieren
+tags = common
 [vaccination_start_screen_title]
 de = Digitale COVID-Zertifikate der EU
 tags = common
