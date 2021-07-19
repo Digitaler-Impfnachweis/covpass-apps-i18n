@@ -332,6 +332,12 @@ tags = common
 [certificate_check_validity_detail_view_result_valid_message]
 de = Für %@, am %@
 tags = common
+[certificate_check_validity_detail_view_result_valid_info]
+de = Es wurden %d Regeln des Ziellandes erfolgreich überprüft.
+tags = common
+[certificate_check_validity_detail_view_result_valid_info_no_rules]
+de = Für das gewählte Land und den gewählten Zeitpunkt sind für diesen Zertifikattyp derzeit keine Einreiseregeln vorhanden.
+tags = common
 [certificate_check_validity_detail_view_result_not_testable_title]
 de = Dieses Zertifikat ist nicht vollständig prüfbar
 tags = common
