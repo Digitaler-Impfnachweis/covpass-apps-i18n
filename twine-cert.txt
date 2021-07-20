@@ -517,12 +517,15 @@ en = Display certificates
 tags = common
 [error_connect_to_internet_title]
 de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
+en = Turn off Airplane Mode or use Wi-Fi to access data
 tags = common
 [error_connect_to_internet_button_settings]
 de = Einstellungen
+en = Settings
 tags = common
 [error_connect_to_internet_button_ok]
 de = OK
+en = OK
 tags = common
 [vaccination_full_immunization_loading_message_no_internet]
 de = Der QR-Code wird angezeigt, sobald Ihr Gerät mit dem Internet verbunden ist.
