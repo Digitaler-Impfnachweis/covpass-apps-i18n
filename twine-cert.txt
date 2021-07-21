@@ -328,7 +328,7 @@ en = Switzerland
 tags = common
 [certificate_check_validity_selection_country_note]
 de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
-en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and on the #Re-open EU::Re-open EU# information page.
+en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
@@ -392,7 +392,7 @@ en = Full check not possible
 tags = common
 [certificate_check_validity_note]
 de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
-en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the frequently asked questions and on the #Re-open EU::Re-open EU# information page. 
+en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#. 
 tags = common
 [certificate_check_validity_detail_view_vaccination_result_title]
 de = Digitales COVID-Impfzertifikat der EU
