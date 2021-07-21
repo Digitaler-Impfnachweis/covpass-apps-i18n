@@ -96,6 +96,7 @@ de = Aktualisieren
 tags = common
 [vaccination_start_screen_title]
 de = Digitale COVID-Zertifikate der EU
+en = EU Digital COVID Certificates
 tags = common
 [[start Screen]]
 [vaccination_start_screen_note_title]
