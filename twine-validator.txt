@@ -319,7 +319,7 @@ en = The app uses the following open-source libraries:
 tags = common
 [app_information_version_label]
 de = Version %@
-en = Version %d
+en = Version %@
 tags = common
 [[error handling]]
 [error_standard_unexpected_title]
