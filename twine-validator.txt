@@ -219,7 +219,7 @@ de = Weiteres Zertifikat scannen
 en = Scan another certificate
 [validation_check_popup_test_title]
 de = Negativer Schnelltest von vor %d Stunden
-en = Negative rapid test from %@ hours ago
+en = Negative rapid test from %d hours ago
 tags = common
 [validation_check_popup_test_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
@@ -239,7 +239,7 @@ en = Scan another certificate
 tags = common
 [validation_check_popup_valid_pcr_test_title]
 de = Negativer PCR-Test von vor %d Stunden
-en = Negative PCR test from %@ hours ago
+en = Negative PCR test from %d hours ago
 tags = common
 [validation_check_popup_valid_pcr_test_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
