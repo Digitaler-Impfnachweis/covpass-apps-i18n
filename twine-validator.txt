@@ -82,6 +82,22 @@ tags = common
 de = OK
 en = OK
 tags = common
+[dialog_start_screen_title]
+de = Neues Update verfügbar
+en = New update available
+tags = common
+[dialog_start_screen_message]
+de = Möchten Sie jetzt die CovPassCheck-App aktualisieren?
+en = Would you like to update the CovPassCheck-App now?
+tags = common
+[dialog_start_screen_button_later]
+de = Nicht jetzt
+en = Not now
+tags = common
+[dialog_start_screen_button_update]
+de = Aktualisieren
+en = Update
+tags = common
 [[start screen]]
 [validation_start_screen_title]
 de = Übersicht
