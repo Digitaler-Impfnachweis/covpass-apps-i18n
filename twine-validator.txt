@@ -177,6 +177,7 @@ en = Certificate valid*
 tags = common
 [validation_check_popup_valid_vaccination_recovery_message]
 de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+en = Check the following data against an ID document from the person you are checking.
 tags = common
 [validation_check_popup_valid_vaccination_date_of_birth]
 de = Geboren am %@
