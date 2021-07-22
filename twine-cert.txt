@@ -84,15 +84,19 @@ en = Close
 tags = common
 [dialog_start_screen_title]
 de = Neues Update verfügbar
+en = New update available
 tags = common
 [dialog_start_screen_message]
 de = Möchten Sie jetzt die CovPass-App aktualisieren?
+en = Would you like to update the CovPass-App now?
 tags = common
 [dialog_start_screen_button_later]
-de = Später
+de = Nicht jetzt
+en = Not now
 tags = common
 [dialog_start_screen_button_update]
 de = Aktualisieren
+en = Update
 tags = common
 [vaccination_start_screen_title]
 de = Digitale COVID-Zertifikate der EU
@@ -446,9 +450,11 @@ en = For %@ on %@
 tags = common
 [certificate_check_validity_detail_view_result_valid_info]
 de = Es wurden %d Regeln des Ziellandes erfolgreich überprüft.
+en = %d rules of the destination country were successfully checked.
 tags = common
 [certificate_check_validity_detail_view_result_valid_info_no_rules]
 de = Für das gewählte Land und den gewählten Zeitpunkt sind für diesen Zertifikattyp derzeit keine Einreiseregeln vorhanden.
+en = There are currently no entry rules for this certificate type for the selected country and date.
 tags = common
 [certificate_check_validity_detail_view_result_not_testable_title]
 de = Dieses Zertifikat ist nicht vollständig prüfbar
