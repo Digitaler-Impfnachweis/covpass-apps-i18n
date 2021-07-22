@@ -76,7 +76,8 @@ de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutze
 en = Detailed information about this data processing is available in the privacy notice: 
 tags = common
 [vaccination_fourth_onboarding_page_button_title]
-de = OK
+de = Alles klar
+en = OK
 tags = common
 [vaccination_privacy_policy_page_button_title]
 de = Schließen
@@ -549,24 +550,6 @@ tags = common
 de = OK
 en = OK
 tags = common
-[vaccination_full_immunization_loading_message_no_internet]
-de = Der QR-Code wird angezeigt, sobald Ihr Gerät mit dem Internet verbunden ist.
-tags = common
-[vaccination_full_immunization_loading_message_check_internet]
-de = Der QR-Code kann nicht geladen werden. Bitte überprüfen Sie Ihre Internetverbindung.
-tags = common
-[vaccination_full_immunization_loading_message_error]
-de = Es ist ein unerwarteter Fehler aufgetreten. Der QR-Code kann aktuell nicht geladen werden.
-tags = common
-[vaccination_full_immunization_loading_message_14_days_title]
-de = Der QR-Code wird ab dem %@ hier angezeigt.
-tags = common
-[vaccination_full_immunization_loading_message_14_days_title_pattern]
-de = Der QR-Code wird ab dem %@ hier angezeigt.
-tags = common
-[vaccination_full_immunization_loading_message_14_days_message]
-de = Der Impfschutz ist erst 14 Tage nach der vollständigen Impfung wirksam.
-tags = common
 [[overview certificates]]
 [vaccination_certificate_overview_incomplete_title]
 de = Unvollständig: %d von %d Impfungen
@@ -654,7 +637,7 @@ en = Date of birth (YYYY-MM-DD)
 tags = common
 [certificates_overview_all_certificates_title]
 de = EU-Zertifikate
-eu = EU certificates
+en = EU certificates
 tags = common
 [certificates_overview_currently_uses_certificate_note]
 de = Aktuell verwendetes Zertifikat
