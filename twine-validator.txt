@@ -74,9 +74,11 @@ en = Close
 tags = common
 [error_connect_internet_for_scan_title]
 de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
+en = Switch off airplane mode or use WLAN for data access
 tags = common
 [error_connect_internet_for_scan_button_settings]
 de = Einstellungen
+en = Settings
 tags = common
 [error_connect_internet_for_scan_button_ok]
 de = OK
@@ -146,17 +148,6 @@ tags = common
 [validation_start_screen_offline_modus_rules]
 de = Regelsets: %@
 en = Rules: %@
-tags = common
-[error_old_version_title]
-de = Internetverbindung erforderlich
-en = Internet connection needed
-tags = common
-[error_old_version_message]
-de = Das letzte Update ist eine Weile her. Um offline prüfen zu können, halten Sie die CovPassCheck-App auf dem aktuellen Stand. Stellen Sie dafür eine Verbindung mit dem Internet her.
-tags = common
-[error_old_version_button_title]
-de = OK
-en = OK
 tags = common
 [[popup: Check vaccination]]
 [scan_dialog_camera_access_title]
@@ -353,27 +344,33 @@ en = OK
 tags = common
 [error_no_connection_to_server_title]
 de = Verbindungsfehler
+en = Connection error
 tags = common
 [error_no_connection_to_server_message]
 de = Bei der Verbindung zum Server ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung.
+en = An error occurred while connecting to the server. Please check your internet connection.
 tags = common
 [error_no_connection_to_server_button_title]
 de = OK
 tags = common
 [error_scan_present_data_is_not_supported_title]
 de = Aktualisieren Sie die App
+en = Update the app
 tags = common
 [error_scan_present_data_is_not_supported_message]
 de = Ihre aktuelle Version der App unterstützt das vorliegende Datenformat nicht. Bitte überprüfen Sie, ob Sie die aktuelle Version der App aus dem App Store auf Ihrem Smartphone installiert haben.
+en = The current version of the app you are using does not support this data format. Please check if you have installed the latest version of the app available from the app store on your smartphone.
 tags = common
 [error_scan_present_data_is_not_supported_button_title]
 de = OK
 tags = common
 [error_scan_qrcode_cannot_be_parsed_title]
 de = QR-Code wurde nicht erkannt
+en = QR code not recognized
 tags = common
 [error_scan_qrcode_cannot_be_parsed_message]
 de = Der QR-Code gehört nicht zu einem digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
+en = This QR code does not belong to an EU Digital COVID Certificate. In Germany, you can see that a certificate is correct when it has been issued by the Robert Koch Institute.\n\nYou cannot add QR codes from doctor-issued vaccination certificates or the QR codes on some batch labels in yellow vaccination booklets.
 tags = common
 [error_scan_qrcode_cannot_be_parsed_button_title]
 de = OK
