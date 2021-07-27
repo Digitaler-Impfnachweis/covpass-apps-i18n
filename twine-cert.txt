@@ -629,6 +629,30 @@ tags = common
 de = Aktuellen QR-Code anzeigen
 en = Display current QR Code
 tags = common
+[certificates_overview_expired_title]
+de = Zertifikat abgelaufen
+en = Certificate expired
+tags = common
+[certificates_overview_expired_message]
+de = Das Ablaufdatum Ihrer Zertifikate wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = The expiry date of your certificates has passed. Please make every effort to have a new digital certificate issued. 
+tags = common
+[certificates_overview_expired_action_button_title]
+de = Neues Zertifikat hinzufügen
+en = Add new certificate
+tags = common
+[certificates_overview_invalid_title]
+de = Zertifikat ungültig
+en = Certificate invalid
+tags = common
+[certificates_overview_invalid_message]
+de = Das Zertifikat wurde von der ausstellenden Behörde zurückgerufen. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = The certificate has been recalled by the issuing authority. Please make every effort to have a new digital certificate issued.
+tags = common
+[certificates_overview_invalid_action_button_title]
+de = Neues Zertifikat hinzufügen
+en = Add new certificate
+tags = common
 [certificates_overview_personal_data_title]
 de = Persönliche Daten
 en = Personal details
@@ -648,6 +672,18 @@ tags = common
 [certificates_overview_currently_uses_certificate_note]
 de = Aktuell verwendetes Zertifikat
 en = Certificate currently in use
+tags = common
+[certificates_overview_expires_soon_certificate_note]
+de = Zertifikat läuft bald ab
+en = Certificate expires soon
+tags = common
+[certificates_overview_expired_certificate_note]
+de = Zertifikat abgelaufen
+en = Certificate expired
+tags = common
+[certificates_overview_invalid_certificate_note]
+de = Zertifikat ungültig
+en = Certificate invalid
 tags = common
 [certificates_overview_vaccination_certificate_title]
 de = Impfzertifikat
@@ -763,6 +799,18 @@ tags = common
 de = Zertifikatkennung / Unique certificate identifier
 en = Zertifikatkennung / Unique certificate identifier
 tags = common
+[vaccination_certificate_detail_view_data_expiry_date]
+de = Technisches Ablaufdatum / Technical expiry date
+en = Technical expiry date / Technical expiry date
+tags = common
+[vaccination_certificate_detail_view_data_expiry_date_message]
+de = Gültig bis %@
+en = Valid until %@
+tags = common
+[vaccination_certificate_detail_view_data_expiry_date_note]
+de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = Please make every effort to have a new digital certificate issued in good time.
+tags = common
 [vaccination_certificate_detail_view_data_vaccine_note_de]
 de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -843,6 +891,18 @@ tags = common
 de = Zertifikatkennung / Unique certificate identifier
 en = Zertifikatkennung / Unique certificate identifier
 tags = common
+[test_certificate_detail_view_data_expiry_date]
+de = Technisches Ablaufdatum / Technical expiry date
+en = Technical expiry date / Technical expiry date
+tags = common
+[text_certificate_detail_view_data_expiry_date_message]
+de = Gültig bis %@
+en = Valid until %@
+tags = common
+[test_certificate_detail_view_data_expiry_date_note]
+de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = Please make every effort to have a new digital certificate issued in good time.
+tags = common
 [test_certificate_detail_view_data_test_note_de]
 de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -910,6 +970,18 @@ tags = common
 de = Zertifikatkennung / Unique certificate identifier
 en = Zertifikatkennung / Unique certificate identifier
 tags = common
+[recovery_certificate_detail_view_data_expiry_date]
+de = Technisches Ablaufdatum / Technical expiry date
+en = Technical expiry date / Technical expiry date
+tags = common
+[recovery_certificate_detail_view_data_expiry_date_message]
+de = Gültig bis %@
+en = Valid until %@
+tags = common
+[recovery_certificate_detail_view_data_expiry_date_note]
+de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = Please make every effort to have a new digital certificate issued in good time.
+tags = common
 [recovery_certificate_detail_view_data_test_note_de]
 de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -933,6 +1005,30 @@ tags = common
 [recovery_certificate_detail_view_qrcode_screen_action_button_title]
 de = Schließen
 en = Close
+tags = common
+[certificate_expires_detail_view_note_title]
+de = Zertifikat läuft am %@ um %@ ab
+en = Certificate expires on %@ at %@
+tags = common
+[certificate_expires_detail_view_note_message]
+de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = Please make every effort to have a new digital certificate issued in good time.
+tags = common
+[certificate_invalid_detail_view_note_title]
+de = Zertifikat ungültig
+en = Certificate invalid
+tags = common
+[certificate_invalid_detail_view_note_message]
+de = Das Zertifikat wurde von der ausstellenden Behörde zurückgerufen. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = The certificate has been recalled by the issuing authority. Please make every effort to have a new digital certificate issued.
+tags = common
+[certificate_expired_detail_view_note_title]
+de = Zertifikat abgelaufen
+en = Certificate expired
+tags = common
+[certificate_expired_detail_view_note_message]
+de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = The expiry date has been exceeded. Please make every effort to have a new digital proof issued.
 tags = common
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
@@ -1021,6 +1117,18 @@ de = Möglicherweise wurde das Zertifikat von einer nicht autorisierten Einricht
 en = This certificate might have been issued by an unauthorised organisation or the app might not have been updated. For the latter, please connect to the internet and try again later.
 tags = common
 [error_scan_qrcode_without_seal_button_title]
+de = OK
+en = OK
+tags = common
+[error_validity_check_certificates_title]
+de = Überprüfen Sie die Gültigkeit Ihrer Zertifikate
+en = Check the validity of your certificates
+tags = common
+[error_validity_check_certificates_message]
+de = Die Gültigkeit Ihrer Zertifikate läuft bald ab oder ist bereits abgelaufen. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = The validity of your certificates is about to expire or has already expired. Please make every effort to have a new digital proof issued.
+tags = common
+[error_validity_check_certificates_button_title]
 de = OK
 en = OK
 tags = common
