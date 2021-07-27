@@ -775,6 +775,10 @@ tags = common
 de = QR-Code anzeigen
 en = Display QR code
 tags = common
+[vaccination_certificate_detail_view_pdf_action_button_title]
+de = EU-Ausdruck erstellen
+en = Create EU printout
+tags = common
 [vaccination_certificate_detail_view_qrcode_screen_title]
 de = Impfung %d von %d
 en = Vaccine dose %d of %d
@@ -855,6 +859,10 @@ tags = common
 de = QR-Code anzeigen
 en = Display QR code
 tags = common
+[test_certificate_detail_view_create_pdf_action_button_title]
+de = EU-Ausdruck erstellen
+en = Create EU printout
+tags = common
 [test_certificate_detail_view_test_qrcode_screen_title]
 de = Antigen-Schnelltest
 en = Rapid antigen test
@@ -922,6 +930,10 @@ tags = common
 de = QR-Code anzeigen
 en = Display QR code
 tags = common
+[recovery_certificate_detail_view_create_pdf_action_button_title]
+de = EU-Ausdruck erstellen
+en = Create EU printout
+tags = common
 [recovery_certificate_detail_view_qrcode_screen_title]
 de = Vollständige Genesung
 en = Full recovery
@@ -933,6 +945,27 @@ tags = common
 [recovery_certificate_detail_view_qrcode_screen_action_button_title]
 de = Schließen
 en = Close
+tags = common
+[[print certificate]]
+[certificate_create_pdf_headline]
+de = EU-Ausdruck erstellen
+en = Create EU printout
+tags = common
+[certificate_create_pdf_first_list_item]
+de = Sie können das Zertifikat als PDF-Dokument speichern. Die Speicherung ist freiwillig. Auf das PDF-Dokument haben zunächst nur Sie Zugriff.
+en = You can save the certificate as a PDF document. Saving is voluntary. Initially, only you have access to the PDF document.
+tags = common
+[certificate_create_pdf_second_list_item]
+de = Beachten Sie, dass das PDF-Dokument sensible Informationen enthält. Wir empfehlen Ihnen, hiermit sorgsam umzugehen und es nur Personen vorzuzeigen, denen Sie vertrauen und die zur Prüfung des Nachweise berechtigt sind.
+en = Please note that the PDF document contains sensitive information. We recommend that you handle it with care and only show it to people you trust and who are authorised to check the proof.
+tags = common
+[certificate_create_pdf_third_list_item]
+de = Wir empfehlen Ihnen, das PDF-Dokument nicht zu veröffentlichen und nicht per E-Mail zu versenden oder über andere Apps zu teilen.
+en = We recommend that you do not publish the PDF document and do not send it by email or share it via other apps.
+tags = common
+[certificate_create_pdf_list_button]
+de = Weiter
+en = Next
 tags = common
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
