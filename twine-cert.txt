@@ -779,6 +779,10 @@ tags = common
 de = EU-Ausdruck erstellen
 en = Create EU printout
 tags = common
+[vaccination_certificate_detail_view_pdf_action_button_note]
+de = Sie können nur deutsche Impf- und Genesenenzertifikate als PDF herunterladen.
+en = You can only download German vaccination and recovery certificates as PDF files.
+tags = common
 [vaccination_certificate_detail_view_qrcode_screen_title]
 de = Impfung %d von %d
 en = Vaccine dose %d of %d
@@ -863,6 +867,10 @@ tags = common
 de = EU-Ausdruck erstellen
 en = Create EU printout
 tags = common
+[test_certificate_detail_view_pdf_action_button_note]
+de = Sie können nur deutsche Impf- und Genesenenzertifikate als PDF herunterladen.
+en = You can only download German vaccination and recovery certificates as PDF files.
+tags = common
 [test_certificate_detail_view_test_qrcode_screen_title]
 de = Antigen-Schnelltest
 en = Rapid antigen test
@@ -933,6 +941,10 @@ tags = common
 [recovery_certificate_detail_view_create_pdf_action_button_title]
 de = EU-Ausdruck erstellen
 en = Create EU printout
+tags = common
+[recovery_certificate_detail_view_pdf_action_button_note]
+de = Sie können nur deutsche Impf- und Genesenenzertifikate als PDF herunterladen.
+en = You can only download German vaccination and recovery certificates as PDF files.
 tags = common
 [recovery_certificate_detail_view_qrcode_screen_title]
 de = Vollständige Genesung
