@@ -967,6 +967,10 @@ tags = common
 de = Weiter
 en = Next
 tags = common
+[certificate_share_pdf_title_android]
+de = Teilen über
+en = Share via
+tags = common
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
 de = Möchten Sie das COVID-Zertifikat wirklich löschen?
