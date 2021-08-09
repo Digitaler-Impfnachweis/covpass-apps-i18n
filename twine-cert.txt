@@ -1044,7 +1044,7 @@ en = Certificate expired
 tags = common
 [certificate_expired_detail_view_note_message]
 de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-en = The expiry date has been exceeded. Please make every effort to have a new digital proof issued.
+en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
 [[print certificate]]
 [certificate_create_pdf_headline]
 de = EU-Ausdruck erstellen
@@ -1166,7 +1166,7 @@ en = Check the validity of your certificates
 tags = common
 [error_validity_check_certificates_message]
 de = Die Gültigkeit Ihrer Zertifikate läuft bald ab oder ist bereits abgelaufen. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-en = The validity of your certificates is about to expire or has already expired. Please make every effort to have a new digital proof issued.
+en = The validity of your certificates is about to expire or has already expired. Please make every effort to have a new digital certificate issued.
 tags = common
 [error_validity_check_certificates_button_title]
 de = OK
