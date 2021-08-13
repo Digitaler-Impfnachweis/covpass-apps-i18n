@@ -903,7 +903,7 @@ tags = common
 de = Technisches Ablaufdatum / Technical expiry date
 en = Technical expiry date / Technical expiry date
 tags = common
-[text_certificate_detail_view_data_expiry_date_message]
+[test_certificate_detail_view_data_expiry_date_message]
 de = Gültig bis %@
 en = Valid until %@
 tags = common
