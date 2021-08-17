@@ -717,9 +717,21 @@ tags = common
 de = Zertifikat ungültig
 en = Certificate invalid
 tags = common
-[certificates_overview_boost_vaccination_certificate_note]
+[certificates_overview_booster_vaccination_certificate_note]
 de = Aktuell nur in DE nutzbar
 en = Currently only usable in DE
+tags = common
+[certificates_overview_booster_vaccination_certificate_title]
+de = Impfzertifikat
+en = Vaccination certificate
+tags = common
+[certificates_overview_booster_vaccination_certificate_message]
+de = 1. Auffrischungsimpfung
+en = 1st booster vaccination
+tags = common
+[certificates_overview_booster_vaccination_certificate_date]
+de = Geimpft am %@
+en = Vaccinated on %@
 tags = common
 [certificates_overview_vaccination_certificate_title]
 de = Impfzertifikat
