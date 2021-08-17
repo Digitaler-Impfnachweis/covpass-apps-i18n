@@ -181,6 +181,14 @@ tags = common
 de = OK
 en = OK
 tags = common
+[dialogue_add_booster_vaccination_title]
+de = Auffrischungsimpfung hinzugefügt
+en = Booster vaccination added
+tags = common
+[dialogue_add_booster_vaccination_message]
+de = Bitte beachten Sie, dass dieses Zertifikat für die Auffrischungsimpfung gegebenenfalls zum jetzigen Zeitpunkt im Ausland nicht als gültiger Impfnachweis akzeptiert wird. Sofern Sie eine Reise außerhalb Deutschlands planen, nehmen Sie bitte auch den Nachweis für einen erstmals wirksamen Impfschutz oder für eine wirksame Impfung für Genesene mit.
+en = Please note that this certificate for the booster vaccination may not be accepted as valid proof of vaccination abroad at this time. If you are planning a trip outside of Germany, please also take the proof of a vaccination that is effective for the first time or for an effective vaccination for those who have recovered.
+tags = common
 [[start Screen: favorite immunization certificate]]
 [certificate_favorite_button_hint]
 de = Als Favorit markieren
@@ -557,6 +565,18 @@ de = OK
 en = OK
 tags = common
 [[overview certificates]]
+[booster_vaccination_certificate_overview_title]
+de = Auffrischungsimpfung: Aktuell nur in Deutschland nutzbar
+en = Booster vaccination: Currently only usable in Germany
+tags = common
+[booster_vaccination_certificate_overview_message]
+de = Auffrischungsimpfungen können derzeit nur in Deutschland digital nachgewiesen und geprüft werden. Sobald sich dies ändert, werden Sie hier über den aktuellen Stand informiert.
+en = At present, booster vaccinations can only be digitally verified and checked in Germany. As soon as this changes, you will be informed here about the current status.
+tags = common
+[booster_vaccination_certificate_overview_action_button_title]
+de = Aktuellen QR-Code anzeigen
+en = Display current QR Code
+tags = common
 [vaccination_certificate_overview_incomplete_title]
 de = Unvollständig: %d von %d Impfungen
 en = Not fully vaccinated: %d of %d 
@@ -684,6 +704,10 @@ tags = common
 [certificates_overview_invalid_certificate_note]
 de = Zertifikat ungültig
 en = Certificate invalid
+tags = common
+[certificates_overview_boost_vaccination_certificate_note]
+de = Aktuell nur in DE nutzbar
+en = Currently only usable in DE
 tags = common
 [certificates_overview_vaccination_certificate_title]
 de = Impfzertifikat
