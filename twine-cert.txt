@@ -727,7 +727,7 @@ en = Vaccination certificate
 tags = common
 [certificates_overview_booster_vaccination_certificate_message]
 de = %@ Auffrischungsimpfung
-en = 1st booster vaccination
+en = %@ booster vaccination
 tags = common
 [certificates_overview_booster_vaccination_certificate_date]
 de = Geimpft am %@
