@@ -201,6 +201,10 @@ tags = common
 de = Bitte beachten Sie, dass dieses Zertifikat für die Auffrischungsimpfung gegebenenfalls zum jetzigen Zeitpunkt im Ausland nicht als gültiger Impfnachweis akzeptiert wird. Sofern Sie eine Reise außerhalb Deutschlands planen, nehmen Sie bitte auch den Nachweis für einen erstmals wirksamen Impfschutz oder für eine wirksame Impfung für Genesene mit.
 en = Please note that this certificate for the booster vaccination may not be accepted as valid proof of vaccination abroad at this time. If you are planning a trip outside of Germany, please also take the proof of a vaccination that is effective for the first time or for an effective vaccination for those who have recovered.
 tags = common
+[dialogue_add_booster_vaccination_action_button_title]
+de = OK
+en = OK
+tags = common
 [[start Screen: favorite immunization certificate]]
 [certificate_favorite_button_hint]
 de = Als Favorit markieren
