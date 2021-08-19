@@ -714,7 +714,7 @@ de = Impfzertifikat
 en = Vaccination certificate
 tags = common
 [certificates_overview_booster_vaccination_certificate_message]
-de = 1. Auffrischungsimpfung
+de = %@ Auffrischungsimpfung
 en = 1st booster vaccination
 tags = common
 [certificates_overview_booster_vaccination_certificate_date]
