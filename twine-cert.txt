@@ -355,6 +355,10 @@ tags = common
 de = Schweiz
 en = Switzerland
 tags = common
+[UA]
+de = Ukraine
+en = Ukraine
+tags = common
 [certificate_check_validity_selection_country_note]
 de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
