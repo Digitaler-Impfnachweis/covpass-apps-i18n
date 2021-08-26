@@ -198,8 +198,8 @@ de = Auffrischungsimpfung hinzugefügt
 en = Booster vaccination added
 tags = common
 [dialogue_add_booster_vaccination_message]
-de = Bitte beachten Sie, dass dieses Zertifikat für die Auffrischungsimpfung gegebenenfalls zum jetzigen Zeitpunkt im Ausland nicht als gültiger Impfnachweis akzeptiert wird. Sofern Sie eine Reise außerhalb Deutschlands planen, nehmen Sie bitte auch den Nachweis für einen erstmals wirksamen Impfschutz oder für eine wirksame Impfung für Genesene mit.
-en = Please note that this certificate for the booster vaccination may not be accepted as valid proof of vaccination abroad at this time. If you are planning a trip outside of Germany, please also take the proof of a vaccination that is effective for the first time or for an effective vaccination for those who have recovered.
+de = Bitte beachten Sie, dass die Mitgliedstaaten der EU derzeit noch kein einheitliches Vorgehen zu COVID-Zertifikaten für die Auffrischungsimpfungen beschlossen haben. Auf Grund dessen kann nicht ausgeschlossen werden, dass dieses Zertifikat in anderen EU-Ländern nicht als gültig anerkannt wird. Sofern Sie eine Reise außerhalb Deutschlands planen, nehmen Sie daher bitte auch die ursprünglichen Impfzertifikate (oder einen anderen anerkannten Nachweis) mit, die Sie vor der Auffrischungsimpfung erhalten haben.
+en = Please note that the EU Member States have not yet adopted a uniform approach to COVID certificates for booster vaccinations. Because of this, it cannot be ruled out that this certificate will not be recognised as valid in other EU countries. Therefore, if you are planning a trip outside Germany, please also take the original vaccination certificates (or other recognised proof) that you received before the booster vaccination.
 tags = common
 [dialogue_add_booster_vaccination_action_button_title]
 de = OK
@@ -807,13 +807,25 @@ tags = common
 de = Impfung %d von %d
 en = Vaccine dose %d of %d
 tags = common
+[vaccination_certificate_detail_view_booster_vaccination_title]
+de = %d. Auffrischungsimpfung
+en = %d. Booster vaccination
+tags = common
 [vaccination_certificate_detail_view_vaccination_headline]
+de = Digitales COVID-Impfzertifikat der EU
+en = EU Digital COVID Certificate of Vaccination
+tags = common
+[vaccination_certificate_detail_view_booster_vaccination_headline]
 de = Digitales COVID-Impfzertifikat der EU
 en = EU Digital COVID Certificate of Vaccination
 tags = common
 [vaccination_certificate_detail_view_vaccination_note]
 de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
 en = This certificate is for a vaccine that only requires one dose or a vaccine for people who have recovered from an infection and only need one dose.
+tags = common
+[vaccination_certificate_detail_view_booster_vaccination_note]
+de = Bitte beachten Sie, dass die Mitgliedstaaten der EU derzeit noch kein einheitliches Vorgehen zu COVID-Zertifikaten für die Auffrischungsimpfungen beschlossen haben. Auf Grund dessen kann nicht ausgeschlossen werden, dass dieses Zertifikat in anderen EU-Ländern nicht als gültig anerkannt wird. Sofern Sie eine Reise außerhalb Deutschlands planen, nehmen Sie daher bitte auch die ursprünglichen Impfzertifikate (oder einen anderen anerkannten Nachweis) mit, die Sie vor der Auffrischungsimpfung erhalten haben.
+en = Please note that the EU Member States have not yet adopted a uniform approach to COVID certificates for booster vaccinations. Because of this, it cannot be ruled out that this certificate will not be recognised as valid in other EU countries. Therefore, if you are planning a trip outside Germany, please also take the original vaccination certificates (or other recognised proof) that you received before the booster vaccination.
 tags = common
 [vaccination_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
