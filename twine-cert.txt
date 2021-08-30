@@ -701,6 +701,10 @@ tags = common
 de = Name, Vorname / Name, first name
 en = Name, Vorname / Name, first name
 tags = common
+[certificates_overview_personal_data_standardized_name]
+de = Standardisierter Name, Vorname / Standardized name, first name
+en = Standardisierter Name, Vorname / Standardized name, first name
+tags = common
 [certificates_overview_personal_data_date_of_birth]
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
 en = Geburtsdatum / Date of birth (YYYY-MM-DD)
