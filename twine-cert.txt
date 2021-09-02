@@ -124,6 +124,18 @@ tags = common
 de = Vollständiger Impfschutz
 en = Fully vaccinated 
 tags = common
+[certificates_start_screen_qrcode_certificate_expires_subtitle]
+de = Läuft am %@ um %@ ab
+en = Expires on %@ at %@
+tags = common
+[certificates_start_screen_qrcode_certificate_expired_subtitle]
+de = Abgelaufen
+en = Expired
+tags = common
+[certificates_start_screen_qrcode_certificate_invalid_subtitle]
+de = Ungültig
+en = Invalid
+tags = common
 [[popup: add certification]]
 [certificate_add_popup_title]
 de = Nachweis hinzufügen
