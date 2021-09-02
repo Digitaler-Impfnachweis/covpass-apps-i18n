@@ -99,11 +99,19 @@ tags = common
 de = Aktualisieren
 en = Update
 tags = common
+[dialog_booster_vaccination_notification_title]
+de = Es gibt Neuigkeit zu Ihren Zertifikaten
+en = There is news about your certificates
+tags = common
+[dialog_booster_vaccination_notification_message]
+de = Aufgrund Ihrer vorhandenen Impfzertifikate könnte eine Auffrischungsimpfung erforderlich sein. Bitte überprüfen Sie den Status Ihrer Impfzertifikate.
+en = Based on your existing vaccination certificates, a booster vaccination may be required. Please check the status of your vaccination certificates.
+tags = common
+[[start Screen]]
 [vaccination_start_screen_title]
 de = Digitale COVID-Zertifikate der EU
 en = EU Digital COVID Certificates
 tags = common
-[[start Screen]]
 [vaccination_start_screen_note_title]
 de = Fügen Sie einen Nachweis hinzu
 en = Add a certificate
@@ -135,6 +143,9 @@ tags = common
 [certificates_start_screen_qrcode_certificate_invalid_subtitle]
 de = Ungültig
 en = Invalid
+[vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
+de = Impfstatus überprüfen
+en = Check vaccination status
 tags = common
 [[popup: add certification]]
 [certificate_add_popup_title]
@@ -640,6 +651,22 @@ tags = common
 [vaccination_certificate_overview_complete_action_button_title]
 de = Aktuellen QR-Code anzeigen
 en = Display current QR Code
+tags = common
+[vaccination_certificate_overview_booster_vaccination_notification_icon_new]
+de = Neu
+en = New
+tags = common
+[vaccination_certificate_overview_booster_vaccination_notification_title]
+de = Aktueller Impfstatus
+en = Current vaccination status
+tags = common
+[vaccination_certificate_overview_booster_vaccination_notification_subtitle]
+de = Letzte Impfung vor 180 Tagen
+en = Last vaccination 180 days ago
+tags = common
+[vaccination_certificate_overview_booster_vaccination_notification_message]
+de = Aufgrund Ihres vorhandenen Impfzertifikats könnte für Sie eine Auffrischungsimpfung erforderlich sein, da Ihr letztes Impfzertifikat älter als 6 Monate ist (Rule ID: %@).\n\nMehr Informationen finden Sie in den Häufigen Fragen.
+en = Based on your existing vaccination certificate, you might need a booster vaccination because your last vaccination certificate is older than 6 months (Rule ID: %@).\n\nYou can find more information in the FAQ.
 tags = common
 [test_certificate_overview_title]
 de = Negativer Antigen-Schnelltest vom %@
