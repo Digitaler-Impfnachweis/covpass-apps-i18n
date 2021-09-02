@@ -654,8 +654,8 @@ de = Letzte Impfung vor 180 Tagen
 en = Last vaccination 180 days ago
 tags = common
 [vaccination_certificate_overview_booster_vaccination_notification_message]
-de = Aufgrund Ihres vorhandenen Impfzertifikats könnte für Sie eine Auffrischungsimpfung erforderlich sein, da Ihr letztes Impfzertifikat älter als 6 Monate ist (Regel-ID:ID).\n\nMehr Informationen finden Sie in den Häufigen Fragen.
-en = Based on your existing vaccination certificate, you might need a booster vaccination because your last vaccination certificate is older than 6 months (Rule ID:ID).\n\nYou can find more information in the FAQ.
+de = Aufgrund Ihres vorhandenen Impfzertifikats könnte für Sie eine Auffrischungsimpfung erforderlich sein, da Ihr letztes Impfzertifikat älter als 6 Monate ist.\n\nMehr Informationen finden Sie in den Häufigen Fragen.
+en = Based on your existing vaccination certificate, you might need a booster vaccination because your last vaccination certificate is older than 6 months.\n\nYou can find more information in the FAQ.
 tags = common
 [test_certificate_overview_title]
 de = Negativer Antigen-Schnelltest vom %@
