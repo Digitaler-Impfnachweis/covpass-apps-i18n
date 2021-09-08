@@ -28,6 +28,14 @@ tags = common
 de = Weiter
 en = Next
 tags = common
+[accessibility_onboarding_pages_label_back]
+de = Zurück
+en = Back
+tags = common
+[accessibility_onboarding_pages_label_page_number]
+de = Seite %d von %d
+en = Page %d from %d 
+tags = common
 [validation_first_onboarding_page_title]
 de = Erster Schritt: Den QR-Code mit der CovPassCheck-App scannen
 en = Step one: scan the QR code with the CovPassCheck app
@@ -101,6 +109,10 @@ de = Aktualisieren
 en = Update
 tags = common
 [[start screen]]
+[accessibility_validation_start_screen_label_information]
+de = Mehr Informationen
+en = More information
+tags = common
 [validation_start_screen_title]
 de = Übersicht
 en = Overview
@@ -162,6 +174,10 @@ tags = common
 de = Zugriff erlauben
 en = Allow access
 tags = common
+[accessibility_scan_dialog_camera_access_label_close]
+de = Schließen
+en = Close
+tags = common
 [error_camera_access_title]
 de = Die CovPassCheck-App möchte auf Ihre Kamera zugreifen.
 en = The CovPassCheck app wants to access your camera.
@@ -198,6 +214,10 @@ tags = common
 de = Weiteres Zertifikat scannen
 en = Scan another certificate
 tags = common
+[accessibility_validation_check_popup_valid_vaccination_label_close]
+de = Schließen
+en = Close
+tags = common
 [validation_check_popup_unsuccessful_certificate_title]
 de = Zertifikat ungültig
 en = Certificate invalid
@@ -225,6 +245,10 @@ tags = common
 [validation_check_popup_unsuccessful_certificate_button_title]
 de = Weiteres Zertifikat scannen
 en = Scan another certificate
+[accessibility_validation_check_popup_unsuccessful_certificate_label_close]
+de = Schließen
+en = Close
+tags = common
 [validation_check_popup_test_title]
 de = Negativer Schnelltest von vor %d Stunden
 en = Negative rapid test from %d hours ago
@@ -245,6 +269,10 @@ tags = common
 de = Weiteres Zertifikat scannen
 en = Scan another certificate
 tags = common
+[accessibility_validation_check_popup_test_label_close]
+de = Schließen
+en = Close
+tags = common
 [validation_check_popup_valid_pcr_test_title]
 de = Negativer PCR-Test von vor %d Stunden
 en = Negative PCR test from %d hours ago
@@ -264,7 +292,15 @@ tags = common
 [validation_check_popup_valid_pcr_test_button_title]
 de = Weiteres Zertifikat scannen
 en = Scan another certificate
+[accessibility_validation_check_popup_valid_pcr_test_label_close]
+de = Schließen
+en = Close
+tags = common
 [[app information]]
+[accessibility_app_information_label_back]
+de = Zurück zum Startbildschirm
+en = Back to the start screen
+tags = common
 [app_information_title]
 de = Informationen
 en = Information
@@ -297,6 +333,10 @@ tags = common
 de = E-Mail: #info@covpass-app.de::mailto:info@covpass-app.de#
 en = E-Mail: #info@covpass-app.de::mailto:info@covpass-app.de#
 tags = common
+[accessibility_app_information_contact_label_back]
+de = Zurück
+en = Back
+tags = common
 [app_information_title_faq]
 de = Häufige Fragen
 en = Frequently asked questions
@@ -324,6 +364,10 @@ tags = common
 [app_information_message_open_source]
 de = Die App verwendet die folgenden Open-Source-Bibliotheken:
 en = The app uses the following open-source libraries:
+tags = common
+[accessibility_app_information_open_source_label_back]
+de = Zurück
+en = Back
 tags = common
 [app_information_version_label]
 de = Version %@
