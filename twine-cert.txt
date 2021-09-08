@@ -28,6 +28,14 @@ tags = common
 de = Weiter
 en = Next
 tags = common
+[accessibility_onboarding_pages_label_back]
+de = Zurück
+en = Back
+tags = common
+[accessibility_onboarding_pages_label_page_number]
+de = Seite %d von %d
+en = Page %d of %d
+tags = common
 [vaccination_first_onboarding_page_title]
 de = Erster Schritt: Übertragen Sie das digitale COVID-Zertifikat der EU auf Ihr Smartphone
 en = Step one: upload your EU Digital COVID Certificate to your smartphone
@@ -83,6 +91,10 @@ tags = common
 de = Schließen
 en = Close
 tags = common
+[accessibility_fourth_onboarding_page_label_scroll_to_end]
+de = Zum Ende scrollen
+en = Scroll to the end
+tags = common
 [dialog_start_screen_title]
 de = Neues Update verfügbar
 en = New update available
@@ -108,6 +120,14 @@ de = Aufgrund Ihrer vorhandenen Impfzertifikate könnte eine Auffrischungsimpfun
 en = Based on your existing vaccination certificates, a booster vaccination may be required. Please check the status of your vaccination certificates.
 tags = common
 [[start Screen]]
+[accessibility_vaccination_start_screen_label_information]
+de = Mehr Informationen
+en = More information
+tags = common
+[accessibility_vaccination_start_screen_label_add_certificate]
+de = Nachweis hinzufügen
+en = Add certificate
+tags = common
 [vaccination_start_screen_title]
 de = Digitale COVID-Zertifikate der EU
 en = EU Digital COVID Certificates
@@ -148,6 +168,10 @@ de = Impfstatus überprüfen
 en = Check vaccination status
 tags = common
 [[popup: add certification]]
+[accessibility_certificate_add_popup_label_close]
+de = Schließen
+en = Close
+tags = common
 [certificate_add_popup_title]
 de = Nachweis hinzufügen
 en = Adding a certificate
@@ -188,6 +212,14 @@ tags = common
 de = Zugriff erlauben
 en = Allow access
 tags = common
+[accessibility_certificate_add_dialog_camera_access_label_close]
+de = Schließen
+en = Close
+tags = common
+[accessibility_certificate_scan_mode_label_cancel]
+de = Abbrechen
+en = Cancel
+tags = common
 [error_camera_access_title]
 de = Die CovPass-App möchte auf Ihre Kamera zugreifen.
 en = The CovPass app wants to access your camera.
@@ -216,28 +248,48 @@ tags = common
 de = OK
 en = OK
 tags = common
-[dialogue_add_booster_vaccination_title]
+[dialog_add_booster_vaccination_title]
 de = Auffrischungsimpfung hinzugefügt
 en = Booster vaccination added
 tags = common
-[dialogue_add_booster_vaccination_message]
+[dialog_add_booster_vaccination_message]
 de = Bitte beachten Sie, dass die Mitgliedstaaten der EU derzeit noch kein einheitliches Vorgehen zu COVID-Zertifikaten für die Auffrischungsimpfungen beschlossen haben. Auf Grund dessen kann nicht ausgeschlossen werden, dass dieses Zertifikat in anderen EU-Ländern nicht als gültig anerkannt wird. Sofern Sie eine Reise außerhalb Deutschlands planen, nehmen Sie daher bitte auch die ursprünglichen Impfzertifikate (oder einen anderen anerkannten Nachweis) mit, die Sie vor der Auffrischungsimpfung erhalten haben.
 en = Please note that the EU Member States have not yet adopted a uniform approach to COVID certificates for booster vaccinations. Because of this, it cannot be ruled out that this certificate will not be recognised as valid in other EU countries. Therefore, if you are planning a trip outside Germany, please also take the original vaccination certificates (or other recognised proof) that you received before the booster vaccination.
 tags = common
-[dialogue_add_booster_vaccination_action_button_title]
+[dialog_add_booster_vaccination_action_button_title]
 de = OK
 en = OK
 tags = common
+[accessibility_dialog_add_booster_vaccination_label_close]
+de = Schließen
+en = Close
+tags = common
 [[start Screen: favorite immunization certificate]]
-[certificate_favorite_button_hint]
-de = Als Favorit markieren
-en = Set as favourite
+[accessibility_certificate_favorite_button_label_active]
+de = Zertifikate dieser Person immer an erster Stelle anzeigen: aktiv
+en = Always display this person's certificates in first place: active
+tags = common
+[accessibility_certificate_favorite_button_label_not_active]
+de = Zertifikate dieser Person immer an erster Stelle anzeigen: nicht aktiv
+en = Always display this person's certificates in first place: not active
 tags = common
 [certificate_action_button_check_validity]
 de = Gültigkeit prüfen
 en = Check validity
 tags = common
 [[Screen: check validity]]
+[accessibility_certificate_check_validity_label_close]
+de = Schließen
+en = Close
+tags = common
+[accessibility_certificate_check_validity_label_results]
+de = Ergebnisse der EU-Zertifikatsprüfung
+en = Results of the EU certificate examination
+tags = common
+[accessibility_certificate_check_validity_label_display_certificate]
+de = Zertifikat anzeigen
+en = Display certificate
+tags = common
 [certificate_check_validity_title]
 de = Gültigkeit prüfen
 en = Check validity
@@ -249,6 +301,10 @@ tags = common
 [certificate_check_validity_selection_country]
 de = Land
 en = Country
+tags = common
+[accessibility_certificate_check_validity_selection_country_label_close]
+de = Schließen
+en = Close
 tags = common
 [certificate_check_validity_selection_country_title]
 de = Reiseland wählen
@@ -394,6 +450,10 @@ tags = common
 de = Datum
 en = Date
 tags = common
+[accessibility_certificate_check_validity_selection_date_label_close]
+de = Schließen
+en = Close
+tags = common
 [certificate_check_validity_selection_date_title]
 de = Datum wählen
 en = Select Date
@@ -405,6 +465,10 @@ tags = common
 [certificate_check_validity_selection_time_title]
 de = Zeit wählen
 en = Select time
+tags = common
+[accessibility_certificate_check_validity_selection_time_label_close]
+de = Schließen
+en = Close
 tags = common
 [certificate_check_validity_selection_time_action_button]
 de = OK
@@ -550,6 +614,14 @@ tags = common
 de = Regel des Ziellands: Genesenenzertifikate sind bis zu 180 Tage gültig.
 en = Rule at destination: recovery certificates are valid for up to 180 days.
 tags = common
+[accessibility_certificate_check_validity_detail_view_result_label_close]
+de = Schließen
+en = Close
+tags = common
+[accessibility_certificate_check_validity_detail_view_result_label_marked_values]
+de = Dieser Wert ist zu überprüfen
+en = This value is to be checked
+tags = common
 [error_check_validity_no_internet_title]
 de = Keine Internetverbindung
 en = Not connected to internet
@@ -608,6 +680,22 @@ de = OK
 en = OK
 tags = common
 [[overview certificates]]
+[accessibility_overview_certificates_label_back]
+de = Zurück zum Startbildschirm
+en = Back to the start screen
+tags = common
+[accessibility_overview_certificates_label_favourites_button_active]
+de = Zertifikate dieser Person immer an erster Stelle anzeigen: aktiv
+en = Always display this person's certificates in first place: active
+tags = common
+[accessibility_overview_certificates_label_favourites_button_not_active]
+de = Zertifikate dieser Person immer an erster Stelle anzeigen: nicht aktiv
+en = Always display this person's certificates in first place: not active
+tags = common
+[accessibility_overview_certificates_label_display_certificate]
+de = Zertifikat anzeigen
+en = Display certificate
+tags = common
 [booster_vaccination_certificate_overview_title]
 de = Auffrischungsimpfung: Aktuell nur in Deutschland nutzbar
 en = Booster vaccination: Currently only usable in Germany
@@ -837,9 +925,13 @@ de = Probenahme am %@
 en = Sample taken on %@
 tags = common
 [[detail view: delete certificate]]
-[certificate_delete_button_hint]
-de = Löschen
-en = Delete
+[accessibility_certificate_detail_view_label_delete_button]
+de = Zertifikat löschen
+en = Delete certificate
+tags = common
+[accessibility_certificate_detail_view_label_back]
+de = Zurück
+en = Back
 tags = common
 [[detail view: certificate]]
 [vaccination_certificate_detail_view_vaccination_title]
@@ -954,6 +1046,10 @@ tags = common
 de = Schließen
 en = Close
 tags = common
+[accessibility_vaccination_certificate_detail_view_qrcode_screen_label_close]
+de = Schließen
+en = Close
+tags = common
 [test_certificate_detail_view_title]
 de = Antigen-Schnelltest
 en = Rapid antigen test
@@ -1054,6 +1150,10 @@ tags = common
 de = Schließen
 en = Close
 tags = common
+[accessibility_test_certificate_detail_view_qrcode_screen_label_close]
+de = Schließen
+en = Close
+tags = common
 [recovery_certificate_detail_view_title]
 de = Vollständige Genesung
 en = Full recovery
@@ -1145,6 +1245,10 @@ tags = common
 de = Schließen
 en = Close
 tags = common
+[accessibility_recovery_certificate_detail_view_qrcode_screen_label_close]
+de = Schließen
+en = Close
+tags = common
 [certificate_expires_detail_view_note_title]
 de = Zertifikat läuft am %@ um %@ ab
 en = Certificate expires on %@ at %@
@@ -1169,6 +1273,10 @@ tags = common
 de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
 en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
 [[print certificate]]
+[accessibility_certificate_create_pdf_label_close]
+de = Schließen
+en = Close
+tags = common
 [certificate_create_pdf_headline]
 de = EU-Ausdruck erstellen
 en = Create EU printout
@@ -1309,6 +1417,10 @@ de = OK
 en = OK
 tags = common
 [[app information]]
+[accessibility_app_information_label_back]
+de = Zurück zum Startbildschirm
+en = Back to the start screen
+tags = common
 [app_information_title]
 de = Informationen
 en = Information
@@ -1341,6 +1453,10 @@ tags = common
 de = E-Mail: #info@covpass-app.de::mailto:info@covpass-app.de#
 en = Email: #info@covpass-app.de::mailto:info@covpass-app.de#
 tags = common
+[accessibility_app_information_contact_label_back]
+de = Zurück
+en = Back
+tags = common
 [app_information_title_faq]
 de = Häufige Fragen
 en = Frequently asked questions
@@ -1368,6 +1484,10 @@ tags = common
 [app_information_message_open_source]
 de = Die App verwendet die folgenden Open-Source-Bibliotheken:
 en = The app uses the following open-source libraries:
+tags = common
+[accessibility_app_information_open_source_label_back]
+de = Zurück
+en = Back
 tags = common
 [app_information_version_label]
 de = Version %@
