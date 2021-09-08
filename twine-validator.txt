@@ -34,7 +34,7 @@ en = Back
 tags = common
 [accessibility_onboarding_pages_label_page_number]
 de = Seite %d von %d
-en = Page %d from %d 
+en = Page %d of %d 
 tags = common
 [validation_first_onboarding_page_title]
 de = Erster Schritt: Den QR-Code mit der CovPassCheck-App scannen
