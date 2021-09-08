@@ -155,7 +155,7 @@ en = Most recent update: %@
 tags = common
 [validation_start_screen_offline_modus_certificates]
 de = Zertifikate: %@
-en = Certificates: %@ 
+en = Certificates: %@
 tags = common
 [validation_start_screen_offline_modus_rules]
 de = Regelsets: %@
