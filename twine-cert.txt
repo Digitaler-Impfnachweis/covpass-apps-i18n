@@ -28,6 +28,10 @@ tags = common
 de = Weiter
 en = Next
 tags = common
+[accessibility_page_indicator]
+de = Seite %d von %d
+en = Page %d of %d
+tags = common
 [vaccination_first_onboarding_page_title]
 de = Erster Schritt: Übertragen Sie das digitale COVID-Zertifikat der EU auf Ihr Smartphone
 en = Step one: upload your EU Digital COVID Certificate to your smartphone
