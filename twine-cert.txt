@@ -880,10 +880,6 @@ tags = common
 de = Impfzertifikat
 en = Vaccination certificate
 tags = common
-[certificates_overview_booster_vaccination_certificate_message]
-de = %@. Auffrischungsimpfung
-en = %@. booster vaccination
-tags = common
 [certificates_overview_booster_vaccination_certificate_date]
 de = Geimpft am %@
 en = Vaccinated on %@
@@ -953,10 +949,6 @@ tags = common
 [vaccination_certificate_detail_view_vaccination_title]
 de = Impfung %d von %d
 en = Vaccine dose %d of %d
-tags = common
-[vaccination_certificate_detail_view_booster_vaccination_title]
-de = %d. Auffrischungsimpfung
-en = %d. Booster vaccination
 tags = common
 [vaccination_certificate_detail_view_vaccination_headline]
 de = Digitales COVID-Impfzertifikat der EU
