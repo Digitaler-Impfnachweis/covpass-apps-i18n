@@ -140,6 +140,10 @@ tags = common
 de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
 en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the plus symbol to add a digital certificate.
 tags = common
+[accessibility_vaccination_start_screen_label_qrcode]
+de = Schwarzer QR-Code auf weißem Hintergrund
+en = Black QR code on white background
+tags = common
 [vaccination_start_screen_qrcode_incomplete_subtitle]
 de = Unvollständiger Impfschutz
 en = Not fully vaccinated
@@ -171,6 +175,18 @@ tags = common
 [accessibility_certificate_add_popup_label_close]
 de = Schließen
 en = Close
+tags = common
+[accessibility_certificate_add_popup_label_torch_on]
+de = Taschenlampe anschalten
+en = Switch on torch
+tags = common
+[accessibility_certificate_add_popup_label_torch_out]
+de = Taschenlampe ausschalten
+en = Switch off torch
+tags = common
+[accessibility_certificate_add_popup_image]
+de = Bild: Person hält das Smartphone über drei unterschiedliche Zertifikate mit QR-Code
+en = Image: Person holds smartphone over three different certificates with QR code
 tags = common
 [certificate_add_popup_title]
 de = Nachweis hinzufügen
@@ -247,22 +263,6 @@ tags = common
 [error_test_certificate_not_valid_button_title]
 de = OK
 en = OK
-tags = common
-[dialog_add_booster_vaccination_title]
-de = Auffrischungsimpfung hinzugefügt
-en = Booster vaccination added
-tags = common
-[dialog_add_booster_vaccination_message]
-de = Bitte beachten Sie, dass die Mitgliedstaaten der EU derzeit noch kein einheitliches Vorgehen zu COVID-Zertifikaten für die Auffrischungsimpfungen beschlossen haben. Auf Grund dessen kann nicht ausgeschlossen werden, dass dieses Zertifikat in anderen EU-Ländern nicht als gültig anerkannt wird. Sofern Sie eine Reise außerhalb Deutschlands planen, nehmen Sie daher bitte auch die ursprünglichen Impfzertifikate (oder einen anderen anerkannten Nachweis) mit, die Sie vor der Auffrischungsimpfung erhalten haben.
-en = Please note that the EU Member States have not yet adopted a uniform approach to COVID certificates for booster vaccinations. Because of this, it cannot be ruled out that this certificate will not be recognised as valid in other EU countries. Therefore, if you are planning a trip outside Germany, please also take the original vaccination certificates (or other recognised proof) that you received before the booster vaccination.
-tags = common
-[dialog_add_booster_vaccination_action_button_title]
-de = OK
-en = OK
-tags = common
-[accessibility_dialog_add_booster_vaccination_label_close]
-de = Schließen
-en = Close
 tags = common
 [[start Screen: favorite immunization certificate]]
 [accessibility_certificate_favorite_button_label_active]
