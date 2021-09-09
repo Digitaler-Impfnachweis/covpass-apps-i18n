@@ -32,9 +32,9 @@ tags = common
 de = Zurück
 en = Back
 tags = common
-[accessibility_onboarding_pages_label_page_number]
+[accessibility_page_indicator]
 de = Seite %d von %d
-en = Page %d of %d 
+en = Page %d of %d
 tags = common
 [validation_first_onboarding_page_title]
 de = Erster Schritt: Den QR-Code mit der CovPassCheck-App scannen
@@ -155,7 +155,7 @@ en = Most recent update: %@
 tags = common
 [validation_start_screen_offline_modus_certificates]
 de = Zertifikate: %@
-en = Certificates: %@ 
+en = Certificates: %@
 tags = common
 [validation_start_screen_offline_modus_rules]
 de = Regelsets: %@

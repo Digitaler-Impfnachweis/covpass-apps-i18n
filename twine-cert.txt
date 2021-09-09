@@ -32,7 +32,7 @@ tags = common
 de = Zurück
 en = Back
 tags = common
-[accessibility_onboarding_pages_label_page_number]
+[accessibility_page_indicator]
 de = Seite %d von %d
 en = Page %d of %d
 tags = common
@@ -73,15 +73,15 @@ en = To protect against forged certificates or manipulation, the digital COVID C
 tags = common
 [vaccination_fourth_onboarding_page_third_list_item]
 de = Wenn Sie den QR-Code eines digitalen COVID-Zertifikats der EU einer anderen Person zur Prüfung vorlegen, werden dem Prüfer der Name und das Geburtsdatum des Zertifikatsinhabers angezeigt. Bei der Prüfung ist gegebenenfalls ergänzend ein Ausweisdokument vorzulegen.
-en = When you present the QR code of a certificate in the app for verification, others will be able to find out whether you have tested negative, are fully vaccinated, or have proof that you have recovered from a coronavirus infection. During verification, the official verification app will also display the name and date of birth. In the case of test certificates, the date of sampling will also be displayed. 
+en = When you present the QR code of a certificate in the app for verification, others will be able to find out whether you have tested negative, are fully vaccinated, or have proof that you have recovered from a coronavirus infection. During verification, the official verification app will also display the name and date of birth. In the case of test certificates, the date of sampling will also be displayed.
 tags = common
 [vaccination_fourth_onboarding_page_fourth_list_item]
 de = Die digitalen COVID-Zertifikate der EU werden ausschließlich auf Ihrem Smartphone gespeichert. Sie haben jederzeit die Möglichkeit, die digitalen COVID-Zertifikate der EU wieder zu entfernen.
-en = The digital COVID Certificates are only stored on your smartphone. You have the possibility to delete the digital COVID Certificates at any time. 
+en = The digital COVID Certificates are only stored on your smartphone. You have the possibility to delete the digital COVID Certificates at any time.
 tags = common
 [vaccination_fourth_onboarding_page_message]
 de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
-en = Detailed information about this data processing is available in the privacy notice: 
+en = Detailed information about this data processing is available in the privacy notice:
 tags = common
 [vaccination_fourth_onboarding_page_button_title]
 de = Alles klar
@@ -154,7 +154,7 @@ en = Fully vaccinated as of %@
 tags = common
 [vaccination_start_screen_qrcode_complete_protection_subtitle]
 de = Vollständiger Impfschutz
-en = Fully vaccinated 
+en = Fully vaccinated
 tags = common
 [certificates_start_screen_qrcode_certificate_expires_subtitle]
 de = Läuft am %@ um %@ ab
@@ -488,7 +488,7 @@ en = Add a certificate so you can check its validity.
 tags = common
 [certificate_check_validity_vaccination]
 de = Impfzertifikat
-en = Vaccination certificate 
+en = Vaccination certificate
 tags = common
 [certificate_check_validity_test]
 de = Testzertifikat
@@ -512,7 +512,7 @@ en = Full check not possible
 tags = common
 [certificate_check_validity_note]
 de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
-en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#. 
+en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
 [certificate_check_validity_detail_view_vaccination_result_title]
 de = Digitales COVID-Impfzertifikat der EU
@@ -655,17 +655,17 @@ tags = common
 [[start screen: test certificate]]
 [test_certificate_action_button]
 de = Zertifikate anzeigen
-en = Display certificates 
+en = Display certificates
 tags = common
 [[start screen: pcr test certificate]]
 [pcr_test_certificate_action_button]
 de = Zertifikate anzeigen
-en = Display certificates 
+en = Display certificates
 tags = common
 [[start screen: recovery certificate]]
 [recovery_certificate_action_button]
 de = Zertifikate anzeigen
-en = Display certificates 
+en = Display certificates
 tags = common
 [error_connect_to_internet_title]
 de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
@@ -710,7 +710,7 @@ en = Display current QR Code
 tags = common
 [vaccination_certificate_overview_incomplete_title]
 de = Unvollständig: %d von %d Impfungen
-en = Not fully vaccinated: %d of %d 
+en = Not fully vaccinated: %d of %d
 tags = common
 [vaccination_certificate_overview_incomplete_message]
 de = Ihr Impfschutz ist nicht vollständig. Um den QR-Code als Nachweis für einen kompletten Impfschutz vorzeigen zu können, fügen Sie bitte eine weitere Impfung hinzu.
