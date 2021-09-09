@@ -518,6 +518,10 @@ tags = common
 de = Digitales COVID-Impfzertifikat der EU
 en = EU Digital COVID Certificate of Vaccination
 tags = common
+[certificate_check_validity_detail_view_vaccination_result_headline_data]
+de = Geprüfte Zertifikatsdaten:
+en = Verified certificate data:
+tags = common
 [certificate_check_validity_detail_view_vaccination_result_button]
 de = QR-Code anzeigen
 en = Display QR code
@@ -533,6 +537,10 @@ tags = common
 [certificate_check_validity_detail_view_test_result_title]
 de = Digitales COVID-Testzertifikat der EU
 en = EU Digital COVID Certificate of Test
+tags = common
+[certificate_check_validity_detail_view_test_result_headline_data]
+de = Geprüfte Zertifikatsdaten:
+en = Verified certificate data:
 tags = common
 [certificate_check_validity_detail_view_test_result_button]
 de = QR-Code anzeigen
@@ -550,6 +558,10 @@ tags = common
 de = Digitales COVID-Genesenenzertifikat der EU
 en = EU Digital COVID Certificate of Recovery
 tags = common
+[certificate_check_validity_detail_view_recovery_result_headline_data]
+de = Geprüfte Zertifikatsdaten:
+en = Verified certificate data:
+tags = common
 [certificate_check_validity_detail_view_recovery_result_button]
 de = QR-Code anzeigen
 en = Display QR code
@@ -561,6 +573,14 @@ tags = common
 [certificate_check_validity_detail_view_recovery_result_note_en]
 de = A certificate of recovery is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = A certificate of recovery is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
+tags = common
+[certificate_check_validity_detail_view_result_no_rules_title]
+de = Dieses Zertifikat ist nicht prüfbar
+en = This certificate cannot be checked
+tags = common
+[certificate_check_validity_detail_view_result_no_rules_message]
+de = Für das gewählte Land und den gewählten Zeitpunkt stehen derzeit keine Einreiseregeln für die Prüfung in der App zur Verfügung.\n\nBitte informieren Sie sich unter #https://reopen.europa.eu::https://reopen.europa.eu#, ob das Zertifikat für die Einreise in das gewählte Land gültig ist.
+en = For the selected country and date, there are currently no entry rules available for checking in the app.\n\nPlease check at #https://reopen.europa.eu::https://reopen.europa.eu# whether the certificate is valid for entry into the selected country.
 tags = common
 [certificate_check_validity_detail_view_result_valid_title]
 de = Dieses Zertifikat ist am Reisedatum gültig
@@ -580,7 +600,7 @@ en = There are currently no entry rules for this certificate type for the select
 tags = common
 [certificate_check_validity_detail_view_result_not_testable_title]
 de = Dieses Zertifikat ist nicht vollständig prüfbar
-en = This certificate cannot be checked automatically
+en = This certificate cannot be fully verified
 tags = common
 [certificate_check_validity_detail_view_result_not_testable_first_message]
 de = Für %@, am %@
