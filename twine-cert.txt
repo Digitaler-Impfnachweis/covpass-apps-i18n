@@ -180,7 +180,7 @@ tags = common
 de = Taschenlampe anschalten
 en = Switch on torch
 tags = common
-[accessibility_certificate_add_popup_label_torch_out]
+[accessibility_certificate_add_popup_label_torch_off]
 de = Taschenlampe ausschalten
 en = Switch off torch
 tags = common
