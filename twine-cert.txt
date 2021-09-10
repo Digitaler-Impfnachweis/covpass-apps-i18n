@@ -119,6 +119,10 @@ tags = common
 de = Bitte überprüfen Sie den Status Ihrer digitalen COVID-Zertifikate der EU.
 en = Please check the status of your EU Digital COVID Certificates.
 tags = common
+[dialog_booster_vaccination_notification_button]
+de = OK
+en = OK
+tags = common
 [[start Screen]]
 [accessibility_vaccination_start_screen_label_information]
 de = Mehr Informationen
@@ -761,8 +765,8 @@ de = Aktueller Impfstatus
 en = Current vaccination status
 tags = common
 [vaccination_certificate_overview_booster_vaccination_notification_message]
-de = %@ (Rule ID: %@).
-en = %@ (Rule ID: %@).
+de = %@ (Rule ID: %@)
+en = %@ (Rule ID: %@)
 tags = common
 [test_certificate_overview_title]
 de = Negativer Antigen-Schnelltest vom %@
