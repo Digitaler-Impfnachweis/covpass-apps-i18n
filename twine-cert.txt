@@ -83,6 +83,14 @@ tags = common
 de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
 en = Detailed information about this data processing is available in the privacy notice:
 tags = common
+[vaccination_fourth_onboarding_page_message_for_us_citizens_title]
+de = Nutzungsbedingungen für US-Bürgerinnen und Bürger
+en = Terms of use for US citizens
+tags = common
+[vaccination_fourth_onboarding_page_message_for_us_citizens_copy]
+de = Wenn Sie US-Bürgerin oder US-Bürger sind, gelten diese Nutzungsbedingungen für die Nutzung der App:
+en = If you are a US citizen, these therms of use apply to using the app:
+tags = common
 [vaccination_fourth_onboarding_page_button_title]
 de = Alles klar
 en = OK
