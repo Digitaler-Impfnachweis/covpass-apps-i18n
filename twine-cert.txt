@@ -1490,10 +1490,12 @@ tags = common
 de = Häufige Fragen
 en = Frequently asked questions
 tags = common
-[app_information_title_faq_]
-de = #Häufige Fragen::$0#
-en = #Frequently asked questions::$0#
-tags = common
+
+[app_information_title_faq_linked]
+        de = #Häufige Fragen::$0#
+        en = #Frequently asked questions::$0#
+        tags = common
+
 [app_information_title_datenschutz]
 de = Datenschutzerklärung
 en = Privacy policy
