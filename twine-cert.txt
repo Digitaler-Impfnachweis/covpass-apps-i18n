@@ -155,14 +155,16 @@ tags = common
 de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
 en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the plus symbol to add a digital certificate.
 tags = common
+
 [accessibility_vaccination_start_screen_label_qrcode]
-de = Schwarzer QR-Code auf weißem Hintergrund
-en = Black QR code on white background
-tags = common
+        de = Schwarzer QR-Code auf weißem Hintergrund
+        en = Black QR code on white background
+        tags = common
+        
 [vaccination_start_screen_qrcode_incomplete_subtitle]
-de = Unvollständiger Impfschutz
-en = Not fully vaccinated
-tags = common
+        de = Unvollständiger Impfschutz
+        en = Not fully vaccinated
+        tags = common
 [vaccination_start_screen_qrcode_complete_from_date_subtitle]
 de = Vollständig ab %@
 en = Fully vaccinated as of %@
@@ -759,38 +761,54 @@ tags = common
 de = Vollständiger Impfschutz
 en = Fully vaccinated
 tags = common
+
 [vaccination_certificate_overview_complete_message]
-de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
-en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
-tags = common
+        de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+        en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
+        tags = common
+        
 [vaccination_certificate_overview_complete_action_button_title]
-de = Aktuellen QR-Code anzeigen
-en = Display current QR Code
-tags = common
+        de = Aktuellen QR-Code anzeigen
+        en = Display current QR Code
+        tags = common
+        
 [vaccination_certificate_overview_booster_vaccination_notification_icon_new]
-de = Neu
-en = New
-tags = common
+        de = Neu
+        en = New
+        tags = common
+
 [vaccination_certificate_overview_booster_vaccination_notification_title]
-de = Aktueller Impfstatus
-en = Current vaccination status
-tags = common
+        de = Aktueller Impfstatus
+        en = Current vaccination status
+        tags = common
+
 [vaccination_certificate_overview_booster_vaccination_notification_message]
-de = %@ (Rule ID: %@)
-en = %@ (Rule ID: %@)
-tags = common
-[test_certificate_overview_title]
-de = Negativer Antigen-Schnelltest vom %@
-en = Negative rapid antigen test from %@
-tags = common
+        de = %@ (Rule ID: %@)
+        en = %@ (Rule ID: %@)
+        tags = common
+
+[vaccination_certificate_overview_faqlink]
+        de = #Mehr Informationen finden Sie in unseren #Häufigen Fragen und Antworten::https://www.digitaler-impfnachweis-app.de/faq#
+        en = #Please find more information in our #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#
+        tags = common
+        
+[test_certificate_overview_title]   
+        de = Negativer Antigen-Schnelltest vom %@
+        en = Negative rapid antigen test from %@
+        tags = common
+
 [test_certificate_overview_message]
-de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
-en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
-tags = common
+        de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+        en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
+        tags = common
+        
 [test_certificate_overview_action_button_title]
-de = Aktuellen QR-Code anzeigen
-en = Display current QR Code
-tags = common
+        de = Aktuellen QR-Code anzeigen
+        en = Display current QR Code
+        tags = common
+        
+        
+       
 [pcr_test_certificate_overview_title]
 de = Negativer PCR-Test vom %@
 en = Negative PCR test from %@
@@ -1472,7 +1490,7 @@ tags = common
 de = Häufige Fragen
 en = Frequently asked questions
 tags = common
-[app_information_title_faq_linked]
+[app_information_title_faq_]
 de = #Häufige Fragen::$0#
 en = #Frequently asked questions::$0#
 tags = common
