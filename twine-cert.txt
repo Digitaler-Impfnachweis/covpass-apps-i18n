@@ -132,10 +132,17 @@ tags = common
 de = Nachweis hinzufügen
 en = Add certificate
 tags = common
+
 [vaccination_start_screen_title]
 de = Digitale COVID-Zertifikate der EU
 en = EU Digital COVID Certificates
 tags = common
+
+[accessibility_vaccination_start_screen_title]
+  de = Digitale COVID-Zertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = EU Digital COVID Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+  tags=common
+  
 [vaccination_start_screen_note_title]
 de = Fügen Sie einen Nachweis hinzu
 en = Add a certificate
@@ -171,10 +178,12 @@ tags = common
 [certificates_start_screen_qrcode_certificate_invalid_subtitle]
 de = Ungültig
 en = Invalid
+
 [vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
-de = Impfstatus überprüfen
-en = Check vaccination status
-tags = common
+    de = Impfstatus überprüfen
+    en = Check vaccination status
+    tags = common
+
 [[popup: add certification]]
 [accessibility_certificate_add_popup_label_close]
 de = Schließen
@@ -518,10 +527,17 @@ tags = common
 de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_detail_view_vaccination_result_title]
-de = Digitales COVID-Impfzertifikat der EU
-en = EU Digital COVID Certificate of Vaccination
-tags = common
+    de = Digitales COVID-Impfzertifikat der EU
+    en = EU Digital COVID Certificate of Vaccination
+    tag=common
+
+[accessbility_certificate_check_validity_detail_view_vaccination_result_title]
+    de = Digitale COVID Imofzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+    en = EU Digital COVID Vaccination Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
+    tags = common
+
 [certificate_check_validity_detail_view_vaccination_result_headline_data]
 de = Geprüfte Zertifikatsdaten:
 en = Verified certificate data:
@@ -538,10 +554,18 @@ tags = common
 de = A certificate of vaccination is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = A certificate of vaccination is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_detail_view_test_result_title]
-de = Digitales COVID-Testzertifikat der EU
-en = EU Digital COVID Certificate of Test
-tags = common
+    de = Digitales COVID-Testzertifikat der EU
+    en = EU Digital COVID Test Certificate 
+    tags = common
+
+[accessibility_certificate_check_validity_detail_view_test_result_title]
+     de = Digitale COVID-Testzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+     en = EU Digital COVID Test Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+     tags = common
+
+
 [certificate_check_validity_detail_view_test_result_headline_data]
 de = Geprüfte Zertifikatsdaten:
 en = Verified certificate data:
@@ -558,10 +582,17 @@ tags = common
 de = A test certificate is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = A test certificate is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_detail_view_recovery_result_title]
-de = Digitales COVID-Genesenenzertifikat der EU
-en = EU Digital COVID Certificate of Recovery
-tags = common
+    de = Digitales COVID-Genesenenzertifikat der EU
+    en = EU Digital COVID Certificate of Recovery
+    tags = common
+
+[certificate_check_validity_detail_view_recovery_result_title]
+    de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+    en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
+    tags = common
+
 [certificate_check_validity_detail_view_recovery_result_headline_data]
 de = Geprüfte Zertifikatsdaten:
 en = Verified certificate data:
@@ -848,10 +879,17 @@ tags = common
 de = Geburtsdatum / Date of birth (YYYY-MM-DD)
 en = Geburtsdatum / Date of birth (YYYY-MM-DD)
 tags = common
+
 [certificates_overview_all_certificates_title]
-de = EU-Zertifikate
-en = EU certificates
-tags = common
+    de = EU-Zertifikate
+    en = EU certificates
+    tags = common
+
+accessibility_certificates_overview_all_certificates_title
+  de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
+  tags=common
+  
 [certificates_overview_currently_uses_certificate_note]
 de = Aktuell verwendetes Zertifikat
 en = Certificate currently in use
@@ -946,14 +984,16 @@ tags = common
 de = Impfung %d von %d
 en = Vaccine dose %d of %d
 tags = common
+
 [vaccination_certificate_detail_view_vaccination_headline]
-de = Digitales COVID-Impfzertifikat der EU
-en = EU Digital COVID Certificate of Vaccination
-tags = common
-[vaccination_certificate_detail_view_booster_vaccination_headline]
-de = Digitales COVID-Impfzertifikat der EU
-en = EU Digital COVID Certificate of Vaccination
-tags = common
+    de = Digitales COVID-Impfzertifikat der EU
+    en = EU Digital COVID Certificate of Vaccination
+    tags = common
+
+[accessibility_vaccination_certificate_detail_view_booster_vaccination_headline]
+   de = Digitales COVID Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+   en = EU Digital COVID Crtificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+    
 [vaccination_certificate_detail_view_vaccination_note]
 de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
 en = This certificate is for a vaccine that only requires one dose or a vaccine for people who have recovered from an infection and only need one dose.
@@ -1058,10 +1098,18 @@ tags = common
 de = PCR-Test
 en = PCR test
 tags = common
+
+
 [test_certificate_detail_view_headline]
-de = Digitales COVID-Testzertifikat der EU
-en = EU Digital COVID Certificate of Test
-tags = common
+    de = Digitales COVID-Testzertifikat der EU
+    en = EU Digital COVID Certificate of Test
+    tags = common
+    
+ [accessibility_test_certificate_detail_view_headline]
+     de = Digitales COVID Testzertifikat. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+     en = EU Digital COVID Test Certificate. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+     tags = common
+  
 [test_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
 en = Name, Vorname / Name, first name
@@ -1158,10 +1206,18 @@ tags = common
 de = Vollständige Genesung
 en = Full recovery
 tags = common
+
 [recovery_certificate_detail_view_headline]
-de = Digitales COVID-Genesenenzertifikat der EU
-en = EU Digital COVID Certificate of Recovery
-tags = common
+    de = Digitales COVID-Genesenenzertifikat der EU
+    en = EU Digital COVID Certificate of Recovery
+    tags = common
+
+[accessibility_recovery_certificate_detail_view_headline]c
+  de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+  tags=common
+  
+  
 [recovery_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
 en = Name, Vorname / Name, first name
@@ -1273,7 +1329,7 @@ tags = common
 de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
 en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
 [[print certificate]]
-[accessibility_certificate_create_pdf_label_close]
+[ ibility_certificate_create_pdf_label_close]
 de = Schließen
 en = Close
 tags = common
