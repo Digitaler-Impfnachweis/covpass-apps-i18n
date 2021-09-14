@@ -788,8 +788,8 @@ tags = common
         tags = common
 
 [vaccination_certificate_overview_faqlink]
-        de = Mehr Informationen finden Sie in unseren #Häufigen Fragen und Antworten::https://www.digitaler-impfnachweis-app.de/faq#
-        en = Please find more information in our #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#
+        de = Mehr Informationen finden Sie in unseren #Häufigen Fragen und Antworten::https://www.digitaler-impfnachweis-app.de/faq#.
+        en = Please find more information in our #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#.
         tags = common
         
 [test_certificate_overview_title]   
