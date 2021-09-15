@@ -83,9 +83,15 @@ tags = common
     tags = common
 
 [vaccination_privacy_policy_page_button_title]
-de = Schließen
-en = Close
-tags = common
+        de = Schließen
+        en = Close
+        tags = common
+
+[accessibility_popup_label_close]
+        de = Schließen
+        en = Close
+        tags = common
+
 [error_connect_internet_for_scan_title]
 de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
 en = Switch off airplane mode or use WLAN for data access
