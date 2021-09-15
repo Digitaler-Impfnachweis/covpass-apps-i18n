@@ -1353,6 +1353,12 @@ tags = common
 de = Teilen über
 en = Share via
 tags = common
+
+[certificate_share_pdf_shareitem_android]
+        de = PDF speichern
+        en = Save PDF
+        tags common
+
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
 de = Möchten Sie das COVID-Zertifikat wirklich löschen?
