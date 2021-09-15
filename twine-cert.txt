@@ -5,9 +5,9 @@ en = CovPass
 tags = common
 [[onboarding]]
 [start_onboarding_title]
-de = Willkommen in der CovPass-App
-en = Welcome to the CovPass app
-tags = common
+    de = Willkommen in der CovPass-App
+    en = Welcome to the CovPass app
+    tags = common
 [start_onboarding_message]
 de = Weisen Sie digitale COVID-Zertifikate der EU ganz einfach mit dem Smartphone nach.
 en = Show your EU Digital COVID Certificates from your smartphone with ease.
@@ -142,7 +142,7 @@ tags = common
   de = Digitale COVID-Zertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
   en = EU Digital COVID Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
   tags=common
-  
+
 [vaccination_start_screen_note_title]
 de = Fügen Sie einen Nachweis hinzu
 en = Add a certificate
@@ -557,7 +557,7 @@ tags = common
 
 [certificate_check_validity_detail_view_test_result_title]
     de = Digitales COVID-Testzertifikat der EU
-    en = EU Digital COVID Test Certificate 
+    en = EU Digital COVID Test Certificate
     tags = common
 
 [accessibility_certificate_check_validity_detail_view_test_result_title]
@@ -889,7 +889,7 @@ accessibility_certificates_overview_all_certificates_title
   de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
   en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
   tags=common
-  
+
 [certificates_overview_currently_uses_certificate_note]
 de = Aktuell verwendetes Zertifikat
 en = Certificate currently in use
@@ -993,7 +993,7 @@ tags = common
 [accessibility_vaccination_certificate_detail_view_booster_vaccination_headline]
    de = Digitales COVID Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
    en = EU Digital COVID Crtificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
-    
+
 [vaccination_certificate_detail_view_vaccination_note]
 de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
 en = This certificate is for a vaccine that only requires one dose or a vaccine for people who have recovered from an infection and only need one dose.
@@ -1104,12 +1104,12 @@ tags = common
     de = Digitales COVID-Testzertifikat der EU
     en = EU Digital COVID Certificate of Test
     tags = common
-    
+
  [accessibility_test_certificate_detail_view_headline]
      de = Digitales COVID Testzertifikat. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
      en = EU Digital COVID Test Certificate. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
      tags = common
-  
+
 [test_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
 en = Name, Vorname / Name, first name
@@ -1216,8 +1216,8 @@ tags = common
   de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
   en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
   tags=common
-  
-  
+
+
 [recovery_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
 en = Name, Vorname / Name, first name
