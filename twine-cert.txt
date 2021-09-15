@@ -307,16 +307,15 @@ tags = common
 de = Zertifikat anzeigen
 en = Display certificate
 tags = common
+
 [certificate_check_validity_title]
-de = Gültigkeit prüfen
-en = Check validity
+de = Gültigkeit für Reisen innerhalb der EU prüfen
+en = Check validity for travelling within the EU
 tags = common
 
 [certificate_check_validity_message]
-        de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands 
-        berücksichtigt.
-        en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen 
-        destination country.
+        de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
+        en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
         tags = common
         
 [certificate_check_validity_selection_country]
@@ -463,6 +462,7 @@ tags = common
 de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
 en = Select
@@ -529,8 +529,8 @@ en = Invalid in this country
 tags = common
 
 [certificate_check_validity_result_not_testable]
-        de = Ihr Zertifikat konnte nicht geprüft werden.
-        en = Your certificate could not be validated.
+        de = Nicht prüfbar
+        en = Not possible to validate
         tags = common
         
 [certificate_check_validity_note]
@@ -604,7 +604,7 @@ tags = common
         tags = common
         
 [certificate_check_validity_detail_view_result_no_rules_message]
-        de = Für das gewählte Land und den gewählten Zeitpunkt stehen derzeit keine Einreiseregeln für die Prüfung in der App zur Verfügung.\n\n Bitte informieren         Sie sich unter #https://reopen.europa.eu::https://reopen.europa.eu#, ob das Zertifikat für die Einreise in das gewählte Land gültig ist.
+        de = Für das gewählte Land und den gewählten Zeitpunkt stehen derzeit keine Einreiseregeln für die Prüfung in der App zur Verfügung.\n\n Bitte informieren Sie sich unter #https://reopen.europa.eu::https://reopen.europa.eu#, ob das Zertifikat für die Einreise in das gewählte Land gültig ist.
         en = For the selected country and date, there are currently no entry rules available to check for in the App. \n\nPlease check at     
         #https://reopen.europa.eu::https://reopen.europa.eu# whether the certificate is valid for entry into the selected country.
         tags = common
@@ -623,16 +623,9 @@ tags = common
         de = Es wurden %d Regeln des Ziellandes erfolgreich überprüft.
         en = %d rules of the destination country were successfully checked.
         tags = common
-        
-        
-[certificate_check_validity_detail_view_result_valid_info__title_no_rules]
-        de = Zertifikat nicht prüfbar
-        en = Certificate not validated
-        tags = common
-
+       
 [certificate_check_validity_detail_view_result_valid_info_no_rules]
-        de = Für diesen Zertifikattyp sind derzeit keine Einreiseregeln für das gewählte Land und den gewählten Zeitpunkt vorhanden. Bitte beachten Sie die      
-        folgenden Hinweise:
+        de = Für diesen Zertifikattyp sind derzeit keine Einreiseregeln für das gewählte Land und den gewählten Zeitpunkt vorhanden. Bitte beachten Sie die folgenden Hinweise:
         en = There are currently no entry rules available for this certificate type and the selected country and date. Please note the following:
         tags = common
 
