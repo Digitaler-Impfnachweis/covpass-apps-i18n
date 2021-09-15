@@ -600,13 +600,12 @@ tags = common
 
 [certificate_check_validity_detail_view_result_no_rules_title]
         de = Zertifikat nicht prüfbar
-        en = certificate cannot be checked
+        en = Certificate cannot be validated
         tags = common
         
 [certificate_check_validity_detail_view_result_no_rules_message]
         de = Für das gewählte Land und den gewählten Zeitpunkt stehen derzeit keine Einreiseregeln für die Prüfung in der App zur Verfügung.\n\n Bitte informieren Sie sich unter #https://reopen.europa.eu::https://reopen.europa.eu#, ob das Zertifikat für die Einreise in das gewählte Land gültig ist.
-        en = For the selected country and date, there are currently no entry rules available to check for in the App. \n\nPlease check at     
-        #https://reopen.europa.eu::https://reopen.europa.eu# whether the certificate is valid for entry into the selected country.
+        en = For the selected country and date, there are currently no entry rules available to check for in the App. \n\nPlease check at #https://reopen.europa.eu::https://reopen.europa.eu# whether the certificate is valid for entry into the selected country.
         tags = common
         
 [certificate_check_validity_detail_view_result_valid_title]
