@@ -307,14 +307,17 @@ tags = common
 de = Zertifikat anzeigen
 en = Display certificate
 tags = common
+
 [certificate_check_validity_title]
-de = Gültigkeit prüfen
-en = Check validity
+de = Gültigkeit für Reisen innerhalb der EU prüfen
+en = Check validity for travelling within the EU
 tags = common
+
 [certificate_check_validity_message]
-de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
-en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
-tags = common
+        de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
+        en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
+        tags = common
+        
 [certificate_check_validity_selection_country]
 de = Land
 en = Country
@@ -459,6 +462,7 @@ tags = common
 de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_selection_country_action_button]
 de = Übernehmen
 en = Select
@@ -493,7 +497,7 @@ en = OK
 tags = common
 [certificate_check_validity_loading]
 de = Zertifikate werden geprüft
-en = Certificates are being checked
+en = Certificates are being validated
 tags = common
 [certificate_check_validity_no_certificate_saved_title]
 de = Sie haben noch keine Zertifikate gespeichert
@@ -523,10 +527,12 @@ tags = common
 de = Im Reiseland ungültig
 en = Invalid in this country
 tags = common
+
 [certificate_check_validity_result_not_testable]
-de = Nicht vollständig prüfbar
-en = Full check not possible
-tags = common
+        de = Nicht prüfbar
+        en = Not possible to validate
+        tags = common
+        
 [certificate_check_validity_note]
 de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -591,62 +597,78 @@ tags = common
 de = A certificate of recovery is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = A certificate of recovery is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_detail_view_result_no_rules_title]
-de = Dieses Zertifikat ist nicht prüfbar
-en = This certificate cannot be checked
-tags = common
+        de = Zertifikat nicht prüfbar
+        en = Certificate cannot be validated
+        tags = common
+        
 [certificate_check_validity_detail_view_result_no_rules_message]
-de = Für das gewählte Land und den gewählten Zeitpunkt stehen derzeit keine Einreiseregeln für die Prüfung in der App zur Verfügung.\n\nBitte informieren Sie sich unter #https://reopen.europa.eu::https://reopen.europa.eu#, ob das Zertifikat für die Einreise in das gewählte Land gültig ist.
-en = For the selected country and date, there are currently no entry rules available for checking in the app.\n\nPlease check at #https://reopen.europa.eu::https://reopen.europa.eu# whether the certificate is valid for entry into the selected country.
-tags = common
+        de = Für das gewählte Land und den gewählten Zeitpunkt stehen derzeit keine Einreiseregeln für die Prüfung in der App zur Verfügung.\n\n Bitte informieren Sie sich unter #https://reopen.europa.eu::https://reopen.europa.eu#, ob das Zertifikat für die Einreise in das gewählte Land gültig ist.
+        en = For the selected country and date, there are currently no entry rules available to check for in the App. \n\nPlease check at #https://reopen.europa.eu::https://reopen.europa.eu# whether the certificate is valid for entry into the selected country.
+        tags = common
+        
 [certificate_check_validity_detail_view_result_valid_title]
-de = Dieses Zertifikat ist am Reisedatum gültig
-en = This certificate is valid on your travel date
-tags = common
+        de = Dieses Zertifikat ist am Reisedatum gültig
+        en = This certificate is valid on your travel date
+        tags = common
+
 [certificate_check_validity_detail_view_result_valid_message]
-de = Für %@, am %@
-en = For %@ on %@
-tags = common
+        de = Für %@, am %@
+        en = For %@ on %@
+        tags = common
+
 [certificate_check_validity_detail_view_result_valid_info]
-de = Es wurden %d Regeln des Ziellandes erfolgreich überprüft.
-en = %d rules of the destination country were successfully checked.
-tags = common
+        de = Es wurden %d Regeln des Ziellandes erfolgreich überprüft.
+        en = %d rules of the destination country were successfully checked.
+        tags = common
+       
 [certificate_check_validity_detail_view_result_valid_info_no_rules]
-de = Für das gewählte Land und den gewählten Zeitpunkt sind für diesen Zertifikattyp derzeit keine Einreiseregeln vorhanden.
-en = There are currently no entry rules for this certificate type for the selected country and date.
-tags = common
+        de = Für diesen Zertifikattyp sind derzeit keine Einreiseregeln für das gewählte Land und den gewählten Zeitpunkt vorhanden. Bitte beachten Sie die folgenden Hinweise:
+        en = There are currently no entry rules available for this certificate type and the selected country and date. Please note the following:
+        tags = common
+
+
 [certificate_check_validity_detail_view_result_not_testable_title]
-de = Dieses Zertifikat ist nicht vollständig prüfbar
-en = This certificate cannot be fully verified
-tags = common
+        de = Dieses Zertifikat ist nicht vollständig prüfbar.
+        en = This certificate cannot be completely verified.
+        tags = common
+
 [certificate_check_validity_detail_view_result_not_testable_first_message]
-de = Für %@, am %@
-en = For %@ on %@
-tags = common
+        de = Für %@, am %@
+        en = For %@ on %@
+        tags = common
+
 [certificate_check_validity_detail_view_result_not_testable_second_message]
-de = Leider ist eine automatische Prüfung nicht möglich. Überprüfen Sie die unten markierten Werte bitte selbst.
-en = Sorry, an automatic check is not possible for this certificate. Please review the information marked out below yourself.
-tags = common
+        de = Leider ist eine automatische Prüfung nicht möglich. Überprüfen Sie die unten markierten Werte bitte selbst.
+        en = Sorry, an automatic check is not possible for this certificate. Please review the information marked out below yourself.
+        tags = common
+
 [certificate_check_validity_detail_view_result_not_testable_note_title]
-de = Überprüfen Sie diese Information
-en = Review this information
-tags = common
+        de = Überprüfen Sie diese Information
+        en = Review this information
+        tags = common
+
 [certificate_check_validity_detail_view_result_not_testable_note_message]
-de = Regel des Ziellands: Ein Antigentest ist maximal 48 h gültig.
-en = Rule at destination: antigen tests are valid for a maximum of 48 hours.
-tags = common
+        de = Regel des Ziellands: Ein Antigentest ist maximal 48 Stunden gültig.
+        en = Rule at destination: antigen tests are valid for a maximum of 48 hours.
+        tags = common
+        
 [certificate_check_validity_detail_view_result_not_valid_title]
-de = Dieses Zertifikat ist am Reisedatum nicht gültig
-en = This certificate is invalid on your travel date
-tags = common
+        de = Dieses Zertifikat ist am Reisedatum nicht gültig
+        en = This certificate is invalid on your travel date
+        tags = common
+        
 [certificate_check_validity_detail_view_result_not_valid_message]
-de = Für %@, am %@
-en = For %@ on %@
-tags = common
+        de = Für %@, am %@
+        en = For %@ on %@
+        tags = common
+        
 [certificate_check_validity_detail_view_result_not_valid_note_title]
-de = Dieser Wert erfüllt nicht Regel „TR01"
-en = This does not satisfy rule ‘TR01’
-tags = common
+        de = Dieser Wert erfüllt nicht Regel „TR01"
+        en = This does not satisfy rule ‘TR01’
+        tags = common
+        
 [certificate_check_validity_detail_view_result_not_valid_note_message]
 de = Regel des Ziellands: Genesenenzertifikate sind bis zu 180 Tage gültig.
 en = Rule at destination: recovery certificates are valid for up to 180 days.
@@ -1330,6 +1352,12 @@ tags = common
 de = Teilen über
 en = Share via
 tags = common
+
+[certificate_share_pdf_shareitem_android]
+        de = PDF speichern
+        en = Save PDF
+        tags common
+
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
 de = Möchten Sie das COVID-Zertifikat wirklich löschen?
