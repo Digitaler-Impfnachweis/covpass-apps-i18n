@@ -627,7 +627,7 @@ tags = common
     en = EU Digital COVID Certificate of Recovery
     tags = common
 
-[certificate_check_validity_detail_view_recovery_result_title]
+[accessibility_certificate_check_validity_detail_view_recovery_result_title]
     de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
     tags = common
@@ -974,7 +974,7 @@ tags = common
     en = EU certificates
     tags = common
 
-accessibility_certificates_overview_all_certificates_title
+[accessibility_certificates_overview_all_certificates_title]
   de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
   en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
   tags=common
@@ -1481,7 +1481,7 @@ tags = common
     en = EU Digital COVID Certificate of Recovery
     tags = common
 
-[accessibility_recovery_certificate_detail_view_headline]c
+[accessibility_recovery_certificate_detail_view_headline]
   de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
   en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
   tags = common
@@ -1667,7 +1667,7 @@ tags = common
 de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
 en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
 [[print certificate]]
-[ ibility_certificate_create_pdf_label_close]
+[accessibility_certificate_create_pdf_label_close]
 de = Schließen
 en = Close
 tags = common
