@@ -1356,7 +1356,7 @@ tags = common
 [certificate_share_pdf_shareitem_android]
         de = PDF speichern
         en = Save PDF
-        tags common
+        tags = common
 
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
