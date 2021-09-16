@@ -331,6 +331,17 @@ de = Gültigkeit für Reisen innerhalb der EU prüfen
 en = Check validity for travelling within the EU
 tags = common
 
+[accessibility_certificate_check_validity_selection_country_selected]
+	de = %s, ausgewählt
+	en = %s, selected
+	tags = common
+
+[accessibility_certificate_check_validity_selection_country_unselected]
+	de = %s, auswählbar
+	en = %s, selectable
+	tags = common
+
+
 [certificate_check_validity_message]
         de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
         en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
@@ -348,6 +359,12 @@ tags = common
 de = Reiseland wählen
 en = Choose destination
 tags = common
+
+[accessibility_certificate_check_validity_selection_country]
+	de = Land: %s
+	en = Country: %s
+	tags = common
+
 [IT]
 de = Italien
 en = Italy
@@ -489,6 +506,12 @@ tags = common
 de = Datum
 en = Date
 tags = common
+
+[accessibility_certificate_check_validity_selection_date]
+	de = Datum: %s
+	en = Date: %s
+	tags = common
+
 [accessibility_certificate_check_validity_selection_date_label_close]
 de = Schließen
 en = Close
@@ -1895,3 +1918,21 @@ tags = common
 de = Version %@
 en = Version %@
 tags = common
+
+[accessibility_image_alternative_text]
+    de = Dekorativ
+    en = Decorative
+    tags = common
+    comment = generic key to be used as alt text for decorative images
+    
+[accessibility_popup_label_close]
+    de = Schließen
+    en = Close
+    tags = common
+    comment = generic key to be used in both apps for close buttons
+
+[accessibility_qr_code]
+    de = QR-Code
+    en = QR code
+    tags = common
+    comment = to be used as alt text for qr codes
