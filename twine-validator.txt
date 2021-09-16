@@ -190,6 +190,12 @@ tags = common
 de = Schließen
 en = Close
 tags = common
+
+        [accessibility_scan_dialog_camera_announce]
+            de = Kamera-Ansicht wurde geöffnet
+            en = Camera has been opened
+            tags = common
+
 [error_camera_access_title]
 de = Die CovPassCheck-App möchte auf Ihre Kamera zugreifen.
 en = The CovPassCheck app wants to access your camera.
@@ -234,6 +240,88 @@ tags = common
 de = * Genesenen- oder Impfzertifikat liegt vor.
 en = * Person has recovery or vaccination certificate.
 tags = common
+
+[technical_validation_check_popup_unsuccessful_certificate_title]
+    de = Zertifikat nicht gültig
+    en = Certificate not valid
+    tags = common
+
+[technical_validation_check_popup_unsuccessful_certificate_subline]
+    de = Das geprüfte Zertifikat ist aus einem der folgenden Gründe nicht gültig:
+    en = The certificate is invalid for one of the following reasons:
+    tags = common
+
+[technical_validation_check_popup_unsuccessful_certificate_signature_subheading]
+    de = Ungültige Signatur
+    en = Invalid signature
+    tags = common
+
+[technical_validation_check_popup_unsuccessful_certificate_signature_subline]
+    de = Das Zertifikat wurde nicht von einer autorisierten Stelle ausgestellt oder gehört nicht zu einem Digitalen COVID-Zertifikat der EU.
+    en = The certificate was issued by an unauthorized organization, or does not belong to the EU Digital Covid Certificate network.
+    tags = common
+
+[technical_validation_check_popup_unsuccessful_certificate_qrreadibility_subheading]
+    de = QR-Code nicht lesbar
+    en = QR code unreadable
+    tags = common
+
+[technical_validation_check_popup_unsuccessful_certificate_qrreadibility_subline]
+    de = Der QR-Code ist nicht lesbar. Bitte aktualisieren Sie die CovPassCheck-App, wenn dieses Problem häufiger auftritt.
+    en = Unable to read the QR code. Please update the CovPassCheck App, if the problem is recurring.
+    tags = common
+
+[technical_validation_check_popup_valid_vaccination_button_title]
+    de = Weiteres Zertifikat scannen
+    en = Scan another certificate
+    tags = common
+
+[functional_validation_check_popup_unsuccessful_certificate_title]
+    de = Zertifikat erfüllt nicht alle Bedingungen
+    en = Certificate does not fulfil all conditions
+    tags = common
+
+[functional_validation_check_popup_unsuccessful_certificate_subline]
+    de = Die geprüfte Person kann den Grund z. B. in der CovPass-App einsehen. Die häufigsten Gründe:
+    en = The checked person can see the reason in their CovPass App. The most common reasons:
+    tags = common
+
+[functional_validation_check_popup_unsuccessful_certificate_subheadline_expiration]
+    de = Abgelaufener Test
+    en = Test expired
+    tags = common
+
+        [functional_validation_check_popup_unsuccessful_certificate_subheadline_expiration_text]
+            de = Ein negativer Schnelltest ist für maximal 24 Stunden gültig. Ein negativer PCR-Test ist für maximal 72 Stunden gültig.
+            en = A negative rapid test has a maximal validity of 24 hours. A negative PCR test has a maximal validity of 72 hours.
+            tags = common
+
+[functional_validation_check_popup_unsuccessful_certificate_subheadline_protection]
+    de = Noch nicht gültiger Schutz
+    en = Protection not yet valid
+    tags = common
+
+        [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
+            de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion darf höchstens sechs Monate und mindestens 28 Tage alt sein.
+            en = Individuals are not completely protected until 14 days after the second vaccination. A recovery from a Corona infection has to be between at least 28 days and maximal 6 months in the past.
+            tags = common
+
+  [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
+      de = Unvollständige Impfung
+      en = Uncompleted Vaccination
+      tags = common
+
+          [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted_text]
+              de = Je nach Impfstoff sind für die Erlangung des vollständigen Impfschutzes mehrere Impfdosen erforderlich.
+              en = Depending on the vaccine, multiple vaccine doses have to be administered for completed protection.
+              tags = common
+
+[technical_validation_check_popup_valid_vaccination_button_further]
+    de = Weiteres Zertifikat scannen
+    en = Scan another certificate
+    tags = common
+
+
 [validation_check_popup_valid_vaccination_button_title]
 de = Weiteres Zertifikat scannen
 en = Scan another certificate

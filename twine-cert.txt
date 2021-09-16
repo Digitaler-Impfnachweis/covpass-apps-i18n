@@ -5,9 +5,10 @@ en = CovPass
 tags = common
 [[onboarding]]
 [start_onboarding_title]
-de = Willkommen in der CovPass-App
-en = Welcome to the CovPass app
-tags = common
+    de = Willkommen in der CovPass-App
+    en = Welcome to the CovPass app
+    tags = common
+
 [start_onboarding_message]
 de = Weisen Sie digitale COVID-Zertifikate der EU ganz einfach mit dem Smartphone nach.
 en = Show your EU Digital COVID Certificates from your smartphone with ease.
@@ -143,10 +144,17 @@ tags = common
 de = Nachweis hinzufügen
 en = Add certificate
 tags = common
+
 [vaccination_start_screen_title]
 de = Digitale COVID-Zertifikate der EU
 en = EU Digital COVID Certificates
 tags = common
+
+[accessibility_vaccination_start_screen_title]
+  de = Digitale COVID-Zertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = EU Digital COVID Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+  tags=common
+
 [vaccination_start_screen_note_title]
 de = Fügen Sie einen Nachweis hinzu
 en = Add a certificate
@@ -184,10 +192,12 @@ tags = common
 [certificates_start_screen_qrcode_certificate_invalid_subtitle]
 de = Ungültig
 en = Invalid
+
 [vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
-de = Impfstatus überprüfen
-en = Check vaccination status
-tags = common
+    de = Impfstatus überprüfen
+    en = Check vaccination status
+    tags = common
+
 [[popup: add certification]]
 [accessibility_certificate_add_popup_label_close]
 de = Schließen
@@ -245,17 +255,25 @@ tags = common
 de = Zugriff erlauben
 en = Allow access
 tags = common
+
 [accessibility_certificate_add_dialog_camera_access_label_close]
-de = Schließen
-en = Close
-tags = common
+    de = Schließen
+    en = Close
+    tags = common
+
+[accessibility_certificate_add_dialog_camera_announce]
+    de = Kamera-Ansicht wurde geöffnet
+    en = Camera has been opened
+    tags = common
+
 [accessibility_certificate_scan_mode_label_cancel]
-de = Abbrechen
-en = Cancel
-tags = common
+    de = Abbrechen
+    en = Cancel
+    tags = common
+
 [error_camera_access_title]
 de = Die CovPass-App möchte auf Ihre Kamera zugreifen.
-en = The CovPass app wants to access your camera.
+en = The CovPass App wants to access your camera.
 tags = common
 [error_camera_access_message]
 de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können.
@@ -499,6 +517,17 @@ tags = common
 de = Zertifikate werden geprüft
 en = Certificates are being validated
 tags = common
+
+[certificate_check_invalidity_error_title]
+    de = Überprüfen Sie die Gültigkeit Ihrer Zertifikate.
+    en = Please check the validity of your certificates.
+    tags = common
+
+        [certificate_check_invalidity_error_text]
+            de = Ein oder mehrere Zertifikate laufen bald ab oder sind abgelaufen.
+            en = One ore multiple certificates are expired, or will expire soon.
+            tags = common
+
 [certificate_check_validity_no_certificate_saved_title]
 de = Sie haben noch keine Zertifikate gespeichert
 en = You have not saved any certificates yet
@@ -537,10 +566,17 @@ tags = common
 de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_detail_view_vaccination_result_title]
-de = Digitales COVID-Impfzertifikat der EU
-en = EU Digital COVID Certificate of Vaccination
-tags = common
+    de = Digitales COVID-Impfzertifikat der EU
+    en = EU Digital COVID Certificate of Vaccination
+    tag=common
+
+[accessbility_certificate_check_validity_detail_view_vaccination_result_title]
+    de = Digitale COVID Imofzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+    en = EU Digital COVID Vaccination Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
+    tags = common
+
 [certificate_check_validity_detail_view_vaccination_result_headline_data]
 de = Geprüfte Zertifikatsdaten:
 en = Verified certificate data:
@@ -557,10 +593,18 @@ tags = common
 de = A certificate of vaccination is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = A certificate of vaccination is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_detail_view_test_result_title]
-de = Digitales COVID-Testzertifikat der EU
-en = EU Digital COVID Certificate of Test
-tags = common
+    de = Digitales COVID-Testzertifikat der EU
+    en = EU Digital COVID Test Certificate
+    tags = common
+
+[accessibility_certificate_check_validity_detail_view_test_result_title]
+     de = Digitale COVID-Testzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+     en = EU Digital COVID Test Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+     tags = common
+
+
 [certificate_check_validity_detail_view_test_result_headline_data]
 de = Geprüfte Zertifikatsdaten:
 en = Verified certificate data:
@@ -577,10 +621,17 @@ tags = common
 de = A test certificate is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = A test certificate is valid proof for travel within the EU. The EU’s member countries have different travel restrictions. You can find more information in the Frequently Asked Questions. Before travelling, please check the applicable public health measures and related restrictions applied at the point of destination.\n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [certificate_check_validity_detail_view_recovery_result_title]
-de = Digitales COVID-Genesenenzertifikat der EU
-en = EU Digital COVID Certificate of Recovery
-tags = common
+    de = Digitales COVID-Genesenenzertifikat der EU
+    en = EU Digital COVID Certificate of Recovery
+    tags = common
+
+[certificate_check_validity_detail_view_recovery_result_title]
+    de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+    en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
+    tags = common
+
 [certificate_check_validity_detail_view_recovery_result_headline_data]
 de = Geprüfte Zertifikatsdaten:
 en = Verified certificate data:
@@ -887,74 +938,112 @@ tags = common
 de = Persönliche Daten
 en = Personal details
 tags = common
+
 [certificates_overview_personal_data_name]
-de = Name, Vorname / Name, first name
-en = Name, Vorname / Name, first name
-tags = common
+    de = Name, Vorname / Name, first name
+    en = Name, Vorname / Name, first name
+    tags = common
+
+        [accessibility_certificates_overview_personal_data_name]
+            de = Name
+            en = Name
+            tags = common
+
 [certificates_overview_personal_data_standardized_name]
-de = Standardisierter Name, Vorname / Standardized name, first name
-en = Standardisierter Name, Vorname / Standardized name, first name
-tags = common
+    de = Standardisierter Name, Vorname / Standardized name, first name
+    en = Standardisierter Name, Vorname / Standardized name, first name
+    tags = common
+
+        [accessibility_certificates_overview_personal_data_standardized_name]
+            de = Standardisierter Name
+            en = Standardized name
+            tags = common
+
 [certificates_overview_personal_data_date_of_birth]
-de = Geburtsdatum / Date of birth (YYYY-MM-DD)
-en = Geburtsdatum / Date of birth (YYYY-MM-DD)
-tags = common
+    de = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    en = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    tags = common
+
+        [accessibility_certificates_overview_personal_data_date_of_birth]
+            de = Geburtsdatum (Jahr-Monat-Tag)
+            en = Date of birth (Year-Month-Day)
+            tags = common
+
 [certificates_overview_all_certificates_title]
-de = EU-Zertifikate
-en = EU certificates
-tags = common
+    de = EU-Zertifikate
+    en = EU certificates
+    tags = common
+
+accessibility_certificates_overview_all_certificates_title
+  de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
+  tags=common
+
 [certificates_overview_currently_uses_certificate_note]
-de = Aktuell verwendetes Zertifikat
-en = Certificate currently in use
-tags = common
+    de = Aktuell verwendetes Zertifikat
+    en = Certificate currently in use
+    tags = common
+
 [certificates_overview_expires_soon_certificate_note]
-de = Zertifikat läuft bald ab
-en = Certificate expires soon
-tags = common
+    de = Zertifikat läuft bald ab
+    en = Certificate expires soon
+    tags = common
+
 [certificates_overview_expired_certificate_note]
-de = Zertifikat abgelaufen
-en = Certificate expired
-tags = common
+    de = Zertifikat abgelaufen
+    en = Certificate expired
+    tags = common
+
 [certificates_overview_invalid_certificate_note]
-de = Zertifikat ungültig
-en = Certificate invalid
-tags = common
+    de = Zertifikat ungültig
+    en = Certificate invalid
+    tags = common
+
 [certificates_overview_booster_vaccination_certificate_note]
-de = Aktuell nur in DE nutzbar
-en = Currently only usable in DE
-tags = common
+    de = Aktuell nur in DE nutzbar
+    en = Currently only usable in DE
+    tags = common
+
 [certificates_overview_booster_vaccination_certificate_title]
-de = Impfzertifikat
-en = Vaccination certificate
-tags = common
+    de = Impfzertifikat
+    en = Vaccination certificate
+    tags = common
+
 [certificates_overview_booster_vaccination_certificate_date]
-de = Geimpft am %@
-en = Vaccinated on %@
-tags = common
+    de = Geimpft am %@
+    en = Vaccinated on %@
+    tags = common
+
 [certificates_overview_vaccination_certificate_title]
-de = Impfzertifikat
-en = Vaccination certificate
-tags = common
+    de = Impfzertifikat
+    en = Vaccination certificate
+    tags = common
+
 [certificates_overview_vaccination_certificate_message]
-de = Impfung %d von %d
-en = Vaccine dose %d of %d
-tags = common
+    de = Impfung %d von %d
+    en = Vaccine dose %d of %d
+    tags = common
+
 [certificates_overview_vaccination_certificate_date]
-de = Geimpft am %@
-en = Vaccinated on %@
-tags = common
+    de = Geimpft am %@
+    en = Vaccinated on %@
+    tags = common
+
 [certificates_overview_recovery_certificate_title]
-de = Genesenenzertifikat
-en = Recovery certificate
-tags = common
+    de = Genesenenzertifikat
+    en = Recovery certificate
+    tags = common
+
 [certificates_overview_recovery_certificate_message]
-de = Vollständige Genesung
-en = Full recovery
-tags = common
+    de = Vollständige Genesung
+    en = Full recovery
+    tags = common
+
 [certificates_overview_recovery_certificate_valid_until_date]
-de = Gültig bis %@
-en = Valid until %@
-tags = common
+    de = Gültig bis %@
+    en = Valid until %@
+    tags = common
+
 [certificates_overview_recovery_certificate_valid_from_date]
 de = Gültig ab %@
 en = Valid from %@
@@ -997,70 +1086,152 @@ tags = common
 de = Impfung %d von %d
 en = Vaccine dose %d of %d
 tags = common
+
 [vaccination_certificate_detail_view_vaccination_headline]
-de = Digitales COVID-Impfzertifikat der EU
-en = EU Digital COVID Certificate of Vaccination
-tags = common
-[vaccination_certificate_detail_view_booster_vaccination_headline]
-de = Digitales COVID-Impfzertifikat der EU
-en = EU Digital COVID Certificate of Vaccination
-tags = common
+    de = Digitales COVID-Impfzertifikat der EU
+    en = EU Digital COVID Certificate of Vaccination
+    tags = common
+
+[accessibility_vaccination_certificate_detail_view_booster_vaccination_headline]
+   de = Digitales COVID Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+   en = EU Digital COVID Certificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+   tags = common
+
 [vaccination_certificate_detail_view_vaccination_note]
-de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
-en = This certificate is for a vaccine that only requires one dose or a vaccine for people who have recovered from an infection and only need one dose.
-tags = common
+    de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
+    en = This certificate is for a vaccine that only requires one dose or a vaccine for people who have recovered from an infection and only need one dose.
+    tags = common
+
 [vaccination_certificate_detail_view_data_name]
-de = Name, Vorname / Name, first name
-en = Name, Vorname / Name, first name
-tags = common
+    de = Name, Vorname / Name, first name
+    en = Name, Vorname / Name, first name
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_name]
+            de = Name
+            en = Name
+            tags = common
+
 [vaccination_certificate_detail_view_data_name_standard]
-de = Standardisierter Name, Vorname / Standardized name, first name
-en = Standardisierter Name, Vorname / Standardized name, first name
-tags = common
+    de = Standardisierter Name, Vorname / Standardized name, first name
+    en = Standardisierter Name, Vorname / Standardized name, first name
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_name_standard]
+            de = Standardisierter Name
+            en = Standardized name
+            tags = common
+
 [vaccination_certificate_detail_view_data_date_of_birth]
-de = Geburtsdatum / Date of birth (YYYY-MM-DD)
-en = Geburtsdatum / Date of birth (YYYY-MM-DD)
-tags = common
+    de = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    en = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_date_of_birth]
+            de = Geburtsdatum (Jahr-Monat-Tag)
+            en = Date of birth (Year-Month-Day)
+            tags = common
+
 [vaccination_certificate_detail_view_data_disease]
-de = Zielkrankheit oder -erreger / Disease or pathogen
-en = Zielkrankheit oder -erreger / Disease or pathogen
-tags = common
+    de = Zielkrankheit oder -erreger / Disease or pathogen
+    en = Zielkrankheit oder -erreger / Disease or pathogen
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_disease]
+            de = Zielkrankheit oder -erreger
+            en = Disease or pathogen
+            tags = common
+
 [vaccination_certificate_detail_view_data_vaccine]
-de = Impfstoff / Vaccine
-en = Impfstoff / Vaccine
-tags = common
+    de = Impfstoff / Vaccine
+    en = Impfstoff / Vaccine
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_vaccine]
+            de = Impfstoff
+            en = Vaccine
+            tags = common
+
 [vaccination_certificate_detail_view_data_vaccine_type]
-de = Art des Impfstoffs / Vaccine Type
-en = Art des Impfstoffs / Vaccine Type
-tags = common
+    de = Art des Impfstoffs / Vaccine Type
+    en = Art des Impfstoffs / Vaccine Type
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_vaccine_type]
+            de = Art des Impfstoffs
+            en = Vaccine Type
+            tags = common
+
 [vaccination_certificate_detail_view_data_vaccine_manufactur]
-de = Hersteller / Manufacturer
-en = Hersteller / Manufacturer
-tags = common
+    de = Hersteller / Manufacturer
+    en = Hersteller / Manufacturer
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_vaccine_manufacturer]
+            de = Hersteller
+            en = Manufacturer
+            tags = common
+
 [vaccination_certificate_detail_view_data_vaccine_number]
-de = Nummer der Impfung / Dose number
-en = Nummer der Impfung / Dose number
-tags = common
+    de = Nummer der Impfung / Dose number
+    en = Nummer der Impfung / Dose number
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_vaccine_number]
+            de = Nummer der Impfung
+            en = Dose number
+            tags = common
+
 [vaccination_certificate_detail_view_data_vaccine_date_]
-de = Datum der Impfung / Date of vaccination (YYYY-MM-DD)
-en = Datum der Impfung / Date of vaccination (YYYY-MM-DD)
-tags = common
+    de = Datum der Impfung / Date of vaccination (YYYY-MM-DD)
+    en = Datum der Impfung / Date of vaccination (YYYY-MM-DD)
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_vaccine_date_]
+            de = Datum der Impfung (Jahr-Monat-Tag)
+            en = Date of vaccination (Year-Month-Day)
+            tags = common
+
 [vaccination_certificate_detail_view_data_vaccine_country]
-de = Land der Impfung / Country vaccinating
-en = Land der Impfung / Country vaccinating
-tags = common
+    de = Land der Impfung / Country vaccinating
+    en = Land der Impfung / Country vaccinating
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_vaccine_country]
+            de = Land der Impfung
+            en = Country vaccinating
+            tags = common
+
 [vaccination_certificate_detail_view_data_vaccine_issuer]
-de = Zertifikataussteller / Certificate issuer
-en = Zertifikataussteller / Certificate issuer
-tags = common
+    de = Zertifikataussteller / Certificate issuer
+    en = Zertifikataussteller / Certificate issuer
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_vaccine_issuer]
+            de = Zertifikataussteller
+            en = Certificate issuer
+            tags = common
+
 [vaccination_certificate_detail_view_data_vaccine_identifier]
-de = Zertifikatkennung / Unique certificate identifier
-en = Zertifikatkennung / Unique certificate identifier
-tags = common
+    de = Zertifikatkennung / Unique certificate identifier
+    en = Zertifikatkennung / Unique certificate identifier
+    tags = common
+
+    [accessibility_vaccination_certificate_detail_view_data_vaccine_identifier]
+        de = Zertifikatkennung
+        en = Unique certificate identifier
+        tags = common
+
 [vaccination_certificate_detail_view_data_expiry_date]
-de = Technisches Ablaufdatum / Technical expiry date
-en = Technical expiry date / Technical expiry date
-tags = common
+    de = Technisches Ablaufdatum / Technical expiry date
+    en = Technical expiry date / Technical expiry date
+    tags = common
+
+        [accessibility_vaccination_certificate_detail_view_data_expiry_date]
+            de = Technisches Ablaufdatum
+            en = Technical expiry date
+            tags = common
+
 [vaccination_certificate_detail_view_data_expiry_date_message]
 de = Gültig bis %@
 en = Valid until %@
@@ -1109,74 +1280,169 @@ tags = common
 de = PCR-Test
 en = PCR test
 tags = common
+
+
 [test_certificate_detail_view_headline]
-de = Digitales COVID-Testzertifikat der EU
-en = EU Digital COVID Certificate of Test
-tags = common
+    de = Digitales COVID-Testzertifikat der EU
+    en = EU Digital COVID Certificate of Test
+    tags = common
+
+ [accessibility_test_certificate_detail_view_headline]
+     de = Digitales COVID Testzertifikat. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+     en = EU Digital COVID Test Certificate. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+     tags = common
+
 [test_certificate_detail_view_data_name]
-de = Name, Vorname / Name, first name
-en = Name, Vorname / Name, first name
-tags = common
+    de = Name, Vorname / Name, first name
+    en = Name, Vorname / Name, first name
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_name]
+             de = Name
+             en = Name
+             tags = common
+
 [test_certificate_detail_view_data_name_standard]
-de = Standardisierter Name, Vorname / Standardized name, first name
-en = Standardisierter Name, Vorname / Standardized name, first name
-tags = common
+    de = Standardisierter Name, Vorname / Standardized name, first name
+    en = Standardisierter Name, Vorname / Standardized name, first name
+    tags = common
+
+    [accessibility_test_certificate_detail_view_data_name_standard]
+         de = Standardisierter Name
+         en = Standardized name
+         tags = common
+
 [test_certificate_detail_view_data_date_of_birth]
-de = Geburtsdatum / Date of birth (YYYY-MM-DD)
-en = Geburtsdatum / Date of birth (YYYY-MM-DD)
-tags = common
+    de = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    en = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_date_of_birth]
+             de = Geburtsdatum (Jahr-Monat-Tag)
+             en = Date of birth (Year-Month-Day)
+             tags = common
+
 [test_certificate_detail_view_data_disease]
-de = Zielkrankheit oder -erreger / Disease or pathogen
-en = Zielkrankheit oder -erreger / Disease or pathogen
-tags = common
+    de = Zielkrankheit oder -erreger / Disease or pathogen
+    en = Zielkrankheit oder -erreger / Disease or pathogen
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_disease]
+             de = Zielkrankheit oder -erreger
+             en = Disease or pathogen
+             tags = common
+
 [test_certificate_detail_view_data_test_type]
-de = Art des Tests / Type of test
-en = Art des Tests / Type of test
-tags = common
+    de = Art des Tests / Type of test
+    en = Art des Tests / Type of test
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_type]
+             de = Art des Tests
+             en = Type of test
+             tags = common
+
 [test_certificate_detail_view_data_test_name]
-de = Produktname / Test name
-en = Produktname / Test name
-tags = common
+    de = Produktname / Test name
+    en = Produktname / Test name
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_name]
+             de = Produktname
+             en = Test name
+             tags = common
+
 [test_certificate_detail_view_data_test_manufactur]
-de = Testhersteller / Test manufacturer
-en = Testhersteller / Test manufacturer
-tags = common
+    de = Testhersteller / Test manufacturer
+    en = Testhersteller / Test manufacturer
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_manufacturer]
+             de = Testhersteller
+             en = Test manufacturer
+             tags = common
+
 [test_certificate_detail_view_data_test_date_and_time]
-de = Datum und Uhrzeit der Probenahme / Date and time of sample (YYYY-MM-DD, HH:MM)
-en = Datum und Uhrzeit der Probenahme / Date and time of sample (YYYY-MM-DD, HH:MM)
-tags = common
+    de = Datum und Uhrzeit der Probenahme / Date and time of sample (YYYY-MM-DD, HH:MM)
+    en = Datum und Uhrzeit der Probenahme / Date and time of sample (YYYY-MM-DD, HH:MM)
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_date_and_time]
+             de = Datum und Uhrzeit der Probenahme (Jahr-Monat-Tag)
+             en = Date and time of sample (Year-Month-Day)
+             tags = common
+
+
 [test_certificate_detail_view_data_test_results]
-de = Testergebnis / Test result
-en = Testergebnis / Test result
-tags = common
+    de = Testergebnis / Test result
+    en = Testergebnis / Test result
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_results]
+             de = Testergebnis
+             en = Test result
+             tags = common
+
 [test_certificate_detail_view_data_test_centre]
-de = Testzentrum oder -einrichtung / Testing centre or facility
-en = Testzentrum oder -einrichtung / Testing centre or facility
-tags = common
+    de = Testzentrum oder -einrichtung / Testing centre or facility
+    en = Testzentrum oder -einrichtung / Testing centre or facility
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_centre]
+             de = Testzentrum oder -einrichtung
+             en = Testing centre or facility
+             tags = common
+
 [test_certificate_detail_view_data_test_country]
-de = Land der Testung / Country performing test
-en = Land der Testung / Country performing test
-tags = common
+    de = Land der Testung / Country performing test
+    en = Land der Testung / Country performing test
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_country]
+             de = Land der Testung
+             en = Country performing test
+             tags = common
+
 [test_certificate_detail_view_data_test_issuer]
-de = Zertifikataussteller / Certificate issuer
-en = Zertifikataussteller / Certificate issuer
-tags = common
+    de = Zertifikataussteller / Certificate issuer
+    en = Zertifikataussteller / Certificate issuer
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_issuer]
+             de = Zertifikataussteller
+             en = Certificate issuer
+             tags = common
+
 [test_certificate_detail_view_data_test_identifier]
-de = Zertifikatkennung / Unique certificate identifier
-en = Zertifikatkennung / Unique certificate identifier
-tags = common
+    de = Zertifikatkennung / Unique certificate identifier
+    en = Zertifikatkennung / Unique certificate identifier
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_test_identifier]
+             de = Zertifikatkennung
+             en = Unique certificate identifier
+             tags = common
+
 [test_certificate_detail_view_data_expiry_date]
-de = Technisches Ablaufdatum / Technical expiry date
-en = Technical expiry date / Technical expiry date
-tags = common
+    de = Technisches Ablaufdatum / Technical expiry date
+    en = Technical expiry date / Technical expiry date
+    tags = common
+
+        [accessibility_test_certificate_detail_view_data_expiry_date]
+             de = Technisches Ablaufdatum
+             en = Technical expiry date
+             tags = common
+
 [test_certificate_detail_view_data_expiry_date_message]
-de = Gültig bis %@
-en = Valid until %@
-tags = common
+    de = Gültig bis %@
+    en = Valid until %@
+    tags = common
+
 [test_certificate_detail_view_data_expiry_date_note]
-de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-en = Please make every effort to have a new digital certificate issued in good time.
-tags = common
+    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+    en = Please make every effort to have a new digital certificate issued in good time.
+    tags = common
+
 [test_certificate_detail_view_data_test_note_de]
 de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -1209,65 +1475,142 @@ tags = common
 de = Vollständige Genesung
 en = Full recovery
 tags = common
+
 [recovery_certificate_detail_view_headline]
-de = Digitales COVID-Genesenenzertifikat der EU
-en = EU Digital COVID Certificate of Recovery
-tags = common
+    de = Digitales COVID-Genesenenzertifikat der EU
+    en = EU Digital COVID Certificate of Recovery
+    tags = common
+
+[accessibility_recovery_certificate_detail_view_headline]c
+  de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+  tags = common
+
 [recovery_certificate_detail_view_data_name]
-de = Name, Vorname / Name, first name
-en = Name, Vorname / Name, first name
-tags = common
+    de = Name, Vorname / Name, first name
+    en = Name, Vorname / Name, first name
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_name]
+            de = Name
+            en = Name
+            tags = common
+
 [recovery_certificate_detail_view_data_name_standard]
-de = Standardisierter Name, Vorname / Standardized name, first name
-en = Standardisierter Name, Vorname / Standardized name, first name
-tags = common
+    de = Standardisierter Name, Vorname / Standardized name, first name
+    en = Standardisierter Name, Vorname / Standardized name, first name
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_name_standard]
+            de = Standardisierter Name
+            en = Standardized name
+            tags = common
+
 [recovery_certificate_detail_view_data_date_of_birth]
-de = Geburtsdatum / Date of birth (YYYY-MM-DD)
-en = Geburtsdatum / Date of birth (YYYY-MM-DD)
-tags = common
+    de = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    en = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_date_of_birth]
+            de = Geburtsdatum (Jahr-Monat-Tag)
+            en = Date of birth (Year-Month-Day)
+            tags = common
+
 [recovery_certificate_detail_view_data_disease]
-de = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist / Disease or pathogen that this person has recovered from
-en = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist / Disease or pathogen that this person has recovered from
-tags = common
+    de = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist / Disease or pathogen that this person has recovered from
+    en = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist / Disease or pathogen that this person has recovered from
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_disease]
+            de = Krankheit oder Erreger, von dem die Bürgerin oder der Bürger genesen ist
+            en = Disease or pathogen that this person has recovered from
+            tags = common
+
 [recovery_certificate_detail_view_data_date_first_positive_result]
-de = Datum des ersten positiven Testergebnisses / Date of first positive test result (YYYY-MM-DD)
-en = Datum des ersten positiven Testergebnisses / Date of first positive test result (YYYY-MM-DD)
-tags = common
+    de = Datum des ersten positiven Testergebnisses / Date of first positive test result (YYYY-MM-DD)
+    en = Datum des ersten positiven Testergebnisses / Date of first positive test result (YYYY-MM-DD)
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_date_first_positive_result]
+            de = Datum des ersten positiven Testergebnisses (Jahr-Monat-Tag)
+            en = Date of first positive test result (Year-Month-Day)
+            tags = common
+
 [recovery_certificate_detail_view_data_country]
-de = Land der Testung / Country performing test
-en = Land der Testung / Country performing test
-tags = common
+    de = Land der Testung / Country performing test
+    en = Land der Testung / Country performing test
+    tags = common
+
+          [accessibility_recovery_certificate_detail_view_data_country]
+              de = Land der Testung
+              en = Country performing test
+              tags = common
+
 [recovery_certificate_detail_view_data_issuer]
-de = Zertifikataussteller / Certificate issuer
-en = Zertifikataussteller / Certificate issuer
+    de = Zertifikataussteller / Certificate issuer
+    en = Zertifikataussteller / Certificate issuer
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_issuer]
+            de = Zertifikataussteller
+            en = Certificate issuer
+            tags = common
+
 [recovery_certificate_detail_view_data_valid_from]
-de = Zertifikat gültig ab / Certificate valid from (YYYY-MM-DD)
-en = Zertifikat gültig ab / Certificate valid from (YYYY-MM-DD)
-tags = common
+    de = Zertifikat gültig ab / Certificate valid from (YYYY-MM-DD)
+    en = Zertifikat gültig ab / Certificate valid from (YYYY-MM-DD)
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_valid_from]
+            de = Zertifikat gültig ab (Jahr-Monat-Tag)
+            en = Certificate valid from (Year-Month-Day)
+            tags = common
+
 [recovery_certificate_detail_view_data_valid_until]
-de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (maximum 180 days after the date of the first positive test result)(YYYY-MM-DD)
-en = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (maximum 180 days after the date of the first positive test result)(YYYY-MM-DD)
-tags = common
+    de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (maximum 180 days after the date of the first positive test result)(YYYY-MM-DD)
+    en = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (maximum 180 days after the date of the first positive test result)(YYYY-MM-DD)
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_valid_until]
+            de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) (Jahr-Monat-Tag)
+            en = Certificate valid until (maximum 180 days after the date of the first positive test result)(Year-Month-Day)
+            tags = common
+
 [recovery_certificate_detail_view_data_identifier]
-de = Zertifikatkennung / Unique certificate identifier
-en = Zertifikatkennung / Unique certificate identifier
-tags = common
+    de = Zertifikatkennung / Unique certificate identifier
+    en = Zertifikatkennung / Unique certificate identifier
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_identifier]
+            de = Zertifikatkennung
+            en = Unique certificate identifier
+            tags = common
+
 [recovery_certificate_detail_view_data_expiry_date]
-de = Technisches Ablaufdatum / Technical expiry date
-en = Technical expiry date / Technical expiry date
-tags = common
+    de = Technisches Ablaufdatum / Technical expiry date
+    en = Technical expiry date / Technical expiry date
+    tags = common
+
+        [accessibility_recovery_certificate_detail_view_data_expiry_date]
+            de = Technisches Ablaufdatum
+            en = Technical expiry date
+            tags = common
+
 [recovery_certificate_detail_view_data_expiry_date_message]
-de = Gültig bis %@
-en = Valid until %@
-tags = common
+    de = Gültig bis %@
+    en = Valid until %@
+    tags = common
+
 [recovery_certificate_detail_view_data_expiry_date_note]
-de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-en = Please make every effort to have a new digital certificate issued in good time.
-tags = common
+    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+    en = Please make every effort to have a new digital certificate issued in good time.
+    tags = common
+
 [recovery_certificate_detail_view_data_test_note_de]
 de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 tags = common
+
 [recovery_certificate_detail_view_data_test_note_en]
 de = This certificate is not a travel document. The scientific findings about Covid-19 and vaccination, testing and recovery are continuing to evolve, which includes findings about new, concerning virus variants. \n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = This certificate is not a travel document. The scientific findings about Covid-19 and vaccination, testing and recovery are continuing to evolve, which includes findings about new, concerning virus variants. \n\nPlease inform yourself about the public-health measures and corresponding restrictions at your travel destination before you travel. You can find information about the travel restrictions applicable in each EU country at #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -1324,7 +1667,7 @@ tags = common
 de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
 en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
 [[print certificate]]
-[accessibility_certificate_create_pdf_label_close]
+[ ibility_certificate_create_pdf_label_close]
 de = Schließen
 en = Close
 tags = common
