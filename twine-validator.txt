@@ -76,10 +76,22 @@ tags = common
 de = Alles klar
 en = OK
 tags = common
+
+[accessibility_fourth_onboarding_page_label_scroll_to_end]
+    de = Zum Ende scrollen
+    en = Scroll to the end
+    tags = common
+
 [vaccination_privacy_policy_page_button_title]
-de = Schließen
-en = Close
-tags = common
+        de = Schließen
+        en = Close
+        tags = common
+
+[accessibility_popup_label_close]
+        de = Schließen
+        en = Close
+        tags = common
+
 [error_connect_internet_for_scan_title]
 de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
 en = Switch off airplane mode or use WLAN for data access
@@ -200,6 +212,18 @@ tags = common
 de = Erlauben
 en = Allow
 tags = common
+
+
+[accessibility_scan_dialog_camera_torch_on]
+de = Taschenlampe anschalten
+en = Switch on torch
+tags = common
+
+[accessibility_scan_dialog_camera_torch_off]
+de = Taschenlampe anschalten
+en = Switch on torch
+tags = common
+
 [validation_check_popup_valid_vaccination_recovery_title]
 de = Zertifikat gültig*
 en = Certificate valid*
