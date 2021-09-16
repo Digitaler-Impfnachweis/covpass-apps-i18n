@@ -191,7 +191,7 @@ de = Schließen
 en = Close
 tags = common
 
-        [accessibility_scan_dialog_camera_announce]
+        [accessibility_scan_camera_announce]
             de = Kamera-Ansicht wurde geöffnet
             en = Camera has been opened
             tags = common
@@ -214,15 +214,15 @@ en = Allow
 tags = common
 
 
-[accessibility_scan_dialog_camera_torch_on]
-de = Taschenlampe anschalten
-en = Switch on torch
-tags = common
+    [accessibility_scan_camera_torch_on]
+        de = Taschenlampe anschalten
+        en = Switch on torch
+        tags = common
 
-[accessibility_scan_dialog_camera_torch_off]
-de = Taschenlampe anschalten
-en = Switch on torch
-tags = common
+    [accessibility_scan_camera_torch_off]
+        de = Taschenlampe ausschalten
+        en = Switch off torch
+        tags = common
 
 [validation_check_popup_valid_vaccination_recovery_title]
 de = Zertifikat gültig*
