@@ -302,13 +302,13 @@ tags = common
     tags = common
 
         [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
-            de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion darf höchstens sechs Monate und mindestens 28 Tage alt sein.
-            en = Individuals are not completely protected until 14 days after the second vaccination. A recovery from a Corona infection has to be between at least 28 days and maximal 6 months in the past.
+            de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion muss mindestens 28 Tage alt sein.
+            en = Individuals are not completely protected until 14 days after the second vaccination. A recovery from a Corona infection has to be at least 28 days in the past.
             tags = common
 
   [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
-      de = Unvollständige Impfung
-      en = Uncompleted Vaccination
+      de = Unvollständige Impfserie
+      en = Uncompleted vaccination series
       tags = common
 
           [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted_text]
