@@ -481,6 +481,7 @@
         en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
         tags = common
 
+
     [certificate_check_validity_selection_country_action_button]
         de = Übernehmen
         en = Select
@@ -551,6 +552,11 @@
         de = Im Reiseland ungültig
         en = Invalid in this country
         tags = common
+
+[accessibility_certificate_check_validity_detail_view_recovery_result_title]
+    de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+    en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
+
 
     [certificate_check_validity_result_not_testable]
         de = Nicht prüfbar
@@ -853,160 +859,198 @@
         en = Display current QR Code
         tags = common
         
-        
-    [pcr_test_certificate_overview_title]
-        de = Negativer PCR-Test vom %@
-        en = Negative PCR test from %@
-        tags = common
-    [pcr_test_certificate_overview_message]
-        de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
-        en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
-        tags = common
-    [pcr_test_certificate_overview_action_button_title]
-        de = Aktuellen QR-Code anzeigen
-        en = Display current QR Code
-        tags = common
-    [recovery_certificate_overview_valid_until_title]
-        de = Genesung gültig bis %@
-        en = Recovery valid until %@
-        tags = common
-    [recovery_certificate_overview_valid_from_title]
-        de = Genesung gültig ab %@
-        en = Recovery valid from %@
-        tags = common
-    [recovery_certificate_overview_message]
-        de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
-        en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
-        tags = common
-    [recovery_certificate_overview_action_button_title]
-        de = Aktuellen QR-Code anzeigen
-        en = Display current QR Code
-        tags = common
-    [certificates_overview_expired_title]
-        de = Zertifikat abgelaufen
-        en = Certificate expired
-        tags = common
-    [certificates_overview_expired_message]
-        de = Das Ablaufdatum Ihrer Zertifikate wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-        en = The expiry date of your certificates has passed. Please make every effort to have a new digital certificate issued. 
-        tags = common
-    [certificates_overview_expired_action_button_title]
-        de = Neues Zertifikat hinzufügen
-        en = Add new certificate
-        tags = common
-    [certificates_overview_invalid_title]
-        de = Zertifikat ungültig
-        en = Certificate invalid
-        tags = common
-    [certificates_overview_invalid_message]
-        de = Das Zertifikat wurde von der ausstellenden Behörde zurückgerufen. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-        en = The certificate has been recalled by the issuing authority. Please make every effort to have a new digital certificate issued.
-        tags = common
-    [certificates_overview_invalid_action_button_title]
-        de = Neues Zertifikat hinzufügen
-        en = Add new certificate
-        tags = common
-    [certificates_overview_personal_data_title]
-        de = Persönliche Daten
-        en = Personal details
-        tags = common
-    [certificates_overview_personal_data_name]
-        de = Name, Vorname / Name, first name
-        en = Name, Vorname / Name, first name
-        tags = common
-    [certificates_overview_personal_data_standardized_name]
-        de = Standardisierter Name, Vorname / Standardized name, first name
-        en = Standardisierter Name, Vorname / Standardized name, first name
-        tags = common
-    [certificates_overview_personal_data_date_of_birth]
-        de = Geburtsdatum / Date of birth (YYYY-MM-DD)
-        en = Geburtsdatum / Date of birth (YYYY-MM-DD)
-        tags = common
-    [certificates_overview_all_certificates_title]
-        de = EU-Zertifikate
-        en = EU certificates
-        tags = common
-    [certificates_overview_currently_uses_certificate_note]
-        de = Aktuell verwendetes Zertifikat
-        en = Certificate currently in use
-        tags = common
-    [certificates_overview_expires_soon_certificate_note]
-        de = Zertifikat läuft bald ab
-        en = Certificate expires soon
-        tags = common
-    [certificates_overview_expired_certificate_note]
-        de = Zertifikat abgelaufen
-        en = Certificate expired
-        tags = common
-    [certificates_overview_invalid_certificate_note]
-        de = Zertifikat ungültig
-        en = Certificate invalid
-        tags = common
-    [certificates_overview_booster_vaccination_certificate_note]
-        de = Aktuell nur in DE nutzbar
-        en = Currently only usable in DE
-        tags = common
-    [certificates_overview_booster_vaccination_certificate_title]
-        de = Impfzertifikat
-        en = Vaccination certificate
-        tags = common
-    [certificates_overview_booster_vaccination_certificate_date]
-        de = Geimpft am %@
-        en = Vaccinated on %@
-        tags = common
-    [certificates_overview_vaccination_certificate_title]
-        de = Impfzertifikat
-        en = Vaccination certificate
-        tags = common
-    [certificates_overview_vaccination_certificate_message]
-        de = Impfung %d von %d
-        en = Vaccine dose %d of %d
-        tags = common
-    [certificates_overview_vaccination_certificate_date]
-        de = Geimpft am %@
-        en = Vaccinated on %@
-        tags = common
-    [certificates_overview_recovery_certificate_title]
-        de = Genesenenzertifikat
-        en = Recovery certificate
-        tags = common
-    [certificates_overview_recovery_certificate_message]
-        de = Vollständige Genesung
-        en = Full recovery
-        tags = common
-    [certificates_overview_recovery_certificate_valid_until_date]
-        de = Gültig bis %@
-        en = Valid until %@
-        tags = common
-    [certificates_overview_recovery_certificate_valid_from_date]
-        de = Gültig ab %@
-        en = Valid from %@
-        tags = common
-    [certificates_overview_test_certificate_title]
-        de = Testzertifikat
-        en = Test certificate
-        tags = common
-    [certificates_overview_test_certificate_message]
-        de = Antigen-Schnelltest
-        en = Rapid antigen test
-        tags = common
-    [certificates_overview_test_certificate_date]
-        de = Getestet am %@
-        en = Tested on %@
-        tags = common
-    [certificates_overview_pcr_test_certificate_title]
-        de = Testzertifikat
-        en = Test certificate
-        tags = common
-    [certificates_overview_pcr_test_certificate_message]
-        de = PCR-Test
-        en = PCR test
-        tags = common
-    [certificates_overview_pcr_test_certificate_date]
-        de = Probenahme am %@
-        en = Sample taken on %@
-        tags = common
-        
+       
+[pcr_test_certificate_overview_title]
+de = Negativer PCR-Test vom %@
+en = Negative PCR test from %@
+tags = common
+[pcr_test_certificate_overview_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
+tags = common
+[pcr_test_certificate_overview_action_button_title]
+de = Aktuellen QR-Code anzeigen
+en = Display current QR Code
+tags = common
+[recovery_certificate_overview_valid_until_title]
+de = Genesung gültig bis %@
+en = Recovery valid until %@
+tags = common
+[recovery_certificate_overview_valid_from_title]
+de = Genesung gültig ab %@
+en = Recovery valid from %@
+tags = common
+[recovery_certificate_overview_message]
+de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
+tags = common
+[recovery_certificate_overview_action_button_title]
+de = Aktuellen QR-Code anzeigen
+en = Display current QR Code
+tags = common
+[certificates_overview_expired_title]
+de = Zertifikat abgelaufen
+en = Certificate expired
+tags = common
+[certificates_overview_expired_message]
+de = Das Ablaufdatum Ihrer Zertifikate wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = The expiry date of your certificates has passed. Please make every effort to have a new digital certificate issued. 
+tags = common
+[certificates_overview_expired_action_button_title]
+de = Neues Zertifikat hinzufügen
+en = Add new certificate
+tags = common
+[certificates_overview_invalid_title]
+de = Zertifikat ungültig
+en = Certificate invalid
+tags = common
+[certificates_overview_invalid_message]
+de = Das Zertifikat wurde von der ausstellenden Behörde zurückgerufen. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+en = The certificate has been recalled by the issuing authority. Please make every effort to have a new digital certificate issued.
+tags = common
+[certificates_overview_invalid_action_button_title]
+de = Neues Zertifikat hinzufügen
+en = Add new certificate
+tags = common
+[certificates_overview_personal_data_title]
+de = Persönliche Daten
+en = Personal details
+tags = common
+
+[certificates_overview_personal_data_name]
+    de = Name, Vorname / Name, first name
+    en = Name, Vorname / Name, first name
+    tags = common
+
+        [accessibility_certificates_overview_personal_data_name]
+            de = Name
+            en = Name
+            tags = common
+
+[certificates_overview_personal_data_standardized_name]
+    de = Standardisierter Name, Vorname / Standardized name, first name
+    en = Standardisierter Name, Vorname / Standardized name, first name
+    tags = common
+
+        [accessibility_certificates_overview_personal_data_standardized_name]
+            de = Standardisierter Name
+            en = Standardized name
+            tags = common
+
+[certificates_overview_personal_data_date_of_birth]
+    de = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    en = Geburtsdatum / Date of birth (YYYY-MM-DD)
+    tags = common
+
+        [accessibility_certificates_overview_personal_data_date_of_birth]
+            de = Geburtsdatum (Jahr-Monat-Tag)
+            en = Date of birth (Year-Month-Day)
+            tags = common
+
+[certificates_overview_all_certificates_title]
+    de = EU-Zertifikate
+    en = EU certificates
+    tags = common
+
+[accessibility_certificates_overview_all_certificates_title]
+  de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
+  tags=common
+
+[certificates_overview_currently_uses_certificate_note]
+    de = Aktuell verwendetes Zertifikat
+    en = Certificate currently in use
+    tags = common
+
+[certificates_overview_expires_soon_certificate_note]
+    de = Zertifikat läuft bald ab
+    en = Certificate expires soon
+    tags = common
+
+[certificates_overview_expired_certificate_note]
+    de = Zertifikat abgelaufen
+    en = Certificate expired
+    tags = common
+
+[certificates_overview_invalid_certificate_note]
+    de = Zertifikat ungültig
+    en = Certificate invalid
+    tags = common
+
+[certificates_overview_booster_vaccination_certificate_note]
+    de = Aktuell nur in DE nutzbar
+    en = Currently only usable in DE
+    tags = common
+
+[certificates_overview_booster_vaccination_certificate_title]
+    de = Impfzertifikat
+    en = Vaccination certificate
+    tags = common
+
+[certificates_overview_booster_vaccination_certificate_date]
+    de = Geimpft am %@
+    en = Vaccinated on %@
+    tags = common
+
+[certificates_overview_vaccination_certificate_title]
+    de = Impfzertifikat
+    en = Vaccination certificate
+    tags = common
+
+[certificates_overview_vaccination_certificate_message]
+    de = Impfung %d von %d
+    en = Vaccine dose %d of %d
+    tags = common
+
+[certificates_overview_vaccination_certificate_date]
+    de = Geimpft am %@
+    en = Vaccinated on %@
+    tags = common
+
+[certificates_overview_recovery_certificate_title]
+    de = Genesenenzertifikat
+    en = Recovery certificate
+    tags = common
+
+[certificates_overview_recovery_certificate_message]
+    de = Vollständige Genesung
+    en = Full recovery
+    tags = common
+
+[certificates_overview_recovery_certificate_valid_until_date]
+    de = Gültig bis %@
+    en = Valid until %@
+    tags = common
+
+[certificates_overview_recovery_certificate_valid_from_date]
+de = Gültig ab %@
+en = Valid from %@
+tags = common
+[certificates_overview_test_certificate_title]
+de = Testzertifikat
+en = Test certificate
+tags = common
+[certificates_overview_test_certificate_message]
+de = Antigen-Schnelltest
+en = Rapid antigen test
+tags = common
+[certificates_overview_test_certificate_date]
+de = Getestet am %@
+en = Tested on %@
+tags = common
+[certificates_overview_pcr_test_certificate_title]
+de = Testzertifikat
+en = Test certificate
+tags = common
+[certificates_overview_pcr_test_certificate_message]
+de = PCR-Test
+en = PCR test
+tags = common
+[certificates_overview_pcr_test_certificate_date]
+de = Probenahme am %@
+en = Sample taken on %@
+tags = common
+
 [[detail view: delete certificate]]
     [accessibility_certificate_detail_view_label_delete_button]
         de = Zertifikat löschen
@@ -1234,9 +1278,16 @@ de = Vollständige Genesung
 en = Full recovery
 tags = common
 [recovery_certificate_detail_view_headline]
-de = Digitales COVID-Genesenenzertifikat der EU
-en = EU Digital COVID Certificate of Recovery
-tags = common
+
+    de = Digitales COVID-Genesenenzertifikat der EU
+    en = EU Digital COVID Certificate of Recovery
+    tags = common
+
+[accessibility_recovery_certificate_detail_view_headline]
+  de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
+  tags = common
+
 [recovery_certificate_detail_view_data_name]
 de = Name, Vorname / Name, first name
 en = Name, Vorname / Name, first name
