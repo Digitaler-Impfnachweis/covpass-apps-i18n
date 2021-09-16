@@ -500,6 +500,17 @@ tags = common
 de = Zertifikate werden geprüft
 en = Certificates are being checked
 tags = common
+
+[certificate_check_invalidity_error_title]
+    de = Überprüfen Sie die Gültigkeit Ihrer Zertifikate.
+    en = Please check the validity of your certificates.
+    tags = common
+
+        [certificate_check_invalidity_error_text]
+            de = Ein oder mehrere Zertifikate laufen bald ab oder sind abgelaufen.
+            en = One ore multiple certificates are expired, or will expire soon.
+            tags = common
+
 [certificate_check_validity_no_certificate_saved_title]
 de = Sie haben noch keine Zertifikate gespeichert
 en = You have not saved any certificates yet
