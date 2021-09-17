@@ -551,7 +551,7 @@ tags = common
 
         [certificate_check_invalidity_error_text]
             de = Ein oder mehrere Zertifikate laufen bald ab oder sind abgelaufen.
-            en = One ore multiple certificates are expired, or will expire soon.
+            en = One or multiple certificates are expired, or will expire soon.
             tags = common
 
 [certificate_check_validity_no_certificate_saved_title]
