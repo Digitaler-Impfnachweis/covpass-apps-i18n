@@ -91,6 +91,12 @@ tags = common
         de = Schließen
         en = Close
         tags = common
+        
+[accessibility_image_alternative_text]
+    de = Dekorativ
+    en = Decorative
+    tags = common
+    comment = generic key to be used as alt text for decorative images
 
 [error_connect_internet_for_scan_title]
 de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
