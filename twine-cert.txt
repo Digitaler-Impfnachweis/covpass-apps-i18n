@@ -1001,8 +1001,8 @@ tags = common
     tags = common
 
 [accessibility_certificates_overview_all_certificates_title]
-  de = Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
-  en = Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
+  de = EU-Zertifikate. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = EU certificates. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
   tags=common
 
 [certificates_overview_currently_uses_certificate_note]
