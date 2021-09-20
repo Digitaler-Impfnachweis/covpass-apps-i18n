@@ -178,8 +178,8 @@ de = Vollständig ab %@
 en = Fully vaccinated as of %@
 tags = common
 [vaccination_start_screen_qrcode_complete_protection_subtitle]
-de = Vollständiger Impfschutz
-en = Fully vaccinated
+de = Vollständig seit %@
+en = Complete since %@
 tags = common
 [certificates_start_screen_qrcode_certificate_expires_subtitle]
 de = Läuft am %@ um %@ ab
