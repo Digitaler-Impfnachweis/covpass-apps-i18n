@@ -1939,3 +1939,8 @@ tags = common
     en = QR code
     tags = common
     comment = to be used as alt text for qr codes
+
+[accessibility_button]
+    de = Taste
+    en = Button
+    tags = common
