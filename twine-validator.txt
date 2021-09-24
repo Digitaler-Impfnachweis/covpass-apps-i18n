@@ -421,10 +421,17 @@ tags = common
 de = Hier finden Sie alle rechtlichen Informationen und Antworten auf die häufigsten Fragen rund um die CovPassCheck-App.
 en = Here you can find all legal information and answers to the most frequent questions asked about the CovPassCheck app.
 tags = common
+
 [app_information_title_contact]
-de = Kontakt
-en = Contact
-tags = common
+    de = Kontakt
+    en = Contact
+    tags = common
+
+    [accessibility_app_information_title_contact_announce]
+        de = Die Ansicht "Kontakt" wurde geöffnet
+        en = Contact has been opened
+        tags = common
+
 [app_information_message_contact_support]
 de = Kontakt bei technischen Fragen zur CovPassCheck-App
 en = Contact for technical questions about the CovPassCheck app
@@ -457,10 +464,17 @@ tags = common
 de = #Häufige Fragen::$0#
 en = #Frequently asked questions::$0#
 tags = common
+
 [app_information_title_datenschutz]
-de = Datenschutzerklärung
-en = Privacy policy
-tags = common
+    de = Datenschutzerklärung
+    en = Privacy policy
+    tags = common
+
+    [accessibility_app_information_datenschutz_announce]
+        de = Die Datenschutzerklärung wurde geöffnet
+        en = Privacy policy has been opened
+        tags = common
+
 [app_information_title_company_details]
 de = Impressum
 en = Legal information
@@ -473,6 +487,12 @@ tags = common
 de = Open-Source-Lizenzen
 en = Open-source licences
 tags = common
+
+    [accessibility_app_information_title_open_source_announce]
+        de = Die Ansicht "Open-Source-Lizenzen" wurde geöffnet
+        en = The view "Open-source licences" has been opened
+        tags = common
+
 [app_information_message_open_source]
 de = Die App verwendet die folgenden Open-Source-Bibliotheken:
 en = The app uses the following open-source libraries:
