@@ -1113,6 +1113,11 @@ de = Impfung %d von %d
 en = Vaccine dose %d of %d
 tags = common
 
+[accessibility_vaccination_certificate_detail_view_data_vaccine_number_readable_text]
+ de = %1$d von %2$d
+ en = %1$d of %2$d
+ tags = common
+
 [vaccination_certificate_detail_view_vaccination_headline]
     de = Digitales COVID-Impfzertifikat der EU
     en = EU Digital COVID Certificate of Vaccination
