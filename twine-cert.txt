@@ -89,7 +89,7 @@ tags = common
     de = Nutzungsbedingungen für US-Bürgerinnen und Bürger
     en = Terms of Use for US citizens
     tags = common
-    
+
 [vaccination_fourth_onboarding_page_message_for_us_citizens_copy]
     de = Wenn Sie US-Bürgerin oder US-Bürger sind, gelten diese Nutzungsbedingungen für die App:
     en = If you are a US citizen, these Terms of Use apply to the App:
@@ -175,7 +175,7 @@ tags = common
         de = Schwarzer QR-Code auf weißem Hintergrund
         en = Black QR code on white background
         tags = common
-        
+
 [vaccination_start_screen_qrcode_incomplete_subtitle]
         de = Unvollständiger Impfschutz
         en = Not fully vaccinated
@@ -282,7 +282,8 @@ tags = common
     en = Close
     tags = common
 
-[accessibility_scan_camera_announce]
+
+[accessibility_certificate_add_dialog_camera_announce]
     de = Kamera-Ansicht wurde geöffnet
     en = Camera has been opened
     tags = common
@@ -382,7 +383,7 @@ tags = common
         de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
         en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
         tags = common
-        
+
 [certificate_check_validity_selection_country]
 de = Land
 en = Country
@@ -632,7 +633,7 @@ tags = common
         de = Nicht prüfbar
         en = Not possible to validate
         tags = common
-        
+
 [certificate_check_validity_note]
 de = Beachten Sie, dass sich die Einreiseregeln ändern können. Prüfen Sie daher die Zertifikate mindestens 48 Stunden vorher. Es können in einzelnen Regionen oder bei Ihrer Rückkehr weitere Regeln oder Einschränkungen gelten. Zudem ist es möglich, dass weitere Dokumente für eine Einreise notwendig sind.\n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Please be aware that travel regulations can change. You should check your certificates at least 48 hours before you travel. Different regulations or restrictions might apply in some regions or when you return. You might also need additional documents to travel to a different country. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -680,10 +681,18 @@ tags = common
 de = Geprüfte Zertifikatsdaten:
 en = Verified certificate data:
 tags = common
+
 [certificate_check_validity_detail_view_test_result_button]
 de = QR-Code anzeigen
 en = Display QR code
 tags = common
+
+[certificate_check_validity_detail_view_test_result_button_disabled]
+    de = Sie können nur deutsche Zertifikate als PDF-Dokumente herunterladen.
+    en = You can only download German certificates as PDF documents
+    tags = common
+
+
 [certificate_check_validity_detail_view_test_result_note_de]
 de = Das Testzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den Häufigen Fragen. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
 en = Das Testzertifikat gilt innerhalb der EU als gültiger Nachweis für Reisen. Die Mitgliedsländer haben unterschiedliche Einreisebedingungen. Mehr Informationen finden Sie in den Häufigen Fragen. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -697,6 +706,7 @@ tags = common
     de = Digitales COVID-Genesenenzertifikat der EU
     en = EU Digital COVID Certificate of Recovery
     tags = common
+
 
 [accessibility_certificate_check_validity_detail_view_recovery_result_title]
     de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
@@ -724,12 +734,12 @@ tags = common
         de = Zertifikat nicht prüfbar
         en = Certificate cannot be validated
         tags = common
-        
+
 [certificate_check_validity_detail_view_result_no_rules_message]
         de = Für das gewählte Land und den gewählten Zeitpunkt stehen derzeit keine Einreiseregeln für die Prüfung in der App zur Verfügung.\n\n Bitte informieren Sie sich unter #https://reopen.europa.eu::https://reopen.europa.eu#, ob das Zertifikat für die Einreise in das gewählte Land gültig ist.
         en = For the selected country and date, there are currently no entry rules available to check for in the App. \n\nPlease check at #https://reopen.europa.eu::https://reopen.europa.eu# whether the certificate is valid for entry into the selected country.
         tags = common
-        
+
 [certificate_check_validity_detail_view_result_valid_title]
         de = Dieses Zertifikat ist am Reisedatum gültig
         en = This certificate is valid on your travel date
@@ -744,7 +754,7 @@ tags = common
         de = Es wurden %d Regeln des Ziellandes erfolgreich überprüft.
         en = %d rules of the destination country were successfully checked.
         tags = common
-       
+
 [certificate_check_validity_detail_view_result_valid_info_no_rules]
         de = Für diesen Zertifikattyp sind derzeit keine Einreiseregeln für das gewählte Land und den gewählten Zeitpunkt vorhanden. Bitte beachten Sie die folgenden Hinweise:
         en = There are currently no entry rules available for this certificate type and the selected country and date. Please note the following:
@@ -775,22 +785,22 @@ tags = common
         de = Regel des Ziellands: Ein Antigentest ist maximal 48 Stunden gültig.
         en = Rule at destination: antigen tests are valid for a maximum of 48 hours.
         tags = common
-        
+
 [certificate_check_validity_detail_view_result_not_valid_title]
         de = Dieses Zertifikat ist am Reisedatum nicht gültig
         en = This certificate is invalid on your travel date
         tags = common
-        
+
 [certificate_check_validity_detail_view_result_not_valid_message]
         de = Für %@, am %@
         en = For %@ on %@
         tags = common
-        
+
 [certificate_check_validity_detail_view_result_not_valid_note_title]
         de = Dieser Wert erfüllt nicht Regel „TR01"
         en = This does not satisfy rule ‘TR01’
         tags = common
-        
+
 [certificate_check_validity_detail_view_result_not_valid_note_message]
 de = Regel des Ziellands: Genesenenzertifikate sind bis zu 180 Tage gültig.
 en = Rule at destination: recovery certificates are valid for up to 180 days.
@@ -820,6 +830,7 @@ de = Abbrechen
 en = Cancel
 tags = common
 [[start Screen: partial immunization certificate]]
+
 [vaccination_partial_immunization_action_button]
 de = Zertifikate anzeigen
 en = Display certificates
@@ -910,12 +921,12 @@ tags = common
         de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
         en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
         tags = common
-        
+
 [vaccination_certificate_overview_complete_action_button_title]
         de = Aktuellen QR-Code anzeigen
         en = Display current QR Code
         tags = common
-        
+
 [vaccination_certificate_overview_booster_vaccination_notification_icon_new]
         de = Neu
         en = New
@@ -935,8 +946,8 @@ tags = common
         de = Mehr Informationen finden Sie in unseren #Häufigen Fragen und Antworten::https://www.digitaler-impfnachweis-app.de/faq#.
         en = Please find more information in our #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#.
         tags = common
-        
-[test_certificate_overview_title]   
+
+[test_certificate_overview_title]
         de = Negativer Antigen-Schnelltest vom %@
         en = Negative rapid antigen test from %@
         tags = common
@@ -945,14 +956,14 @@ tags = common
         de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
         en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
         tags = common
-        
+
 [test_certificate_overview_action_button_title]
         de = Aktuellen QR-Code anzeigen
         en = Display current QR Code
         tags = common
-        
-        
-       
+
+
+
 [pcr_test_certificate_overview_title]
 de = Negativer PCR-Test vom %@
 en = Negative PCR test from %@
@@ -1045,10 +1056,11 @@ tags = common
     en = EU certificates
     tags = common
 
+
 [accessibility_certificates_overview_all_certificates_title]
-  de = EU-Zertifikate. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
-  en = EU certificates. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
-  tags=common
+  de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+  en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
+  tags = common
 
 [certificates_overview_currently_uses_certificate_note]
     de = Aktuell verwendetes Zertifikat
@@ -1172,11 +1184,13 @@ tags = common
    de = Digitales COVID Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
    en = EU Digital COVID Certificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
    tags = common
+
    
  [accessibility_vaccination_certificate_detail_view_qrcode_screen_announce]
 	de = Die QR-Code-Ansicht wurde geöffnet
 	en = QR-Code has been opened
 	tags = common
+
 
 [vaccination_certificate_detail_view_vaccination_note]
     de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
@@ -1353,6 +1367,7 @@ tags = common
 de = Schließen
 en = Close
 tags = common
+
 [test_certificate_detail_view_title]
 de = Antigen-Schnelltest
 en = Rapid antigen test
@@ -1562,6 +1577,7 @@ tags = common
     en = EU Digital COVID Certificate of Recovery
     tags = common
 
+
 [accessibility_recovery_certificate_detail_view_headline]
   de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
   en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
@@ -1759,6 +1775,7 @@ tags = common
 de = Schließen
 en = Close
 tags = common
+
 [certificate_create_pdf_headline]
 de = EU-Ausdruck erstellen
 en = Create EU printout

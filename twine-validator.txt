@@ -211,6 +211,7 @@ en = Close
 tags = common
 
         [accessibility_scan_camera_announce]
+
             de = Kamera-Ansicht wurde geöffnet
             en = Camera has been opened
             tags = common
@@ -320,7 +321,13 @@ tags = common
     en = Protection not yet valid
     tags = common
 
-        [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
+
+
+[functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
+      de = Unvollständige Impfung
+      en = Uncompleted Vaccination
+      
+[functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
             de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion muss mindestens 28 Tage alt sein.
             en = Individuals are not completely protected until 14 days after the second vaccination. A recovery from a Corona infection has to be at least 28 days in the past.
             tags = common
@@ -440,10 +447,17 @@ tags = common
 de = Hier finden Sie alle rechtlichen Informationen und Antworten auf die häufigsten Fragen rund um die CovPassCheck-App.
 en = Here you can find all legal information and answers to the most frequent questions asked about the CovPassCheck app.
 tags = common
+
 [app_information_title_contact]
-de = Kontakt
-en = Contact
-tags = common
+    de = Kontakt
+    en = Contact
+    tags = common
+
+    [accessibility_app_information_title_contact_announce]
+        de = Die Ansicht "Kontakt" wurde geöffnet
+        en = Contact has been opened
+        tags = common
+
 [app_information_message_contact_support]
 de = Kontakt bei technischen Fragen zur CovPassCheck-App
 en = Contact for technical questions about the CovPassCheck app
@@ -476,10 +490,17 @@ tags = common
 de = #Häufige Fragen::$0#
 en = #Frequently asked questions::$0#
 tags = common
+
 [app_information_title_datenschutz]
-de = Datenschutzerklärung
-en = Privacy policy
-tags = common
+    de = Datenschutzerklärung
+    en = Privacy policy
+    tags = common
+
+    [accessibility_app_information_datenschutz_announce]
+        de = Die Datenschutzerklärung wurde geöffnet
+        en = Privacy policy has been opened
+        tags = common
+
 [app_information_title_company_details]
 de = Impressum
 en = Legal information
@@ -492,6 +513,12 @@ tags = common
 de = Open-Source-Lizenzen
 en = Open-source licences
 tags = common
+
+    [accessibility_app_information_title_open_source_announce]
+        de = Die Ansicht "Open-Source-Lizenzen" wurde geöffnet
+        en = The view "Open-source licences" has been opened
+        tags = common
+
 [app_information_message_open_source]
 de = Die App verwendet die folgenden Open-Source-Bibliotheken:
 en = The app uses the following open-source libraries:
