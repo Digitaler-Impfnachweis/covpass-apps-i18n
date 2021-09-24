@@ -367,6 +367,13 @@ tags = common
 	de = Land: %@
 	en = Country: %@
 	tags = common
+	
+[accessibility_certificate_check_validity_label_choose_country]
+	de = Reiseland wählen
+	en = Choose destination
+	tags = common
+	
+
 
 [IT]
 de = Italien
@@ -509,6 +516,11 @@ tags = common
 de = Datum
 en = Date
 tags = common
+
+[accessibility_certificate_check_validity_label_choose_country]
+	de = Datum auswählen
+	en = Select date
+	tags = common
 
 [accessibility_certificate_check_validity_selection_date]
 	de = Datum: %@
