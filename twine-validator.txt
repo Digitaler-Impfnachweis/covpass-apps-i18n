@@ -126,6 +126,13 @@ tags = common
 de = Aktualisieren
 en = Update
 tags = common
+
+[accessibility_update_info_announce]
+de = Die Ansicht "Neue Funktionen" wurde geöffnet
+en = The view "New features" has been opened
+tags = common
+
+
 [[start screen]]
 [accessibility_validation_start_screen_label_information]
 de = Mehr Informationen
@@ -143,6 +150,12 @@ tags = common
 de = Scannen Sie jetzt das digitale COVID-Zertifikat der EU. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
 en = Scan the EU Digital COVID Certificate now. You see immediately if the person you are checking has a valid Covid-19 certificate.
 tags = common
+
+[accessibility_scan_result_announce]
+de = Überprüfungsergebnis wird angezeigt
+en = Verification result is displayed
+tags = common
+
 [validation_start_screen_scan_action_button_title]
 de = Zertifikat scannen
 en = Scan certificate
