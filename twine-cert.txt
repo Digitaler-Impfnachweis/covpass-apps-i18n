@@ -135,6 +135,13 @@ tags = common
 de = OK
 en = OK
 tags = common
+
+[accessibility_update_info_announce]
+de = Die Ansicht "Neue Funktionen" wurde geöffnet
+en = The view "New features" has been opened
+tags = common
+
+
 [[start Screen]]
 [accessibility_vaccination_start_screen_label_information]
 de = Mehr Informationen
@@ -212,6 +219,17 @@ en = Invalid
 	[accessibility_scan_camera_torch_off]
 		de = Taschenlampe ausschalten
 		en = Switch off torch
+		tags = common
+		
+		
+	[accessibility_certificate_add_popup_announce]
+		de = Die Ansicht "Nachweis hinzufügen" wurde geöffnet
+		en = The view "Adding a certificate" has been opened
+		tags = common
+
+	[accessibility_scan_success_announce]
+		de = Das Zertifikat wurde erfolgreich hinzugefügt
+		en = The certificate was successfully added
 		tags = common
 
 [accessibility_certificate_add_popup_image]
@@ -327,6 +345,21 @@ tags = common
 [accessibility_certificate_check_validity_label_display_certificate]
 de = Zertifikat anzeigen
 en = Display certificate
+tags = common
+
+[accessibility_certificate_check_validity_announce]
+de = Die Ansicht "Gültigkeit prüfen" wurde geöffnet
+en = The view "Check validity" has been opened
+tags = common
+
+[accessibility_certificate_check_validity_selection_country_announce]
+de = Die Ansicht "Reiseland wählen" wurde geöffnet
+en = The view "Choose destination" has been opened
+tags = common
+
+[accessibility_certificate_check_validity_selection_date_announce]
+de = Die Ansicht "Datum wählen" wurde geöffnet
+en = The view "Select date" has been opened
 tags = common
 
 [certificate_check_validity_title]
@@ -1122,6 +1155,11 @@ tags = common
    de = Digitales COVID Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
    en = EU Digital COVID Certificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
    tags = common
+   
+ [accessibility_vaccination_certificate_detail_view_qrcode_screen_announce]
+	de = Die QR-Code-Ansicht wurde geöffnet
+	en = QR-Code has been opened
+	tags = common
 
 [vaccination_certificate_detail_view_vaccination_note]
     de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
@@ -1693,6 +1731,13 @@ tags = common
 de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
 en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
 [[print certificate]]
+
+[accessibility_vaccination_certificate_detail_view_pdf_announce]
+de = Die Ansicht für "EU-Ausdruck erstellen" wurde geöffnet
+en = The view "Create EU printout" has been opened
+tags = common
+
+
 [accessibility_certificate_create_pdf_label_close]
 de = Schließen
 en = Close
@@ -1843,14 +1888,33 @@ de = OK
 en = OK
 tags = common
 [[app information]]
+
+
+[accessibility_app_information_datenschutz_announce]
+de = Datenschutzerklärung-Ansicht wurde geöffnet
+en = Privacy policy has been opened
+tags = common
+
+[accessibility_app_information_title_contact_announce]
+de = Kontakt-Ansicht wurde geöffnet
+en = Contact has been opened
+tags = common
+
+[accessibility_app_information_title_open_source_announce]
+de = Open-Source-Lizenzen
+en = Open-source licences
+tags = common
+
 [accessibility_app_information_label_back]
 de = Zurück zum Startbildschirm
 en = Back to the start screen
 tags = common
+
 [app_information_title]
 de = Informationen
 en = Information
 tags = common
+
 [app_information_message]
 de = Hier finden Sie alle rechtlichen Informationen und Antworten auf die häufigsten Fragen rund um die CovPass-App.
 en = Here you can find all legal information and answers to the most frequent questions asked about the CovPass app.
