@@ -91,6 +91,12 @@ tags = common
         de = Schließen
         en = Close
         tags = common
+        
+[accessibility_image_alternative_text]
+    de = Dekorativ
+    en = Decorative
+    tags = common
+    comment = generic key to be used as alt text for decorative images
 
 [error_connect_internet_for_scan_title]
 de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
@@ -120,6 +126,13 @@ tags = common
 de = Aktualisieren
 en = Update
 tags = common
+
+[accessibility_update_info_announce]
+de = Die Ansicht "Neue Funktionen" wurde geöffnet
+en = The view "New features" has been opened
+tags = common
+
+
 [[start screen]]
 [accessibility_validation_start_screen_label_information]
 de = Mehr Informationen
@@ -137,6 +150,12 @@ tags = common
 de = Scannen Sie jetzt das digitale COVID-Zertifikat der EU. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
 en = Scan the EU Digital COVID Certificate now. You see immediately if the person you are checking has a valid Covid-19 certificate.
 tags = common
+
+[accessibility_scan_result_announce]
+de = Überprüfungsergebnis wird angezeigt
+en = Verification result is displayed
+tags = common
+
 [validation_start_screen_scan_action_button_title]
 de = Zertifikat scannen
 en = Scan certificate
@@ -191,7 +210,8 @@ de = Schließen
 en = Close
 tags = common
 
-        [accessibility_scan_dialog_camera_announce]
+        [accessibility_scan_camera_announce]
+
             de = Kamera-Ansicht wurde geöffnet
             en = Camera has been opened
             tags = common
@@ -214,15 +234,15 @@ en = Allow
 tags = common
 
 
-[accessibility_scan_dialog_camera_torch_on]
-de = Taschenlampe anschalten
-en = Switch on torch
-tags = common
+    [accessibility_scan_camera_torch_on]
+        de = Taschenlampe anschalten
+        en = Switch on torch
+        tags = common
 
-[accessibility_scan_dialog_camera_torch_off]
-de = Taschenlampe anschalten
-en = Switch on torch
-tags = common
+    [accessibility_scan_camera_torch_off]
+        de = Taschenlampe ausschalten
+        en = Switch off torch
+        tags = common
 
 [validation_check_popup_valid_vaccination_recovery_title]
 de = Zertifikat gültig*
@@ -301,14 +321,20 @@ tags = common
     en = Protection not yet valid
     tags = common
 
-        [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
-            de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion darf höchstens sechs Monate und mindestens 28 Tage alt sein.
-            en = Individuals are not completely protected until 14 days after the second vaccination. A recovery from a Corona infection has to be between at least 28 days and maximal 6 months in the past.
+
+
+[functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
+      de = Unvollständige Impfung
+      en = Uncompleted Vaccination
+      
+[functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
+            de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion muss mindestens 28 Tage alt sein.
+            en = Individuals are not completely protected until 14 days after the second vaccination. A recovery from a Corona infection has to be at least 28 days in the past.
             tags = common
 
   [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
-      de = Unvollständige Impfung
-      en = Uncompleted Vaccination
+      de = Unvollständige Impfserie
+      en = Uncompleted vaccination series
       tags = common
 
           [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted_text]

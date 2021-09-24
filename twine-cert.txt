@@ -135,6 +135,13 @@ tags = common
 de = OK
 en = OK
 tags = common
+
+[accessibility_update_info_announce]
+de = Die Ansicht "Neue Funktionen" wurde geöffnet
+en = The view "New features" has been opened
+tags = common
+
+
 [[start Screen]]
 [accessibility_vaccination_start_screen_label_information]
 de = Mehr Informationen
@@ -178,8 +185,8 @@ de = Vollständig ab %@
 en = Fully vaccinated as of %@
 tags = common
 [vaccination_start_screen_qrcode_complete_protection_subtitle]
-de = Vollständiger Impfschutz
-en = Fully vaccinated
+de = Vollständig seit %@
+en = Complete since %@
 tags = common
 [certificates_start_screen_qrcode_certificate_expires_subtitle]
 de = Läuft am %@ um %@ ab
@@ -199,18 +206,32 @@ en = Invalid
     tags = common
 
 [[popup: add certification]]
-[accessibility_certificate_add_popup_label_close]
-de = Schließen
-en = Close
-tags = common
-[accessibility_certificate_add_popup_label_torch_on]
-de = Taschenlampe anschalten
-en = Switch on torch
-tags = common
-[accessibility_certificate_add_popup_label_torch_off]
-de = Taschenlampe ausschalten
-en = Switch off torch
-tags = common
+	[accessibility_certificate_add_popup_label_close]
+		de = Schließen
+		en = Close
+		tags = common
+
+	[accessibility_scan_camera_torch_on]
+		de = Taschenlampe anschalten
+		en = Switch on torch
+		tags = common
+
+	[accessibility_scan_camera_torch_off]
+		de = Taschenlampe ausschalten
+		en = Switch off torch
+		tags = common
+		
+		
+	[accessibility_certificate_add_popup_announce]
+		de = Die Ansicht "Nachweis hinzufügen" wurde geöffnet
+		en = The view "Adding a certificate" has been opened
+		tags = common
+
+	[accessibility_scan_success_announce]
+		de = Das Zertifikat wurde erfolgreich hinzugefügt
+		en = The certificate was successfully added
+		tags = common
+
 [accessibility_certificate_add_popup_image]
 de = Bild: Person hält das Smartphone über drei unterschiedliche Zertifikate mit QR-Code
 en = Image: Person holds smartphone over three different certificates with QR code
@@ -260,6 +281,7 @@ tags = common
     de = Schließen
     en = Close
     tags = common
+
 
 [accessibility_certificate_add_dialog_camera_announce]
     de = Kamera-Ansicht wurde geöffnet
@@ -326,10 +348,36 @@ de = Zertifikat anzeigen
 en = Display certificate
 tags = common
 
+[accessibility_certificate_check_validity_announce]
+de = Die Ansicht "Gültigkeit prüfen" wurde geöffnet
+en = The view "Check validity" has been opened
+tags = common
+
+[accessibility_certificate_check_validity_selection_country_announce]
+de = Die Ansicht "Reiseland wählen" wurde geöffnet
+en = The view "Choose destination" has been opened
+tags = common
+
+[accessibility_certificate_check_validity_selection_date_announce]
+de = Die Ansicht "Datum wählen" wurde geöffnet
+en = The view "Select date" has been opened
+tags = common
+
 [certificate_check_validity_title]
 de = Gültigkeit für Reisen innerhalb der EU prüfen
 en = Check validity for travelling within the EU
 tags = common
+
+[accessibility_certificate_check_validity_selection_country_selected]
+	de = %@, ausgewählt
+	en = %@, selected
+	tags = common
+
+[accessibility_certificate_check_validity_selection_country_unselected]
+	de = %@, auswählbar
+	en = %@, selectable
+	tags = common
+
 
 [certificate_check_validity_message]
         de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
@@ -348,6 +396,19 @@ tags = common
 de = Reiseland wählen
 en = Choose destination
 tags = common
+
+[accessibility_certificate_check_validity_selection_country]
+	de = Land: %@
+	en = Country: %@
+	tags = common
+	
+[accessibility_certificate_check_validity_label_choose_country]
+	de = Reiseland wählen
+	en = Choose destination
+	tags = common
+	
+
+
 [IT]
 de = Italien
 en = Italy
@@ -489,6 +550,17 @@ tags = common
 de = Datum
 en = Date
 tags = common
+
+[accessibility_certificate_check_validity_label_choose_country]
+	de = Datum auswählen
+	en = Select date
+	tags = common
+
+[accessibility_certificate_check_validity_selection_date]
+	de = Datum: %@
+	en = Date: %@
+	tags = common
+
 [accessibility_certificate_check_validity_selection_date_label_close]
 de = Schließen
 en = Close
@@ -525,7 +597,7 @@ tags = common
 
         [certificate_check_invalidity_error_text]
             de = Ein oder mehrere Zertifikate laufen bald ab oder sind abgelaufen.
-            en = One ore multiple certificates are expired, or will expire soon.
+            en = One or multiple certificates are expired, or will expire soon.
             tags = common
 
 [certificate_check_validity_no_certificate_saved_title]
@@ -635,7 +707,8 @@ tags = common
     en = EU Digital COVID Certificate of Recovery
     tags = common
 
-[certificate_check_validity_detail_view_recovery_result_title]
+
+[accessibility_certificate_check_validity_detail_view_recovery_result_title]
     de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
     tags = common
@@ -757,6 +830,7 @@ de = Abbrechen
 en = Cancel
 tags = common
 [[start Screen: partial immunization certificate]]
+
 [vaccination_partial_immunization_action_button]
 de = Zertifikate anzeigen
 en = Display certificates
@@ -831,8 +905,8 @@ de = Aktuellen QR-Code anzeigen
 en = Display current QR Code
 tags = common
 [vaccination_certificate_overview_complete_from_title]
-de = Vollständiger Impfschutz ab %@
-en = Fully vaccinated as of %@
+de = Vollständiger Impfschutz
+en = Fully vaccinated
 tags = common
 [vaccination_certificate_overview_complete_from_message]
 de = Ihr Impfschutz ist noch nicht vollständig. Der Impfschutz ist erst 14 Tage nach der letzten Impfung vollständig.
@@ -982,10 +1056,11 @@ tags = common
     en = EU certificates
     tags = common
 
+
 accessibility_certificates_overview_all_certificates_title
   de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
   en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
-  tags=common
+  tags = common
 
 [certificates_overview_currently_uses_certificate_note]
     de = Aktuell verwendetes Zertifikat
@@ -1095,6 +1170,11 @@ de = Impfung %d von %d
 en = Vaccine dose %d of %d
 tags = common
 
+[accessibility_vaccination_certificate_detail_view_data_vaccine_number_readable_text]
+ de = %1$d von %2$d
+ en = %1$d of %2$d
+ tags = common
+
 [vaccination_certificate_detail_view_vaccination_headline]
     de = Digitales COVID-Impfzertifikat der EU
     en = EU Digital COVID Certificate of Vaccination
@@ -1104,6 +1184,13 @@ tags = common
    de = Digitales COVID Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
    en = EU Digital COVID Certificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
    tags = common
+
+   
+ [accessibility_vaccination_certificate_detail_view_qrcode_screen_announce]
+	de = Die QR-Code-Ansicht wurde geöffnet
+	en = QR-Code has been opened
+	tags = common
+
 
 [vaccination_certificate_detail_view_vaccination_note]
     de = Es handelt sich hier um einen Impfstoff, bei dem nur eine Impfdosis erforderlich ist, oder um eine Impfung für Genesene, die nur eine Impfdosis benötigt.
@@ -1280,6 +1367,7 @@ tags = common
 de = Schließen
 en = Close
 tags = common
+
 [test_certificate_detail_view_title]
 de = Antigen-Schnelltest
 en = Rapid antigen test
@@ -1489,7 +1577,8 @@ tags = common
     en = EU Digital COVID Certificate of Recovery
     tags = common
 
-[accessibility_recovery_certificate_detail_view_headline]c
+
+[accessibility_recovery_certificate_detail_view_headline]
   de = Digitales COVID-Genesenenzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
   en = EU Digital COVID Certificate of Recovery. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
   tags = common
@@ -1675,10 +1764,18 @@ tags = common
 de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
 en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
 [[print certificate]]
-[ ibility_certificate_create_pdf_label_close]
+
+[accessibility_vaccination_certificate_detail_view_pdf_announce]
+de = Die Ansicht für "EU-Ausdruck erstellen" wurde geöffnet
+en = The view "Create EU printout" has been opened
+tags = common
+
+
+[accessibility_certificate_create_pdf_label_close]
 de = Schließen
 en = Close
 tags = common
+
 [certificate_create_pdf_headline]
 de = EU-Ausdruck erstellen
 en = Create EU printout
@@ -1825,14 +1922,33 @@ de = OK
 en = OK
 tags = common
 [[app information]]
+
+
+[accessibility_app_information_datenschutz_announce]
+de = Datenschutzerklärung-Ansicht wurde geöffnet
+en = Privacy policy has been opened
+tags = common
+
+[accessibility_app_information_title_contact_announce]
+de = Kontakt-Ansicht wurde geöffnet
+en = Contact has been opened
+tags = common
+
+[accessibility_app_information_title_open_source_announce]
+de = Open-Source-Lizenzen
+en = Open-source licences
+tags = common
+
 [accessibility_app_information_label_back]
 de = Zurück zum Startbildschirm
 en = Back to the start screen
 tags = common
+
 [app_information_title]
 de = Informationen
 en = Information
 tags = common
+
 [app_information_message]
 de = Hier finden Sie alle rechtlichen Informationen und Antworten auf die häufigsten Fragen rund um die CovPass-App.
 en = Here you can find all legal information and answers to the most frequent questions asked about the CovPass app.
@@ -1903,3 +2019,26 @@ tags = common
 de = Version %@
 en = Version %@
 tags = common
+
+[accessibility_image_alternative_text]
+    de = Dekorativ
+    en = Decorative
+    tags = common
+    comment = generic key to be used as alt text for decorative images
+    
+[accessibility_popup_label_close]
+    de = Schließen
+    en = Close
+    tags = common
+    comment = generic key to be used in both apps for close buttons
+
+[accessibility_qr_code]
+    de = QR-Code
+    en = QR code
+    tags = common
+    comment = to be used as alt text for qr codes
+
+[accessibility_button]
+    de = Taste
+    en = Button
+    tags = common
