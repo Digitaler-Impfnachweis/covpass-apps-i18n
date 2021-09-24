@@ -550,7 +550,7 @@ de = Datum
 en = Date
 tags = common
 
-[accessibility_certificate_check_validity_label_choose_country]
+[accessibility_certificate_check_validity_label_choose_date]
 	de = Datum auswählen
 	en = Select date
 	tags = common
