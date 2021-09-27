@@ -905,8 +905,8 @@ de = Aktuellen QR-Code anzeigen
 en = Display current QR Code
 tags = common
 [vaccination_certificate_overview_complete_from_title]
-de = Vollständiger Impfschutz
-en = Fully vaccinated
+de = Vollständiger Impfschutz ab %@
+en = Fully vaccinated as of %@
 tags = common
 [vaccination_certificate_overview_complete_from_message]
 de = Ihr Impfschutz ist noch nicht vollständig. Der Impfschutz ist erst 14 Tage nach der letzten Impfung vollständig.
