@@ -205,6 +205,40 @@ en = Invalid
     en = Check vaccination status
     tags = common
 
+[certificates_start_screen_qr_code_app_reference_text]
+    de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
+    en = This QR code can be verified reliably with the CovPassCheck-App.
+    tags = common
+
+[[popup: Remark within the app towards the CovPassCheck-App]]
+
+[certificates_start_screen_pop_up_app_reference_title]
+    de = Scannen bitte!
+    en = Please scan!
+    tags = common
+
+[certificates_start_screen_pop_up_app_reference_text]
+    de = Bestehen Sie darauf, dass Ihr Zertifikat mit der CovPassCheck-App gescannt wird. Nur durch das Scannen des QR-Codes und das Vorzeigen eines Ausweisdokumentes kann die Gültigkeit Ihres Impfschutzes sicher geprüft und der Datenschutz eingehalten werden.
+    en = Please insist to have your certificate scanned with the CovPassCheck-App. Only by scanning your QR code and showing your proof of identity the validity of your vaccination protection can be checked reliably while protecting your data.
+    tags = common
+
+
+[certificates_start_screen_pop_up_app_reference_hyperlink]
+    de = CovpassCheck-App öffnen (Externer Link)
+    en = Open the CovpassCheck-App (External Link)
+    tags = common
+
+[certificates_start_screen_pop_up_app_reference_button]
+        de = OK
+        en = OK
+        tags = common
+
+[accessibility_certificates_start_screen_pop_up_app_reference_label]
+de = Pop-up schließen
+en = Close Pop-up
+tags = common
+
+
 [[popup: add certification]]
 	[accessibility_certificate_add_popup_label_close]
 		de = Schließen
@@ -220,8 +254,8 @@ en = Invalid
 		de = Taschenlampe ausschalten
 		en = Switch off torch
 		tags = common
-		
-		
+
+
 	[accessibility_certificate_add_popup_announce]
 		de = Die Ansicht "Nachweis hinzufügen" wurde geöffnet
 		en = The view "Adding a certificate" has been opened
@@ -401,12 +435,12 @@ tags = common
 	de = Land: %@
 	en = Country: %@
 	tags = common
-	
+
 [accessibility_certificate_check_validity_label_choose_country]
 	de = Reiseland wählen
 	en = Choose destination
 	tags = common
-	
+
 
 
 [IT]
@@ -1056,6 +1090,15 @@ tags = common
     en = EU certificates
     tags = common
 
+[certificates_overview_all_certificates_app_reference_title]
+        de = Scannen bitte!
+        en = Please scan!
+        tags = common
+
+[certificates_overview_all_certificates_app_reference_text
+        de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
+        en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck-App.
+        tags = common
 
 [accessibility_certificates_overview_all_certificates_title]
   de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
@@ -1185,7 +1228,7 @@ tags = common
    en = EU Digital COVID Certificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
    tags = common
 
-   
+
  [accessibility_vaccination_certificate_detail_view_qrcode_screen_announce]
 	de = Die QR-Code-Ansicht wurde geöffnet
 	en = QR-Code has been opened
@@ -2025,7 +2068,7 @@ tags = common
     en = Decorative
     tags = common
     comment = generic key to be used as alt text for decorative images
-    
+
 [accessibility_popup_label_close]
     de = Schließen
     en = Close
