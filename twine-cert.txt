@@ -316,8 +316,7 @@ tags = common
     en = Close
     tags = common
 
-
-[accessibility_certificate_add_dialog_camera_announce]
+[accessibility_scan_camera_announce]
     de = Kamera-Ansicht wurde geöffnet
     en = Camera has been opened
     tags = common
@@ -326,6 +325,36 @@ tags = common
     de = Abbrechen
     en = Cancel
     tags = common
+    
+[certificate_popup_checkapp_label_X]
+de = Pop-up schließen
+en = Close Pop-up
+tags = common
+
+[certificate_popup_checkapp_headline]
+de = Scannen bitte!
+en = Please scan!
+tags = common
+
+[certificate_popup_checkapp_copy]
+de = Bestehen Sie darauf, dass Ihr Zertifikat mit der CovPassCheck-App gescannt wird. Nur durch das Scannen des QR-Codes und das Vorzeigen eines Ausweisdokumentes kann die Gültigkeit Ihres Impfschutzes sicher geprüft und der Datenschutz eingehalten werden. Die CovPassCheck-App für alle, die Zertifikate prüfen müssen:
+en = Please insist to have your certificate scanned with the CovPassCheck-App. Only by scanning your QR code and showing your proof of identity the validity of your vaccination protection can be checked reliably while protecting your data. The CovPassCheck app for anyone who needs to check certificates:
+tags = common
+
+[certificate_popup_checkapp_link_label]
+de = Externer Link
+en = External Link
+tags = common
+
+[certificate_add_popup_action_title_linked]
+de = CovpassCheck-App öffnen (Externer Link)
+en = Open the CovpassCheck-App (External Link)
+tags = common
+
+[certificate_popup_checkapp_button]
+de = OK
+en = OK
+tags = common
 
 [error_camera_access_title]
 de = Die CovPass-App möchte auf Ihre Kamera zugreifen.
@@ -951,6 +980,11 @@ de = Vollständiger Impfschutz
 en = Fully vaccinated
 tags = common
 
+[certificates_overview_qr_scan_hint]
+de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App überprüfen.
+en = This QR code can be verified reliably with the CovPassCheck-App.
+tags = common
+
 [vaccination_certificate_overview_complete_message]
         de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
         en = Show this QR code when needed. Be ready to show ID when your QR code is checked.
@@ -1090,6 +1124,15 @@ tags = common
     en = EU certificates
     tags = common
 
+[certificate_overview_info_massage_headline]
+de = Scannen bitte!
+en = Please scan!
+tags = common
+
+[certificate_overview_info_massage_copy]
+de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
+en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck-App.
+tags = common
 
 [certificates_overview_all_certificates_app_reference_title]
         de = Scannen bitte!
@@ -1978,13 +2021,18 @@ en = Contact has been opened
 tags = common
 
 [accessibility_app_information_title_open_source_announce]
-de = Open-Source-Lizenzen
-en = Open-source licences
+de = Die Ansicht "Open-Source-Lizenzen" wurde geöffnet
+en = The view "Open-source licences" has been opened
 tags = common
 
 [accessibility_app_information_label_back]
 de = Zurück zum Startbildschirm
 en = Back to the start screen
+tags = common
+
+[accessibility_app_information_title_informationt_announce]
+de = Die Ansicht "Informationen" wurde geöffnet
+en = Information has been opened
 tags = common
 
 [app_information_title]

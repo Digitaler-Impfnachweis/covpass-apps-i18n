@@ -321,11 +321,6 @@ tags = common
     en = Protection not yet valid
     tags = common
 
-
-
-[functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
-      de = Unvollständige Impfung
-      en = Uncompleted Vaccination
       
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
             de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion muss mindestens 28 Tage alt sein.
@@ -518,6 +513,11 @@ tags = common
         de = Die Ansicht "Open-Source-Lizenzen" wurde geöffnet
         en = The view "Open-source licences" has been opened
         tags = common
+
+[accessibility_app_information_title_informationt_announce]
+de = Die Ansicht "Informationen" wurde geöffnet
+en = Information has been opened
+tags = common
 
 [app_information_message_open_source]
 de = Die App verwendet die folgenden Open-Source-Bibliotheken:
