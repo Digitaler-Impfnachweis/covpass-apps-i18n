@@ -585,7 +585,7 @@ de = Datum
 en = Date
 tags = common
 
-[accessibility_certificate_check_validity_label_choose_country]
+[accessibility_certificate_check_validity_label_choose_date]
 	de = Datum auswählen
 	en = Select date
 	tags = common
@@ -939,8 +939,8 @@ de = Aktuellen QR-Code anzeigen
 en = Display current QR Code
 tags = common
 [vaccination_certificate_overview_complete_from_title]
-de = Vollständiger Impfschutz
-en = Fully vaccinated
+de = Vollständiger Impfschutz ab %@
+en = Fully vaccinated as of %@
 tags = common
 [vaccination_certificate_overview_complete_from_message]
 de = Ihr Impfschutz ist noch nicht vollständig. Der Impfschutz ist erst 14 Tage nach der letzten Impfung vollständig.
@@ -1090,15 +1090,18 @@ tags = common
     en = EU certificates
     tags = common
 
+
 [certificates_overview_all_certificates_app_reference_title]
         de = Scannen bitte!
         en = Please scan!
         tags = common
 
-[certificates_overview_all_certificates_app_reference_text
+[certificates_overview_all_certificates_app_reference_text]
         de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
         en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck-App.
         tags = common
+=======
+
 
 [accessibility_certificates_overview_all_certificates_title]
   de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
@@ -1227,7 +1230,6 @@ tags = common
    de = Digitales COVID Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
    en = EU Digital COVID Certificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
    tags = common
-
 
  [accessibility_vaccination_certificate_detail_view_qrcode_screen_announce]
 	de = Die QR-Code-Ansicht wurde geöffnet
