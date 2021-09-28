@@ -1100,8 +1100,6 @@ tags = common
         de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
         en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck-App.
         tags = common
-=======
-
 
 [accessibility_certificates_overview_all_certificates_title]
   de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
