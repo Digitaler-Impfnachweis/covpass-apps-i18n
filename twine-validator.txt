@@ -321,11 +321,6 @@ tags = common
     en = Protection not yet valid
     tags = common
 
-
-
-[functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
-      de = Unvollständige Impfung
-      en = Uncompleted Vaccination
       
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
             de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion muss mindestens 28 Tage alt sein.
