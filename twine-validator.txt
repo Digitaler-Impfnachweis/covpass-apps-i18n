@@ -519,6 +519,11 @@ tags = common
         en = The view "Open-source licences" has been opened
         tags = common
 
+[accessibility_app_information_title_informationt_announce]
+de = Die Ansicht "Informationen" wurde geöffnet
+en = Information has been opened
+tags = common
+
 [app_information_message_open_source]
 de = Die App verwendet die folgenden Open-Source-Bibliotheken:
 en = The app uses the following open-source libraries:
