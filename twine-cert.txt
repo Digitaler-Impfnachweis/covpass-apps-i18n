@@ -286,14 +286,17 @@ tags = common
 de = Scannen Sie den QR-Code von einem digitalen COVID-Zertifikat der EU. Der Nachweis wird direkt in die CovPass-App übertragen.
 en = Scan the QR code on an EU Digital COVID Certificate. The certificate is transferred directly to the CovPass app.
 tags = common
+
 [certificate_add_popup_action_title]
 de = Welchen QR-Code kann ich einscannen?
 en = Which QR code can I scan and save to my phone?
 tags = common
+
 [certificate_add_popup_action_title_linked]
-de = #Welchen QR-Code kann ich einscannen?::$0#
-en = #Which QR code can I scan and save to my phone?::$0#
-tags = common
+		de = #Welchen QR-Code kann ich einscannen?::$0#
+		en = #Which QR code can I scan and save to my phone?::$0#
+		tags = common
+
 [certificate_add_popup_scan_button_title]
 de = QR-Code scannen
 en = Scan QR code
@@ -346,7 +349,7 @@ de = Externer Link
 en = External Link
 tags = common
 
-[certificate_add_popup_action_title_linked]
+[certificate_popup_checkapp_linked]
 de = CovpassCheck-App öffnen (Externer Link)
 en = Open the CovpassCheck-App (External Link)
 tags = common
