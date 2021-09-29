@@ -1441,8 +1441,8 @@ de = EU-Ausdruck erstellen
 en = Create EU printout
 tags = common
 [vaccination_certificate_detail_view_pdf_action_button_note]
-de = Sie können nur deutsche Impf- und Genesenenzertifikate als PDF herunterladen.
-en = You can only download German vaccination and recovery certificates as PDF files.
+de = Sie können nur deutsche Zertifikate als PDF herunterladen.
+en = You can only download German certificates as PDF files.
 tags = common
 [vaccination_certificate_detail_view_qrcode_screen_title]
 de = Impfung %d von %d
@@ -2036,6 +2036,11 @@ tags = common
 [accessibility_app_information_title_informationt_announce]
 de = Die Ansicht "Informationen" wurde geöffnet
 en = Information has been opened
+tags = common
+
+[accessibility_app_information_version_number_delimiter]
+de = Punkt
+en = point
 tags = common
 
 [app_information_title]
