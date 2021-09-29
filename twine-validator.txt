@@ -4,7 +4,6 @@
     en = CovPass Check
 
 
-
 [[onboarding]]
 [start_onboarding_title]
     de = Willkommen in der CovPassCheck-App
@@ -93,8 +92,8 @@
 [accessibility_image_alternative_text]
     de = Dekorativ
     en = Decorative
-
     comment = generic key to be used as alt text for decorative images
+    
 [error_connect_internet_for_scan_title]
     de = Flugzeugmodus ausschalten oder WLAN für den Datenzugriff verwenden
     en = Switch off airplane mode or use WLAN for data access
@@ -128,7 +127,6 @@
     en = The view "New features" has been opened
 
 
-
 [[start screen]]
 [accessibility_validation_start_screen_label_information]
     de = Mehr Informationen
@@ -141,17 +139,14 @@
 [validation_start_screen_scan_title]
     de = Zertifikat prüfen
     en = Checking a certificate
-
     
 [validation_start_screen_scan_sync_message_title]
     de = Datum und Uhrzeit prüfen
     en = Check date and time
 
-
 [validation_start_screen_scan_sync_message_text]
     de = Bitte korrigieren Sie das Datum und die Uhrzeit Ihres Telefons. \n\n Soll: %@
     en = Please check the date and time of your phone. \n\n It should be: %@
-
    
 [validation_start_screen_scan_message]
     de = Scannen Sie jetzt das digitale COVID-Zertifikat der EU. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
@@ -196,7 +191,6 @@
 [validation_start_screen_offline_modus_rules]
     de = Regelsets: %@
     en = Rules: %@
-
 
 
 [[popup: Check vaccination]]
@@ -410,7 +404,6 @@
     de = Schließen
     en = Close
 
-    
    
 [[app information]]
 [accessibility_app_information_label_back]
@@ -517,7 +510,6 @@
     de = Version %@
     en = Version %@
 
-    
     
 [[error handling]]
 [error_standard_unexpected_title]
