@@ -4,6 +4,13 @@
     en = CovPass
 
 
+
+[[common]]
+[ok]
+    de = OK
+    en = OK
+
+
 [[onboarding]]
 [start_onboarding_title]
     de = Willkommen in der CovPass-App
@@ -130,8 +137,7 @@
     en = Please check the status of your EU Digital COVID Certificates.
 
 [dialog_booster_vaccination_notification_button]
-    de = OK
-    en = OK
+    ref = ok
 
 [accessibility_update_info_announce]
     de = Die Ansicht "Neue Funktionen" wurde geöffnet
@@ -154,8 +160,7 @@
 [accessibility_vaccination_start_screen_title]
     de = Digitale COVID-Zertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
-    tags=common
-    
+
 [vaccination_start_screen_note_title]
     de = Fügen Sie einen Nachweis hinzu
     en = Add a certificate
@@ -444,7 +449,7 @@
 [BE]
     de = Belgien
     en = Belgium
-    
+
 [BG]
     de = Bulgarien
     en = Bulgaria
@@ -492,47 +497,47 @@
 [SE]
     de = Schweden
     en = Sweden
-    
+
 [SI]
     de = Slowenien
     en = Slovenia
-    
+
 [RO]
     de = Rumänien
     en = Romania
-    
+
 [NO]
     de = Norwegen
     en = Norway
-    
+
 [SK]
     de = Slowakei
     en = Slovakia
-    
+
 [FR]
     de = Frankreich
     en = France
-    
+
 [MT]
     de = Malta
     en = Malta
-    
+
 [HU]
     de = Ungarn
     en = Hungary
-    
+
 [IE]
     de = Irland
     en = Ireland
-    
+
 [CH]
     de = Schweiz
     en = Switzerland
-    
+
 [UA]
     de = Ukraine
     en = Ukraine
-    
+
 [certificate_check_validity_selection_country_note]
     de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
     en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -1104,7 +1109,7 @@
 [accessibility_vaccination_certificate_detail_view_data_vaccine_number_readable_text]
 	 de = %1$d von %2$d
 	 en = %1$d of %2$d
-	 tags = common
+	 
 [vaccination_certificate_detail_view_vaccination_headline]
     de = Digitales COVID-Impfzertifikat der EU
     en = EU Digital COVID Certificate of Vaccination
@@ -1296,7 +1301,7 @@
 [accessibility_test_certificate_detail_view_data_name_standard]
 	 de = Standardisierter Name
 	 en = Standardized name
-	 tags = common
+	 
 [test_certificate_detail_view_data_date_of_birth]
     de = Geburtsdatum / Date of birth (YYYY-MM-DD)
     en = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -1860,21 +1865,21 @@
     en = Version %@
 
 [accessibility_image_alternative_text]
-	    de = Dekorativ
-	    en = Decorative
-	
-	    comment = generic key to be used as alt text for decorative images
+    de = Dekorativ
+    en = Decorative
+    comment = generic key to be used as alt text for decorative images
+
 [accessibility_popup_label_close]
-	    de = Schließen
-	    en = Close
-	
-	    comment = generic key to be used in both apps for close buttons
+    de = Schließen
+    en = Close
+    comment = generic key to be used in both apps for close buttons
+
 [accessibility_qr_code]
-	    de = QR-Code
-	    en = QR code
-	
-	    comment = to be used as alt text for qr codes
+    de = QR-Code
+    en = QR code
+	comment = to be used as alt text for qr codes
+
 [accessibility_button]
-	    de = Taste
-	    en = Button
+    de = Taste
+    en = Button
 	
