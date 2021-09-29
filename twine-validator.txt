@@ -142,6 +142,17 @@
     de = Zertifikat prüfen
     en = Checking a certificate
     tags = common
+    
+[validation_start_screen_scan_sync_message_title]
+    de = Datum und Uhrzeit prüfen
+    en = Check date and time
+    tags = common
+
+[validation_start_screen_scan_sync_message_text]
+    de = Bitte korrigieren Sie das Datum und die Uhrzeit Ihres Telefons. \n\n Soll: %@
+    en = Please check the date and time of your phone. \n\n It should be: %@
+    tags = common
+   
 [validation_start_screen_scan_message]
     de = Scannen Sie jetzt das digitale COVID-Zertifikat der EU. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
     en = Scan the EU Digital COVID Certificate now. You see immediately if the person you are checking has a valid Covid-19 certificate.
