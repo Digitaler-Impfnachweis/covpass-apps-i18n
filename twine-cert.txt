@@ -4,6 +4,13 @@
     en = CovPass
 
 
+
+[[common]]
+[ok]
+    de = OK
+    en = OK
+
+
 [[onboarding]]
 [start_onboarding_title]
     de = Willkommen in der CovPass-App
@@ -129,8 +136,7 @@
     en = Please check the status of your EU Digital COVID Certificates.
 
 [dialog_booster_vaccination_notification_button]
-    de = OK
-    en = OK
+    ref = ok
 
 [accessibility_update_info_announce]
     de = Die Ansicht "Neue Funktionen" wurde geöffnet
