@@ -201,7 +201,7 @@
 	tags = common
 
 
-[[popup: Remark within the app towards the CovPassCheck-App]]
+[[popup: Remark within the app towards the CovPassCheck app]]
 [certificates_overview_all_certificates_app_reference_title]
         de = Scannen bitte!
         en = Please scan!
@@ -300,26 +300,6 @@
 [accessibility_certificate_scan_mode_label_cancel]
 	de = Abbrechen
 	en = Cancel
-	tags = common
-[certificate_popup_checkapp_label_X]
-	de = Pop-up schließen
-	en = Close Pop-up
-	tags = common
-[certificate_popup_checkapp_copy]
-	de = Bestehen Sie darauf, dass Ihr Zertifikat mit der CovPassCheck-App gescannt wird. Nur durch das Scannen des QR-Codes und das Vorzeigen eines Ausweisdokumentes kann die Gültigkeit Ihres Impfschutzes sicher geprüft und der Datenschutz eingehalten werden. Die CovPassCheck app für alle, die Zertifikate prüfen müssen:
-	en = Please insist to have your certificate scanned with the CovPassCheck app. Only by scanning your QR code and showing your proof of identity the validity of your vaccination protection can be checked reliably while protecting your data. The CovPassCheck app for anyone who needs to check certificates:
-	tags = common
-[certificate_popup_checkapp_link_label]
-	de = Externer Link
-	en = External Link
-	tags = common
-[certificate_popup_checkapp_linked]
-	de = CovpassCheck-App öffnen (Externer Link)
-	en = Open the CovpassCheck app (External Link)
-	tags = common
-[certificate_popup_checkapp_button]
-	de = OK
-	en = OK
 	tags = common
 [error_camera_access_title]
 	de = Die CovPass-App möchte auf Ihre Kamera zugreifen.
