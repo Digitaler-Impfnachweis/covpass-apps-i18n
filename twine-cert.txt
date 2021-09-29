@@ -2097,6 +2097,14 @@ tags = common
 de = #Impressum::$0#
 en = #Legal information::$0#
 tags = common
+[app_information_title_company_easy_language_linked]
+de = #Leichte Sprache::$0#
+en = #Leichte Sprache::$0#
+tags = common
+[app_information_title_company_easy_language]
+de = Leichte Sprache
+en = Leichte Sprache
+tags = common
 [app_information_title_open_source]
 de = Open-Source-Lizenzen
 en = Open-source licences
