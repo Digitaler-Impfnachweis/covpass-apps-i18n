@@ -64,6 +64,7 @@
 [vaccination_fourth_onboarding_page_title]
     de = Datenschutz und Datensicherheit
     en = Data protection and security
+    
 [vaccination_fourth_onboarding_page_first_list_item]
     de = Die Nutzung der CovPass-App ist freiwillig. Sie können Ihre digitalen COVID-Zertifikate der EU auch in Papierform verwenden.
     en = Using the CovPass app is voluntary. You can also use the digital COVID Certificates in paper form.
@@ -137,8 +138,7 @@
     en = The view "New features" has been opened
 
 
-
-[[start Screen]]
+[[start screen]]
 [accessibility_vaccination_start_screen_label_information]
     de = Mehr Informationen
     en = More information
@@ -155,6 +155,7 @@
     de = Digitale COVID-Zertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
     tags=common
+    
 [vaccination_start_screen_note_title]
     de = Fügen Sie einen Nachweis hinzu
     en = Add a certificate
@@ -190,6 +191,7 @@
 [certificates_start_screen_qrcode_certificate_invalid_subtitle]
     de = Ungültig
     en = Invalid
+    
 [vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
     de = Impfstatus überprüfen
     en = Check vaccination status
@@ -197,7 +199,6 @@
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
     en = This QR code can be verified reliably with the CovPassCheck app.
-
 
 
 [[popup: Remark within the app towards the CovPassCheck app]]
@@ -220,7 +221,6 @@
 [accessibility_certificates_start_screen_pop_up_app_reference_label]
     de = Pop-up schließen
     en = Close Pop-up
-
 
 
 [[popup: add certification]]
@@ -329,7 +329,6 @@
     en = OK
 
 	
-	
 [[start Screen: favorite immunization certificate]]
 [accessibility_certificate_favorite_button_label_active]
     de = Zertifikate dieser Person immer an erster Stelle anzeigen: aktiv
@@ -344,8 +343,7 @@
     en = Check validity
 
 	
-	
-[[Screen: check validity]]
+[[screen: check validity]]
 [accessibility_certificate_check_validity_label_close]
     de = Schließen
     en = Close
@@ -406,137 +404,135 @@
     de = Reiseland wählen
     en = Choose destination
 
-
-
 [[country list names]]
 [IT]
-de = Italien
-en = Italy
-tags = common
+    de = Italien
+    en = Italy
+
 [LT]
-de = Litauen
-en = Lithuania
-tags = common
+    de = Litauen
+    en = Lithuania
+
 [DK]
-de = Dänemark
-en = Denmark
-tags = common
+    de = Dänemark
+    en = Denmark
+
 [GR]
-de = Griechenland
-en = Greece
-tags = common
+    de = Griechenland
+    en = Greece
+
 [CZ]
-de = Tschechien
-en = Czech Republic
-tags = common
+    de = Tschechien
+    en = Czech Republic
+
 [HR]
-de = Kroatien
-en = Croatia
-tags = common
+    de = Kroatien
+    en = Croatia
+
 [IS]
-de = Island
-en = Iceland
-tags = common
+    de = Island
+    en = Iceland
+
 [PT]
-de = Portugal
-en = Portugal
-tags = common
+    de = Portugal
+    en = Portugal
+
 [PL]
-de = Polen
-en = Poland
-tags = common
+    de = Polen
+    en = Poland
+
 [BE]
-de = Belgien
-en = Belgium
-tags = common
+    de = Belgien
+    en = Belgium
+    
 [BG]
-de = Bulgarien
-en = Bulgaria
-tags = common
+    de = Bulgarien
+    en = Bulgaria
+
 [DE]
-de = Deutschland
-en = Germany
-tags = common
+    de = Deutschland
+    en = Germany
+
 [LU]
-de = Luxemburg
-en = Luxembourg
-tags = common
+    de = Luxemburg
+    en = Luxembourg
+
 [EE]
-de = Estland
-en = Estonia
-tags = common
+    de = Estland
+    en = Estonia
+
 [CY]
-de = Zypern
-en = Cyprus
-tags = common
+    de = Zypern
+    en = Cyprus
+
 [ES]
-de = Spanien
-en = Spain
-tags = common
+    de = Spanien
+    en = Spain
+
 [NL]
-de = Niederlande
-en = Netherlands
-tags = common
+    de = Niederlande
+    en = Netherlands
+
 [AT]
-de = Österreich
-en = Austria
-tags = common
+    de = Österreich
+    en = Austria
+
 [LV]
-de = Lettland
-en = Latvia
-tags = common
+    de = Lettland
+    en = Latvia
+
 [LI]
-de = Liechtenstein
-en = Liechtenstein
-tags = common
+    de = Liechtenstein
+    en = Liechtenstein
+
 [FI]
-de = Finnland
-en = Finland
-tags = common
+    de = Finnland
+    en = Finland
+
 [SE]
-de = Schweden
-en = Sweden
-tags = common
+    de = Schweden
+    en = Sweden
+    
 [SI]
-de = Slowenien
-en = Slovenia
-tags = common
+    de = Slowenien
+    en = Slovenia
+    
 [RO]
-de = Rumänien
-en = Romania
-tags = common
+    de = Rumänien
+    en = Romania
+    
 [NO]
-de = Norwegen
-en = Norway
-tags = common
+    de = Norwegen
+    en = Norway
+    
 [SK]
-de = Slowakei
-en = Slovakia
-tags = common
+    de = Slowakei
+    en = Slovakia
+    
 [FR]
-de = Frankreich
-en = France
-tags = common
+    de = Frankreich
+    en = France
+    
 [MT]
-de = Malta
-en = Malta
-tags = common
+    de = Malta
+    en = Malta
+    
 [HU]
-de = Ungarn
-en = Hungary
-tags = common
+    de = Ungarn
+    en = Hungary
+    
 [IE]
-de = Irland
-en = Ireland
-tags = common
+    de = Irland
+    en = Ireland
+    
 [CH]
-de = Schweiz
-en = Switzerland
-tags = common
+    de = Schweiz
+    en = Switzerland
+    
 [UA]
-de = Ukraine
-en = Ukraine
-tags = common
+    de = Ukraine
+    en = Ukraine
+    
 [certificate_check_validity_selection_country_note]
     de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
     en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -632,7 +628,7 @@ tags = common
 [certificate_check_validity_detail_view_vaccination_result_title]
     de = Digitales COVID-Impfzertifikat der EU
     en = EU Digital COVID Certificate of Vaccination
-	tag=common
+	
 [accessbility_certificate_check_validity_detail_view_vaccination_result_title]
     de = Digitale COVID Imofzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Vaccination Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
@@ -788,14 +784,12 @@ tags = common
 [error_check_validity_no_internet_button_cancel]
     de = Abbrechen
     en = Cancel
-
 	
 	
 [[start Screen: partial immunization certificate]]
 [vaccination_partial_immunization_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-
 	
 	
 [[start screen: full immunization certificate]]
@@ -806,21 +800,18 @@ tags = common
 [vaccination_full_immunization_status_expired]
     de = Abgelaufen
     en = Expired
-
 	
 	
 [[start screen: test certificate]]
 [test_certificate_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-
 	
 	
 [[start screen: pcr test certificate]]
 [pcr_test_certificate_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-
 	
 	
 [[start screen: recovery certificate]]
@@ -839,7 +830,6 @@ tags = common
 [error_connect_to_internet_button_ok]
     de = OK
     en = OK
-
 	
 	
 [[overview certificates]]
@@ -1011,7 +1001,6 @@ tags = common
     de = EU-Zertifikate
     en = EU certificates
 
-
 [accessibility_certificates_overview_all_certificates_title]
     de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
@@ -1095,7 +1084,6 @@ tags = common
 [certificates_overview_pcr_test_certificate_date]
     de = Probenahme am %@
     en = Sample taken on %@
-
 	
 	
 [[detail view: delete certificate]]
@@ -1106,7 +1094,6 @@ tags = common
 [accessibility_certificate_detail_view_label_back]
     de = Zurück
     en = Back
-
 	
 	
 [[detail view: certificate]]
@@ -1290,7 +1277,7 @@ tags = common
     de = Digitales COVID-Testzertifikat der EU
     en = EU Digital COVID Certificate of Test
 
- [accessibility_test_certificate_detail_view_headline]
+[accessibility_test_certificate_detail_view_headline]
     de = Digitales COVID Testzertifikat. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Test Certificate. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
 
@@ -1649,7 +1636,6 @@ tags = common
     en = Save PDF
 
 
-
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
     de = Möchten Sie das COVID-Zertifikat wirklich löschen?
@@ -1678,7 +1664,6 @@ tags = common
 [delete_result_dialog_positive_button_text]
     de = OK
     en = OK
-
 	
 	
 [[error handling]]
@@ -1755,7 +1740,6 @@ tags = common
     en = OK
 
 	
-	
 [[dialog: duplicate certificate]]
 [duplicate_certificate_dialog_header]
     de = COVID-Zertifikat wurde bereits hinzugefügt
@@ -1768,7 +1752,6 @@ tags = common
 [duplicate_certificate_dialog_button_title]
     de = OK
     en = OK
-
 	
 	
 [[app information]]
