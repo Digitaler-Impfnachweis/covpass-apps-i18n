@@ -91,7 +91,7 @@ tags = common
         de = Schließen
         en = Close
         tags = common
-        
+
 [accessibility_image_alternative_text]
     de = Dekorativ
     en = Decorative
@@ -150,6 +150,16 @@ tags = common
 de = Scannen Sie jetzt das digitale COVID-Zertifikat der EU. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
 en = Scan the EU Digital COVID Certificate now. You see immediately if the person you are checking has a valid Covid-19 certificate.
 tags = common
+
+[validation_start_screen_scan_sync_message_title]
+    de = Datum und Uhrzeit prüfen
+    en = Check date and time
+    tags = common
+
+[validation_start_screen_scan_sync_message_text]
+    de = Bitte korrigieren Sie das Datum und die Uhrzeit des Telefons. \n\n Soll: %@
+    en = Please check the date and time of your phone. \n\n It should be: %@
+    tags = common
 
 [accessibility_scan_result_announce]
 de = Überprüfungsergebnis wird angezeigt
@@ -326,7 +336,7 @@ tags = common
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
       de = Unvollständige Impfung
       en = Uncompleted Vaccination
-      
+
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
             de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion muss mindestens 28 Tage alt sein.
             en = Individuals are not completely protected until 14 days after the second vaccination. A recovery from a Corona infection has to be at least 28 days in the past.
