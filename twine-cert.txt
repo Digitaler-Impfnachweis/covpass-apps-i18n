@@ -154,7 +154,7 @@
 [accessibility_vaccination_start_screen_title]
     de = Digitale COVID-Zertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
-    tags=common
+
 [vaccination_start_screen_note_title]
     de = Fügen Sie einen Nachweis hinzu
     en = Add a certificate
@@ -410,133 +410,133 @@
 
 [[country list names]]
 [IT]
-de = Italien
-en = Italy
-tags = common
+    de = Italien
+    en = Italy
+
 [LT]
-de = Litauen
-en = Lithuania
-tags = common
+    de = Litauen
+    en = Lithuania
+
 [DK]
-de = Dänemark
-en = Denmark
-tags = common
+    de = Dänemark
+    en = Denmark
+
 [GR]
-de = Griechenland
-en = Greece
-tags = common
+    de = Griechenland
+    en = Greece
+
 [CZ]
-de = Tschechien
-en = Czech Republic
-tags = common
+    de = Tschechien
+    en = Czech Republic
+
 [HR]
-de = Kroatien
-en = Croatia
-tags = common
+    de = Kroatien
+    en = Croatia
+
 [IS]
-de = Island
-en = Iceland
-tags = common
+    de = Island
+    en = Iceland
+
 [PT]
-de = Portugal
-en = Portugal
-tags = common
+    de = Portugal
+    en = Portugal
+
 [PL]
-de = Polen
-en = Poland
-tags = common
+    de = Polen
+    en = Poland
+
 [BE]
-de = Belgien
-en = Belgium
-tags = common
+    de = Belgien
+    en = Belgium
+
 [BG]
-de = Bulgarien
-en = Bulgaria
-tags = common
+    de = Bulgarien
+    en = Bulgaria
+
 [DE]
-de = Deutschland
-en = Germany
-tags = common
+    de = Deutschland
+    en = Germany
+
 [LU]
-de = Luxemburg
-en = Luxembourg
-tags = common
+    de = Luxemburg
+    en = Luxembourg
+
 [EE]
-de = Estland
-en = Estonia
-tags = common
+    de = Estland
+    en = Estonia
+
 [CY]
-de = Zypern
-en = Cyprus
-tags = common
+    de = Zypern
+    en = Cyprus
+
 [ES]
-de = Spanien
-en = Spain
-tags = common
+    de = Spanien
+    en = Spain
+
 [NL]
-de = Niederlande
-en = Netherlands
-tags = common
+    de = Niederlande
+    en = Netherlands
+
 [AT]
-de = Österreich
-en = Austria
-tags = common
+    de = Österreich
+    en = Austria
+
 [LV]
-de = Lettland
-en = Latvia
-tags = common
+    de = Lettland
+    en = Latvia
+
 [LI]
-de = Liechtenstein
-en = Liechtenstein
-tags = common
+    de = Liechtenstein
+    en = Liechtenstein
+
 [FI]
-de = Finnland
-en = Finland
-tags = common
+    de = Finnland
+    en = Finland
+
 [SE]
-de = Schweden
-en = Sweden
-tags = common
+    de = Schweden
+    en = Sweden
+
 [SI]
-de = Slowenien
-en = Slovenia
-tags = common
+    de = Slowenien
+    en = Slovenia
+
 [RO]
-de = Rumänien
-en = Romania
-tags = common
+    de = Rumänien
+    en = Romania
+
 [NO]
-de = Norwegen
-en = Norway
-tags = common
+    de = Norwegen
+    en = Norway
+
 [SK]
-de = Slowakei
-en = Slovakia
-tags = common
+    de = Slowakei
+    en = Slovakia
+
 [FR]
-de = Frankreich
-en = France
-tags = common
+    de = Frankreich
+    en = France
+
 [MT]
-de = Malta
-en = Malta
-tags = common
+    de = Malta
+    en = Malta
+
 [HU]
-de = Ungarn
-en = Hungary
-tags = common
+    de = Ungarn
+    en = Hungary
+
 [IE]
-de = Irland
-en = Ireland
-tags = common
+    de = Irland
+    en = Ireland
+
 [CH]
-de = Schweiz
-en = Switzerland
-tags = common
+    de = Schweiz
+    en = Switzerland
+
 [UA]
-de = Ukraine
-en = Ukraine
-tags = common
+    de = Ukraine
+    en = Ukraine
+
 [certificate_check_validity_selection_country_note]
     de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
     en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -1117,7 +1117,7 @@ tags = common
 [accessibility_vaccination_certificate_detail_view_data_vaccine_number_readable_text]
 	 de = %1$d von %2$d
 	 en = %1$d of %2$d
-	 tags = common
+	 
 [vaccination_certificate_detail_view_vaccination_headline]
     de = Digitales COVID-Impfzertifikat der EU
     en = EU Digital COVID Certificate of Vaccination
@@ -1309,7 +1309,7 @@ tags = common
 [accessibility_test_certificate_detail_view_data_name_standard]
 	 de = Standardisierter Name
 	 en = Standardized name
-	 tags = common
+	 
 [test_certificate_detail_view_data_date_of_birth]
     de = Geburtsdatum / Date of birth (YYYY-MM-DD)
     en = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -1877,21 +1877,21 @@ tags = common
     en = Version %@
 
 [accessibility_image_alternative_text]
-	    de = Dekorativ
-	    en = Decorative
-	
-	    comment = generic key to be used as alt text for decorative images
+    de = Dekorativ
+    en = Decorative
+    comment = generic key to be used as alt text for decorative images
+
 [accessibility_popup_label_close]
-	    de = Schließen
-	    en = Close
-	
-	    comment = generic key to be used in both apps for close buttons
+    de = Schließen
+    en = Close
+    comment = generic key to be used in both apps for close buttons
+
 [accessibility_qr_code]
-	    de = QR-Code
-	    en = QR code
-	
-	    comment = to be used as alt text for qr codes
+    de = QR-Code
+    en = QR code
+	comment = to be used as alt text for qr codes
+
 [accessibility_button]
-	    de = Taste
-	    en = Button
+    de = Taste
+    en = Button
 	
