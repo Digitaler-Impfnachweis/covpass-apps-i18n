@@ -202,14 +202,14 @@
 
 
 [[popup: Remark within the app towards the CovPassCheck-App]]
-[certificates_start_screen_pop_up_app_reference_title]
-	de = Scannen bitte!
-	en = Please scan!
-	tags = common
-[certificates_start_screen_pop_up_app_reference_text]
-	de = Bestehen Sie darauf, dass Ihr Zertifikat mit der CovPassCheck-App gescannt wird. Nur durch das Scannen des QR-Codes und das Vorzeigen eines Ausweisdokumentes kann die Gültigkeit Ihres Impfschutzes sicher geprüft und der Datenschutz eingehalten werden.
-	en = Please insist to have your certificate scanned with the CovPassCheck app. Only by scanning your QR code and showing your proof of identity the validity of your vaccination protection can be checked reliably while protecting your data.
-	tags = common
+[certificates_overview_all_certificates_app_reference_title]
+        de = Scannen bitte!
+        en = Please scan!
+        tags = common
+[certificates_overview_all_certificates_app_reference_text]
+        de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
+        en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
+        tags = common
 [certificates_start_screen_pop_up_app_reference_hyperlink]
 	de = CovpassCheck-App öffnen (Externer Link)
 	en = Open the CovpassCheck app (External Link)
@@ -304,10 +304,6 @@
 [certificate_popup_checkapp_label_X]
 	de = Pop-up schließen
 	en = Close Pop-up
-	tags = common
-[certificate_popup_checkapp_headline]
-	de = Scannen bitte!
-	en = Please scan!
 	tags = common
 [certificate_popup_checkapp_copy]
 	de = Bestehen Sie darauf, dass Ihr Zertifikat mit der CovPassCheck-App gescannt wird. Nur durch das Scannen des QR-Codes und das Vorzeigen eines Ausweisdokumentes kann die Gültigkeit Ihres Impfschutzes sicher geprüft und der Datenschutz eingehalten werden. Die CovPassCheck app für alle, die Zertifikate prüfen müssen:
@@ -1036,22 +1032,7 @@ tags = common
     de = EU-Zertifikate
     en = EU certificates
     tags = common
-[certificate_overview_info_massage_headline]
-	de = Scannen bitte!
-	en = Please scan!
-	tags = common
-[certificate_overview_info_massage_copy]
-	de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
-	en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
-	tags = common
-[certificates_overview_all_certificates_app_reference_title]
-        de = Scannen bitte!
-        en = Please scan!
-        tags = common
-[certificates_overview_all_certificates_app_reference_text]
-        de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
-        en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
-        tags = common
+
 [accessibility_certificates_overview_all_certificates_title]
 	de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
 	en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
