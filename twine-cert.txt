@@ -71,6 +71,7 @@
 [vaccination_fourth_onboarding_page_title]
     de = Datenschutz und Datensicherheit
     en = Data protection and security
+    
 [vaccination_fourth_onboarding_page_first_list_item]
     de = Die Nutzung der CovPass-App ist freiwillig. Sie können Ihre digitalen COVID-Zertifikate der EU auch in Papierform verwenden.
     en = Using the CovPass app is voluntary. You can also use the digital COVID Certificates in paper form.
@@ -143,8 +144,7 @@
     en = The view "New features" has been opened
 
 
-
-[[start Screen]]
+[[start screen]]
 [accessibility_vaccination_start_screen_label_information]
     de = Mehr Informationen
     en = More information
@@ -196,6 +196,7 @@
 [certificates_start_screen_qrcode_certificate_invalid_subtitle]
     de = Ungültig
     en = Invalid
+    
 [vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
     de = Impfstatus überprüfen
     en = Check vaccination status
@@ -203,7 +204,6 @@
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
     en = This QR code can be verified reliably with the CovPassCheck app.
-
 
 
 [[popup: Remark within the app towards the CovPassCheck app]]
@@ -226,7 +226,6 @@
 [accessibility_certificates_start_screen_pop_up_app_reference_label]
     de = Pop-up schließen
     en = Close Pop-up
-
 
 
 [[popup: add certification]]
@@ -335,7 +334,6 @@
     en = OK
 
 	
-	
 [[start Screen: favorite immunization certificate]]
 [accessibility_certificate_favorite_button_label_active]
     de = Zertifikate dieser Person immer an erster Stelle anzeigen: aktiv
@@ -350,8 +348,7 @@
     en = Check validity
 
 	
-	
-[[Screen: check validity]]
+[[screen: check validity]]
 [accessibility_certificate_check_validity_label_close]
     de = Schließen
     en = Close
@@ -411,8 +408,6 @@
 [accessibility_certificate_check_validity_label_choose_country]
     de = Reiseland wählen
     en = Choose destination
-
-
 
 [[country list names]]
 [IT]
@@ -638,7 +633,7 @@
 [certificate_check_validity_detail_view_vaccination_result_title]
     de = Digitales COVID-Impfzertifikat der EU
     en = EU Digital COVID Certificate of Vaccination
-	tag=common
+	
 [accessbility_certificate_check_validity_detail_view_vaccination_result_title]
     de = Digitale COVID Imofzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Vaccination Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
@@ -794,14 +789,12 @@
 [error_check_validity_no_internet_button_cancel]
     de = Abbrechen
     en = Cancel
-
 	
 	
 [[start Screen: partial immunization certificate]]
 [vaccination_partial_immunization_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-
 	
 	
 [[start screen: full immunization certificate]]
@@ -812,21 +805,18 @@
 [vaccination_full_immunization_status_expired]
     de = Abgelaufen
     en = Expired
-
 	
 	
 [[start screen: test certificate]]
 [test_certificate_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-
 	
 	
 [[start screen: pcr test certificate]]
 [pcr_test_certificate_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-
 	
 	
 [[start screen: recovery certificate]]
@@ -845,7 +835,6 @@
 [error_connect_to_internet_button_ok]
     de = OK
     en = OK
-
 	
 	
 [[overview certificates]]
@@ -1017,7 +1006,6 @@
     de = EU-Zertifikate
     en = EU certificates
 
-
 [accessibility_certificates_overview_all_certificates_title]
     de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
@@ -1101,7 +1089,6 @@
 [certificates_overview_pcr_test_certificate_date]
     de = Probenahme am %@
     en = Sample taken on %@
-
 	
 	
 [[detail view: delete certificate]]
@@ -1112,7 +1099,6 @@
 [accessibility_certificate_detail_view_label_back]
     de = Zurück
     en = Back
-
 	
 	
 [[detail view: certificate]]
@@ -1296,7 +1282,7 @@
     de = Digitales COVID-Testzertifikat der EU
     en = EU Digital COVID Certificate of Test
 
- [accessibility_test_certificate_detail_view_headline]
+[accessibility_test_certificate_detail_view_headline]
     de = Digitales COVID Testzertifikat. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Test Certificate. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
 
@@ -1655,7 +1641,6 @@
     en = Save PDF
 
 
-
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
     de = Möchten Sie das COVID-Zertifikat wirklich löschen?
@@ -1684,7 +1669,6 @@
 [delete_result_dialog_positive_button_text]
     de = OK
     en = OK
-
 	
 	
 [[error handling]]
@@ -1761,7 +1745,6 @@
     en = OK
 
 	
-	
 [[dialog: duplicate certificate]]
 [duplicate_certificate_dialog_header]
     de = COVID-Zertifikat wurde bereits hinzugefügt
@@ -1774,7 +1757,6 @@
 [duplicate_certificate_dialog_button_title]
     de = OK
     en = OK
-
 	
 	
 [[app information]]
