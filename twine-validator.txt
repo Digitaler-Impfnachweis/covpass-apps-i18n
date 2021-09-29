@@ -157,7 +157,7 @@ tags = common
     tags = common
 
 [validation_start_screen_scan_sync_message_text]
-    de = Bitte korrigieren Sie das Datum und die Uhrzeit des Telefons. \n\n Soll: %@
+    de = Bitte korrigieren Sie das Datum und die Uhrzeit Ihres Telefons. \n\n Soll: %@
     en = Please check the date and time of your phone. \n\n It should be: %@
     tags = common
 
