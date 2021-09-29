@@ -1127,25 +1127,15 @@ tags = common
     en = EU certificates
     tags = common
 
-[certificate_overview_info_massage_headline]
+[certificate_overview_info_message_headline]
 de = Scannen bitte!
 en = Please scan!
 tags = common
 
-[certificate_overview_info_massage_copy]
+[certificate_overview_info_message_copy]
 de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
-en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck-App.
+en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
 tags = common
-
-[certificates_overview_all_certificates_app_reference_title]
-        de = Scannen bitte!
-        en = Please scan!
-        tags = common
-
-[certificates_overview_all_certificates_app_reference_text]
-        de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
-        en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck-App.
-        tags = common
 
 [accessibility_certificates_overview_all_certificates_title]
   de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
