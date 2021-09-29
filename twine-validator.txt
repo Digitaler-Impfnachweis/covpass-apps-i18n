@@ -527,6 +527,11 @@ de = Die Ansicht "Informationen" wurde geöffnet
 en = Information has been opened
 tags = common
 
+[accessibility_app_information_version_number_delimiter]
+de = Punkt
+en = point
+tags = common
+
 [app_information_message_open_source]
 de = Die App verwendet die folgenden Open-Source-Bibliotheken:
 en = The app uses the following open-source libraries:
