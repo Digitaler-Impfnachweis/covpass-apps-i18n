@@ -207,25 +207,32 @@
 
 
 [[popup: Remark within the app towards the CovPassCheck app]]
-[certificates_overview_all_certificates_app_reference_title]
-    de = Scannen bitte!
-    en = Please scan!
-
-[certificates_overview_all_certificates_app_reference_text]
-    de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
-    en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
-
-[certificates_start_screen_pop_up_app_reference_hyperlink]
-    de = CovpassCheck-App öffnen (Externer Link)
-    en = Open the CovpassCheck app (External Link)
-
-[certificates_start_screen_pop_up_app_reference_button]
-    de = OK
-    en = OK
-
-[accessibility_certificates_start_screen_pop_up_app_reference_label]
-    de = Pop-up schließen
-    en = Close Pop-up
+[certificate_popup_checkapp_headline]
+        de = Scannen bitte!
+        en = Please scan!
+        tags = common
+[certificate_popup_checkapp_label]
+	de = Pop-up schließen
+	en = Close Pop-up
+	tags = common
+[certificate_popup_checkapp_label_X]
+	de = X
+	en = X
+	tags = common
+[certificate_popup_checkapp_copy]
+	de = Bestehen Sie darauf, dass Ihr Zertifikat mit der CovPassCheck-App gescannt wird. Zeigen Sie außerdem ein Ausweisdokument vor. Nur so kann die Gültigkeit Ihres Zertifikats datensicher geprüft werden.
+Arbeiten Sie in der Gastronomie oder planen Sie eine Veranstaltung? Prüfen Sie schnell und sicher die Zertifikate Ihrer Gäste:
+	en = Please insist to have your certificate scanned with the CovPassCheck-App. Only by scanning your QR code and showing your proof of identity the validity of your vaccination protection can be checked reliably while protecting your data.
+Do you work in a restaurant or at events? Check your customers’ certificates with ease:
+	tags = common
+[certificate_popup_checkapp_link_name]
+	de = Zur CovPassCheck-App (Link zum jeweiligen App Store)
+	en = Download the CovPassCheck-App (External Link to App Store)
+	tags = common
+[certificate_popup_checkapp_button]
+	de = OK
+	en = OK
+	tags = common
 
 
 [[popup: add certification]]
@@ -1005,6 +1012,14 @@
 [certificates_overview_all_certificates_title]
     de = EU-Zertifikate
     en = EU certificates
+    
+[certificates_overview_all_certificates_app_reference_title]
+    de = Scannen bitte!
+    en = Please scan!
+
+[certificates_overview_all_certificates_app_reference_text]
+    de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
+    en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.    
 
 [accessibility_certificates_overview_all_certificates_title]
     de = Impfstatus überprüfen. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
