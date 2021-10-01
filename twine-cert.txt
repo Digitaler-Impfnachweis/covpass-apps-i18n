@@ -226,6 +226,10 @@
 [accessibility_certificates_start_screen_pop_up_app_reference_label]
     de = Pop-up schließen
     en = Close Pop-up
+    
+[accessibility_certificate_popup_checkapp_announce]
+    de = Die Ansicht \"Scannen bitte!\" wurde geöffnet
+    en = The view \"Please scan!\" has been opened
 
 
 [[popup: add certification]]
