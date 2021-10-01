@@ -203,7 +203,7 @@
 
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
-    en = This QR code can be verified reliably with the CovPassCheck app.
+    en = This QR code can be reliably verified with the CovPassCheck app.
 
 
 [[popup: Remark within the app towards the CovPassCheck app]]
