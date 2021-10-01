@@ -190,7 +190,15 @@
 
 [validation_start_screen_offline_modus_rules]
     de = Regelsets: %@
-    en = Rules: %@
+    en = Ruleset: %@
+    
+[validation_start_screen_offline_modus_title]
+    de = App Regelset
+    en = App ruleset
+    
+[validation_start_screen_offline_modus_information]
+    de = Hier können Sie Ihr Regelset zur Verifizierung Ihrer Zertifikate manuell aktualisieren. 
+    en = Here you can manually update the ruleset to verify certificates.
 
 
 [[popup: Check vaccination]]
