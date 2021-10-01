@@ -231,8 +231,8 @@
     en = Close Pop-up
     
 [accessibility_certificate_popup_checkapp_announce]
-    de = Die Ansicht \"Scannen bitte!\" wurde geöffnet
-    en = The view \"Please scan!\" has been opened
+    de = Die Ansicht "Scannen bitte!" wurde geöffnet
+    en = The view "Please scan!" has been opened
 
 
 [[popup: add certification]]
