@@ -395,6 +395,14 @@
 [certificate_check_validity_message]
     de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
     en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
+    
+[certificate_check_validity_travel_rules_not_up_to_title]
+    de = Reiseregeln nicht aktuell
+    en = Travel rules not up to date
+    
+[certificate_check_validity_travel_rules_not_up_to_message]
+    de = Die Reiseregeln werden in der App alle 24 Stunden aktualisiert. Leider schlug die letzte Aktualisierung fehl. Stellen Sie sicher, dass Ihr Smartphone mit dem Internet verbunden ist und versuchen Sie es erneut.
+    en = The travel rules are updated in the app every 24 hours. Unfortunately, the last update failed. Make sure your smartphone is connected to the Internet and try again.
 
 [certificate_check_validity_selection_country]
     de = Land
