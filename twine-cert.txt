@@ -896,7 +896,7 @@
 
 [certificates_overview_qr_scan_hint]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App überprüfen.
-    en = This QR code can be verified reliably with the CovPassCheck app.
+    en = This QR code can be reliably verified with the CovPassCheck app.
 
 [vaccination_certificate_overview_complete_message]
     de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
