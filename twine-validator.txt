@@ -307,8 +307,8 @@
     en = Test expired
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_expiration_text]
-    de = Ein negativer Schnelltest ist für maximal 24 Stunden gültig. Ein negativer PCR-Test ist für maximal 72 Stunden gültig.
-    en = A negative rapid test has a maximal validity of 24 hours. A negative PCR test has a maximal validity of 72 hours.
+    de = Ein negativer Schnelltest ist für maximal 48 Stunden gültig. Ein negativer PCR-Test ist für maximal 72 Stunden gültig.
+    en = A negative rapid test has a maximal validity of 48 hours. A negative PCR test has a maximal validity of 72 hours.
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection]
     de = Noch nicht gültiger Schutz
