@@ -402,7 +402,7 @@
     
 [certificate_check_validity_travel_rules_not_up_to_message]
     de = Die Reiseregeln werden in der App alle 24 Stunden aktualisiert. Leider schlug die letzte Aktualisierung fehl. Stellen Sie sicher, dass Ihr Smartphone mit dem Internet verbunden ist und versuchen Sie es erneut.
-    en = The travel rules are updated in the app every 24 hours. Unfortunately, the last update failed. Make sure your smartphone is connected to the Internet and try again.
+    en = The travel rules are updated in the app every 24 hours. Unfortunately, the last update failed. Make sure your smartphone is connected to the internet and try again.
 
 [certificate_check_validity_selection_country]
     de = Land
