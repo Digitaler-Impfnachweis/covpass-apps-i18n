@@ -145,8 +145,8 @@
     en = Check date and time
 
 [validation_start_screen_scan_sync_message_text]
-    de = Bitte korrigieren Sie das Datum und die Uhrzeit Ihres Telefons. \n\n Soll: %@
-    en = Please check the date and time of your phone. \n\n It should be: %@
+    de = Bitte korrigieren Sie das Datum und die Uhrzeit Ihres Smartphones. \n\n Soll: %@
+    en = Please check the date and time of your smartphone. \n\n It should be: %@
    
 [validation_start_screen_scan_message]
     de = Scannen Sie jetzt das digitale COVID-Zertifikat der EU. Sie sehen sofort, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
