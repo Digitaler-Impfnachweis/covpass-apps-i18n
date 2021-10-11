@@ -166,8 +166,8 @@
     en = Add a certificate
 
 [vaccination_start_screen_note_message]
-    de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf das Plus-Symbol, um einen digitalen Nachweis hinzuzufügen.
-    en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the plus symbol to add a digital certificate.
+    de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf die Taste "Nachweis hinzufügen" (Plus-Symbol), um ein digitales COVID-Zertifikat der EU hinzuzufügen.
+    en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the button "Add a certificate" (plus symbol) to add a Digital COVID Certificate.
 
 [accessibility_vaccination_start_screen_label_qrcode]
     de = Schwarzer QR-Code auf weißem Hintergrund
