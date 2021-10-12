@@ -308,7 +308,7 @@
     de = Schließen
     en = Close
     
-[accessibility_certificate_add_dialog_camera_access_announce]
+[accessibility_scan_dialog_camera_access_announce]
     de = Die Ansicht "Kamerazugriff benötigt" wurde geöffnet 
     en = The view "Camera access needed" has been opened
 
