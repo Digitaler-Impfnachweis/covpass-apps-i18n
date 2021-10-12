@@ -257,8 +257,8 @@
     en = The view "Adding a certificate" has been opened
 
 [accessibility_scan_success_announce]
-    de = Zertifikat von %s wurde erfolgreich hinzugefügt
-    en = Certificate of %s was added successfully
+    de = Zertifikat von %@ wurde erfolgreich hinzugefügt
+    en = Certificate of %@ was added successfully
 
 [accessibility_certificate_add_popup_image]
     de = Bild: Person hält das Smartphone über drei unterschiedliche Zertifikate mit QR-Code
