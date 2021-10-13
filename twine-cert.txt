@@ -153,6 +153,10 @@
     de = Nachweis hinzufügen
     en = Add certificate
 
+[accessibility_start_screen_info_announce]
+    de = Der Startbildschirm wurde geöffnet
+    en = The start screen has been opened
+
 [vaccination_start_screen_title]
     de = Digitale COVID-Zertifikate der EU
     en = EU Digital COVID Certificates
