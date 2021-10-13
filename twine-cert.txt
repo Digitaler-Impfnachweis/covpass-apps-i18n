@@ -561,7 +561,75 @@
 [UA]
     de = Ukraine
     en = Ukraine
+    
+[VA]
+    de = Vatikanstadt
+    en = Vatican City
 
+[SM]
+    de = San Marino
+    en = San Marino
+
+[TR]
+    de = Türkei
+    en = Turkey
+
+[MK]
+    de = Nordmazedonien
+    en = North Macedonia
+    
+[AD]
+    de = Andorra
+    en = Andorra
+
+[MC]
+    de = Monaco
+    en = Monaco
+
+[FO]
+    de = Färöer-Inseln
+    en = Faroe Islands
+
+[MA]
+    de = Marokko
+    en = Morocco  
+    
+[AL]
+    de = Albanien
+    en = Albania
+
+[IL]
+    de = Israel
+    en = Israel
+
+[PA]
+    de = Panama
+    en = Panama
+
+[TG]
+    de = Togo
+    en = Togo
+    
+[SG]
+    de = Singapur
+    en = Singapore
+
+[GB]
+    de = Großbritannien
+    en = Great Britain
+
+[AM]
+    de = Armenien
+    en = Armenia
+     
+[GE] 
+    de = Georgien
+    en = Georgia
+
+[NZ] 
+    de = Neuseeland
+    en = New Zealand
+    
 [certificate_check_validity_selection_country_note]
     de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
     en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
