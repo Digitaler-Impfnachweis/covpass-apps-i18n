@@ -629,7 +629,167 @@
 [NZ] 
     de = Neuseeland
     en = New Zealand
-    
+
+[DZ]
+    de = Algerien
+    en = Algeria
+
+[AZ]
+    de = Aserbaidschan
+    en = Azerbaijan
+
+[BH]
+    de = Bahrain
+    en = Bahrain
+
+[BJ]
+    de = Benin
+    en = Benin
+
+[BA]
+    de = Bosnien und Herzegowina
+    en = Bosnia and Herzegovina
+
+[BR]
+    de = Brasilien
+    en = Brazil
+
+[BI]
+    de = Burundi 
+    en = Burundi
+
+[CV]
+    de = Kap Verde
+    en = Cabo Verde
+
+[CA]
+    de = Kanada
+    en = Canada
+
+[CL]
+    de = Chile
+    en = Chile
+
+[CO]
+    de = Kolumbien
+    en = Colombia
+
+[DO]
+    de = Dominikanische Republik
+    en = Dominican Republic
+
+[SV]
+    de = El Salvador
+    en = El Salvador
+
+[EG]
+    de = Ägypten
+    en = Egypt
+
+[HK]
+    de = Hongkong
+    en = Hong Kong
+
+[JP]
+    de = Japan
+    en = Japan
+
+[JO]
+    de = Jordanien
+    en = Jordan
+
+[KZ]
+    de = Kasachstan
+    en = Kazakhstan
+
+[KE]
+    de = Kenia
+    en = Kenya
+
+[KR]
+    de = Republik Korea
+    en = Korea (ROK)
+
+[XK]
+    de = Kosovo
+    en = Kosovo
+
+[KW]
+    de = Kuwait
+    en = Kuwait
+
+[LB]
+    de = Libanon
+    en = Lebanon
+
+[MY]
+    de = Malaysia
+    en = Malaysia
+
+[MN]
+    de = Mongolei
+    en = Mongolia
+
+[ME]
+    de = Montenegro
+    en = Montenegro
+
+[MD]
+    de = Moldawien
+    en = Moldova
+
+[RU]
+    de = Russland
+    en = Russia
+
+[RW]
+    de = Ruanda
+    en = Rwanda
+
+[RS]
+    de = Serbien
+    en = Serbia
+
+[SD]
+    de = Sudan
+    en = South Sudan
+
+[TW]
+    de = Taiwan
+    en = Taiwan
+
+[TZ]
+    de = Tansania
+    en = Tanzania
+
+[TH]
+    de = Thailand
+    en = Thailand
+
+[TN]
+    de = Tunesien
+    en = Tunisia
+
+[AE]
+    de = Vereinte Arabische Emirate
+    en = UAE
+
+[UG]
+    de = Uganda
+    en = Uganda
+
+[US]
+    de = Vereinigte Staaten von Amerika
+    en = United States
+
+[UY]
+    de = Uruguay
+    en = Uruguay
+
+[VN]
+    de = Vietnam
+    en = Vietnam
+
 [certificate_check_validity_selection_country_note]
     de = Sie finden Ihr Reiseland nicht? In einem mehrstufigen Prozess werden nach und nach mehr Länder verfügbar gemacht. \n\nMehr Informationen finden Sie in den Häufigen Fragen und unter #https://reopen.europa.eu::https://reopen.europa.eu#.
     en = Is your destination not listed? More countries are progressively being added in stages. \n\nYou can find more information in the frequently asked questions and at #https://reopen.europa.eu::https://reopen.europa.eu#.
