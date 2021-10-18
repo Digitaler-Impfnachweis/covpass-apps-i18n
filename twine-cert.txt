@@ -393,8 +393,8 @@
     en = The view "Select date" has been opened
 
 [certificate_check_validity_title]
-    de = Gültigkeit für Reisen innerhalb der EU prüfen
-    en = Check validity for travelling within the EU
+    de = Gültigkeit für Reisen prüfen
+    en = Check validity for travel
 
 [accessibility_certificate_check_validity_selection_country_selected]
     de = %@, ausgewählt
