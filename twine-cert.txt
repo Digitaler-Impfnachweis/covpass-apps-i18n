@@ -2129,32 +2129,32 @@
     en = Back
 
 [app_information_title_update]
-    de = Reiseregeln aktualisieren
-    en = Update travel rules
+    de = Reiseregeln aktualisieren
+    en = Update travel rules
 
 [app_information_message_update]
-    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan geltenden Corona-Regeln in den entsprechenden Reiseländern.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen. 
-    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in the relevant travel countries.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time. 
+    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan geltenden Corona-Regeln in den entsprechenden Reiseländern.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen. 
+    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in the relevant travel countries.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time. 
 
 [app_information_message_update_note]
-    de = Letztes Update
-    en = Most recent update
+    de = Letztes Update
+    en = Most recent update
 
 [app_information_message_update_pattern]
-    de = Letztes Update: %@
-    en = Most recent update: %@
+    de = Letztes Update: %@
+    en = Most recent update: %@
 
 [app_information_message_update_certificates]
-    de = Liste der Zertifikatsaussteller: %@
-    en = List of certificate issuers: %@
+    de = Liste der Zertifikatsaussteller: %@
+    en = List of certificate issuers: %@
 
 [app_information_message_update_rules]
-    de = Reiseregeln: %@
-    en = Travel rules: %@
+    de = Reiseregeln: %@
+    en = Travel rules: %@
    
 [app_information_message_update_button]
-    de = Aktualisieren
-    en = Update
+    de = Aktualisieren
+    en = Update
 
 [accessibility_app_information_update_back]
     de = Zurück
