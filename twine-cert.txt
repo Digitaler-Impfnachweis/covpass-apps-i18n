@@ -2024,6 +2024,10 @@
 	
 	
 [[app information]]
+[accessibility_app_information_title_update]
+    de = Die Ansicht "Reiseregeln aktualisieren" wurde geöffnet
+    en = The view "Update travel rules" has been opened
+
 [accessibility_app_information_datenschutz_announce]
     de = Datenschutzerklärung-Ansicht wurde geöffnet
     en = Privacy policy has been opened
