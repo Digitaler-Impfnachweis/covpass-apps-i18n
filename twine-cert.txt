@@ -2151,7 +2151,7 @@
 [app_information_message_update_rules]
     de = Reiseregeln: %@
     en = Travel rules: %@
-   
+
 [app_information_message_update_button]
     de = Aktualisieren
     en = Update
