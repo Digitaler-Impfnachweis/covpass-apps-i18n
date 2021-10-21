@@ -2149,8 +2149,8 @@
     en = List of certificate issuers: %@
 
 [app_information_message_update_rules]
-    de = Reiseregeln: %@
-    en = Travel rules: %@
+    de = Einreiseregeln: %@
+    en = Rules of entry: %@
 
 [app_information_message_update_button]
     de = Aktualisieren
