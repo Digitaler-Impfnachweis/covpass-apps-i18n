@@ -129,8 +129,8 @@
     en = Update
 
 [dialog_booster_vaccination_notification_title]
-    de = Es gibt Neuigkeit zu Ihren Zertifikaten
-    en = There is news about your certificates
+    de = Es gibt Neuigkeiten zu Ihren Zertifikaten
+    en = There are news about your certificates
 
 [dialog_booster_vaccination_notification_message]
     de = Bitte überprüfen Sie den Status Ihrer digitalen COVID-Zertifikate der EU.
