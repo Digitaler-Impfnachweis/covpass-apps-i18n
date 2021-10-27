@@ -259,7 +259,11 @@
 [accessibility_certificate_add_popup_announce]
     de = Die Ansicht "Nachweis hinzufügen" wurde geöffnet
     en = The view "Adding a certificate" has been opened
-
+    
+[accessibility_certificate_add_popup_closing_announce]
+    de = Die Ansicht "Nachweis hinzufügen" wurde geschlossen
+    en = The view "Adding a certificate" has been closed
+    
 [accessibility_scan_success_announce]
     de = Zertifikat von %@ wurde erfolgreich hinzugefügt
     en = Certificate of %@ was added successfully
@@ -319,6 +323,10 @@
 [accessibility_scan_camera_announce]
     de = Kamera-Ansicht wurde geöffnet
     en = Camera has been opened
+
+[accessibility_scan_camera_closing_announce]
+    de = Kamera-Ansicht wurde geschlossen
+    en = Camera has been closed
 
 [accessibility_certificate_scan_mode_label_cancel]
     de = Abbrechen
@@ -383,14 +391,34 @@
 [accessibility_certificate_check_validity_announce]
     de = Die Ansicht "Gültigkeit prüfen" wurde geöffnet
     en = The view "Check validity" has been opened
+    
+[accessibility_certificate_check_validity_closing_announce]
+    de = Die Ansicht "Gültigkeit prüfen" wurde geschlossen
+    en = The view "Check validity" has been closed
 
 [accessibility_certificate_check_validity_selection_country_announce]
     de = Die Ansicht "Reiseland wählen" wurde geöffnet
     en = The view "Choose destination" has been opened
 
+[accessibility_certificate_check_validity_selection_country_closing_announce]
+    de = Die Ansicht "Reiseland wählen" wurde geschlossen
+    en = The view "Choose destination" has been closed
+
 [accessibility_certificate_check_validity_selection_date_announce]
     de = Die Ansicht "Datum wählen" wurde geöffnet
     en = The view "Select date" has been opened
+    
+[accessibility_certificate_check_validity_selection_date_closing_announce]
+    de = Die Ansicht "Datum wählen" wurde geschlossen
+    en = The view "Select date" has been closed
+
+[accessibility_certificate_check_validity_selection_time_announce]
+    de = Die Ansicht "Zeit wählen" wurde geöffnet
+    en = The view "Select time" has been opened
+
+[accessibility_certificate_check_validity_selection_time_closing_announce]
+    de = Die Ansicht "Zeit wählen" wurde geschlossen
+    en = The view "Select time" has been closed
 
 [certificate_check_validity_title]
     de = Gültigkeit für Reisen prüfen
@@ -2029,8 +2057,12 @@
     en = The view "Update travel rules" has been opened
 
 [accessibility_app_information_datenschutz_announce]
-    de = Datenschutzerklärung-Ansicht wurde geöffnet
+    de = Die Datenschutzerklärung wurde geöffnet
     en = Privacy policy has been opened
+
+[accessibility_app_information_datenschutz_closing_announce]
+    de = Die Datenschutzerklärung wurde geschlossen
+    en = Privacy policy has been closed
 
 [accessibility_app_information_title_contact_announce]
     de = Kontakt-Ansicht wurde geöffnet
