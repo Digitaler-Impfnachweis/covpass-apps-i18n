@@ -2053,8 +2053,12 @@
 	
 [[app information]]
 [accessibility_app_information_title_update]
-    de = Die Ansicht "Reiseregeln aktualisieren" wurde geöffnet
+    de = Die Ansicht "Einreiseregeln aktualisieren" wurde geöffnet
     en = The view "Update travel rules" has been opened
+
+[accessibility_app_information_title_update_closing_announce]
+    de = Die Ansicht "Einreiseregeln aktualisieren" wurde geschlossen
+    en = The view "Update travel rules" has been closed
 
 [accessibility_app_information_datenschutz_announce]
     de = Die Datenschutzerklärung wurde geöffnet
