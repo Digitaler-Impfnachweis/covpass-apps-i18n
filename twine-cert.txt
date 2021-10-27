@@ -118,7 +118,7 @@
 
 [dialog_start_screen_message]
     de = Möchten Sie jetzt die CovPass-App aktualisieren?
-    en = Would you like to update the CovPass-App now?
+    en = Would you like to update the CovPass app now?
 
 [dialog_start_screen_button_later]
     de = Nicht jetzt
@@ -259,11 +259,7 @@
 [accessibility_certificate_add_popup_announce]
     de = Die Ansicht "Nachweis hinzufügen" wurde geöffnet
     en = The view "Adding a certificate" has been opened
-    
-[accessibility_certificate_add_popup_closing_announce]
-    de = Die Ansicht "Nachweis hinzufügen" wurde geschlossen
-    en = The view "Adding a certificate" has been closed
-    
+
 [accessibility_scan_success_announce]
     de = Zertifikat von %@ wurde erfolgreich hinzugefügt
     en = Certificate of %@ was added successfully
@@ -278,10 +274,10 @@
 
 [certificate_add_popup_note_title]
     de = Kein Sperrcode auf Ihrem Smartphone vorhanden
-    en = Your phone is not protected by a code
+    en = Your smartphone is not protected by a code
 
 [certificate_add_popup_note_message]
-    de = Die CovPass-App speichert sensible Daten auf Ihrem Smartphone. Um die Daten vor fremdem Zugriff zu schützen, empfehlen wir Ihnen, eine Code zum Entsperren Ihres Smartphones einzurichten.
+    de = Die CovPass-App speichert sensible Daten auf Ihrem Smartphone. Um die Daten vor fremdem Zugriff zu schützen, empfehlen wir Ihnen, einen Code zum Entsperren Ihres Smartphones einzurichten.
     en = The CovPass app saves sensitive data to your smartphone. To protect your data against access by strangers, we recommend that you set up an unlock code for your smartphone.
 
 [certificate_add_popup_message]
@@ -290,11 +286,11 @@
 
 [certificate_add_popup_action_title]
     de = Welchen QR-Code kann ich einscannen?
-    en = Which QR code can I scan and save to my phone?
+    en = Which QR code can I scan and save to my smartphone?
 
 [certificate_add_popup_action_title_linked]
     de = #Welchen QR-Code kann ich einscannen?::$0#
-    en = #Which QR code can I scan and save to my phone?::$0#
+    en = #Which QR code can I scan and save to my smartphone?::$0#
 
 [certificate_add_popup_scan_button_title]
     de = QR-Code scannen
@@ -323,10 +319,6 @@
 [accessibility_scan_camera_announce]
     de = Kamera-Ansicht wurde geöffnet
     en = Camera has been opened
-
-[accessibility_scan_camera_closing_announce]
-    de = Kamera-Ansicht wurde geschlossen
-    en = Camera has been closed
 
 [accessibility_certificate_scan_mode_label_cancel]
     de = Abbrechen
@@ -391,34 +383,14 @@
 [accessibility_certificate_check_validity_announce]
     de = Die Ansicht "Gültigkeit prüfen" wurde geöffnet
     en = The view "Check validity" has been opened
-    
-[accessibility_certificate_check_validity_closing_announce]
-    de = Die Ansicht "Gültigkeit prüfen" wurde geschlossen
-    en = The view "Check validity" has been closed
 
 [accessibility_certificate_check_validity_selection_country_announce]
     de = Die Ansicht "Reiseland wählen" wurde geöffnet
     en = The view "Choose destination" has been opened
 
-[accessibility_certificate_check_validity_selection_country_closing_announce]
-    de = Die Ansicht "Reiseland wählen" wurde geschlossen
-    en = The view "Choose destination" has been closed
-
 [accessibility_certificate_check_validity_selection_date_announce]
     de = Die Ansicht "Datum wählen" wurde geöffnet
     en = The view "Select date" has been opened
-    
-[accessibility_certificate_check_validity_selection_date_closing_announce]
-    de = Die Ansicht "Datum wählen" wurde geschlossen
-    en = The view "Select date" has been closed
-
-[accessibility_certificate_check_validity_selection_time_announce]
-    de = Die Ansicht "Zeit wählen" wurde geöffnet
-    en = The view "Select time" has been opened
-
-[accessibility_certificate_check_validity_selection_time_closing_announce]
-    de = Die Ansicht "Zeit wählen" wurde geschlossen
-    en = The view "Select time" has been closed
 
 [certificate_check_validity_title]
     de = Gültigkeit für Reisen prüfen
@@ -437,12 +409,12 @@
     en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
     
 [certificate_check_validity_travel_rules_not_up_to_title]
-    de = Reiseregeln nicht aktuell
-    en = Travel rules not up to date
+    de = Einreiseregeln nicht aktuell
+    en = Rules of entry not up to date
     
 [certificate_check_validity_travel_rules_not_up_to_message]
-    de = Die Reiseregeln werden in der App alle 24 Stunden aktualisiert. Leider schlug die letzte Aktualisierung fehl. Stellen Sie sicher, dass Ihr Smartphone mit dem Internet verbunden ist und versuchen Sie es erneut.
-    en = The travel rules are updated in the app every 24 hours. Unfortunately, the last update failed. Make sure your smartphone is connected to the internet and try again.
+    de = Die Einreiseregeln werden in der App alle 24 Stunden aktualisiert. Leider schlug die letzte Aktualisierung fehl. Stellen Sie sicher, dass Ihr Smartphone mit dem Internet verbunden ist und versuchen Sie es erneut.
+    en = The rules of entry are updated in the app every 24 hours. Unfortunately, the last update failed. Make sure your smartphone is connected to the internet and try again.
 
 [certificate_check_validity_selection_country]
     de = Land
@@ -919,7 +891,7 @@
     en = EU Digital COVID Certificate of Vaccination
 	
 [accessbility_certificate_check_validity_detail_view_vaccination_result_title]
-    de = Digitale COVID Imofzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+    de = Digitale COVID-Impfzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Vaccination Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
 
 [certificate_check_validity_detail_view_vaccination_result_headline_data]
@@ -1399,7 +1371,7 @@
     en = EU Digital COVID Certificate of Vaccination
 
 [accessibility_vaccination_certificate_detail_view_booster_vaccination_headline]
-    de = Digitales COVID Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+    de = Digitales COVID-Impfzertifikat der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Certificate of Vaccination. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
 
  [accessibility_vaccination_certificate_detail_view_qrcode_screen_announce]
@@ -1491,11 +1463,11 @@
     en = Country vaccinating
 
 [vaccination_certificate_detail_view_data_vaccine_issuer]
-    de = Zertifikataussteller / Certificate issuer
-    en = Zertifikataussteller / Certificate issuer
+    de = Zertifikatsaussteller / Certificate issuer
+    en = Zertifikatsaussteller / Certificate issuer
 
 [accessibility_vaccination_certificate_detail_view_data_vaccine_issuer]
-    de = Zertifikataussteller
+    de = Zertifikatsaussteller
     en = Certificate issuer
 
 [vaccination_certificate_detail_view_data_vaccine_identifier]
@@ -1567,7 +1539,7 @@
     en = EU Digital COVID Certificate of Test
 
 [accessibility_test_certificate_detail_view_headline]
-    de = Digitales COVID Testzertifikat. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
+    de = Digitales COVID-Testzertifikat. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Test Certificate. Sensible health data will follow. Please take care that nobody listens to or reads on your smartphone.
 
 [test_certificate_detail_view_data_name]
@@ -1936,7 +1908,7 @@
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
     de = Möchten Sie das COVID-Zertifikat wirklich löschen?
-    en = Do you really want to delete this Covid certificate?
+    en = Do you really want to delete this COVID certificate?
 
 [dialog_delete_certificate_message]
     de = Die Daten werden rückstandslos von diesem Gerät entfernt. Die Wiederherstellung der Daten ist nicht möglich.
@@ -2014,7 +1986,7 @@
 
 [error_scan_qrcode_without_seal_title]
     de = COVID-Zertifikat enthält keine gültige Signatur
-    en = Covid certificate does not have a valid signature
+    en = COVID certificate does not have a valid signature
 
 [error_scan_qrcode_without_seal_message]
     de = Möglicherweise wurde das Zertifikat von einer nicht autorisierten Einrichtung erstellt oder die App ist nicht auf dem aktuellen Stand. Im zuletzt genannten Fall stellen Sie eine Verbindung mit dem Internet her und versuchen Sie es später erneut.
@@ -2040,11 +2012,11 @@
 [[dialog: duplicate certificate]]
 [duplicate_certificate_dialog_header]
     de = COVID-Zertifikat wurde bereits hinzugefügt
-    en = Covid certificate already added
+    en = COVID certificate already added
 
 [duplicate_certificate_dialog_message]
     de = Das gescannte COVID-Zertifikat ist bereits in der App hinterlegt. Möglicherweise haben Sie das COVID-Zertifikat doppelt gescannt.
-    en = The Covid certificate you have scanned is already in the app. You may potentially have scanned this Covid certificate twice.
+    en = The COVID certificate you have scanned is already in the app. You may potentially have scanned this COVID certificate twice.
 
 [duplicate_certificate_dialog_button_title]
     de = OK
@@ -2053,20 +2025,12 @@
 	
 [[app information]]
 [accessibility_app_information_title_update]
-    de = Die Ansicht "Einreiseregeln aktualisieren" wurde geöffnet
+    de = Die Ansicht "Reiseregeln aktualisieren" wurde geöffnet
     en = The view "Update travel rules" has been opened
 
-[accessibility_app_information_title_update_closing_announce]
-    de = Die Ansicht "Einreiseregeln aktualisieren" wurde geschlossen
-    en = The view "Update travel rules" has been closed
-
 [accessibility_app_information_datenschutz_announce]
-    de = Die Datenschutzerklärung wurde geöffnet
+    de = Datenschutzerklärung-Ansicht wurde geöffnet
     en = Privacy policy has been opened
-
-[accessibility_app_information_datenschutz_closing_announce]
-    de = Die Datenschutzerklärung wurde geschlossen
-    en = Privacy policy has been closed
 
 [accessibility_app_information_title_contact_announce]
     de = Kontakt-Ansicht wurde geöffnet
@@ -2170,7 +2134,7 @@
 
 [app_information_message_update]
     de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan geltenden Corona-Einreiseregeln in den entsprechenden Ländern.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen. 
-    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current COVID-19 rules in the relevant travel countries.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time. 
+    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Covid-19 rules in the relevant travel countries.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time. 
 
 [app_information_message_update_note]
     de = Letztes Update
