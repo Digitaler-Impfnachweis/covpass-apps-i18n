@@ -42,7 +42,7 @@
     en = Step one: scan the QR code with the CovPassCheck app
 
 [validation_first_onboarding_page_message]
-    de = Scannen Sie mit der CovPassCheck-App den QR-Code auf einem digitalen COVID-Zertifikat der EU. Die QR-Codes der Papierversion enthalten die gleichen Informationen wie die QR-Codes der elektronische Version in der CovPass-App oder in anderen Apps, in denen digitale COVID-Zertifikate der EU hinterlegt sind. Daher sind beide Zertifikatsversionen gleichwertig.
+    de = Scannen Sie mit der CovPassCheck-App den QR-Code auf einem digitalen COVID-Zertifikat der EU. Die QR-Codes der Papierversion enthalten die gleichen Informationen wie die QR-Codes der elektronischen Version in der CovPass-App oder in anderen Apps, in denen digitale COVID-Zertifikate der EU hinterlegt sind. Daher sind beide Zertifikatsversionen gleichwertig.
     en = Use the CovPassCheck app to scan the QR code on an EU Digital COVID Certificate. The QR codes on the paper version contain the same information as the QR codes in the electronic version in the CovPass app and other apps in which EU Digital COVID Certificates are saved. Both certificate versions are therefore equivalent to each other.
 
 [validation_second_onboarding_page_title]
@@ -195,18 +195,6 @@
 [validation_start_screen_offline_modus_rules]
     de = Prüfregeln: %@
     en = Rule set: %@
-    
-[validation_start_screen_offline_modus_information_title]
-    de = Prüfregeln aktualisieren
-    en = Update rule set
-    
-[validation_start_screen_offline_modus_information]
-    de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen. 
-    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time. 
-    
-[validation_start_screen_offline_modus_button]
-    de = Aktualisieren
-    en = Update
 
 
 [[popup: Check vaccination]]
@@ -377,6 +365,7 @@
 [validation_check_popup_unsuccessful_certificate_button_title]
     de = Weiteres Zertifikat scannen
     en = Scan another certificate
+
 [accessibility_validation_check_popup_unsuccessful_certificate_label_close]
     de = Schließen
     en = Close
