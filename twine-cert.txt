@@ -1345,7 +1345,14 @@
 [certificates_overview_pcr_test_certificate_date]
     de = Probenahme am %@
     en = Sample taken on %@
-	
+
+[certificates_overview_all_certificates_app_reference_title]
+    de = Scannen bitte!
+    en = Please scan!
+
+[certificates_overview_all_certificates_app_reference_text]
+    de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
+    en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
 	
 [[detail view: delete certificate]]
 [accessibility_certificate_detail_view_label_delete_button]
@@ -1565,14 +1572,6 @@
 [accessibility_test_certificate_detail_view_data_date_of_birth]
     de = Geburtsdatum (Jahr-Monat-Tag)
     en = Date of birth (Year-Month-Day)
-    
-[certificates_overview_all_certificates_app_reference_title]
-    de = Scannen bitte!
-    en = Please scan!
-
-[certificates_overview_all_certificates_app_reference_text]
-    de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
-    en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
 
 [test_certificate_detail_view_data_disease]
     de = Zielkrankheit oder -erreger / Disease or pathogen
