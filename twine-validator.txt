@@ -155,6 +155,10 @@
 [accessibility_scan_result_announce]
     de = Überprüfungsergebnis wird angezeigt
     en = Verification result is displayed
+    
+[accessibility_scan_result_closing_announce]
+    de = Die Ansicht Überprüfungsergebnis wurde geschlossen
+    en = The view "Verification result“ has been closed
 
 [validation_start_screen_scan_action_button_title]
     de = Zertifikat scannen
@@ -229,6 +233,10 @@
 [accessibility_scan_camera_announce]
     de = Kamera-Ansicht wurde geöffnet
     en = Camera has been opened
+    
+[accessibility_scan_camera_closing_announce]
+    de = Kamera-Ansicht wurde geschlossen
+    en = Camera has been closed
 
 [error_camera_access_title]
     de = Die CovPassCheck-App möchte auf Ihre Kamera zugreifen.
@@ -479,8 +487,12 @@
     en = Privacy policy
 
 [accessibility_app_information_datenschutz_announce]
-    de = Die Datenschutzerklärung wurde geöffnet
+    de = Datenschutzerklärung wurde geöffnet
     en = Privacy policy has been opened
+    
+[accessibility_app_information_datenschutz_closing_announce]
+    de = Datenschutzerklärung wurde geschlossen
+    en = Privacy policy has been closed
 
 [app_information_title_company_details]
     de = Impressum
