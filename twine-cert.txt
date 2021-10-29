@@ -71,7 +71,7 @@
 [vaccination_fourth_onboarding_page_title]
     de = Datenschutz und Datensicherheit
     en = Data protection and security
-    
+
 [vaccination_fourth_onboarding_page_first_list_item]
     de = Die Nutzung der CovPass-App ist freiwillig. Sie können Ihre digitalen COVID-Zertifikate der EU auch in Papierform verwenden.
     en = Using the CovPass app is voluntary. You can also use the digital COVID Certificates in paper form.
@@ -200,7 +200,7 @@
 [certificates_start_screen_qrcode_certificate_invalid_subtitle]
     de = Ungültig
     en = Invalid
-    
+
 [vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
     de = Impfstatus überprüfen
     en = Check vaccination status
@@ -208,7 +208,7 @@
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
     en = This QR code can be reliably verified with the CovPassCheck app.
-    
+
 
 [[popup: Remark within the app towards the CovPassCheck app]]
 [certificates_start_screen_pop_up_app_reference_title]
@@ -226,7 +226,7 @@
 [certificates_start_screen_pop_up_app_reference_hyperlink]
     de = Zur CovPassCheck-App (Externer Link)
     en = Download the CovPassCheck app (External Link)
-    
+
 [certificates_start_screen_pop_up_app_reference_hyperlink_linked]
     de = #Zur CovPassCheck-App (Externer Link)::$0#
     en = #Download the CovPassCheck app (External Link)::$0#
@@ -237,7 +237,7 @@
 [accessibility_certificates_start_screen_pop_up_app_reference_label]
     de = Pop-up schließen
     en = Close Pop-up
-    
+
 [accessibility_certificate_popup_checkapp_announce]
     de = Die Ansicht "Scannen bitte!" wurde geöffnet
     en = The view "Please scan!" has been opened
@@ -259,6 +259,10 @@
 [accessibility_certificate_add_popup_announce]
     de = Die Ansicht "Nachweis hinzufügen" wurde geöffnet
     en = The view "Adding a certificate" has been opened
+
+[accessibility_certificate_add_popup_closing_announce]
+    de = Die Ansicht "Nachweis hinzufügen" wurde geschlossen
+    en = The view "Adding a certificate" has been closed
 
 [accessibility_scan_success_announce]
     de = Zertifikat von %@ wurde erfolgreich hinzugefügt
@@ -313,12 +317,16 @@
     en = Close
 
 [accessibility_scan_dialog_camera_access_announce]
-    de = Die Ansicht "Kamerazugriff benötigt" wurde geöffnet 
-    en = The view "Camera access needed" has been opened 
+    de = Die Ansicht "Kamerazugriff benötigt" wurde geöffnet
+    en = The view "Camera access needed" has been opened
 
 [accessibility_scan_camera_announce]
     de = Kamera-Ansicht wurde geöffnet. Der QR-Code wird automatisch gescannt. 
     en = Camera has been opened. The QR code will be scanned automatically.
+
+[accessibility_scan_camera_closing_announce]
+    de = Kamera-Ansicht wurde geschlossen
+    en = Camera has been closed
 
 [accessibility_certificate_scan_mode_label_cancel]
     de = Abbrechen
@@ -352,7 +360,7 @@
     de = OK
     en = OK
 
-	
+
 [[start Screen: favorite immunization certificate]]
 [accessibility_certificate_favorite_button_label_active]
     de = Zertifikate dieser Person immer an erster Stelle anzeigen: aktiv
@@ -366,7 +374,7 @@
     de = Gültigkeit prüfen
     en = Check validity
 
-	
+
 [[screen: check validity]]
 [accessibility_certificate_check_validity_label_close]
     de = Schließen
@@ -384,13 +392,33 @@
     de = Die Ansicht "Gültigkeit prüfen" wurde geöffnet
     en = The view "Check validity" has been opened
 
+[accessibility_certificate_check_validity_closing_announce]
+    de = Die Ansicht "Gültigkeit prüfen" wurde geschlossen
+    en = The view "Check validity" has been closed
+
 [accessibility_certificate_check_validity_selection_country_announce]
     de = Die Ansicht "Reiseland wählen" wurde geöffnet
     en = The view "Choose destination" has been opened
 
+[accessibility_certificate_check_validity_selection_country_closing_announce]
+    de = Die Ansicht "Reiseland wählen" wurde geschlossen
+    en = The view "Choose destination" has been closed
+
 [accessibility_certificate_check_validity_selection_date_announce]
     de = Die Ansicht "Datum wählen" wurde geöffnet
     en = The view "Select date" has been opened
+
+[accessibility_certificate_check_validity_selection_date_closing_announce]
+    de = Die Ansicht "Datum wählen" wurde geschlossen
+    en = The view "Select date" has been closed
+
+[accessibility_certificate_check_validity_selection_time_announce]
+    de = Die Ansicht "Zeit wählen" wurde geöffnet
+    en = The view "Select time" has been opened
+
+[accessibility_certificate_check_validity_selection_time_closing_announce]
+    de = Die Ansicht "Zeit wählen" wurde geschlossen
+    en = The view "Select time" has been closed
 
 [certificate_check_validity_title]
     de = Gültigkeit für Reisen prüfen
@@ -407,11 +435,11 @@
 [certificate_check_validity_message]
     de = Prüfen Sie vorab, ob Ihre Zertifikate in verschiedenen Ländern gültig sind. Hierfür werden die geltenden Einreiseregeln des gewählten Reiselands berücksichtigt.
     en = Check beforehand if your certificates are valid in different countries. This tool checks them against the travel regulations applicable in your chosen destination country.
-    
+
 [certificate_check_validity_travel_rules_not_up_to_title]
     de = Einreiseregeln nicht aktuell
     en = Rules of entry not up to date
-    
+
 [certificate_check_validity_travel_rules_not_up_to_message]
     de = Die Einreiseregeln werden in der App alle 24 Stunden aktualisiert. Leider schlug die letzte Aktualisierung fehl. Stellen Sie sicher, dass Ihr Smartphone mit dem Internet verbunden ist und versuchen Sie es erneut.
     en = The rules of entry are updated in the app every 24 hours. Unfortunately, the last update failed. Make sure your smartphone is connected to the internet and try again.
@@ -565,7 +593,7 @@
 [UA]
     de = Ukraine
     en = Ukraine
-    
+
 [VA]
     de = Vatikanstadt
     en = Vatican City
@@ -581,7 +609,7 @@
 [MK]
     de = Nordmazedonien
     en = North Macedonia
-    
+
 [AD]
     de = Andorra
     en = Andorra
@@ -596,8 +624,8 @@
 
 [MA]
     de = Marokko
-    en = Morocco  
-    
+    en = Morocco
+
 [AL]
     de = Albanien
     en = Albania
@@ -613,7 +641,7 @@
 [TG]
     de = Togo
     en = Togo
-    
+
 [SG]
     de = Singapur
     en = Singapore
@@ -625,12 +653,12 @@
 [AM]
     de = Armenien
     en = Armenia
-     
-[GE] 
+
+[GE]
     de = Georgien
     en = Georgia
 
-[NZ] 
+[NZ]
     de = Neuseeland
     en = New Zealand
 
@@ -889,7 +917,7 @@
 [certificate_check_validity_detail_view_vaccination_result_title]
     de = Digitales COVID-Impfzertifikat der EU
     en = EU Digital COVID Certificate of Vaccination
-	
+
 [accessbility_certificate_check_validity_detail_view_vaccination_result_title]
     de = Digitale COVID-Impfzertifikate der EU. Es folgen sensible Gesundheitsdaten. Bitte achten Sie darauf, dass keine andere Person mithört oder mitliest.
     en = EU Digital COVID Vaccination Certificates. Sensible health data will follow. Please take care that nobody listens to or reads on your Smartphone.
@@ -1045,14 +1073,14 @@
 [error_check_validity_no_internet_button_cancel]
     de = Abbrechen
     en = Cancel
-	
-	
+
+
 [[start Screen: partial immunization certificate]]
 [vaccination_partial_immunization_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-	
-	
+
+
 [[start screen: full immunization certificate]]
 [vaccination_full_immunization_action_button]
     de = Zertifikate anzeigen
@@ -1061,20 +1089,20 @@
 [vaccination_full_immunization_status_expired]
     de = Abgelaufen
     en = Expired
-	
-	
+
+
 [[start screen: test certificate]]
 [test_certificate_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-	
-	
+
+
 [[start screen: pcr test certificate]]
 [pcr_test_certificate_action_button]
     de = Zertifikate anzeigen
     en = Display certificates
-	
-	
+
+
 [[start screen: recovery certificate]]
 [recovery_certificate_action_button]
     de = Zertifikate anzeigen
@@ -1091,8 +1119,8 @@
 [error_connect_to_internet_button_ok]
     de = OK
     en = OK
-	
-	
+
+
 [[overview certificates]]
 [accessibility_overview_certificates_label_back]
     de = Zurück zum Startbildschirm
@@ -1353,7 +1381,7 @@
 [certificates_overview_all_certificates_app_reference_text]
     de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
     en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
-	
+
 [[detail view: delete certificate]]
 [accessibility_certificate_detail_view_label_delete_button]
     de = Zertifikat löschen
@@ -1362,8 +1390,8 @@
 [accessibility_certificate_detail_view_label_back]
     de = Zurück
     en = Back
-	
-	
+
+
 [[detail view: certificate]]
 [vaccination_certificate_detail_view_vaccination_title]
     de = Impfung %d von %d
@@ -1372,7 +1400,7 @@
 [accessibility_vaccination_certificate_detail_view_data_vaccine_number_readable_text]
 	 de = %1$d von %2$d
 	 en = %1$d of %2$d
-	 
+
 [vaccination_certificate_detail_view_vaccination_headline]
     de = Digitales COVID-Impfzertifikat der EU
     en = EU Digital COVID Certificate of Vaccination
@@ -1564,7 +1592,7 @@
 [accessibility_test_certificate_detail_view_data_name_standard]
 	 de = Standardisierter Name
 	 en = Standardized name
-	 
+
 [test_certificate_detail_view_data_date_of_birth]
     de = Geburtsdatum / Date of birth (YYYY-MM-DD)
     en = Geburtsdatum / Date of birth (YYYY-MM-DD)
@@ -1864,8 +1892,8 @@
 [certificate_expired_detail_view_note_message]
     de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
     en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
-	
-	
+
+
 [[print certificate]]
 [accessibility_vaccination_certificate_detail_view_pdf_announce]
     de = Die Ansicht für "EU-Ausdruck erstellen" wurde geöffnet
@@ -1932,8 +1960,8 @@
 [delete_result_dialog_positive_button_text]
     de = OK
     en = OK
-	
-	
+
+
 [[error handling]]
 [error_standard_unexpected_title]
     de = Entschuldigung
@@ -2007,7 +2035,7 @@
     de = OK
     en = OK
 
-	
+
 [[dialog: duplicate certificate]]
 [duplicate_certificate_dialog_header]
     de = COVID-Zertifikat wurde bereits hinzugefügt
@@ -2020,17 +2048,25 @@
 [duplicate_certificate_dialog_button_title]
     de = OK
     en = OK
-	
-	
+
+
 [[app information]]
 [accessibility_app_information_title_update]
     de = Die Ansicht "Einreiseregeln aktualisieren" wurde geöffnet
     en = The view "Update rules of entry" has been opened
 
+[accessibility_app_information_title_update_closing_announce]
+    de = Die Ansicht "Einreiseregeln aktualisieren" wurde geschlossen
+    en = The view "Update travel rules" has been closed
+
 [accessibility_app_information_datenschutz_announce]
     de = Datenschutzerklärung-Ansicht wurde geöffnet
     en = Privacy policy has been opened
 
+[accessibility_app_information_datenschutz_closing_announce]
+    de = Die Datenschutzerklärung wurde geschlossen
+    en = Privacy policy has been closed
+         
 [accessibility_app_information_title_contact_announce]
     de = Kontakt-Ansicht wurde geöffnet
     en = Contact has been opened
