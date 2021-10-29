@@ -317,8 +317,8 @@
     en = The view "Camera access needed" has been opened 
 
 [accessibility_scan_camera_announce]
-    de = Kamera-Ansicht wurde geöffnet
-    en = Camera has been opened
+    de = Kamera-Ansicht wurde geöffnet. Der QR-Code wird automatisch gescannt. 
+    en = Camera has been opened. The QR code will be scanned automatically.
 
 [accessibility_certificate_scan_mode_label_cancel]
     de = Abbrechen
