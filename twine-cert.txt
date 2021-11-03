@@ -149,11 +149,11 @@
 
 [certificate_abda_incident_notification_title]
     de = Ihr Zertifikat wird zum 11.11.2021 gesperrt
-    en = Your certificate will be blocked as of 11.11.2021
+    en = Your certificate will be revoked by 11.11.2021
 
 [certificate_abda_incident_notification_message]
     de = Ihr digitales Impfzertifikat stammt von einer Apotheke, die illegale Zertifikate ausgestellt hat. Daher müssen alle von dieser Apotheke ausgestellten Zertifikate gesperrt werden.\n\nBitte lassen Sie sich unter Vorlage Ihres gelben Impfpasses und eines Lichtbildausweises bis zum 11.11.2021 bei Ihrer Apotheke kostenfrei ein neues Impfzertifikat ausstellen.\n\nVielen Dank für Ihr Verständnis!
-    en = Your digital vaccination certificate comes from a pharmacy that issued illegal certificates. Therefore, all certificates issued by this pharmacy must be blocked.\n\nPlease have a new vaccination certificate issued free of charge at your pharmacy by 11/11/2021 by presenting your yellow vaccination certificate and photo ID.\n\nThank you for your understanding!
+    en = Your digital vaccination certificate comes from a pharmacy that issued illegal certificates. Therefore, all certificates issued by this pharmacy must be revoked.\n\nPlease have a new vaccination certificate issued free of charge at your pharmacy by 11/11/2021 by presenting your yellow vaccination certificate and photo ID.\n\nThank you for your understanding!
 
 [certificate_abda_incident_notification_button]
     de = OK
@@ -161,7 +161,7 @@
 
 [accessibility_abda_incident_info_announce]
     de = Die Ansicht "Zertifikat wird gesperrt" wurde geöffnet
-    en = The view "Certificate will be locked" has been opened
+    en = The view "Certificate will be revoked" has been opened
 
 
 [[start screen]]
@@ -227,7 +227,7 @@
     
 [vaccination_start_screen_qrcode_abda_incident_subtitle]
     de = Zertifikat wird bald gesperrt
-    en = Certificate will be blocked soon  
+    en = Certificate will be revoked soon  
 
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
