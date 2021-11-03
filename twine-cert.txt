@@ -159,7 +159,7 @@
     de = OK
     en = OK
 
-[accessibility_will_be_revoked_info_announce]
+[accessibility_certificate_will_be_revoked_info_announce]
     de = Die Ansicht "Zertifikat wird gesperrt" wurde geöffnet
     en = The view "Certificate will be revoked" has been opened
 
