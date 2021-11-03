@@ -226,8 +226,8 @@
     en = Check vaccination status
     
 [vaccination_start_screen_qrcode_certificate_will_be_revoked_subtitle]
-    de = Zertifikat wird bald gesperrt
-    en = Certificate will be revoked soon  
+    de = Zertifikat wird bald gesperrt
+    en = Certificate will be revoked soon  
 
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
