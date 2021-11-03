@@ -278,7 +278,7 @@
     de = * Genesenen- oder Impfzertifikat liegt vor.
     en = * Person has recovery or vaccination certificate.
 
-[validation_check_popup_valid_vaccination_abda_incident_note]
+[validation_check_popup_valid_vaccination_certificate_will_be_revoked_note]
     de = Dies ist ein gültiges Zertifikat, das jedoch aufgrund von Betrugsermittlungen bald gesperrt werden wird.\n\nWeisen Sie den oder die Zertifikatsinhaber:in unbedingt darauf hin, dass er oder sie sich unter Vorlage des gelben Impfpasses und eines Lichtbildausweises bis zum 11.11.2021 in der Apotheke ein neues, kostenfreies Impfzertifikat ausstellen lassen muss. 
     en = This is a valid certificate, but it will soon be revoked due to fraud investigations.\n\nPlease advise the certificate holder that he or she must present their yellow vaccination certificate and photo ID to a pharmacy by 11/11/2021. The pharmacy will issue a new vaccination certificate free of charge.
 
