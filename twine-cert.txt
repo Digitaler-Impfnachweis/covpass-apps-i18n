@@ -152,8 +152,8 @@
     en = Your certificate will be revoked by 11.11.2021
 
 [certificate_will_be_revoked_notification_message]
-    de = Ihr digitales Impfzertifikat stammt von einer Apotheke, die unrechtmäßige Zertifikate ausgestellt hat. Daher müssen alle von dieser Apotheke ausgestellten Zertifikate gesperrt werden.\n\nBitte lassen Sie sich unter Vorlage Ihres gelben Impfpasses und eines Lichtbildausweises bis zum 11.11.2021 bei Ihrer Apotheke kostenfrei ein neues Impfzertifikat ausstellen.\n\nVielen Dank für Ihr Verständnis!
-    en = Your digital vaccination certificate comes from a pharmacy that issued illegal certificates. Therefore, all certificates issued by this pharmacy must be revoked.\n\nPlease have a new vaccination certificate issued free of charge at your pharmacy by 11/11/2021 by presenting your yellow vaccination certificate and photo ID.\n\nThank you for your understanding!
+    de = Aus Sicherheitsgründen müssen alle Zertifikate der von Ihnen besuchten Apotheke neu ausgestellt werden.\n\nIhr Zertifikat wird am 11.11.2021 gesperrt. Sie können sich unter Vorlage Ihres gelben Impfpasses und eines Lichtbildausweises in Ihrer Apotheke kostenfrei ein neues Impfzertifikat ausstellen lassen.
+    en = For security reasons, all certificates coming from the pharmacy you visited must be reissued.\n\nYour certificate will be revoked on 11/11/2021. You can have a new vaccination certificate issued free of charge at your pharmacy by presenting your yellow vaccination certificate and a photo ID.
 
 [certificate_will_be_revoked_notification_button]
     de = OK
