@@ -878,6 +878,10 @@
     de = Weiter
     en = Next
 
+[accessibility_certificate_check_validity_selection_date_label_action_button]
+    de = Datum bestätigen und weiter zur Zeitauswahl
+    en = Confirm date and continue to time selection
+
 [certificate_check_validity_selection_time_title]
     de = Zeit wählen
     en = Select time
@@ -889,6 +893,10 @@
 [certificate_check_validity_selection_time_action_button]
     de = OK
     en = OK
+
+[accessibility_certificate_check_validity_selection_time_label_action_button]
+    de = Uhrzeit bestätigen
+    en = Confirm time
 
 [certificate_check_validity_loading]
     de = Zertifikate werden geprüft
