@@ -143,6 +143,10 @@
     de = Die Ansicht "Neue Funktionen" wurde geöffnet
     en = The view "New features" has been opened
 
+[dialog_update_info_notification_action_button]
+    de = OK
+    en = OK
+
 [certificate_will_be_revoked_notification_icon_new]
     de = Neu
     en = New
