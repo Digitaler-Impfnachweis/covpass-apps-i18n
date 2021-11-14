@@ -1,0 +1,17 @@
+[[app]]
+[cert_app_name]
+    de = CovPass
+    en = CovPass
+
+[[QR code widget]]
+[qr_widget_tap_for_more_details]
+    de = Hier tippen für mehr Details
+    en = Tap here for more details
+
+[qr_widget_nothing_to_show]
+    de = Nichts anzuzeigen.\nFügen Sie ein Zertifikat in der App hinzu, um es hier anzuzeigen.
+    en = Nothing to show.\nAdd a certificate in the app to display it here.
+
+[qr_widget_description]
+    de = Zeigt Ihr aktuell verwendetes Zertifikat an
+    en = Shows your currently used certificate
