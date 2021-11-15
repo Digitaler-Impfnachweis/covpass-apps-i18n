@@ -2274,7 +2274,7 @@
 
 [share_certificate_consent_first_list_item]
     de = Die App ruft vom Anbieter %@ den Namen und das Geburtsdatum der bei Buchung angegebenen Person, die für die Prüfung relevanten Buchungsdetails (z. B. Zielland und Reisedatum) und die vom Anbieter zu Ihrer Buchung festgelegten Anforderungen an das Zertifikat ab.
-    en = The app will retrieve from the provider the name and date of birth of the person specified at the time of booking, the booking details relevant to the verification (e.g. destination country and date of travel) and the certificate requirements specified by the provider for your booking.
+    en = The app will retrieve from the provider %@ the name and date of birth of the person specified at the time of booking, the booking details relevant to the verification (e.g. destination country and date of travel) and the certificate requirements specified by the provider for your booking.
 
 [share_certificate_consent_second_list_item]
     de = Die abgerufenen Daten werden von der App genutzt, um festzustellen, welche Ihrer gespeicherten Zertifikate verwendet werden können.
