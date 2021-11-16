@@ -2089,11 +2089,11 @@
 
 [accessibility_app_information_datenschutz_announce]
     de = Datenschutzerklärung-Ansicht wurde geöffnet
-    en = Privacy policy has been opened
+    en = Privacy notice has been opened
 
 [accessibility_app_information_datenschutz_closing_announce]
     de = Die Datenschutzerklärung wurde geschlossen
-    en = Privacy policy has been closed
+    en = Privacy notice has been closed
          
 [accessibility_app_information_title_contact_announce]
     de = Kontakt-Ansicht wurde geöffnet
@@ -2161,7 +2161,7 @@
 
 [app_information_title_datenschutz]
     de = Datenschutzerklärung
-    en = Privacy policy
+    en = Privacy notice
 
 [app_information_title_company_details]
     de = Impressum
@@ -2300,6 +2300,10 @@
     de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
     en = Detailed information about this data processing is available in the privacy notice:
 
+[share_certificate_privacy_notice_title]
+    de = Datenschutzerklärung
+    en = Privacy notice
+
 [share_certificate_privacy_notice_linked]
     de = #Datenschutzerklärung::$0#
     en = #Privacy notice::$0#
@@ -2322,11 +2326,11 @@
 
 [accessibility_share_certificate_announce]
     de = Die Ansicht "Zertifikate zu Buchungszwecken freigeben" wurde geöffnet.
-    en =  The "Release certificates for booking purposes" view has been opened.
+    en = The "Release certificates for booking purposes" view has been opened.
 
 [accessibility_share_certificate_closing_announce]
     de = Die Ansicht "Zertifikate zu Buchungszwecken freigeben" wurde geschlossen.
-    en =  The "Release certificates for booking purposes" view has been closed.
+    en = The "Release certificates for booking purposes" view has been closed.
 
 [share_certificate_selection_title]
     de = Zertifikat auswählen
@@ -2350,11 +2354,11 @@
 
 [accessibility_share_certificate_selection_announce]
     de = Die Ansicht "Zertifikat auswählen" wurde geöffnet.
-    en =  The "Select certificate" view has been opened.
+    en = The "Select certificate" view has been opened.
 
 [accessibility_share_certificate_selection_closing_announce]
     de = Die Ansicht "Zertifikat auswählen" wurde geschlossen.
-    en =  The "Select certificate" view has been closed.
+    en = The "Select certificate" view has been closed.
 
 [share_certificate_selection_no_match_title]
     de = Kein Zertifikat stimmt mit den oben genannten Anforderungen überein.
@@ -2436,6 +2440,10 @@
     de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
     en = Detailed information about this data processing is available in the privacy notice:
 
+[share_certificate_transmission_privacy_notice_title]
+    de = Datenschutzerklärung
+    en = Privacy notice
+
 [share_certificate_transmission_privacy_notice_linked]
     de = #Datenschutzerklärung::$0#
     en = #Privacy notice::$0#
@@ -2454,11 +2462,11 @@
 
 [accessibility_share_certificate_transmission_announce]
     de = Die Ansicht "Übermittlung Ihres Zertifikats zur Prüfung" wurde geöffnet.
-    en =  The "Submitting your certificate for verification" view has been opened.
+    en = The "Submitting your certificate for verification" view has been opened.
 
 [accessibility_share_certificate_transmission_closing_announce]
     de = Die Ansicht "Übermittlung Ihres Zertifikats zur Prüfung" wurde geschlossen.
-    en =  The "Submitting your certificate for verification" view has been closed.
+    en = The "Submitting your certificate for verification" view has been closed.
 
 [share_certificate_detail_view_requirements_met_title]
     de = Zertifikat entspricht den Anforderungen des Anbieters
