@@ -2348,7 +2348,7 @@
     de = Bitte prüfen Sie, ob Ihr in der App hinterlegtes Zertifikat den Anforderungen entspricht.
     en = Please check if your certificate stored in the app matches the requirements.
 
-[share_certificate_selection_no_match_action button]
+[share_certificate_selection_no_match_action_button]
     de = Schließen
     en = Close
 
