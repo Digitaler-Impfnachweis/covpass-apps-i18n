@@ -2364,13 +2364,13 @@
     de = Übermittlung Ihres Zertifikats zur Prüfung
     en = Submitting your certificate for verification
 
+[share_certificate_transmission_details_verification_partner]
+    de = Prüfpartner
+    en = Verification Partner
+
 [share_certificate_transmission_details_provider]
     de = Anbieter
     en = Provider
-
-[share_certificate_transmission_details_booking]
-    de = Buchung
-    en = Booking
 
 [share_certificate_transmission_message]
     de = Das ausgewählte Zertifikat und Ihre Buchungsdaten werden nun an den Prüfpartner des Anbieters übermittelt. Für die Übermittlung Ihrer Daten an den Überprüfungsservice ist Ihr Einverständnis erforderlich. 
