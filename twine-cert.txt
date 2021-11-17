@@ -2366,7 +2366,7 @@
 
 [share_certificate_transmission_details_verification_partner]
     de = Prüfpartner
-    en = Verification Partner
+    en = Verification partner
 
 [share_certificate_transmission_details_provider]
     de = Anbieter
