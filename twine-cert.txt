@@ -455,6 +455,25 @@
 [certificate_check_validity_selection_country]
     de = Land
     en = Country
+    
+[no_cert_applicable_for_validation_dialog_header]
+   de = Keine Prüfung möglich
+   en = No check possible
+   
+[no_cert_applicable_for_validation_dialog_message]
+   de = Eine Gültigkeitsprüfung Ihrer aktuell hinterlegten Zertifikate ist leider nicht möglich.
+   en = A validity check of your currently deposited certificates is unfortunately not possible.
+   
+[no_cert_applicable_for_validation_positive_button_text]
+   ref = ok
+   
+[certificate_check_validity_not_all_certs_checkable_title]
+   de = Leider sind nicht alle Zertifikate prüfbar!
+   en = Unfortunately not all certificates are checkable!
+   
+[certificate_check_validity_travel_rules_not_up_to_message]
+   de = Eine Gültigkeitsprüfung ist für manche Ihrer hinterlegten Zertifikate leider nicht möglich. Diese werden bei der Prüfung ausgeschlossen.
+   en = Unfortunately, a validity check is not possible for some of your deposited certificates. These will be excluded from the check.
 
 [accessibility_certificate_check_validity_selection_country_label_close]
     de = Schließen
