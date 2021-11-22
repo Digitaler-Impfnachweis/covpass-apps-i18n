@@ -462,18 +462,18 @@
    
 [no_cert_applicable_for_validation_dialog_message]
    de = Eine Gültigkeitsprüfung Ihrer aktuell gespeicherten Zertifikate ist leider nicht möglich.
-   en = A validity check of your currently saved certificates is unfortunately not possible.
+   en = A validity check of your currently saved certificates is unfortunately not possible.
    
 [no_cert_applicable_for_validation_positive_button_text]
    ref = ok
    
 [certificate_check_validity_not_all_certs_checkable_title]
    de = Leider können nicht alle Zertifikate geprüft werden!
-   en = Unfortunately, not all certificates can be checked!
+   en = Unfortunately, not all certificates can be checked!
    
 [certificate_check_validity_not_all_certs_checkable_message]
    de = Eine Gültigkeitsprüfung ist für manche Ihrer gespeicherten Zertifikate leider nicht möglich. Diese werden bei der Prüfung ausgeschlossen.
-   en = Unfortunately, a validity check is not possible for some of your saved certificates. These will be excluded from the check.
+   en = Unfortunately, a validity check is not possible for some of your saved certificates. These will be excluded from the check.
 
 [accessibility_certificate_check_validity_selection_country_label_close]
     de = Schließen
