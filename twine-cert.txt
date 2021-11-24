@@ -342,7 +342,7 @@
 
 [error_camera_access_title]
     de = Die CovPass-App möchte auf Ihre Kamera zugreifen.
-    en = The CovPass App wants to access your camera.
+    en = The CovPass app wants to access your camera.
 
 [error_camera_access_message]
     de = Erlauben Sie den Zugriff, um QR-Codes scannen zu können.
@@ -365,8 +365,7 @@
     en = The Covid-19 test certificate that you have scanned does not show a negative test result. The current version of the CovPass app can only save negative Covid-19 test results.
 
 [error_test_certificate_not_valid_button_title]
-    de = OK
-    en = OK
+    ref = ok
 
 
 [[start Screen: favorite immunization certificate]]
