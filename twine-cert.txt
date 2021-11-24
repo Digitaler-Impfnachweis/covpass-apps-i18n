@@ -2520,8 +2520,7 @@
     en = The scanned QR code is not valid for this booking. Please check if the QR code is intended for the CovPass app.\n\nYou can find more information in the Frequently Asked Questions.
 
 [error_share_certificate_qr_code_not_recognized_action_button]
-    de = OK
-    en = OK
+    ref = ok
 
 [error_share_certificate_provider_not_verified_title]
     de = Die Identität des Anbieters konnte nicht überprüft werden
@@ -2532,20 +2531,51 @@
     en = Unfortunately, an error occurred while verifying the identity of the provider %@. Please try again later.
 
 [error_share_certificate_provider_not_verified_action_button]
-    de = OK
-    en = OK
+    ref = ok
 
-[error_share_certificate_test_partner_not_verified_title]
+[error_share_certificate_validation_partner_not_verified_title]
     de = Die Identität des Prüfpartners konnte nicht überprüft werden
     en = The identity of the test partner could not be verified
 
-[error_share_certificate_test_partner_not_verified_message]
+[error_share_certificate_validation_partner_not_verified_message]
     de = Das Buchungsportal schlägt vor, Ihr Zertifikat mit folgendem Prüfpartner zu teilen: %@. Dieser Prüfpartner ist uns nicht bekannt.\n\nEine Liste der unterstützten Prüfpartner finden Sie in den Häufigen Fragen. 
-    en = The booking portal suggests sharing your certificate with the following verification partner: %@. We do not know this verification partner.\n\nFor a list of supported verification partners, see the Frequently Asked Questions.
+    en = The booking portal suggests sharing your certificate with the following validation partner: %@. We do not know this validation partner.\n\nFor a list of supported validation partners, see the Frequently Asked Questions.
 
-[error_share_certificate_test_partner_not_verified_action_button]
-    de = OK
-    en = OK
+[error_share_certificate_validation_partner_not_verified_action_button]
+   ref = ok
+
+[error_share_certificate_validation_partner_not_verified_title2]
+    de = Die Identität des Prüfpartners konnte nicht überprüft werden
+    en = The identity of the validation partner could not be verified
+
+[error_share_certificate_validation_partner_not_verified_message2]
+    de = Bei der Prüfung der Identität des Prüfpartners kam es leider zu einem Fehler. Bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal.
+    en = Unfortunately, an error occurred while verifying the identity of the validation partner. Please try again later.
+
+[error_share_certificate_validation_partner_not_verified_action_button2]
+    ref = ok
+    
+[error_share_certificate_access_token_not_retrieved_title]
+    de = Die Buchungsdaten konnten nicht geladen werden
+    en = The booking data could not be retrieved
+
+[error_share_certificate_access_token_not_retrieved_message]
+    de = Bei der Übertragung der Buchungsdaten kam es leider zu einem Fehler. Bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal.
+    en = Unfortunately, an error occurred while loading the booking data. Please try again later.
+
+[error_share_certificate_access_token_not_retrieved_action_button]
+    ref = ok
+
+[error_share_certificate_access_token_not_processed_title]
+    de = Die Buchungsdaten konnten nicht verarbeitet werden
+    en = The booking data could not be processed
+
+[error_share_certificate_access_token_not_processed_message]
+    de = Bei der Verarbeitung der Buchungsdaten kam es leider zu einem Fehler. Bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal.
+    en = Unfortunately, an error occurred while processing the booking data. Please try again later.
+
+[error_share_certificate_access_token_not_processed_action_button]
+    ref = ok
 
 [error_share_certificate_no_connection_to_provider_title]
     de = Es konnte keine Verbindung zum Anbieter hergestellt werden
@@ -2556,8 +2586,7 @@
     en = Check if your smartphone is connected to the Internet and try again.
 
 [error_share_certificate_no_connection_to_provider_action_button]
-    de = OK
-    en = OK
+    ref = ok
 
 [error_share_certificate_no_verification_possible_title]
     de = Das Zertifikat konnte nicht überprüft werden
@@ -2568,8 +2597,18 @@
     en = Unfortunately, the verification could not be completed successfully. Possible reasons can be found in the Frequently Asked Questions. Please try again at a later time.
 
 [error_share_certificate_no_verification_possible_action_button]
-    de = OK
-    en = OK
+    ref = ok
+    
+[error_share_certificate_no_verification_submission_possible_title]
+    de = Das Zertifikat konnte nicht zur Prüfung übermittelt werden
+    en = The certificate could not be submitted for validation
+
+[error_share_certificate_no_verification_submission_possible_message]
+    de = Leider konnte das Zertifikat nicht an den Prüfpartner übermittelt werden. Mögliche Gründe dazu finden Sie in den Häufigen Fragen. Bitte versuchen Sie es zu einem späteren Zeitpunkt noch einmal.
+    en = Unfortunately, the verification could not be submitted to the validation partner. Possible reasons can be found in the Frequently Asked Questions. Please try again at a later time.
+
+[error_share_certificate_no_verification_submission_possible_action_button]
+    ref = ok
 
 [cancellation_share_certificate_title]
     de = Wollen Sie den Vorgang wirklich beenden?
