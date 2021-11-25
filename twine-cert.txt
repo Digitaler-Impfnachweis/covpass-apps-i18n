@@ -405,7 +405,7 @@
     en = The QR code cannot be transferred to the CovPass app because it is, for example, it does not have a valid signature. The QR code may also not be readable because there are multiple QR codes in the file. Please select a file with a valid QR code.
 
 [error_scan_code_not_suitable_action_button]
-    ref = OK
+    ref = ok
 
 
 [[start Screen: favorite immunization certificate]]
