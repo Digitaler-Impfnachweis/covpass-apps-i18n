@@ -2521,40 +2521,40 @@
     en = The "Submitting your certificate for verification" view has been closed.
 
 [share_certificate_detail_view_requirements_met_title]
-    de = Zertifikat entspricht den Anforderungen des Anbieters
-    en = Certificate meets the requirements of the provider
+    de = Zertifikat entspricht den Anforderungen
+    en = Certificate meets the requirements
 
 [share_certificate_detail_view_requirements_met_subline]
     de = Geprüft von %@
     en = Verified by %@
 
 [share_certificate_detail_view_requirements_met_message]
-    de = Bei Fragen wenden Sie sich bitte an den Anbieter %@.
-    en = If you have any questions, please contact the provider %@.
+    de = Der Anbieter wurde über die erfolgreiche Prüfung informiert. Bei Fragen wenden Sie sich bitte an den Anbieter %@.
+    en = The provider was informed about the successful check. If you have any questions, please contact the provider %@.
 
 [share_certificate_detail_view_requirements_not_verifiable_title]
-    de = Zertifikat ist nicht vollständig prüfbar
-    en = Certificate is not fully auditable
+    de = Zertifikat nicht prüfbar
+    en = Certificate is not auditable
 
 [share_certificate_detail_view_requirements_not_verifiable_subline]
     de = Geprüft von %@
     en = Verified by %@
 
 [share_certificate_detail_view_requirements_not_verifiable_message]
-    de = Leider ist eine automatische Prüfung nicht möglich. Überprüfen Sie die gelb markierten Angaben bitte selbst.\n\nBei Fragen wenden Sie sich bitte an den Anbieter %@.
-    en = Unfortunately, an automatic check is not possible. Please check the information marked in yellow yourself.\n\nIf you have any questions, please contact the provider %@.
+    de = Leider ist eine automatische Prüfung nicht möglich. Überprüfen Sie die gelb markierten Angaben bitte selbst. Bei Fragen wenden Sie sich bitte an den Anbieter %@.
+    en = Unfortunately, an automatic check is not possible. Please check the information marked in yellow yourself. If you have any questions, please contact the provider %@.
 
 [share_certificate_detail_view_requirements_not_met_title]
-    de = Zertifikat entspricht nicht den Anforderungen des Anbieters
-    en = Certificate does not meet the requirements of the provider
+    de = Zertifikat entspricht nicht den Anforderungen
+    en = Certificate does not meet the requirements
 
 [share_certificate_detail_view_requirements_not_met_subline]
     de = Geprüft von %@
     en = Verified by %@
 
 [share_certificate_detail_view_requirements_not_met_message]
-    de = Die Angaben, die nicht den Anforderungen entsprechen, sind unterhalb rot markiert.\n\nBei Fragen wenden Sie sich bitte an den Anbieter %@.
-    en = The information that does not meet the requirements is marked in red below.\n\nIf you have any questions, please contact the provider %@.
+    de = Bei Fragen wenden Sie sich bitte an den Anbieter %@.
+    en = If you have any questions, please contact the provider %@.
 
 [error_share_certificate_qr_code_not_recognized_title]
     de = QR-Code wurde nicht erkannt
