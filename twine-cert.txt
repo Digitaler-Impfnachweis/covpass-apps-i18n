@@ -887,10 +887,10 @@
     de = Vietnam
     en = Vietnam
     
-[ARG]
+[AR]
     de = Argentinien
     en = Argentina
-[MEX]
+[MX]
     de = Mexiko
     en = Mexico
 
