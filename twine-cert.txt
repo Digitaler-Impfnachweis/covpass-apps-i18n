@@ -178,8 +178,8 @@
     en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the button "Add a certificate" (plus symbol) to add a Digital COVID Certificate.
     
 [startscreen_card_title]
-    de = Digitales COVID-Zertifikat der EU
-    en = EU Digital COVID Certificate
+    de = Digitales COVID-Zertifikat der EU
+    en = EU Digital COVID Certificate
 
 [startscreen_card_button]
     de = Zertifikate anzeigen
