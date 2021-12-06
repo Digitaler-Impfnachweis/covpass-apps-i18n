@@ -176,7 +176,7 @@
 [vaccination_start_screen_note_message]
     de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf die Taste "Nachweis hinzufügen" (Plus-Symbol), um ein digitales COVID-Zertifikat der EU hinzuzufügen.
     en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the button "Add a certificate" (plus symbol) to add a Digital COVID Certificate.
-    
+
 [startscreen_card_title]
     de = Digitales COVID-Zertifikat der EU
     en = EU Digital COVID Certificate
@@ -200,7 +200,7 @@
 [vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
     de = Status überprüfen
     en = Check status
-    
+
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
     en = This QR code can be reliably verified with the CovPassCheck app.
@@ -365,7 +365,7 @@
     en = QR code was not recognized
 
 [error_scan_code_not_recognized_message]
-    de = In der ausgewählten Datei wurde kein QR-Code gefunden. Bitte wählen Sie eine Datei oder ein Foto mit einem QR-Code aus. 
+    de = In der ausgewählten Datei wurde kein QR-Code gefunden. Bitte wählen Sie eine Datei oder ein Foto mit einem QR-Code aus.
     en = No QR code was found in the selected file. Please select a file or photo with a QR code.
 
 [error_scan_code_not_recognized_action_button]
@@ -480,22 +480,22 @@
 [certificate_check_validity_selection_country]
     de = Land
     en = Country
-    
+
 [no_cert_applicable_for_validation_dialog_header]
    de = Keine Prüfung möglich
    en = No check possible
-   
+
 [no_cert_applicable_for_validation_dialog_message]
    de = Eine Gültigkeitsprüfung Ihrer aktuell gespeicherten Zertifikate ist leider nicht möglich.
    en = A validity check of your currently saved certificates is unfortunately not possible.
-   
+
 [no_cert_applicable_for_validation_positive_button_text]
    ref = ok
-   
+
 [certificate_check_validity_not_all_certs_checkable_title]
    de = Leider können nicht alle Zertifikate geprüft werden!
    en = Unfortunately, not all certificates can be checked!
-   
+
 [certificate_check_validity_not_all_certs_checkable_message]
    de = Eine Gültigkeitsprüfung ist für manche Ihrer gespeicherten Zertifikate leider nicht möglich. Diese werden bei der Prüfung ausgeschlossen.
    en = Unfortunately, a validity check is not possible for some of your saved certificates. These will be excluded from the check.
@@ -873,7 +873,7 @@
 [VN]
     de = Vietnam
     en = Vietnam
-    
+
 [AR]
     de = Argentinien
     en = Argentina
@@ -1280,12 +1280,12 @@
     en = Add new certificate
 
 [certificates_overview_soon_expiring_title]
-    de = Aktuelles Zertifikat läuft am %@ um %@ ab
-    en = Current certificate expires on %@ at %@
+    de = Aktuelles Zertifikat läuft am %@ um %@ ab
+    en = Current certificate expires on %@ at %@
 
 [certificates_overview_soon_expiring_subtitle]
-    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = Please make every effort to have a new digital certificate issued. 
+    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
+    en = Please make every effort to have a new digital certificate issued. 
 
 [certificates_overview_invalid_title]
     de = Zertifikat ungültig
@@ -2107,7 +2107,7 @@
 [accessibility_app_information_datenschutz_closing_announce]
     de = Die Datenschutzerklärung wurde geschlossen
     en = Privacy notice has been closed
-         
+
 [accessibility_app_information_title_contact_announce]
     de = Kontakt-Ansicht wurde geöffnet
     en = Contact has been opened
@@ -2274,7 +2274,7 @@
     en = Booking
 
 [share_certificate_message]
-    de = Der Anbieter möchte sicherstellen, dass ein gültiges Zertifikat zu Ihrer Buchung vorliegt. Für den Abruf Ihrer Buchungsdetails vom Anbieter und die Freigabe Ihrer gespeicherten Zertifikate ist Ihr Einverständnis erforderlich. 
+    de = Der Anbieter möchte sicherstellen, dass ein gültiges Zertifikat zu Ihrer Buchung vorliegt. Für den Abruf Ihrer Buchungsdetails vom Anbieter und die Freigabe Ihrer gespeicherten Zertifikate ist Ihr Einverständnis erforderlich.
     en = The provider wants to ensure that a valid certificate is available for your booking. Your consent is required for the provider to retrieve your booking details and release your stored certificates.
 
 [share_certificate_consent_title]
@@ -2398,7 +2398,7 @@
     en = Booking
 
 [share_certificate_transmission_message]
-    de = Das ausgewählte Zertifikat und Ihre Buchungsdaten werden nun an den Prüfpartner des Anbieters übermittelt. Für die Übermittlung Ihrer Daten an den Überprüfungsservice ist Ihr Einverständnis erforderlich. 
+    de = Das ausgewählte Zertifikat und Ihre Buchungsdaten werden nun an den Prüfpartner des Anbieters übermittelt. Für die Übermittlung Ihrer Daten an den Überprüfungsservice ist Ihr Einverständnis erforderlich.
     en = The selected certificate and your booking data will now be transmitted to the provider's verification partner. Your consent is required for the transmission of your data to the verification service.
 
 [share_certificate_transmission_consent_title]
@@ -2544,7 +2544,7 @@
     en = The identity of the test partner could not be verified
 
 [error_share_certificate_validation_partner_not_verified_message]
-    de = Das Buchungsportal schlägt vor, Ihr Zertifikat mit folgendem Prüfpartner zu teilen: %@. Dieser Prüfpartner ist uns nicht bekannt.\n\nEine Liste der unterstützten Prüfpartner finden Sie in den Häufigen Fragen. 
+    de = Das Buchungsportal schlägt vor, Ihr Zertifikat mit folgendem Prüfpartner zu teilen: %@. Dieser Prüfpartner ist uns nicht bekannt.\n\nEine Liste der unterstützten Prüfpartner finden Sie in den Häufigen Fragen.
     en = The booking portal suggests sharing your certificate with the following validation partner: %@. We do not know this validation partner.\n\nFor a list of supported validation partners, see the Frequently Asked Questions.
 
 [error_share_certificate_validation_partner_not_verified_action_button]
@@ -2560,7 +2560,7 @@
 
 [error_share_certificate_validation_partner_not_verified_action_button2]
     ref = ok
-    
+
 [error_share_certificate_access_token_not_retrieved_title]
     de = Die Buchungsdaten konnten nicht geladen werden
     en = The booking data could not be retrieved
@@ -2588,7 +2588,7 @@
     en = Could not connect to the provider
 
 [error_share_certificate_no_connection_to_provider_message]
-    de = Überprüfen Sie, ob Ihr Smartphone mit dem Internet verbunden ist und probieren Sie es noch einmal. 
+    de = Überprüfen Sie, ob Ihr Smartphone mit dem Internet verbunden ist und probieren Sie es noch einmal.
     en = Check if your smartphone is connected to the Internet and try again.
 
 [error_share_certificate_no_connection_to_provider_action_button]
@@ -2604,7 +2604,7 @@
 
 [error_share_certificate_no_verification_possible_action_button]
     ref = ok
-    
+
 [error_share_certificate_no_verification_submission_possible_title]
     de = Das Zertifikat konnte nicht zur Prüfung übermittelt werden
     en = The certificate could not be submitted for validation
@@ -2627,4 +2627,3 @@
 [cancellation_share_certificate_action_button_yes]
     de = Ja, beenden
     en = Yes, finish
-    
