@@ -312,7 +312,7 @@
 
 [functional_validation_check_popup_unsuccessful_certificate_title]
     de = Zertifikat erfüllt nicht alle Bedingungen
-    en = Certificate does not fulfil all conditions
+    en = Certificate does not fulfill all conditions
 
 [functional_validation_check_popup_unsuccessful_certificate_subline]
     de = Die geprüfte Person kann den Grund z. B. in der CovPass-App einsehen. Die häufigsten Gründe:
