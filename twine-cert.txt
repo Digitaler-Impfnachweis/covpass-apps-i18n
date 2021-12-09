@@ -3,13 +3,18 @@
     de = CovPass
     en = CovPass
 
-
-
 [[common]]
 [ok]
     de = OK
     en = OK
 
+[close]
+    de = Schließen
+    en = Close
+
+[cancel]
+    de = Abbrechen
+    en = Cancel
 
 [[onboarding]]
 [start_onboarding_title]
@@ -105,8 +110,7 @@
     en = OK
 
 [vaccination_privacy_policy_page_button_title]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_fourth_onboarding_page_label_scroll_to_end]
     de = Zum Ende scrollen
@@ -240,8 +244,7 @@
 
 [[popup: add certification]]
 [accessibility_certificate_add_popup_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_scan_camera_torch_on]
     de = Taschenlampe anschalten
@@ -308,8 +311,7 @@
     en = Allow access
 
 [accessibility_certificate_add_dialog_camera_access_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_scan_dialog_camera_access_announce]
     de = Die Ansicht "Kamerazugriff benötigt" wurde geöffnet
@@ -410,8 +412,7 @@
 
 [[screen: check validity]]
 [accessibility_certificate_check_validity_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_certificate_check_validity_label_results]
     de = Ergebnisse der EU-Zertifikatsprüfung
@@ -501,8 +502,7 @@
    en = Unfortunately, a validity check is not possible for some of your saved certificates. These will be excluded from the check.
 
 [accessibility_certificate_check_validity_selection_country_label_close]
-    de = Schließen
-    en = Close
+   ref = close
 
 [certificate_check_validity_selection_country_title]
     de = Reiseland wählen
@@ -902,8 +902,7 @@
     en = Date: %@
 
 [accessibility_certificate_check_validity_selection_date_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [certificate_check_validity_selection_date_title]
     de = Datum wählen
@@ -922,8 +921,7 @@
     en = Select time
 
 [accessibility_certificate_check_validity_selection_time_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [certificate_check_validity_selection_time_action_button]
     de = OK
@@ -1118,8 +1116,7 @@
     en = Rule at destination: recovery certificates are valid for up to 180 days.
 
 [accessibility_certificate_check_validity_detail_view_result_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_certificate_check_validity_detail_view_result_label_marked_values]
     de = Dieser Wert ist zu überprüfen
@@ -1595,12 +1592,10 @@
     en = Vaccine dose %d of %d
 
 [vaccination_certificate_detail_view_qrcode_screen_action_button_title]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_vaccination_certificate_detail_view_qrcode_screen_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [test_certificate_detail_view_title]
     de = Antigen-Schnelltest
@@ -1759,13 +1754,11 @@
     en = PCR test
 
 [test_certificate_detail_view_qrcode_screen_action_button_title]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_test_certificate_detail_view_qrcode_screen_label_close]
-    de = Schließen
-    en = Close
-
+    ref = close
+    
 [recovery_certificate_detail_view_title]
     de = Vollständige Genesung
     en = Full recovery
@@ -1903,12 +1896,10 @@
     en = Valid until %@
 
 [recovery_certificate_detail_view_qrcode_screen_action_button_title]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_recovery_certificate_detail_view_qrcode_screen_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [certificate_expires_detail_view_note_title]
     de = Zertifikat läuft am %@ um %@ ab
@@ -1941,8 +1932,7 @@
     en = The view "Create EU printout" has been opened
 
 [accessibility_certificate_create_pdf_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [certificate_create_pdf_headline]
     de = EU-Ausdruck erstellen
@@ -1972,7 +1962,6 @@
     de = PDF speichern
     en = Save PDF
 
-
 [[certificate delete dialog]]
 [dialog_delete_certificate_title]
     de = Möchten Sie das COVID-Zertifikat wirklich löschen?
@@ -1987,8 +1976,7 @@
     en = Delete
 
 [dialog_delete_certificate_button_cancel]
-    de = Abbrechen
-    en = Cancel
+    ref = cancel
 
 [delete_result_dialog_header]
     de = Erfolgreich gelöscht
@@ -1999,9 +1987,7 @@
     en = The EU Digital COVID Certificate has successfully been removed from this device.
 
 [delete_result_dialog_positive_button_text]
-    de = OK
-    en = OK
-
+    ref = ok
 
 [[error handling]]
 [error_standard_unexpected_title]
@@ -2013,8 +1999,7 @@
     en = An unexpected error has occurred. Please try again later.
 
 [error_standard_unexpected_button_title]
-    de = OK
-    en = OK
+    ref = ok
 
 [error_no_connection_to_server_title]
     de = Verbindungsfehler
@@ -2025,8 +2010,7 @@
     en = There was an error while trying to connect to the internet. Please check your internet connection.
 
 [error_no_connection_to_server_button_title]
-    de = OK
-    en = OK
+    ref = ok
 
 [error_scan_qrcode_cannot_be_parsed_title]
     de = QR-Code wurde nicht erkannt
@@ -2037,9 +2021,8 @@
     en = This QR code does not belong to an EU Digital COVID Certificate. In Germany, you can see that a certificate is correct when it has been issued by the Robert Koch Institute. \n\nYou cannot add QR codes from doctor-issued vaccination certificates or the QR codes on some batch labels in yellow vaccination booklets.
 
 [error_scan_qrcode_cannot_be_parsed_button_title]
-    de = OK
-    en = OK
-
+    ref = ok
+    
 [error_scan_present_data_is_not_supported_title]
     de = Aktualisieren Sie die App
     en = Update the app
@@ -2049,8 +2032,7 @@
     en = The current version of the app you are using does not support this data format. Please check if you have installed the latest version of the app available from the app store on your smartphone.
 
 [error_scan_present_data_is_not_supported_button_title]
-    de = OK
-    en = OK
+    ref = ok
 
 [error_scan_qrcode_without_seal_title]
     de = COVID-Zertifikat enthält keine gültige Signatur
@@ -2061,9 +2043,8 @@
     en = This certificate might have been issued by an unauthorised organisation or the app might not have been updated. For the latter, please connect to the internet and try again later.
 
 [error_scan_qrcode_without_seal_button_title]
-    de = OK
-    en = OK
-
+    ref = ok
+    
 [error_validity_check_certificates_title]
     de = Überprüfen Sie die Gültigkeit Ihrer Zertifikate
     en = Check the validity of your certificates
@@ -2073,9 +2054,7 @@
     en = The validity of your certificates is about to expire or has already expired. Please make every effort to have a new digital certificate issued.
 
 [error_validity_check_certificates_button_title]
-    de = OK
-    en = OK
-
+    ref = ok
 
 [[dialog: duplicate certificate]]
 [duplicate_certificate_dialog_header]
@@ -2087,9 +2066,7 @@
     en = The COVID certificate you have scanned is already in the app. You may potentially have scanned this COVID certificate twice.
 
 [duplicate_certificate_dialog_button_title]
-    de = OK
-    en = OK
-
+    ref = ok
 
 [[app information]]
 [accessibility_app_information_title_update]
@@ -2326,16 +2303,51 @@
     en = Accept
 
 [share_certificate_action_button_cancel]
-    de = Abbrechen
-    en = Cancel
+    ref = cancel
 
 [accessibility_share_certificate_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_share_certificate_label_back]
     de = Zurück
     en = Back
+    
+[[Warning: Unknown service provider]]
+[warning_unknown_provider_title]
+    de = Unbekannter Anbieter
+    en = Unknown provider
+    
+[warning_unknown_provider_copy]
+    de = Der Anbieter „%@“ ist uns nicht bekannt. Falls Sie fortfahren, überprüfen Sie bitte die Herkunft des QR-Codes und vergewissern Sie sich, ob Sie dem Anbieter Ihr Zertifikat übermitteln wollen.
+    en = The provider "%@" is not known to us. If you proceed, please check the origin of the QR code and make sure you want to submit your certificate to the provider.
+
+[warning_unknown_provider_box_title]
+    de = Achten Sie besonders auf:
+    en = Pay particular attention to:
+
+[warning_unknown_provider_box_item_1]
+    de = Der Name des Anbieters sollte Ihnen bekannt sein.
+    en = The name of the provider should be familiar to you.
+
+[warning_unknown_provider_box_item_2]
+    de = Der Name des Anbieters sollte mit dem Namen auf dem Buchungsportal übereinstimmen.
+    en = The name of the provider should match the name on the booking portal.
+
+[warning_unknown_provider_box_item_3]
+    de = Sollten Sie Zweifel an der Seriösität des Anbieters haben, brechen Sie den Vorgang lieber ab.
+    en = If you have any doubts about the seriousness of the provider, it is better to cancel the process.
+
+[warning_unknown_provider_box_item_4]
+    de = Sollten Sie weitere Fragen haben, wenden Sie sich an den Anbieter.
+    en = If you have any further questions, please contact the provider.
+
+[warning_unknown_provider_box_button_primary]
+    de = Trotzdem weiter
+    en = Continue anyway
+    
+[warning_unknown_provider_box_button_secondary]
+    de = Abbrechen
+    en = Cancel
 
 [accessibility_share_certificate_announce]
     de = Die Ansicht "Zertifikate zu Buchungszwecken freigeben" wurde geöffnet.
@@ -2358,8 +2370,7 @@
     en = Date of birth
 
 [accessibility_share_certificate_selection_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_share_certificate_selection_label_back]
     de = Zurück
@@ -2382,8 +2393,7 @@
     en = Please check if your certificate stored in the app matches the requirements.
 
 [share_certificate_selection_no_match_action_button]
-    de = Schließen
-    en = Close
+    ref = close
 
 [share_certificate_transmission_title]
     de = Übermittlung Ihres Zertifikats zur Prüfung
@@ -2466,8 +2476,7 @@
     en = Accept
 
 [accessibility_share_certificate_transmission_label_close]
-    de = Schließen
-    en = Close
+    ref = close
 
 [accessibility_share_certificate_transmission_label_back]
     de = Zurück
