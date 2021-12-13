@@ -2181,6 +2181,10 @@
     de = Zurück
     en = Back
 
+[app_information_title_accessibility_statement]
+    de = Barrierefreiheitserklärung
+    en = Accessibility statement
+
 [app_information_title_update]
     de = Einreiseregeln aktualisieren
     en = Update rules of entry
