@@ -519,6 +519,10 @@
     de = Open-Source-Lizenzen
     en = Open-source licences
 
+[app_information_title_accessibility_statement]
+    de = Barrierefreiheitserklärung
+    en = Accessibility statement
+
 [accessibility_app_information_title_open_source_announce]
     de = Die Ansicht "Open-Source-Lizenzen" wurde geöffnet
     en = The view "Open-source licences" has been opened
