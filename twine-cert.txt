@@ -274,9 +274,13 @@
     de = Achtung: Sind Sie wirklich berechtigt?
     en = Warning: Are you really authorized?
 
-[certificate_add_warning_maximum_copy]
-    de = Bitte stellen Sie sicher, dass Sie berechtigt sind, das Zertifikat einer anderen Person hinzuzufügen, z.B. für Ihre Kinder oder Angehörige. Mehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#./n/n Wollen Sie nur die Gültigkeit prüfen? Nutzen Sie dafür bitte die #CovPassCheck-App::CovPassCheck-App#.
-    en = Please make sure that you are authorized to add the certificate of another person, e.g. for your children or relatives. You can find more information in the #Frequently Asked Questions::Frequently Asked Questions#./n/n Do you only want to check the validity? Please use the #CovPassCheck app::CovPassCheck app# for that.
+[certificate_add_warning_maximum_copy_ios]
+    de = Bitte stellen Sie sicher, dass Sie berechtigt sind, das Zertifikat einer anderen Person hinzuzufügen, z.B. für Ihre Kinder oder Angehörige. Mehr Informationen finden Sie in den #Häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq#.\n\n Wollen Sie nur die Gültigkeit prüfen? Nutzen Sie dafür bitte die #CovPassCheck-App::https://apps.apple.com/de/app/covpass-check/id1566140314#.
+    en = Please make sure that you are authorized to add the certificate of another person, e.g. for your children or relatives. You can find more information in the #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#.\n\n Do you only want to check the validity? Please use the #CovPassCheck app::https://apps.apple.com/en/app/covpass-check/id1566140314# for that.
+    
+[certificate_add_warning_maximum_copy_android]
+    de = Bitte stellen Sie sicher, dass Sie berechtigt sind, das Zertifikat einer anderen Person hinzuzufügen, z.B. für Ihre Kinder oder Angehörige. Mehr Informationen finden Sie in den #Häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq#.\n\n Wollen Sie nur die Gültigkeit prüfen? Nutzen Sie dafür bitte die #CovPassCheck-App::https://play.google.com/store/apps/details?id=de.rki.covpass.checkapp#.
+    en = Please make sure that you are authorized to add the certificate of another person, e.g. for your children or relatives. You can find more information in the #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#.\n\n Do you only want to check the validity? Please use the #CovPassCheck app::https://play.google.com/store/apps/details?id=de.rki.covpass.checkapp# for that.
     
 [certificate_add_warning_maximum_button_primary]
     de = Trotzdem hinzufügen
