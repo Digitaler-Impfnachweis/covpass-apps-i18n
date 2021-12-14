@@ -261,6 +261,52 @@
 [accessibility_certificate_add_popup_closing_announce]
     de = Die Ansicht "QR-Code scannen" wurde geschlossen
     en = The view "Scan QR code" has been closed
+    
+[accessibility_certificate_add_warning_maximum_announce]
+    de = Die Ansicht "Sind Sie berechtigt?" wurde geöffnet
+    en = The view "Are you authorized?" wurde geöffnet
+
+[accessibility_certificate_add_warning_maximum_image]
+    de = Bild: Zwei Personen stehen sich gegenüber. Die eine Person zeigt ihr Smartphone mit einem QR-Code. Die andere Person scannt den QR-Code und sieht einen grünen Haken.
+    en = Image:  Two people are facing each other. One person shows her smartphone with a QR code. The other person scans the QR code and sees a green check mark.
+    
+[certificate_add_warning_maximum_title]
+    de = Achtung: Sind Sie wirklich berechtigt?
+    en = Warning: Are you really authorized?
+
+[certificate_add_warning_maximum_copy]
+    de = Bitte stellen Sie sicher, dass Sie berechtigt sind, das Zertifikat einer anderen Person hinzuzufügen, z.B. für Ihre Kinder oder Angehörige. Mehr Informationen finden Sie in den #Häufigen Fragen::Häufigen Fragen#./n/n Wollen Sie nur die Gültigkeit prüfen? Nutzen Sie dafür bitte die #CovPassCheck-App::CovPassCheck-App#.
+    en = Please make sure that you are authorized to add the certificate of another person, e.g. for your children or relatives. You can find more information in the #Frequently Asked Questions::Frequently Asked Questions#./n/n Do you only want to check the validity? Please use the #CovPassCheck app::CovPassCheck app# for that.
+    
+[certificate_add_warning_maximum_button_primary]
+    de = Trotzdem hinzufügen
+    en = Add anyway
+    
+[certificate_add_warning_maximum_button_secondary]
+    ref = cancel
+    
+[accessibility_certificate_add_error_maximum_announce]
+    de = Ein Fehler-Dialog wurde geöffnet
+    en = An error dialog was opened
+
+[certificate_add_error_maximum_title]
+    de = Zertifikat kann nicht hinzugefügt werden
+    en = Certificate cannot be added
+
+[certificate_add_error_maximum_copy]
+    de = Um Missbrauch zu vermeiden, können nur Zertifikate von maximal 20 unterschiedlichen Personen hinzugefügt werden. Sollten Sie Zertifikate anderer Personen prüfen wollen, nutzen Sie bitte die dafür entwickelte CovPassCheck-App.
+    en = To prevent misuse, only certificates from a maximum of 20 different people can be added. If you want to check certificates of other persons, please use the CovPassCheck app developed for this purpose.
+
+[certificate_add_error_maximum_button_1]
+    de = Download CovPassCheck-App
+    en = Download CovPassCheck app
+
+[certificate_add_error_maximum_button_2]
+    de = FAQ zur Zertifikatsprüfung
+    en = FAQ for the certificate check
+
+[certificate_add_error_maximum_button_3]
+    ref = ok
 
 [accessibility_scan_success_announce]
     de = Zertifikat von %@ wurde erfolgreich hinzugefügt
@@ -406,8 +452,8 @@
     en = Always display this person's certificates in first place: not active
 
 [certificate_action_button_check_validity]
-    de = Gültigkeit prüfen
-    en = Check validity
+    de = Für Reisen prüfen
+    en = Check for travel
 
 
 [[screen: check validity]]
