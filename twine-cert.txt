@@ -261,7 +261,7 @@
 [accessibility_certificate_add_popup_closing_announce]
     de = Die Ansicht "QR-Code scannen" wurde geschlossen
     en = The view "Scan QR code" has been closed
-    
+
 [accessibility_certificate_add_warning_maximum_announce]
     de = Die Ansicht "Sind Sie berechtigt?" wurde geöffnet
     en = The view "Are you authorized?" wurde geöffnet
@@ -269,7 +269,7 @@
 [accessibility_certificate_add_warning_maximum_image]
     de = Bild: Zwei Personen stehen sich gegenüber. Die eine Person zeigt ihr Smartphone mit einem QR-Code. Die andere Person scannt den QR-Code und sieht einen grünen Haken.
     en = Image:  Two people are facing each other. One person shows her smartphone with a QR code. The other person scans the QR code and sees a green check mark.
-    
+
 [certificate_add_warning_maximum_title]
     de = Achtung: Sind Sie wirklich berechtigt?
     en = Warning: Are you really authorized?
@@ -277,18 +277,18 @@
 [certificate_add_warning_maximum_copy_ios]
     de = Bitte stellen Sie sicher, dass Sie berechtigt sind, das Zertifikat einer anderen Person hinzuzufügen, z.B. für Ihre Kinder oder Angehörige. Mehr Informationen finden Sie in den #Häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq#.\n\n Wollen Sie nur die Gültigkeit prüfen? Nutzen Sie dafür bitte die #CovPassCheck-App::https://apps.apple.com/de/app/covpass-check/id1566140314#.
     en = Please make sure that you are authorized to add the certificate of another person, e.g. for your children or relatives. You can find more information in the #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#.\n\n Do you only want to check the validity? Please use the #CovPassCheck app::https://apps.apple.com/en/app/covpass-check/id1566140314# for that.
-    
+
 [certificate_add_warning_maximum_copy_android]
     de = Bitte stellen Sie sicher, dass Sie berechtigt sind, das Zertifikat einer anderen Person hinzuzufügen, z.B. für Ihre Kinder oder Angehörige. Mehr Informationen finden Sie in den #Häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq#.\n\n Wollen Sie nur die Gültigkeit prüfen? Nutzen Sie dafür bitte die #CovPassCheck-App::https://play.google.com/store/apps/details?id=de.rki.covpass.checkapp#.
     en = Please make sure that you are authorized to add the certificate of another person, e.g. for your children or relatives. You can find more information in the #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#.\n\n Do you only want to check the validity? Please use the #CovPassCheck app::https://play.google.com/store/apps/details?id=de.rki.covpass.checkapp# for that.
-    
+
 [certificate_add_warning_maximum_button_primary]
     de = Zertifikat hinzufügen
     en = Add certificate
-    
+
 [certificate_add_warning_maximum_button_secondary]
     ref = cancel
-    
+
 [accessibility_certificate_add_error_maximum_announce]
     de = Ein Fehler-Dialog wurde geöffnet
     en = An error dialog was opened
@@ -302,15 +302,15 @@
     en = To prevent misuse, certificates from a maximum of 20 different people can be added.\n\n The CovPass app is not suitable for checking third-party certificates. Use only the CovPassCheck app for verification.
 
 [certificate_add_error_maximum_button_1]
-    de = Download CovPassCheck-App
-    en = Download CovPassCheck app
+    de = Download CovPassCheck-App
+    en = Download CovPassCheck app
 
 [certificate_add_error_maximum_button_2]
-    de = FAQ zur Zertifikatsprüfung
-    en = FAQ for the certificate check
+    de = FAQ zur Zertifikatsprüfung
+    en = FAQ for the certificate check
 
 [certificate_add_error_maximum_button_3]
-    ref = ok
+    ref = ok
 
 [accessibility_scan_success_announce]
     de = Zertifikat von %@ wurde erfolgreich hinzugefügt
@@ -1808,7 +1808,7 @@
 
 [accessibility_test_certificate_detail_view_qrcode_screen_label_close]
     ref = close
-    
+
 [recovery_certificate_detail_view_title]
     de = Vollständige Genesung
     en = Full recovery
@@ -2072,7 +2072,7 @@
 
 [error_scan_qrcode_cannot_be_parsed_button_title]
     ref = ok
-    
+
 [error_scan_present_data_is_not_supported_title]
     de = Aktualisieren Sie die App
     en = Update the app
@@ -2094,7 +2094,7 @@
 
 [error_scan_qrcode_without_seal_button_title]
     ref = ok
-    
+
 [error_validity_check_certificates_title]
     de = Überprüfen Sie die Gültigkeit Ihrer Zertifikate
     en = Check the validity of your certificates
@@ -2361,12 +2361,12 @@
 [accessibility_share_certificate_label_back]
     de = Zurück
     en = Back
-    
+
 [[Warning: Unknown service provider]]
 [warning_unknown_provider_title]
     de = Unbekannter Anbieter
     en = Unknown provider
-    
+
 [warning_unknown_provider_copy]
     de = Der Anbieter „%@“ ist uns nicht bekannt. Falls Sie fortfahren, überprüfen Sie bitte die Herkunft des QR-Codes und vergewissern Sie sich, ob Sie dem Anbieter Ihr Zertifikat übermitteln wollen.
     en = The provider "%@" is not known to us. If you proceed, please check the origin of the QR code and make sure you want to submit your certificate to the provider.
@@ -2394,7 +2394,7 @@
 [warning_unknown_provider_box_button_primary]
     de = Trotzdem weiter
     en = Continue anyway
-    
+
 [warning_unknown_provider_box_button_secondary]
     de = Abbrechen
     en = Cancel
