@@ -283,8 +283,8 @@
     en = Please make sure that you are authorized to add the certificate of another person, e.g. for your children or relatives. You can find more information in the #Frequently Asked Questions::https://www.digitaler-impfnachweis-app.de/en/faq#.\n\n Do you only want to check the validity? Please use the #CovPassCheck app::https://play.google.com/store/apps/details?id=de.rki.covpass.checkapp# for that.
     
 [certificate_add_warning_maximum_button_primary]
-    de = Trotzdem hinzufügen
-    en = Add anyway
+    de = Zertifikat hinzufügen
+    en = Add certificate
     
 [certificate_add_warning_maximum_button_secondary]
     ref = cancel
@@ -298,8 +298,8 @@
     en = Certificate cannot be added
 
 [certificate_add_error_maximum_copy]
-    de = Um Missbrauch zu vermeiden, können nur Zertifikate von maximal 20 unterschiedlichen Personen hinzugefügt werden. Sollten Sie Zertifikate anderer Personen prüfen wollen, nutzen Sie bitte die dafür entwickelte CovPassCheck-App.
-    en = To prevent misuse, only certificates from a maximum of 20 different people can be added. If you want to check certificates of other persons, please use the CovPassCheck app developed for this purpose.
+    de = Um Missbrauch zu vermeiden, können Zertifikate von maximal 20 verschiedenen Personen hinzugefügt werden.\n\n Die CovPass-App ist nicht zur Prüfung fremder Zertifikate geeignet. Nutzen Sie zur Prüfung ausschließlich die CovPassCheck-App.
+    en = To prevent misuse, certificates from a maximum of 20 different people can be added.\n\n The CovPass app is not suitable for checking third-party certificates. Use only the CovPassCheck app for verification.
 
 [certificate_add_error_maximum_button_1]
     de = Download CovPassCheck-App
