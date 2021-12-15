@@ -50,11 +50,11 @@
     en = Page %d of %d
 
 [vaccination_first_onboarding_page_title]
-    de = Erster Schritt: Übertragen Sie das digitale COVID-Zertifikat der EU auf Ihr Smartphone
+    de = Erster Schritt: Übertragen Sie das digitale COVID-Zertifikat der EU auf Ihr Smartphone
     en = Step one: upload your EU Digital COVID Certificate to your smartphone
 
 [vaccination_first_onboarding_page_message]
-    de = Scannen Sie mit der CovPass-App das digitale COVID-Zertifikat der EU für eine Corona-Impfung oder eine Genesung von der Corona-Infektion. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das digitale COVID-Zertifikat der EU wird sofort auf Ihr Smartphone übertragen.
+    de = Scannen Sie mit der CovPass-App das digitale COVID-Zertifikat der EU für eine Corona-Impfung oder eine Genesung von der Corona-Infektion. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das digitale COVID-Zertifikat der EU wird sofort auf Ihr Smartphone übertragen.
     en = Use the CovPass app to scan the EU Digital COVID Certificate for a Covid-19 vaccination or recovery from a Covid-19 infection. To do this, hold your smartphone’s camera above the QR code. Your EU Digital COVID Certificate will be transferred to your smartphone immediately.
 
 [vaccination_second_onboarding_page_title]
@@ -70,7 +70,7 @@
     en = Step three: show your QR code when needed
 
 [vaccination_third_onboarding_page_message]
-    de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen.
+    de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen.
     en = You can show your QR code from the CovPass app when you need it. The person checking the QR code will then scan it. You will also need to have an ID document at hand for this. Your QR code is stored only on your smartphone, so you can display it at any time even without an internet connection.
 
 [vaccination_fourth_onboarding_page_title]
@@ -264,11 +264,11 @@
 
 [accessibility_certificate_add_warning_maximum_announce]
     de = Die Ansicht "Sind Sie berechtigt?" wurde geöffnet
-    en = The view "Are you authorized?" wurde geöffnet
+    en = The view "Are you authorized?" has been opened
 
 [accessibility_certificate_add_warning_maximum_image]
-    de = Bild: Zwei Personen stehen sich gegenüber. Die eine Person zeigt ihr Smartphone mit einem QR-Code. Die andere Person scannt den QR-Code und sieht einen grünen Haken.
-    en = Image:  Two people are facing each other. One person shows her smartphone with a QR code. The other person scans the QR code and sees a green check mark.
+    de = Bild: Zwei Personen stehen sich gegenüber. Die eine Person zeigt ihr Smartphone mit einem QR-Code. Die andere Person scannt den QR-Code und sieht einen grünen Haken.
+    en = Image: Two people are facing each other. One person shows her smartphone with a QR code. The other person scans the QR code and sees a green check mark.
 
 [certificate_add_warning_maximum_title]
     de = Achtung: Sind Sie wirklich berechtigt?
@@ -290,16 +290,16 @@
     ref = cancel
 
 [accessibility_certificate_add_error_maximum_announce]
-    de = Ein Fehler-Dialog wurde geöffnet
-    en = An error dialog was opened
+    de = Ein Fehler-Dialog wurde geöffnet
+    en = An error dialog was opened
 
 [certificate_add_error_maximum_title]
-    de = Zertifikat kann nicht hinzugefügt werden
-    en = Certificate cannot be added
+    de = Zertifikat kann nicht hinzugefügt werden
+    en = Certificate cannot be added
 
 [certificate_add_error_maximum_copy]
-    de = Um Missbrauch zu vermeiden, können Zertifikate von maximal 20 verschiedenen Personen hinzugefügt werden.\n\n Die CovPass-App ist nicht zur Prüfung fremder Zertifikate geeignet. Nutzen Sie zur Prüfung ausschließlich die CovPassCheck-App.
-    en = To prevent misuse, certificates from a maximum of 20 different people can be added.\n\n The CovPass app is not suitable for checking third-party certificates. Use only the CovPassCheck app for verification.
+    de = Um Missbrauch zu vermeiden, können Zertifikate von maximal 20 verschiedenen Personen hinzugefügt werden.\n\n Die CovPass-App ist nicht zur Prüfung fremder Zertifikate geeignet. Nutzen Sie zur Prüfung ausschließlich die CovPassCheck-App.
+    en = To prevent misuse, certificates from a maximum of 20 different people can be added.\n\n The CovPass app is not suitable for checking third-party certificates. Use only the CovPassCheck app for verification.
 
 [certificate_add_error_maximum_button_1]
     de = Download CovPassCheck-App
@@ -329,7 +329,7 @@
     en = Your smartphone is not protected by a code
 
 [certificate_add_popup_note_message]
-    de = Die CovPass-App speichert sensible Daten auf Ihrem Smartphone. Um die Daten vor fremdem Zugriff zu schützen, empfehlen wir Ihnen, einen Code zum Entsperren Ihres Smartphones einzurichten.
+    de = Die CovPass-App speichert sensible Daten auf Ihrem Smartphone. Um die Daten vor fremdem Zugriff zu schützen, empfehlen wir Ihnen, einen Code zum Entsperren Ihres Smartphones einzurichten.
     en = The CovPass app saves sensitive data to your smartphone. To protect your data against access by strangers, we recommend that you set up an unlock code for your smartphone.
 
 [certificate_add_popup_message]
@@ -368,7 +368,7 @@
     en = The view "Camera access needed" has been opened
 
 [accessibility_scan_camera_announce]
-    de = Kamera-Ansicht wurde geöffnet. Der QR-Code wird automatisch gescannt. 
+    de = Kamera-Ansicht wurde geöffnet. Der QR-Code wird automatisch gescannt.
     en = Camera has been opened. The QR code will be scanned automatically.
 
 [accessibility_scan_camera_closing_announce]
@@ -439,7 +439,7 @@
     en = QR code is not suitable
 
 [error_scan_code_not_suitable_message]
-    de = Der QR-Code kann nicht in die CovPass-App übertragen werden, da dieser z. B. keine gültige Signatur besitzt. Möglicherweise ist der QR-Code auch nicht lesbar, weil mehrere QR-Codes in der Datei vorhanden sind. Bitte wählen Sie eine Datei mit einem zulässigen QR-Code aus.
+    de = Der QR-Code kann nicht in die CovPass-App übertragen werden, da dieser z. B. keine gültige Signatur besitzt. Möglicherweise ist der QR-Code auch nicht lesbar, weil mehrere QR-Codes in der Datei vorhanden sind. Bitte wählen Sie eine Datei mit einem zulässigen QR-Code aus.
     en = The QR code cannot be transferred to the CovPass app because it is, for example, it does not have a valid signature. The QR code may also not be readable because there are multiple QR codes in the file. Please select a file with a valid QR code.
 
 [error_scan_code_not_suitable_action_button]
@@ -789,7 +789,7 @@
     en = Brazil
 
 [BI]
-    de = Burundi 
+    de = Burundi
     en = Burundi
 
 [CV]
@@ -1320,7 +1320,7 @@
 
 [certificates_overview_expired_message]
     de = Das Ablaufdatum Ihrer Zertifikate wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = The expiry date of your certificates has passed. Please make every effort to have a new digital certificate issued. 
+    en = The expiry date of your certificates has passed. Please make every effort to have a new digital certificate issued.
 
 [certificates_overview_expired_action_button_title]
     de = Neues Zertifikat hinzufügen
@@ -1332,7 +1332,7 @@
 
 [certificates_overview_soon_expiring_subtitle]
     de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = Please make every effort to have a new digital certificate issued. 
+    en = Please make every effort to have a new digital certificate issued.
 
 [certificates_overview_invalid_title]
     de = Zertifikat ungültig
@@ -2236,8 +2236,8 @@
     en = Update rules of entry
 
 [app_information_message_update]
-    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan geltenden Corona-Einreiseregeln in den entsprechenden Ländern.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen. 
-    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Covid-19 rules in the relevant travel countries.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time. 
+    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan geltenden Corona-Einreiseregeln in den entsprechenden Ländern.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
+    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Covid-19 rules in the relevant travel countries.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
 
 [app_information_message_update_note]
     de = Letztes Update
