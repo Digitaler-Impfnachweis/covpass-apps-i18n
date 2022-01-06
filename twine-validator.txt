@@ -437,7 +437,7 @@
 [validation_check_popup_valid_pcr_test_button_title]
     de = Weiteres Zertifikat scannen
     en = Scan another certificate
-    
+
 [accessibility_validation_check_popup_valid_pcr_test_label_close]
     de = Schließen
     en = Close
@@ -498,7 +498,7 @@
 [result_2G_test_invalid]
     de = Testzertifikat ungültig
     en = Invalid test certificate
-    
+
 [result_2G_invalid_subtitle]
     de = Details anzeigen
     en = Show details
@@ -506,7 +506,7 @@
 [result_2G_empty_subtitle]
     de = Noch nicht geprüft
     en = Not checked yet
-    
+
 [warning_2G_names_title]
     de = Abweichende Daten
     en = Deviating details
@@ -545,7 +545,7 @@
 
 [error_2G_scanned_twice_button]
     ref = ok
-    
+
 [error_2G_unexpected_type_title]
     de = Falscher Zertifikatstyp
     en = Wrong certificate type
