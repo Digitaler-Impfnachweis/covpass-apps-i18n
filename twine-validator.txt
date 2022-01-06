@@ -145,12 +145,12 @@
     en = Check 2G+
 
 [validation_start_screen_scan_message]
-    de = Scannen Sie einen G-Nachweis nach den 3G-Regeln. Welche Regelung gilt, ist abhängig vom Bundesland in dem Sie sich befinden.
-    en = Scan a G-Proof according to the 3G rules. Which rule applies depends on the federal state you are in.
+    de = Scannen Sie einen G-Nachweis nach den 3G-Regeln. Welche Regelung gilt, ist abhängig vom Bundesland in dem Sie sich befinden.
+    en = Scan a G-Proof according to the 3G rules. Which rule applies depends on the federal state you are in.
 
 [validation_start_screen_scan_message_2G]
-    de = Scannen Sie nacheinander die notwendigen Nachweise für 2G+.
-    en = Scan the necessary evidence for 2G+ one by one.
+    de = Scannen Sie nacheinander die notwendigen Nachweise für 2G+.
+    en = Scan the necessary evidence for 2G+ one by one.
 
 [validation_start_screen_scan_sync_message_title]
     de = Datum und Uhrzeit prüfen
@@ -457,105 +457,105 @@
     en = 2G+ check
 
 [result_2G_close]
-    ref = close
+    ref = close
 
 [result_2G_footnote]
-    de = * Grundimmunisierung, Auffrischungsimpfung oder Genesung
-    en = * Basic immunization, booster vaccination or recovery.
+    de = * Grundimmunisierung, Auffrischungsimpfung oder Genesung
+    en = * Basic immunization, booster vaccination or recovery.
 
 [result_2G_button_scan_test]
-    de = Testzertifikat scannen
-    en = Scan test certificate
+    de = Testzertifikat scannen
+    en = Scan test certificate
 
 [result_2G_button_scan_gproof]
-    de = 2G-Nachweis scannen
-    en = Scan 2G proof
+    de = 2G-Nachweis scannen
+    en = Scan 2G proof
 
 [result_2G_button_retry]
-    de = Nochmal versuchen
-    en = Try again
+    de = Nochmal versuchen
+    en = Try again
 
 [result_2G_button_startover]
-    de = Neue Prüfung
-    en = New check
+    de = Neue Prüfung
+    en = New check
 
 [result_2G_gproof_empty]
-    de = 2G-Nachweis*
-    en = 2G proof*
+    de = 2G-Nachweis*
+    en = 2G proof*
 
 [result_2G_gproof_valid]
-    de = 2G-Nachweis gültig*
-    en = Valid 2G proof*
+    de = 2G-Nachweis gültig*
+    en = Valid 2G proof*
 
 [result_2G_gproof_invalid]
-    de = 2G-Nachweis ungültig*
-    en = Invalid 2G proof*
+    de = 2G-Nachweis ungültig*
+    en = Invalid 2G proof*
 
 [result_2G_test_empty]
-    de = Testzertifikat
-    en = Test certificate
+    de = Testzertifikat
+    en = Test certificate
 
 [result_2G_test_invalid]
-    de = Testzertifikat ungültig
-    en = Invalid test certificate
+    de = Testzertifikat ungültig
+    en = Invalid test certificate
 
 [result_2G_invalid_subtitle]
-    de = Details anzeigen
-    en = Show details
+    de = Details anzeigen
+    en = Show details
 
 [result_2G_empty_subtitle]
-    de = Noch nicht geprüft
-    en = Not checked yet
+    de = Noch nicht geprüft
+    en = Not checked yet
 
 [warning_2G_names_title]
-    de = Abweichende Daten
-    en = Deviating details
+    de = Abweichende Daten
+    en = Deviating details
 
 [warning_2G_names_subtitle]
-    de = Die persönlichen Daten der beiden gescannten Nachweise stimmen nicht überein:
-    en = The personal details of the two scanned certificates do not match:
+    de = Die persönlichen Daten der beiden gescannten Nachweise stimmen nicht überein:
+    en = The personal details of the two scanned certificates do not match:
 
 [warning_2G_names_label_1stcert]
-    de = 2G-Nachweis
-    en = 2G proof
+    de = 2G-Nachweis
+    en = 2G proof
 
 [warning_2G_names_label_2ndcert]
-    de = Testzertifikat
-    en = Test certificate
+    de = Testzertifikat
+    en = Test certificate
 
 [warning_2G_names_ignore_title]
-    de = Kein Fehler?
-    en = Not an error?
+    de = Kein Fehler?
+    en = Not an error?
 
 [warning_2G_names_ignore_copy]
-    de = Sollte es sich Ihrer Ansicht zum Beispiel um einen Tippfehler handeln, können Sie diese Abweichung ignorieren und die Prüfung fortsetzen.
-    en = If you think this is not an error (e.g. a typo), you can ignore the discrepancy and continue the check.
+    de = Sollte es sich Ihrer Ansicht zum Beispiel um einen Tippfehler handeln, können Sie diese Abweichung ignorieren und die Prüfung fortsetzen.
+    en = If you think this is not an error (e.g. a typo), you can ignore the discrepancy and continue the check.
 
 [warning_2G_names_ignore_link]
-    de = Abweichung ignorieren
-    en = Ignore the discrepancy
+    de = Abweichung ignorieren
+    en = Ignore the discrepancy
 
 [error_2G_scanned_twice_title]
-    de = Zertifikat bereits gescannt
-    en = Certificate already scanned
+    de = Zertifikat bereits gescannt
+    en = Certificate already scanned
 
 [error_2G_scanned_twice_copy]
-    de = Sie haben dieses Zertifikat gerade gescannt. Für 2G+ sind meist jeweils ein Test- und ein Impf- oder Genesenenzertifikat zu prüfen.
-    en = You have just scanned this certificate. For 2G+, there is usually one test certificate and one vaccination or recovery certificate to check.
+    de = Sie haben dieses Zertifikat gerade gescannt. Für 2G+ sind meist jeweils ein Test- und ein Impf- oder Genesenenzertifikat zu prüfen.
+    en = You have just scanned this certificate. For 2G+, there is usually one test certificate and one vaccination or recovery certificate to check.
 
 [error_2G_scanned_twice_button]
-    ref = ok
+    ref = ok
 
 [error_2G_unexpected_type_title]
-    de = Falscher Zertifikatstyp
-    en = Wrong certificate type
+    de = Falscher Zertifikatstyp
+    en = Wrong certificate type
 
 [error_2G_unexpected_type_copy]
-    de = Das gescannte Zertifikat entspricht nicht dem erwarteten Zertifikatstyp. Für 2G+ müssen Sie einen 2G-Nachweis (Genesenen- oder Impfzertifikat) und ein Testzertifikat scannen.
-    en = The scanned certificate does not match the expected certificate type. For 2G+, you must scan a 2G proof (recovery or vaccination certificate) and a test certificate.
+    de = Das gescannte Zertifikat entspricht nicht dem erwarteten Zertifikatstyp. Für 2G+ müssen Sie einen 2G-Nachweis (Genesenen- oder Impfzertifikat) und ein Testzertifikat scannen.
+    en = The scanned certificate does not match the expected certificate type. For 2G+, you must scan a 2G proof (recovery or vaccination certificate) and a test certificate.
 
 [error_2G_unexpected_type_button]
-    ref = ok
+    ref = ok
 
 
 [[app information]]
