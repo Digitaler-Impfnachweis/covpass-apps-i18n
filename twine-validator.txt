@@ -137,12 +137,12 @@
     en = Overview
 
 [validation_start_screen_scan_title]
-    de = 3G prüfen
-    en = Check 3G
+    de = 3G prüfen
+    en = Check 3G
 
 [validation_start_screen_scan_title_2G]
-    de = 2G+ prüfen
-    en = Check 2G+
+    de = 2G+ prüfen
+    en = Check 2G+
 
 [validation_start_screen_scan_message]
     de = Scannen Sie einen G-Nachweis nach den 3G-Regeln. Welche Regelung gilt, ist abhängig vom Bundesland in dem Sie sich befinden.
@@ -445,16 +445,16 @@
 
 [[2G+ check results]]
 [accessibility_scan_result_announce_2G]
-    de = Überprüfungsergebnis für 2G+ wird angezeigt
-    en = Verification result for 2G+ is displayed
+    de = Überprüfungsergebnis für 2G+ wird angezeigt
+    en = Verification result for 2G+ is displayed
     
 [accessibility_scan_result_closing_announce_2G]
-    de = Die Ansicht Überprüfungsergebnis für 2G+ wurde geschlossen
-    en = The view "Verification result for 2G+“ has been closed
+    de = Die Ansicht Überprüfungsergebnis für 2G+ wurde geschlossen
+    en = The view "Verification result for 2G+“ has been closed
 
 [result_2G_title]
-    de = Prüfung 2G+
-    en = 2G+ check
+    de = Prüfung 2G+
+    en = 2G+ check
 
 [result_2G_close]
     ref = close
