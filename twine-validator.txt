@@ -447,7 +447,7 @@
 [accessibility_scan_result_announce_2G]
     de = Überprüfungsergebnis für 2G+ wird angezeigt
     en = Verification result for 2G+ is displayed
-    
+    
 [accessibility_scan_result_closing_announce_2G]
     de = Die Ansicht Überprüfungsergebnis für 2G+ wurde geschlossen
     en = The view "Verification result for 2G+“ has been closed
