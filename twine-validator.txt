@@ -519,6 +519,14 @@
     de = Noch nicht geprüft
     en = Not checked yet
 
+[accessibility_warning_2G_names_announce_open]
+    de = Fehlermeldung "Abweichende Daten" wurde geöffnet
+    en = Error message "Deviating data" was opened
+
+[accessibility_warning_2G_names_announce_close]
+    de = Fehlermeldung "Abweichende Daten" wurde geschlossen
+    en = Error message "Deviating data" was closed
+    
 [warning_2G_names_title]
     de = Abweichende Daten
     en = Deviating details
