@@ -2403,6 +2403,17 @@
     de = Abbrechen
     en = Cancel
 
+[error_share_certificate_unknown_provider_title]
+de = Unbekannter Anbieter
+en = Unknown provider
+
+[error_share_certificate_unknown_provider_copy]
+de = Der Anbieter „%d“ ist uns nicht bekannt. Aus Sicherheitsgründen ist die Übertragung von Informationen zu der Gültigkeit Ihrer Zertifikate nur an ausgewählte Anbieter möglich.
+en = The provider "%d" is not known to us. For security reasons, the transmission of information about the validity of your certificates is only possible to selected providers.
+
+[error_share_certificate_unknown_provider_button]
+ref = ok
+
 [accessibility_share_certificate_announce]
     de = Die Ansicht "Zertifikate zu Buchungszwecken freigeben" wurde geöffnet.
     en = The "Release certificates for booking purposes" view has been opened.
