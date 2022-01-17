@@ -435,8 +435,8 @@
     en = Negative PCR test from %d hours ago
 
 [validation_check_popup_valid_pcr_test_message]
-    de = Gleichen Sie folgende Daten mit einem Ausweisdokument der geprüften Person ab.
-    en = Check the following data against an ID document from the person you are checking.
+    de = Gleichen Sie folgende Daten mit einem Ausweisdokument der geprüften Person ab:
+    en = Check the following data against an ID document from the person you are checking:
 
 [validation_check_popup_valid_pcr_test_date_of_birth]
     de = Geboren am %@
