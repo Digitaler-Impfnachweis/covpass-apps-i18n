@@ -1299,8 +1299,8 @@
     en = Display current QR Code
 
 [recovery_certificate_overview_valid_until_title]
-    de = Genesung gültig bis %@
-    en = Recovery valid until %@
+    de = Genesung höchstens gültig bis %@
+    en = Recovery at most valid until %@
 
 [recovery_certificate_overview_valid_from_title]
     de = Genesung gültig ab %@
@@ -1886,12 +1886,12 @@
     en = Certificate valid from (Year-Month-Day)
 
 [recovery_certificate_detail_view_data_valid_until]
-    de = Zertifikat höchstens gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until at most (maximum 180 days after the date of the first positive test result)(YYYY-MM-DD)
-    en = Zertifikat höchstens gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until at most (maximum 180 days after the date of the first positive test result)(YYYY-MM-DD)
+    de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (maximum 180 days after the date of the first positive test result)(YYYY-MM-DD)
+    en = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) / Certificate valid until (maximum 180 days after the date of the first positive test result)(YYYY-MM-DD)
 
 [accessibility_recovery_certificate_detail_view_data_valid_until]
-    de = Zertifikat höchstens gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) (Jahr-Monat-Tag)
-    en = Certificate valid until at most (maximum 180 days after the date of the first positive test result)(Year-Month-Day)
+    de = Zertifikat gültig bis (höchstens 180 Tage ab dem Datum des ersten positiven Testergebnisses) (Jahr-Monat-Tag)
+    en = Certificate valid until (maximum 180 days after the date of the first positive test result)(Year-Month-Day)
 
 [recovery_certificate_detail_view_data_identifier]
     de = Zertifikatkennung / Unique certificate identifier
