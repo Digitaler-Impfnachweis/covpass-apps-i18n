@@ -1243,8 +1243,8 @@
     en = You are not yet considered fully vaccinated. Full vaccination takes effect 14 days after the final dose.
 
 [vaccination_certificate_overview_complete_title]
-    de = Vollständiger Impfschutz seit %@
-    en = Fully vaccinated since %@
+    de = Vollständiger Impfschutz
+    en = Fully vaccinated
 
 [certificates_overview_qr_scan_hint]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App überprüfen.
