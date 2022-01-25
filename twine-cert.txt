@@ -150,7 +150,33 @@
 [dialog_update_info_notification_action_button]
     de = OK
     en = OK
+    
+[accessibility_auditlog_announce]
+    de = Die Ansicht "Provide proof of your certificates when booking tickets" wurde geöffnet
+    en = The view "Provide proof of your certificates when booking tickets" has been opened
+    
+[auditlog_onboarding_title]
+    de = Nachweis Ihrer Zertifikate bei Ticketbuchungen
+    en = Provide proof of your certificates when booking tickets
 
+[auditlog_onboarding_tag]
+    de = Neu
+    en = New
+
+[auditlog_onboarding_copy]
+    de = Bei einer Ticketbuchung können Sie direkt während des Buchungsvorgangs die Gültigkeit Ihrer Zertifikate nachweisen. Scannen Sie dazu über den Plus-Button auf dem Startbildschirm den angezeigten QR-Code.\nDabei werden keine personenbezogenen Daten gespeichert. An das Buchungsportal wird lediglich der Zertifikatsstatus übermittelt. Alle teilnehmenden Anbieter sind ausgewählt und bekannt.
+    en = When booking a ticket, you can prove the validity of your certificates directly during the booking process. To do so, scan a QR code by clicking the Plus button on the start screen.\nNo personal data is stored in the process. Only the certificate status is transmitted to the booking portal. All participating providers are selected and known.
+
+[auditlog_onboarding_toggle_label]
+    de = Protokoll für Ticketbuchungen anlegen
+    en = Create log for ticket bookings
+
+[auditlog_onboarding_toggle_copy]
+    de = Ihre Buchungen können Sie in einer Liste für X Tage festhalten. Sie finden das Protokoll in den Einstellungen.
+    en = You can record your bookings in a list for X days. You can find the log in the settings.
+
+[auditlog_onboarding_button]
+    ref = ok
 
 [[start screen]]
 [accessibility_vaccination_start_screen_label_information]
@@ -2222,6 +2248,46 @@
 [app_information_title_open_source]
     de = Open-Source-Lizenzen
     en = Open-source licences
+
+[app_information_title_auditlog]
+    de = Protokoll für Ticketbuchungen
+    en = Log for ticket bookings
+
+[app_information_title_auditlog_active]
+    de = An
+    en = On
+   
+[app_information_title_auditlog_inactive]
+    de = Aus
+    en = Off
+
+[settings_auditlog_toggle_label]
+    de = Protokoll anlegen
+    en = Create log
+
+[settings_auditlog_empty_state]
+    de = Keine Einträge vorhanden
+    en = No records available
+
+[settings_auditlog_log_title]
+    de = Protokoll
+    en = Log
+
+[settings_auditlog_warning_title]
+    de = Wollen Sie das Protokoll wirklich deaktivieren?
+    en = Do you really want to disable the log?
+
+[settings_auditlog_warning_copy]
+    de = Dadurch werden die bisher vorhandenen Protokolleinträge unwiderruflich gelöscht.
+    en = This will irrevocably delete the currently existing log entries.
+    
+[settings_auditlog_warning_button1]
+    de = Nicht jetzt
+    en = Not now
+    
+[settings_auditlog_warning_button2]
+    de = Deaktivieren
+    en = Disable
 
 [app_information_message_open_source]
     de = Die App verwendet die folgenden Open-Source-Bibliotheken:
