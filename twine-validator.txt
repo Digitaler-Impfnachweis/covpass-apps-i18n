@@ -782,6 +782,10 @@
     de = Die Ansicht "Prüfregeln aktualisieren" wurde geöffnet
     en = The view "Update rule set" has been opened
 
+[accessibility_app_information_title_local_rules]
+    de = Die Ansicht "Prüfsituation" wurde geöffnet
+    en = The view "Check situation" has been opened
+
 [app_information_title_local_rules]
     de = Prüfsituation
     en = Check situation
