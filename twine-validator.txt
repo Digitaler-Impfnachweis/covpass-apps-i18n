@@ -175,8 +175,8 @@
     en = For example, in stores or in the gastronomy
 
 [check_context_onboarding_footnote]
-    de = Anhand dieser Angabe werden die Regeln angepasst, nach denen Resultate als Gültig oder Ungültig ausgewiesen werden. Sie können die Angabe jederzeit in den Einstellungen ändern.
-    en = This information is used to adjust the rules according to which results are shown as valid or invalid. You can change the specification at any time in the settings.
+    de = Anhand dieser Angabe werden die Regeln angepasst, nach denen Zertifikate als Gültig oder Ungültig ausgewiesen werden. Sie können die Angabe jederzeit in den Einstellungen ändern.
+    en = This information is used to adjust the rules according to which certificates are shown as valid or invalid. You can change the specification at any time in the settings.
 
 [check_context_onboarding_button]
     ref = ok
