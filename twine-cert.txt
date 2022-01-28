@@ -151,6 +151,29 @@
     de = OK
     en = OK
 
+[accessibility_dialog_local_rulecheck_title_announce]
+    de = Die Ansicht "Neue Inlandsregeln" wurde geöffnet
+    en = The view "New domestic rules" has been opened
+
+[dialog_local_rulecheck_title]
+    de = Sind Ihre Zertifikate in Deutschland gültig?
+    en = Are your certificates valid in Germany?
+
+[dialog_local_rulecheck_image]
+    de = Abbildung von zwei Menschen in einer Prüfsituation. Eine Person scannt das Zertifikat einer anderen Person. Darüber ist die EU-Flagge abgebildet.
+    en = Illustration of two people in a checking situation. One person is scanning the certificate of another person. The EU flag is depicted above it.
+
+[dialog_local_rulecheck_subtitle]
+    de = Wenn Ihre Zertifikate innerhalb Deutschlands geprüft werden, gelten mitunter strengere Regeln als bei Reisen in der EU.
+    en = When your certificates are checked within Germany, stricter rules sometimes apply than when traveling within the EU.
+
+[dialog_local_rulecheck_copy]
+    de = Zum Beispiel sind Genesenenzertifikate in Deutschland kürzer gültig als in der EU. Außerdem gilt eine einmalige Impfung mit Johnson & Johnson nicht mehr als vollständige Grundimmunisierung.\nSie können ab jetzt auf dem Startbildschirm unter „Gültigkeit prüfen“ eine Vorschau sehen, ob Ihre Zertifikate nach den Inlandsregeln in Deutschland gültig sind.
+    en = For example, certificates of recovery are valid for a shorter period in Germany than in the EU. In addition, a single vaccination with Johnson & Johnson no longer counts as complete basic immunization.\nFrom now on, you can preview whether your certificates are valid in Germany according to the domestic rules under "Check validity" on the start screen.
+
+[dialog_local_rulecheck_button]
+    ref = ok
+
 
 [[start screen]]
 [accessibility_vaccination_start_screen_label_information]
@@ -613,8 +636,12 @@
     en = Bulgaria
 
 [DE]
-    de = Deutschland
-    en = Germany
+    de = Deutschland — Einreiseregeln
+    en = Germany — Entry rules
+
+[DE2]
+    de = Deutschland – Inlandsregeln
+    en = Germany — Domestic rules
 
 [LU]
     de = Luxemburg
@@ -1000,6 +1027,10 @@
 [certificate_check_validity_no_certificate_saved_message]
     de = Fügen Sie ein Zertifikat hinzu, um dessen Gültigkeit zu überprüfen.
     en = Add a certificate so you can check its validity.
+
+[certificate_check_german_infobox]
+    de = Innerhalb Deutschlands gelten andere Regeln als für die Einreise nach Deutschland. Sie können Ihre Auswahl oberhalb ändern.
+    en = Different rules apply within Germany than for entry into Germany. You can change your selection above.
 
 [certificate_check_validity_vaccination]
     de = Impfzertifikat
@@ -2067,8 +2098,8 @@
     en = QR code not recognised
 
 [error_scan_qrcode_cannot_be_parsed_message]
-    de = Der QR-Code gehört nicht zu einem digitalen COVID-Zertifikat der EU. Sie erkennen das richtige Zertifikat in Deutschland daran, dass der Aussteller das Robert Koch-Institut ist.\n\nQR-Codes von zum Beispiel Impfbescheinigungen oder QR-Codes auf einigen Chargen-Aufklebern aus dem gelben Impfbuch können nicht hinzugefügt werden.
-    en = This QR code does not belong to an EU Digital COVID Certificate. In Germany, you can see that a certificate is correct when it has been issued by the Robert Koch Institute. \n\nYou cannot add QR codes from doctor-issued vaccination certificates or the QR codes on some batch labels in yellow vaccination booklets.
+    de = Der gescannte QR-Code konnte nicht als COVID-Zertifikat der EU oder als Nachweis für Ticketbuchungen erkannt werden. Bitte scannen Sie einen geeigneten QR-Code.
+    en = The scanned QR code could not be recognized as an EU COVID certificate or as a proof for ticket bookings. Please scan a suitable QR code.
 
 [error_scan_qrcode_cannot_be_parsed_button_title]
     ref = ok
