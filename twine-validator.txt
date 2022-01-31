@@ -577,7 +577,35 @@
 [result_2G_empty_subtitle]
     de = Noch nicht geprüft
     en = Not checked yet
-
+    
+[result_2G_2nd_recovery_valid]
+    de = Genesung
+    en = Recovery
+    
+[result_2G_2nd_basic_valid]
+    de = Grundimmunisierung
+    en = Basic immunisation
+    
+[result_2G_2nd_booster_valid]
+    de = Auffrischungsimpfung
+    en = Booster vaccination
+    
+[result_2G_2nd_empty]
+    de = Kann für 2G+ notwendig sein
+    en = May be required for 2G+
+    
+[result_2G_2nd_timestamp_hours]
+    de = Vor %d Stunden
+    en = %d hours ago
+    
+[result_2G_2nd_timestamp_days]
+    de = Vor %d Tagen
+    en = %d days ago
+    
+[result_2G_2nd_timestamp_months]
+    de = Vor %d Monaten
+    en = %d months ago
+    
 [accessibility_warning_2G_names_announce_open]
     de = Fehlermeldung "Abweichende Daten" wurde geöffnet
     en = Error message "Deviating data" was opened
