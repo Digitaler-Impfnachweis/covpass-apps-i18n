@@ -589,6 +589,14 @@
 [result_2G_2nd_booster_valid]
     de = Auffrischungsimpfung
     en = Booster vaccination
+
+[result_2G_2nd_rapidtest_valid]
+    de = Negativer Schnelltest
+    en = Negative rapid test
+    
+[result_2G_2nd_pcrtest_valid]
+    de = Negativer PCR-Test
+    en = Negative PCR test
     
 [result_2G_2nd_empty]
     de = Kann für 2G+ notwendig sein
