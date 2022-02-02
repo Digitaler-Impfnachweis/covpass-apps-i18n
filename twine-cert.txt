@@ -636,12 +636,12 @@
     en = Bulgaria
 
 [DE]
-    de = Deutschland — Einreiseregeln
-    en = Germany — Entry rules
+    de = Deutschland - Einreiseregeln
+    en = Germany - Entry rules
 
 [DE2]
-    de = Deutschland – Inlandsregeln
-    en = Germany — Domestic rules
+    de = Deutschland - Inlandsregeln
+    en = Germany - Domestic rules
 
 [LU]
     de = Luxemburg
