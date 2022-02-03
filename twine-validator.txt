@@ -614,6 +614,26 @@
     de = Vor %d Monaten
     en = %d months ago
     
+[result_2G_3rd_test_vacc_empty]
+    de = Test oder Impfung*
+    en = Test or vaccination*
+    
+[result_2G_3rd_test_recov_empty]
+    de = Test oder Genesung
+    en = Test or recovery
+
+[result_2G_3rd_vacc_recov_empty]
+    de = Impfung* oder Genesung
+    en = Vaccination* or recovery
+
+[result_2G__3rd_footnote]
+    de = * Erwartet Grundimmunisierung oder Auffrischungsimpfung
+    en = * Basic immunization or booster vaccination expected
+
+[result_2G__3rd_button]
+    de = Zweites Zertifikat scannen
+    en = Scan second certificate
+    
 [accessibility_warning_2G_names_announce_open]
     de = Fehlermeldung "Abweichende Daten" wurde geöffnet
     en = Error message "Deviating data" was opened
