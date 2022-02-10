@@ -2265,7 +2265,11 @@
 [app_information_title_accessibility_statement]
     de = Barrierefreiheitserklärung
     en = Accessibility statement
-
+    
+[app_information_title_accessibility_statement_linked]
+   de = #Barrierefreiheitserklärung::$0#
+   en = #Accessibility statement::$0#
+ 
 [app_information_title_update]
     de = Einreiseregeln aktualisieren
     en = Update rules of entry
