@@ -781,7 +781,11 @@
 [app_information_title_accessibility_statement]
     de = Barrierefreiheitserklärung
     en = Accessibility statement
-
+    
+[app_information_title_accessibility_statement_linked]
+    de = #Barrierefreiheitserklärung::$0#
+    en = #Accessibility statement::$0#
+    
 [accessibility_app_information_title_open_source_announce]
     de = Die Ansicht "Open-Source-Lizenzen" wurde geöffnet
     en = The view "Open-source licences" has been opened
