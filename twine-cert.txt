@@ -2776,10 +2776,8 @@
     en = To ensure that certificates can only be updated once, the identifier of the old certificate is documented by the RKI.
 
 [certificate_renewal_consent_page_transfer_certificates_copy]
-    de = Die Aktualisierung des Zertifikats ist freiwillig und kostenlos.
-Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
-    en = The renewal of the certificate is voluntary and free of charge.
-Detailed information on data processing can be found in the privacy policy:
+    de = Die Aktualisierung des Zertifikats ist freiwillig und kostenlos. Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
+    en = The renewal of the certificate is voluntary and free of charge. Detailed information on data processing can be found in the privacy policy:
 
 [certificate_renewal_consent_page_transfer_certificates_button_link]
     de = Datenschutzerklärung
