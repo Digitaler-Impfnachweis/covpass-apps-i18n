@@ -2265,11 +2265,11 @@
 [app_information_title_accessibility_statement]
     de = Barrierefreiheitserklärung
     en = Accessibility statement
-    
+
 [app_information_title_accessibility_statement_linked]
    de = #Barrierefreiheitserklärung::$0#
    en = #Accessibility statement::$0#
- 
+
 [app_information_title_update]
     de = Einreiseregeln aktualisieren
     en = Update rules of entry
@@ -2730,17 +2730,15 @@
 [certificate_renewal_startpage_headline]
     de = Änderungen bei Ihren Zertifikaten
     en = Changes to your certificates
-    
+
 [certificate_renewal_startpage_copy]
-    de = Die Spezifikationen der EU für bestimmte Impfzertifikate wurden geändert. Dieses Zertifikat entspricht nicht der aktuellen Nummerierung. Es ist weiterhin gültig. Falls es sich jedoch um ein Zertifikat für eine Auffrischungsimpfung handelt, wird diese bei einer Prüfung nicht erkannt.
-Wir empfehlen Ihnen daher, ein neues Impfzertifikat mit der Nummer 2/1 direkt kostenlos über die App anzufordern. Hierfür ist Ihr Einverständnis erforderlich.
-    en = The EU specifications for certain vaccination certificates have been changed. This certificate does not correspond to the current numbering. It is still valid. However, if it is a certificate for a booster vaccination, it will not be recognized as such when checked.
-Therefore we recommend requesting a new certificate with the number 2/1 directly free of charge via the app.
+    de = Die Spezifikationen der EU für bestimmte Impfzertifikate wurden geändert. Dieses Zertifikat entspricht nicht der aktuellen Nummerierung. Es ist weiterhin gültig. Falls es sich jedoch um ein Zertifikat für eine Auffrischungsimpfung handelt, wird diese bei einer Prüfung nicht erkannt. Wir empfehlen Ihnen daher, ein neues Impfzertifikat mit der Nummer 2/1 direkt kostenlos über die App anzufordern. Hierfür ist Ihr Einverständnis erforderlich.
+    en = The EU specifications for certain vaccination certificates have been changed. This certificate does not correspond to the current numbering. It is still valid. However, if it is a certificate for a booster vaccination, it will not be recognized as such when checked. Therefore we recommend requesting a new certificate with the number 2/1 directly free of charge via the app.
 
 [certificate_renewal_startpage_copy_box]
     de = Der Vorgang ist ganz unkompliziert und dauert nur wenige Minuten. Sie können die Erneuerung auch später in der Detailansicht Ihrer Zertifikate anstoßen.
     en = The process is uncomplicated and takes only a few minutes. You can trigger the renewal also later in the detail view of your certificates.
-    
+
 [certificate_renewal_startpage_main_button]
     de = Jetzt erneuern
     en = Renew now
@@ -2748,19 +2746,19 @@ Therefore we recommend requesting a new certificate with the number 2/1 directly
 [certificate_renewal_startpage_secondary_button]
     de = Später nachholen
     en = Renew later
-    
+
 [certificate_renewal_consent_page_transfer_certificates_headline]
     de = Einwilligung zur Übermittlung Ihrer Zertifikate an das RKI
     en = Consent to transmitting your certificates to the RKI
-    
+
 [certificate_renewal_consent_page_transfer_certificates_subline]
     de = Zertifikate, die einmalig übermittelt werden:
     en = Certificates transmitted once:
-    
+
 [certificate_renewal_consent_page_transfer_certificates_consent_box_subline]
     de = Ihr Einverständnis
     en = Your consent
-    
+
 [certificate_renewal_consent_page_transfer_certificates_consent_box_copy]
     de = Durch Antippen von „Einverstanden“ willigen Sie in die folgenden Schritte ein:
     en = By clicking "Agree" you agree to the following steps:
@@ -2786,15 +2784,15 @@ Detailed information on data processing can be found in the privacy policy:
 [certificate_renewal_consent_page_transfer_certificates_button_link]
     de = Datenschutzerklärung
     en = Privacy policy
-    
+
 [certificate_renewal_consent_page_transfer_certificates_confirmation_button]
     de = Einverstanden
     en = Agree
-    
+
 [certificate_renewal_consent_page_transfer_certificates_cancel_button]
     de = Abbrechen
     en = Cancel
-    
+
 [certificate_renewal_confirmation_page_headline]
     de = Ihr Zertifikat wurde erfolgreich erneuert
     en = Your certificate was successfully renewed
@@ -2802,19 +2800,19 @@ Detailed information on data processing can be found in the privacy policy:
 [certificate_renewal_confirmation_page_copy]
     de = Ihr neues Zertifikat ersetzt das vorherige vollständig. Sie können das alte Zertifikat jetzt löschen.
     en = Your new certificate completely replaces the previous one. You can delete the old certificate now.
-    
+
 [certificate_renewal_confirmation_page_certificate_list_new]
     de = Neues Zertifikat:
     en = New certificate:
-    
+
 [certificate_renewal_confirmation_page_certificate_list_old]
     de = Altes Zertifikat:
     en = Old certificate:
-    
+
 [certificate_renewal_confirmation_page_certificate_delete_button]
     de = Altes Zertifikat löschen
     en = Delete old certificate
-    
+
 [certificate_renewal_confirmation_page_certificate_secondary_button]
     de = Später löschen
     en = Delete later
