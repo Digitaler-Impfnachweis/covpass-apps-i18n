@@ -479,8 +479,8 @@
     en = Always display this person's certificates in first place: not active
 
 [certificate_action_button_check_validity]
-    de = Für Reisen prüfen
-    en = Check for travel
+    de = Gültigkeit prüfen
+    en = Check validity
 
 
 [[screen: check validity]]
@@ -528,8 +528,8 @@
     en = The view "Select time" has been closed
 
 [certificate_check_validity_title]
-    de = Gültigkeit für Reisen prüfen
-    en = Check validity for travel
+    de = Gültigkeit prüfen
+    en = Check validity
 
 [accessibility_certificate_check_validity_selection_country_selected]
     de = %@, ausgewählt
