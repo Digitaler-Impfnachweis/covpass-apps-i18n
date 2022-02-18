@@ -663,7 +663,7 @@
     en = Not an error?
 
 [warning_2G_names_ignore_copy]
-    de = Sollte es sich Ihrer Ansicht zum Beispiel um einen Tippfehler handeln, können Sie diese Abweichung ignorieren und die Prüfung fortsetzen.
+    de = Sollte es sich Ihrer Ansicht nach zum Beispiel um einen Tippfehler handeln, können Sie diese Abweichung ignorieren und die Prüfung fortsetzen.
     en = If you think this is not an error (e.g. a typo), you can ignore the discrepancy and continue the check.
 
 [warning_2G_names_ignore_link]
