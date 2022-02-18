@@ -1611,6 +1611,10 @@
 [vaccination_certificate_detail_view_data_vaccine_country]
     de = Land der Impfung / Country vaccinating
     en = Land der Impfung / Country vaccinating
+    
+[vaccination_certificate_detail_view_data_vaccine_country_germany]
+    de = Deutschland
+    en = Germany
 
 [accessibility_vaccination_certificate_detail_view_data_vaccine_country]
     de = Land der Impfung
