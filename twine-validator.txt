@@ -870,6 +870,10 @@
     de = Signalton beim Scannen
     en = Beep when checking
 
+[app_information_authorities_function_title]
+    de = Behördenfunktion]
+    en = 
+
 [app_information_beep_when_checking_message]
     de = Sie hören bei der Anzeige eines Ergebnisses zusätzlich einen Signalton. Nutzen Sie diese Funktion nur, wenn Sie gewährleisten können, dass umstehende Dritte keine Rückschlüsse auf den Gültigkeitsstatus der geprüften Person ziehen können. Die Identitätsprüfung mittels eines Ausweisdokumentes ist auch weiterhin zwingend notwendig.
     en = You will also hear a beep when a result is displayed. Only use this function if you can guarantee that bystanders cannot draw any conclusions about the validity status of the person being checked. The identity check by means of an identification document is still mandatory.
@@ -935,3 +939,19 @@
 [error_scan_qrcode_cannot_be_parsed_button_title]
     de = OK
     en = OK
+
+[[revocation]]
+[revocation_headline]
+    de = Behördenfunktion
+    en = Function for authorities
+[revocation_copy]
+    de = Bei Aktivierung dieser Funktion können Informationen zur Sperrung eines Zertifikats angezeigt werden. Dies ist nur für Behörden relevant. Lassen Sie diese Funktion im normalen Gebrauch deaktiviert.
+    en = When this function is activated, information about the revocation of a certificate can be displayed. This is only relevant for authorities. Leave this function deactivated in normal use.
+    
+[revocation_toggle_text]
+    de = Informationen zur Sperrung anzeigen
+    en = Show revocation information
+    
+[validation_check_popup_revoked_certificate_link_text]
+    de = Informationen zur Sperrung anzeigen
+    en = Show revocation information
