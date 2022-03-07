@@ -963,3 +963,372 @@
 [validation_check_popup_revoked_certificate_link_text]
     de = Informationen zur Sperrung anzeigen
     en = Show revocation information
+
+
+[[country list names]]
+[IT]
+    de = Italien
+    en = Italy
+
+[LT]
+    de = Litauen
+    en = Lithuania
+
+[DK]
+    de = Dänemark
+    en = Denmark
+
+[GR]
+    de = Griechenland
+    en = Greece
+
+[CZ]
+    de = Tschechien
+    en = Czech Republic
+
+[HR]
+    de = Kroatien
+    en = Croatia
+
+[IS]
+    de = Island
+    en = Iceland
+
+[PT]
+    de = Portugal
+    en = Portugal
+
+[PL]
+    de = Polen
+    en = Poland
+
+[BE]
+    de = Belgien
+    en = Belgium
+
+[BG]
+    de = Bulgarien
+    en = Bulgaria
+
+[DE]
+    de = Deutschland - Einreiseregeln
+    en = Germany - Entry rules
+
+[DE2]
+    de = Deutschland - Inlandsregeln
+    en = Germany - Domestic rules
+
+[LU]
+    de = Luxemburg
+    en = Luxembourg
+
+[EE]
+    de = Estland
+    en = Estonia
+
+[CY]
+    de = Zypern
+    en = Cyprus
+
+[ES]
+    de = Spanien
+    en = Spain
+
+[NL]
+    de = Niederlande
+    en = Netherlands
+
+[AT]
+    de = Österreich
+    en = Austria
+
+[LV]
+    de = Lettland
+    en = Latvia
+
+[LI]
+    de = Liechtenstein
+    en = Liechtenstein
+
+[FI]
+    de = Finnland
+    en = Finland
+
+[SE]
+    de = Schweden
+    en = Sweden
+
+[SI]
+    de = Slowenien
+    en = Slovenia
+
+[RO]
+    de = Rumänien
+    en = Romania
+
+[NO]
+    de = Norwegen
+    en = Norway
+
+[SK]
+    de = Slowakei
+    en = Slovakia
+
+[FR]
+    de = Frankreich
+    en = France
+
+[MT]
+    de = Malta
+    en = Malta
+
+[HU]
+    de = Ungarn
+    en = Hungary
+
+[IE]
+    de = Irland
+    en = Ireland
+
+[CH]
+    de = Schweiz
+    en = Switzerland
+
+[UA]
+    de = Ukraine
+    en = Ukraine
+
+[VA]
+    de = Vatikanstadt
+    en = Vatican City
+
+[SM]
+    de = San Marino
+    en = San Marino
+
+[TR]
+    de = Türkei
+    en = Turkey
+
+[MK]
+    de = Nordmazedonien
+    en = North Macedonia
+
+[AD]
+    de = Andorra
+    en = Andorra
+
+[MC]
+    de = Monaco
+    en = Monaco
+
+[FO]
+    de = Färöer-Inseln
+    en = Faroe Islands
+
+[MA]
+    de = Marokko
+    en = Morocco
+
+[AL]
+    de = Albanien
+    en = Albania
+
+[IL]
+    de = Israel
+    en = Israel
+
+[PA]
+    de = Panama
+    en = Panama
+
+[TG]
+    de = Togo
+    en = Togo
+
+[SG]
+    de = Singapur
+    en = Singapore
+
+[GB]
+    de = Großbritannien
+    en = Great Britain
+
+[AM]
+    de = Armenien
+    en = Armenia
+
+[GE]
+    de = Georgien
+    en = Georgia
+
+[NZ]
+    de = Neuseeland
+    en = New Zealand
+
+[DZ]
+    de = Algerien
+    en = Algeria
+
+[AZ]
+    de = Aserbaidschan
+    en = Azerbaijan
+
+[BH]
+    de = Bahrain
+    en = Bahrain
+
+[BJ]
+    de = Benin
+    en = Benin
+
+[BA]
+    de = Bosnien und Herzegowina
+    en = Bosnia and Herzegovina
+
+[BR]
+    de = Brasilien
+    en = Brazil
+
+[BI]
+    de = Burundi
+    en = Burundi
+
+[CV]
+    de = Kap Verde
+    en = Cabo Verde
+
+[CA]
+    de = Kanada
+    en = Canada
+
+[CL]
+    de = Chile
+    en = Chile
+
+[CO]
+    de = Kolumbien
+    en = Colombia
+
+[DO]
+    de = Dominikanische Republik
+    en = Dominican Republic
+
+[SV]
+    de = El Salvador
+    en = El Salvador
+
+[EG]
+    de = Ägypten
+    en = Egypt
+
+[HK]
+    de = Hongkong
+    en = Hong Kong
+
+[JP]
+    de = Japan
+    en = Japan
+
+[JO]
+    de = Jordanien
+    en = Jordan
+
+[KZ]
+    de = Kasachstan
+    en = Kazakhstan
+
+[KE]
+    de = Kenia
+    en = Kenya
+
+[KR]
+    de = Republik Korea
+    en = Korea (ROK)
+
+[XK]
+    de = Kosovo
+    en = Kosovo
+
+[KW]
+    de = Kuwait
+    en = Kuwait
+
+[LB]
+    de = Libanon
+    en = Lebanon
+
+[MY]
+    de = Malaysia
+    en = Malaysia
+
+[MN]
+    de = Mongolei
+    en = Mongolia
+
+[ME]
+    de = Montenegro
+    en = Montenegro
+
+[MD]
+    de = Moldawien
+    en = Moldova
+
+[RU]
+    de = Russland
+    en = Russia
+
+[RW]
+    de = Ruanda
+    en = Rwanda
+
+[RS]
+    de = Serbien
+    en = Serbia
+
+[SD]
+    de = Sudan
+    en = South Sudan
+
+[TW]
+    de = Taiwan
+    en = Taiwan
+
+[TZ]
+    de = Tansania
+    en = Tanzania
+
+[TH]
+    de = Thailand
+    en = Thailand
+
+[TN]
+    de = Tunesien
+    en = Tunisia
+
+[AE]
+    de = Vereinte Arabische Emirate
+    en = UAE
+
+[UG]
+    de = Uganda
+    en = Uganda
+
+[US]
+    de = Vereinigte Staaten von Amerika
+    en = United States
+
+[UY]
+    de = Uruguay
+    en = Uruguay
+
+[VN]
+    de = Vietnam
+    en = Vietnam
+
+[AR]
+    de = Argentinien
+    en = Argentina
+[MX]
+    de = Mexiko
+    en = Mexico
