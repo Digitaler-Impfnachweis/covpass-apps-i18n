@@ -1,0 +1,17 @@
+name: Validate twine files
+on: [push]
+jobs:
+  install-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - name: Install twine
+        run: |
+          gem install twine
+      - name: Validate files
+        run: |
+          twine validate-twine-file twine-cert.txt
+          twine validate-twine-file twine-validator.txt
