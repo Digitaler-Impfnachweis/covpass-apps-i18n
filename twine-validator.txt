@@ -984,9 +984,9 @@
     de = Technisches Ablaufdatum
     en = Technical expiry date
     
-[revocation_detail_page_date_of_issue]
+[revocation_detail_page_date_of_issuance]
     de = Ausstellungsdatum
-    en = Date of issue
+    en = Date of issuance
     
 [[country list names]]
 
