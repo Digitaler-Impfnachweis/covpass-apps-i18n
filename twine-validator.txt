@@ -996,6 +996,14 @@
     de = Ausstellungsdatum
     en = Date of issuance
     
+[accessibility_revocation_detail_page_announce]
+    de = Technische Details zum Zertifikat wurden geöffnet
+    en = Technical details of the certificate have been opened
+ 
+[certificate_share_pdf_shareitem_android_covpasscheck]
+    de = PDF speichern
+    en = Save PDF
+    
 [[country list names]]
 
 [IT]
