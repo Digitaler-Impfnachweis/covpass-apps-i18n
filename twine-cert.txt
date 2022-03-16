@@ -2826,3 +2826,18 @@
 [certificate_renewal_detail_view_notification_box_secondary_button]
     de = Aktualisieren
     en = Update
+
+[certificate_renewal_error_title]
+    de = Neuausstellung fehlgeschlagen
+    en = Reissue failed
+    
+[certificate_renewal_error_copy]
+    de = Leider gab es ein Problem bei der Neuaustellung Ihres Zertifikates. Bitte überprüfen Sie Ihre Internetverbindung und beachten Sie, dass das selbe Zertifikat maximal drei Mal im Jahr neu ausgestellt werden kann. Sollte der Fehler wiederholt auftreten, finden Sie mit Hilfe des unten aufgeführten Fehlercodes weitere Informationen in den Häufigen Fragen.\n\nFehlercode: %@
+    en = Unfortunately, there was a problem reissuing your certificate. Please check your Internet connection and note that the same certificate can be reissued a maximum of three times a year. If the error persists, please refer to the Frequently Asked Questions for more information using the error code below.\n\nError code: %@
+    
+[certificate_renewal_error_button_primary]
+    ref = ok
+
+[certificate_renewal_error_button_secondary]
+    de = Mehr Informationen
+    en = More information
