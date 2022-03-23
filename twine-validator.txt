@@ -1004,6 +1004,10 @@
     de = PDF speichern
     en = Save PDF
     
+[accessibility_revocation_settings_page_announce]
+    de = Einstellungen zur Behördenfunktion wurden geöffnet
+    en = Settings about the function for authorities were opened
+    
 [[country list names]]
 
 [IT]
