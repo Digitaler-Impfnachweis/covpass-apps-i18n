@@ -462,8 +462,8 @@
     en = Close
 
 [validation_check_popup_test_title]
-    de = Negativer Schnelltest von vor %d Stunden
-    en = Negative rapid test from %d hours ago
+    de = Negativer Schnelltest von vor %d Stunde(n)
+    en = Negative rapid test from %d hour(s) ago
 
 [validation_check_popup_test_message]
     de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
@@ -486,8 +486,8 @@
     en = Close
 
 [validation_check_popup_valid_pcr_test_title]
-    de = Negativer PCR-Test von vor %d Stunden
-    en = Negative PCR test from %d hours ago
+    de = Negativer PCR-Test von vor %d Stunde(n)
+    en = Negative PCR test from %d hour(s) ago
 
 [validation_check_popup_valid_pcr_test_message]
     de = Gleichen Sie folgende Daten mit einem Ausweisdokument der geprüften Person ab:
@@ -607,16 +607,16 @@
     en = May be required for 2G+
     
 [result_2G_2nd_timestamp_hours]
-    de = Vor %d Stunden
-    en = %d hours ago
+    de = Vor %d Stunde(n)
+    en = %d hour(s) ago
     
 [result_2G_2nd_timestamp_days]
-    de = Vor %d Tagen
-    en = %d days ago
+    de = Vor %d Tage(n)
+    en = %d day(s) ago
     
 [result_2G_2nd_timestamp_months]
-    de = Vor %d Monaten
-    en = %d months ago
+    de = Vor %d Monat(en)
+    en = %d month(s) ago
     
 [result_2G_3rd_test_vacc_empty]
     de = Test oder Impfung*
