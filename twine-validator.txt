@@ -195,6 +195,10 @@
     de = 3G prüfen
     en = Check 3G
 
+[validation_start_screen_scan_title_2Gn]
+    de = 2G prüfen
+    en = Check 2G
+
 [validation_start_screen_scan_title_2G]
     de = 2G+ prüfen
     en = Check 2G+
@@ -206,6 +210,10 @@
 [validation_start_screen_scan_message_2G]
     de = Scannen Sie nacheinander die notwendigen Nachweise für 2G+.
     en = Scan the necessary evidence for 2G+ one by one.
+
+[validation_start_screen_scan_message_2Gn]
+    de = Scannen Sie einen G-Nachweis nach den 2G-Regeln. Welche Regelung gilt, ist abhängig vom Bundesland in dem Sie sich befinden.
+    en = Scan a G-Proof according to the 2G rules. Which rule applies depends on the federal state you are in.
 
 [validation_start_screen_scan_message_2G_toggle]
     de = Bei Auffrischungsimpfungen ist kein Test nötig
@@ -523,6 +531,11 @@
     de = Prüfung 2G+
     en = 2G+ check
 
+
+[result_2Gn_title]
+    de = Prüfung 2G
+    en = 2G check
+
 [result_2G_close]
     ref = close
 
@@ -589,7 +602,11 @@
 [result_2G_2nd_basic_valid]
     de = Grundimmunisierung
     en = Basic immunisation
-    
+
+[result_2Gn_2nd_partial_valid]
+    de = Impfung 1 von 2
+    en = Vaccination 1 of 2
+
 [result_2G_2nd_booster_valid]
     de = Auffrischungsimpfung
     en = Booster vaccination
@@ -603,9 +620,13 @@
     en = Negative PCR test
     
 [result_2G_2nd_empty]
-    de = Kann für 2G+ notwendig sein
-    en = May be required for 2G+
-    
+    de = Für 2G+ notwendig
+    en = Required for 2G+
+
+[result_2Gn_2nd_empty]
+    de = Für 2G notwendig
+    en = Required for 2G
+
 [result_2G_2nd_timestamp_hours]
     de = Vor %d Stunde(n)
     en = %d hour(s) ago
@@ -621,7 +642,11 @@
 [result_2G_3rd_test_vacc_empty]
     de = Test oder Impfung*
     en = Test or vaccination*
-    
+
+[result_2Gn_vacc_empty]
+    de = Impfung
+    en = Vaccination
+
 [result_2G_3rd_test_recov_empty]
     de = Test oder Genesung
     en = Test or recovery
