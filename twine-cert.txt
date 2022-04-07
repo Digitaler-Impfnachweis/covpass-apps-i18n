@@ -1414,8 +1414,8 @@
     en = Check vaccination status. Sensible health data will follow. Please take care that nobody can listen to or read on your smartphone.
 
 [certificates_overview_currently_uses_certificate_note]
-    de = Aktuell verwendetes Zertifikat
-    en = Certificate currently in use
+    de = Auf dem Startbildschirm angezeigt
+    en = Displayed on the start screen
 
 [certificates_overview_expires_soon_certificate_note]
     de = Zertifikat läuft bald ab
