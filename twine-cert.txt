@@ -2832,8 +2832,8 @@
     en = Reissue failed
     
 [certificate_renewal_error_copy]
-    de = Leider gab es ein Problem bei der Neuaustellung Ihres Zertifikates. Bitte überprüfen Sie Ihre Internetverbindung und beachten Sie, dass das selbe Zertifikat maximal drei Mal im Jahr neu ausgestellt werden kann. Sollte der Fehler wiederholt auftreten, finden Sie mit Hilfe des unten aufgeführten Fehlercodes weitere Informationen in den Häufigen Fragen.\n\nFehlercode: %@
-    en = Unfortunately, there was a problem reissuing your certificate. Please check your Internet connection and note that the same certificate can be reissued a maximum of three times a year. If the error persists, please refer to the Frequently Asked Questions for more information using the error code below.\n\nError code: %@
+    de = Leider gab es ein Problem bei der Neuausstellung Ihres Zertifikats. Bitte überprüfen Sie Ihre Internetverbindung. Beachten Sie, dass Sie das Zertifikat maximal drei Mal im Jahr neu ausstellen lassen können. Für Informationen zum unten aufgeführten Fehlercode kontaktieren Sie bitte unsere Hotline unter 0800-4747-001 oder support@covpass-app.de.\n\nFehlercode: %@
+    en = Unfortunately, there was a problem reissuing your certificate. Please check your internet connection. Note that the certificate can be reissued a maximum of three times a year. For more information on the error code below please contact our hotline at 0800-4747-001 or support@covpass-app.de.\n\nError code: %@
     
 [certificate_renewal_error_button_primary]
     ref = ok
