@@ -1254,8 +1254,8 @@
     en = Display current QR Code
 
 [vaccination_certificate_overview_incomplete_title]
-    de = Unvollständiger Impfschutz: %d von %d
-    en = Not fully vaccinated: %d of %d
+    de = Unvollständiger Impfschutz
+    en = Not fully vaccinated
 
 [vaccination_certificate_overview_incomplete_message]
     de = Ihr Impfschutz ist nicht vollständig. Um den QR-Code als Nachweis für einen kompletten Impfschutz vorzeigen zu können, fügen Sie bitte eine weitere Impfung hinzu.
