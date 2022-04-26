@@ -133,7 +133,10 @@
 [dialog_start_screen_button_update]
     de = Aktualisieren
     en = Update
-
+    
+[dialog_update_info_notification_action_button]
+    ref = OK
+    
 [accessibility_update_info_announce]
     de = Die Ansicht "Neue Funktionen" wurde geöffnet
     en = The view "New features" has been opened
