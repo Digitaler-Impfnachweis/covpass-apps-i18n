@@ -255,6 +255,38 @@
 
 [certificates_start_screen_pop_up_app_reference_button]
     ref = ok
+    
+[certificate_type_recovery]
+    de = Genesung
+    en = Recovery
+
+[certificate_type_basic_immunisation]
+    de = Grundimmunisierung
+    en = Basic immunisation
+
+[certificate_type_booster]
+    de = Auffrischungsimpfung
+    en = Booster vaccination
+
+[certificate_type_rapidtest]
+    de = Antigen-Schnelltest
+    en = antigen rapid test
+
+[certificate_type_pcrtest]
+    de = PCR-Test
+    en = PCR test
+
+[certificate_timestamp_hours]
+    de = Vor %d Stunde(n)
+    en = %d hour(s) ago
+
+[certificate_timestamp_days]
+    de = Vor %d Tage(n)
+    en = %d day(s) ago
+
+[certificate_timestamp_months]
+    de = Vor %d Monat(en)
+    en = %d month(s) ago
 
 [accessibility_certificates_start_screen_pop_up_app_reference_label]
     de = Pop-up schließen
