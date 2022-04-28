@@ -698,7 +698,17 @@
 
 [error_2G_unexpected_type_button]
     ref = ok
+    
+[error_2G_unexpected_type_old_recovery_title]
+    de = Falscher Zertifikatstyp
+    en = Wrong certificate type
 
+[error_2G_unexpected_type_old_recovery_copy]
+    de = Um 2G+ mit einem Genesenenzertifikat, das älter als 90 Tage ist, zu erfüllen, müssen Sie als zweiten Nachweis eine Grundimmunisierung scannen.
+    en = To meet the 2G+ requirements with a recovery older than 90 days, you need to scan a basic immunisation as a second proof.
+
+[error_2G_unexpected_type_old_recovery_button]
+    ref = ok
 
 [[app information]]
 [accessibility_app_information_label_back]
