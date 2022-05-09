@@ -1382,8 +1382,8 @@
     en = Certificate expired
 
 [certificates_overview_expired_message]
-    de = Das Ablaufdatum Ihrer Zertifikate wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = The expiry date of your certificates has passed. Please make every effort to have a new digital certificate issued.
+    de = Sie können Ihre wichtigsten Zertifikate bequem in der CovPass-App austauschen. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein. Sofern ein aktuelleres Impfzertifikat vorliegt, brauchen Sie die vorherigen Impfzertifikate nicht erneuern.
+    en = You can easily renew your most important certificates in the CovPass app. To do so, use the renewal function in the overview of your certificates or scan a newly issued certificate. If you have a more recent vaccination certificate, you do not need to renew the previous vaccination certificates.
 
 [certificates_overview_expired_action_button_title]
     de = Neues Zertifikat hinzufügen
@@ -1394,8 +1394,8 @@
     en = Current certificate expires on %@ at %@
 
 [certificates_overview_soon_expiring_subtitle]
-    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = Please make every effort to have a new digital certificate issued.
+    de = Sie können das Zertifikat bequem in der CovPass-App austauschen. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein.
+    en = You can easily replace the certificate in the CovPass app by using the renewal function in the overview of your certificates or by scanning a newly issued certificate.
 
 [certificates_overview_invalid_title]
     de = Zertifikat ungültig
@@ -1681,8 +1681,8 @@
     en = Valid until %@
 
 [vaccination_certificate_detail_view_data_expiry_date_note]
-    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = Please make every effort to have a new digital certificate issued in good time.
+    de = Sie werden in der App benachrichtigt, falls Sie das Zertifikat erneuern können.
+    en = You will be notified in the app if you can renew the certificate.
 
 [vaccination_certificate_detail_view_data_vaccine_note_de]
     de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -1847,8 +1847,8 @@
     en = Valid until %@
 
 [test_certificate_detail_view_data_expiry_date_note]
-    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = Please make every effort to have a new digital certificate issued in good time.
+    de = Sie werden in der App benachrichtigt, falls Sie das Zertifikat erneuern können.
+    en = You will be notified in the app if you can renew the certificate.
 
 [test_certificate_detail_view_data_test_note_de]
     de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -1981,8 +1981,8 @@
     en = Valid until %@
 
 [recovery_certificate_detail_view_data_expiry_date_note]
-    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = Please make every effort to have a new digital certificate issued in good time.
+    de = Sie werden in der App benachrichtigt, falls Sie das Zertifikat erneuern können.
+    en = You will be notified in the app if you can renew the certificate.
 
 [recovery_certificate_detail_view_data_test_note_de]
     de = Diese Bescheinigung ist kein Reisedokument. Die wissenschaftlichen Erkenntnisse zu COVID-19 in den Bereichen Impfung, Testung und Genesung entwickeln sich fortlaufend weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten. Bitte informieren Sie sich vor Reiseantritt über die am Zielort geltenden Gesundheitsmaßnahmen und entsprechenden Beschränkungen.\n\nInformationen über die in den jeweiligen EU-Ländern geltenden Einreisebestimmungen finden Sie unter #https://reopen.europa.eu::https://reopen.europa.eu#.
@@ -2023,8 +2023,8 @@
     en = Certificate expires on %@ at %@
 
 [certificate_expires_detail_view_note_message]
-    de = Bitte bemühen Sie sich rechtzeitig darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = Please make every effort to have a new digital certificate issued in good time.
+    de = Sie können das Zertifikat bequem in der CovPass-App austauschen. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein.
+    en = You can easily renew the certificate in the CovPass app. To do so, use the renewal function in the overview of your certificates or scan a newly issued certificate.
 
 [certificate_invalid_detail_view_note_title]
     de = Zertifikat ungültig
@@ -2039,8 +2039,8 @@
     en = Certificate expired
 
 [certificate_expired_detail_view_note_message]
-    de = Das Ablaufdatum wurde überschritten. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = The expiry date has been exceeded. Please make every effort to have a new digital certificate issued.
+    de = Sie können Ihre wichtigsten Zertifikate bequem in der CovPass-App austauschen. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein. Sofern ein aktuelleres Impfzertifikat vorliegt, brauchen Sie die vorherigen Impfzertifikate nicht erneuern.
+    en = You can easily renew your most important certificates in the CovPass app. To do so, use the renewal function in the overview of your certificates or scan a newly issued certificate. If you have a more recent vaccination certificate, you do not need to renew the previous vaccination certificates.
 
 
 [[print certificate]]
@@ -2167,8 +2167,8 @@
     en = Check the validity of your certificates
 
 [error_validity_check_certificates_message]
-    de = Die Gültigkeit Ihrer Zertifikate läuft bald ab oder ist bereits abgelaufen. Bitte bemühen Sie sich darum, einen neuen digitalen Nachweis ausstellen zu lassen.
-    en = The validity of your certificates is about to expire or has already expired. Please make every effort to have a new digital certificate issued.
+    de = Wenn Sie dieses Zertifikat in der App erneuern können, erhalten Sie eine Benachrichtigung.Mehr Informationen zum Austausch von abgelaufenen Zertifikaten finden Sie in unseren FAQs.
+    en = If you can renew this certificate in the app, you will receive a notification. You can find more information about replacing expired certificates in our FAQs.
 
 [error_validity_check_certificates_button_title]
     ref = ok
