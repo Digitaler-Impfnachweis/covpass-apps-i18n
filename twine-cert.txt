@@ -232,6 +232,17 @@
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
     en = This QR code can be reliably verified with the CovPassCheck app.
 
+
+[[modal_view]]
+[modal_subline]
+    de = %d aktuell verwendete(s) Zertifikat(e)
+    en = %d certificate(s) currently in use
+
+[modal_button]
+    de = Zertifikate verwalten
+    en = Manage certificates
+
+
 [[popup: Remark within the app towards the CovPassCheck app]]
 [certificates_start_screen_pop_up_app_reference_title]
     de = Scannen bitte!
