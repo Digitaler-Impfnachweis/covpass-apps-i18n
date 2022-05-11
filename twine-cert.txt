@@ -2875,6 +2875,44 @@
     en = More information
 
 
+[[DCC renewal when expiring]]
+[renewal_expiry_notification_title]
+    de = Erneuerung notwendig
+    en = Renewal needed
+
+[renewal_expiry_notification_copy_vaccination]
+    de = Die technische Laufzeit Ihres Impfzertifikats läuft bald aus. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical expiry date of your vaccination certificate is coming up. Renew the certificate to continue using it.
+
+[renewal_expiry_notification_button_vaccination]
+    de = Impfzertifikat erneuern
+    en = Renew vaccination certificate
+
+[renewal_expiry_notification_copy_recovery]
+    de = Die technische Laufzeit Ihres Genesenenzertifikats läuft bald aus. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical expiry date of your recovery certificate is coming up. Renew the certificate to continue using it.
+
+[renewal_expiry_notification_button_recovery]
+    de = Genesenenzertifikat erneuern
+    en = Renew recovery certificate
+
+[renewal_expiry_consent_list_item_1]
+    de = Die Erneuerung der Zertifikate ist freiwillig und kostenlos.
+    en = The renewal of certificates is voluntary and free of charge.
+
+[renewal_expiry_consent_list_item_2]
+    de = Um sicherzustellen, dass Zertifikate nur einmalig erneuert werden können, werden jeweils die Kennung des alten und des erneuerten Zertifikats durch das RKI dokumentiert. Die weiteren Daten zu Ihren Zertifikaten werden nach der Erneuerung beim RKI sofort gelöscht.
+    en = To ensure that certificates can only be renewed once, the RKI documents the identifier of the old and the renewed certificate. The other data on your certificates will be deleted by the RKI immediately after renewal.
+
+[renewal_expiry_consent_list_item_3]
+    de = Stellen Sie bitte bei der Erneuerung von Familienzertifikaten sicher, dass das betreffende Familienmitglied einverstanden ist.
+    en = When renewing family certificates, please ensure that the respective family member agrees.
+
+[renewal_expiry_consent_list_item_4]
+    de = In bestimmten Fällen werden zusätzlich zu dem zu erneuernden Zertifikat weitere Zertifikate übermittelt. Dies ist erforderlich, um die bisherige Abfolge der Impfungen und Genesungen im neuen Zertifikat aufnehmen zu können.
+    en = In certain cases, additional certificates are sent in addition to the certificate to be renewed. This is necessary in order to be able to include the previous sequence of vaccinations and recoveries in the new certificate.
+
+
 [[DCC revocation]]
 [revocation_error_scan_title]
     de = Das Zertifikat kann nicht hinzugefügt werden
