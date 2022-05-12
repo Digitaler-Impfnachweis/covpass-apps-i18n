@@ -2907,6 +2907,14 @@
     de = Genesenenzertifikat erneuern
     en = Renew recovery certificate
 
+[renewal_expiry_consent_box_item_1]
+    de = Die App übermittelt die genannten Zertifikate zur Überprüfung an das RKI.
+    en = The app transmits the aforementioned certificates to the RKI for verification.
+
+[renewal_expiry_consent_box_item_1]
+    de = Das RKI überprüft die Zertifikate, stellt ein erneuertes Zertifikat aus und übermittelt dieses an Ihre App.
+    en = The RKI checks the certificates, issues a renewed certificate and transmits it to your app.
+
 [renewal_expiry_consent_list_item_1]
     de = Die Erneuerung der Zertifikate ist freiwillig und kostenlos.
     en = The renewal of certificates is voluntary and free of charge.
@@ -2916,8 +2924,8 @@
     en = To ensure that certificates can only be renewed once, the RKI documents the identifier of the old and the renewed certificate. The other data on your certificates will be deleted by the RKI immediately after renewal.
 
 [renewal_expiry_consent_list_item_3]
-    de = Stellen Sie bitte bei der Erneuerung von Familienzertifikaten sicher, dass das betreffende Familienmitglied einverstanden ist.
-    en = When renewing family certificates, please ensure that the respective family member agrees.
+    de = Stellen Sie bitte bei der Erneuerung von Zertifikaten von Familienmitgliedern sicher, dass die betreffende Person einverstanden ist.
+    en = When renewing certificates of family members, please ensure that the person concerned agrees.
 
 [renewal_expiry_consent_list_item_4]
     de = In bestimmten Fällen werden zusätzlich zu dem zu erneuernden Zertifikat weitere Zertifikate übermittelt. Dies ist erforderlich, um die bisherige Abfolge der Impfungen und Genesungen im neuen Zertifikat aufnehmen zu können.
