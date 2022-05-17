@@ -2935,6 +2935,9 @@
     de = Sie können Ihr Zertifikat nun weiterhin wie gewohnt nutzen.
     en = You can now continue to use your certificate as usual.
 
+[renewal_expiry_success_button]
+    ref = ok
+
 
 [[DCC revocation]]
 [revocation_error_scan_title]
