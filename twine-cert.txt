@@ -2911,7 +2911,7 @@
     de = Die App übermittelt die genannten Zertifikate zur Überprüfung an das RKI.
     en = The app transmits the aforementioned certificates to the RKI for verification.
 
-[renewal_expiry_consent_box_item_1]
+[renewal_expiry_consent_box_item_2]
     de = Das RKI überprüft die Zertifikate, stellt ein erneuertes Zertifikat aus und übermittelt dieses an Ihre App.
     en = The RKI checks the certificates, issues a renewed certificate and transmits it to your app.
 
