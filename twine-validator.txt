@@ -211,7 +211,7 @@
     en = Scan the necessary evidence for 2G+ one by one.
 
 [validation_start_screen_scan_message_2G_toggle]
-    de = Bei Auffrischungsimpfungen ist kein Test nötig
+    de = Bei Auffrischimpfungen ist kein Test nötig
     en = No test is needed when a booster vaccination is given
 
 [validation_start_screen_scan_sync_message_title]
@@ -530,7 +530,7 @@
     ref = close
 
 [result_2G_footnote]
-    de = * Grundimmunisierung, Auffrischungsimpfung oder Genesung
+    de = * Grundimmunisierung, Auffrischimpfung oder Genesung
     en = * Basic immunization, booster vaccination or recovery.
 
 [result_2G_button_scan_test]
@@ -558,7 +558,7 @@
     en = Valid 2G proof*
 
 [result_2G_booster_valid]
-    de = Auffrischungsimpfung gültig
+    de = Auffrischimpfung gültig
     en = Booster vaccination valid
 
 [result_2G_gproof_invalid]
@@ -594,7 +594,7 @@
     en = Basic immunisation
     
 [result_2G_2nd_booster_valid]
-    de = Auffrischungsimpfung
+    de = Auffrischimpfung
     en = Booster vaccination
 
 [result_2G_2nd_rapidtest_valid]
@@ -634,7 +634,7 @@
     en = Vaccination* or recovery
 
 [result_2G__3rd_footnote]
-    de = * Erwartet Grundimmunisierung oder Auffrischungsimpfung
+    de = * Erwartet Grundimmunisierung oder Auffrischimpfung
     en = * Basic immunization or booster vaccination expected
 
 [result_2G__3rd_button]
