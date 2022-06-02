@@ -296,7 +296,7 @@
     en = %d hour(s) ago
 
 [certificate_timestamp_days]
-    de = Vor %d Tage(n)
+    de = Vor %d Tag(en)
     en = %d day(s) ago
 
 [certificate_timestamp_months]
