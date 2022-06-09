@@ -134,7 +134,7 @@
 
 [dialog_booster_vaccination_notification_title]
     de = Es gibt Neuigkeiten zu Ihren Zertifikaten
-    en = There are news about your certificates
+    en = There is news about your certificates
 
 [dialog_booster_vaccination_notification_message]
     de = Bitte überprüfen Sie den Status Ihrer digitalen COVID-Zertifikate der EU.
@@ -1452,8 +1452,8 @@
     en = Certificate expired
 
 [certificates_overview_expired_message]
-    de = Sie können Ihre wichtigsten Zertifikate bequem in der CovPass-App austauschen. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein. Sofern ein aktuelleres Impfzertifikat vorliegt, brauchen Sie die vorherigen Impfzertifikate nicht erneuern.
-    en = You can easily renew your most important certificates in the CovPass app. To do so, use the renewal function in the overview of your certificates or scan a newly issued certificate. If you have a more recent vaccination certificate, you do not need to renew the previous vaccination certificates.
+    de = Das Ablaufdatum Ihres neuesten Zertifikats wurde überschritten. Sie können dieses Zertifikat bequem in der CovPass-App austauschen. Vorherige Zertifikate werden nicht erneuert. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein.
+    en = The expiry date of your latest certificate has passed. You can conveniently renew this certificate in the CovPass app. Previous certificates will not be renewed. To do so, use the renewal function in the overview of your certificates or scan a newly issued certificate.
 
 [certificates_overview_expired_action_button_title]
     de = Neues Zertifikat hinzufügen
@@ -1464,8 +1464,8 @@
     en = Current certificate expires on %@ at %@
 
 [certificates_overview_soon_expiring_subtitle]
-    de = Sie können das Zertifikat bequem in der CovPass-App austauschen. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein.
-    en = You can easily replace the certificate in the CovPass app by using the renewal function in the overview of your certificates or by scanning a newly issued certificate.
+    de = Sie können Ihr neuestes Zertifikat bequem in der CovPass-App austauschen. Vorherige Zertifikate werden nicht erneuert. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein.
+    en = You can easily renew your latest certificate in the CovPass app. Previous certificates will not be renewed. To do so, use the renewal function in the overview of your certificates or scan a newly issued certificate.
 
 [certificates_overview_invalid_title]
     de = Zertifikat ungültig
@@ -2951,16 +2951,16 @@
     en = Renewal needed
 
 [renewal_expiry_notification_copy_vaccination]
-    de = Die technische Laufzeit Ihres Impfzertifikats läuft bald aus. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
-    en = The technical expiry date of your vaccination certificate is coming up. Renew the certificate to continue using it.
+    de = Die technische Laufzeit Ihres Impfzertifikats läuft bald ab oder ist bereits abgelaufen. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical validity of your vaccination certificate is about to expire or has already expired. Renew the certificate to continue using it.
 
 [renewal_expiry_notification_button_vaccination]
     de = Impfzertifikat erneuern
     en = Renew vaccination certificate
 
 [renewal_expiry_notification_copy_recovery]
-    de = Die technische Laufzeit Ihres Genesenenzertifikats läuft bald aus. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
-    en = The technical expiry date of your recovery certificate is coming up. Renew the certificate to continue using it.
+    de = Die technische Laufzeit Ihres Genesenenzertifikats läuft bald ab oder ist bereits abgelaufen. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical validity of your recovery certificate is about to expire or has already expired. Renew the certificate to continue using it.
 
 [renewal_expiry_notification_button_recovery]
     de = Genesenenzertifikat erneuern
