@@ -2109,8 +2109,8 @@
     en = Certificate expired
 
 [certificate_expired_detail_view_note_message]
-    de = Sie können Ihre wichtigsten Zertifikate bequem in der CovPass-App austauschen. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein. Sofern ein aktuelleres Impfzertifikat vorliegt, brauchen Sie die vorherigen Impfzertifikate nicht erneuern.
-    en = You can easily renew your most important certificates in the CovPass app. To do so, use the renewal function in the overview of your certificates or scan a newly issued certificate. If you have a more recent vaccination certificate, you do not need to renew the previous vaccination certificates.
+    de = Wenn es sich hierbei um Ihr neuestes Zertifikat handelt, können Sie es auf der Übersicht Ihrer Zertifikate erneuern. Andernfalls müssen Sie nichts tun, da in Ihrem neuesten Zertifikat alle notwendigen Informationen für eine Prüfung enthalten sind.
+    en = If this is your latest certificate, you can renew it on the overview of your certificates. Otherwise, you don't have to do anything because your latest certificate contains all the necessary information for a check.
 
 
 [[print certificate]]
