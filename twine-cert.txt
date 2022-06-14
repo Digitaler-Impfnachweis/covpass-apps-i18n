@@ -509,6 +509,18 @@
     de = Zugriff erlauben
     en = Allow access
 
+[file_import_prominent_disclosure_title_documents]
+    de = Zugriff auf Fotos benötigt
+    en = Access to photos required
+
+[file_import_prominent_disclosure_copy_documents]
+    de = Die CovPass-App muss für kurze Zeit auf Ihre Dokumente zugreifen können, damit Sie eine Datei importieren können.\n\nDer Zugriff auf Ihre Dokumente erfolgt nur während des Imports und dann auch nur mit Ihrer Erlaubnis. Sie haben jederzeit die Möglichkeit, in den Einstellungen Ihres Smartphones die Berechtigung zu ändern.
+    en = The CovPass app must be able to access your documents temporarily in order for you to import a file.\n\nAccess to your documents is only granted during the import process and only with your permission. You have the option to change the permission at any time in the settings of your smartphone.
+
+[file_import_prominent_disclosure_button_documents]
+    de = Zugriff erlauben
+    en = Allow access
+
 [file_import_result_null_title]
     de = Es wurde kein gültiges Zertifikat erkannt
     en = No valid certificate was found
