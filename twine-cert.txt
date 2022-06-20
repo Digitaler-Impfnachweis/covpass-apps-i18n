@@ -556,7 +556,7 @@
     de = Die gewählte Datei hat entweder zu viele Seiten oder beinhaltet Zertifikate für mehr als 20 unterschiedliche Personen. Versuchen Sie die Seitenzahl zu reduzieren.
     en = The selected file either has too many pages or contains certificates for more than 20 different people. Try to reduce the number of pages.
 
-[file_import_error_maximum_copy]
+[file_import_error_maximum_button]
     ref = ok
 
 [file_import_error_access_title]
