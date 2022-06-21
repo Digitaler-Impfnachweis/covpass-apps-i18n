@@ -872,7 +872,7 @@
     en = Domestic rules
 
 [settings_rules_list_features]
-    de =Regelmerkmale
+    de = Regelmerkmale
     en = Rule features
 
 [settings_rules_list_issuer]
