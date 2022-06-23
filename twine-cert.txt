@@ -548,6 +548,17 @@
     de = %d Zertifikat(e) importieren
     en = Import %d certificate(s)
 
+[file_import_success_title]
+    de = Import erfolgreich
+    en = Import successful
+    
+[file_import_success_copy]
+    de = Sie können Ihr(e) Zertifikat(e) nun weiterhin wie gewohnt nutzen.
+    en = You can now continue to use your certificate(s) as usual.
+    
+[file_import_success_button]
+    ref = ok
+
 [file_import_error_maximum_title]
     de = Maximale Anzahl an Zertifikaten überschritten
     en = Maximum number of certificates exceeded
