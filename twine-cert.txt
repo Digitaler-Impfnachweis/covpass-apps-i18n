@@ -2878,8 +2878,8 @@
     en = The RKI checks/verifies the certificate, issues an updated certificate and transmits it to the app.
 
 [certificate_renewal_consent_page_transfer_certificates_consent_box_copy_list_item_3]
-    de = Um sicherzustellen, dass Zertifikate nur einmalig aktualisiert werden können, wird die Kennung des alten Zertifikats durch das RKI dokumentiert.
-    en = To ensure that certificates can only be updated once, the identifier of the old certificate is documented by the RKI.
+    de = Um sicherzustellen, dass Zertifikate nur in begrenztem Umfang aktualisiert werden können, wird die Kennung des alten Zertifikats durch das RKI dokumentiert.
+    en = To ensure that certificates can only be updated to a limited extent, the identifier of the old certificate is documented by the RKI.
 
 [certificate_renewal_consent_page_transfer_certificates_copy]
     de = Die Aktualisierung des Zertifikats ist freiwillig und kostenlos. 
@@ -2979,8 +2979,8 @@
     en = The renewal of certificates is voluntary and free of charge.
 
 [renewal_expiry_consent_list_item_2]
-    de = Um sicherzustellen, dass Zertifikate nur einmalig erneuert werden können, werden jeweils die Kennung des alten und des erneuerten Zertifikats durch das RKI dokumentiert. Die weiteren Daten zu Ihren Zertifikaten werden nach der Erneuerung beim RKI sofort gelöscht.
-    en = To ensure that certificates can only be renewed once, the RKI documents the identifier of the old and the renewed certificate. The other data on your certificates will be deleted by the RKI immediately after renewal.
+    de = Um sicherzustellen, dass Zertifikate nur in begrenztem Umfang aktualisiert werden können, wird die Kennung des alten Zertifikats durch das RKI dokumentiert. Die weiteren Daten zu Ihren Zertifikaten werden nach der Erneuerung beim RKI sofort gelöscht.
+    en = To ensure that certificates can only be updated to a limited extent, the identifier of the old certificate is documented by the RKI. The other data on your certificates will be deleted by the RKI immediately after renewal.
 
 [renewal_expiry_consent_list_item_3]
     de = Stellen Sie bitte bei der Erneuerung von Zertifikaten von Familienmitgliedern sicher, dass die betreffende Person einverstanden ist.
