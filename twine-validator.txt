@@ -210,6 +210,10 @@
     de = Scannen Sie nacheinander die notwendigen Nachweise für 2G+.
     en = Scan the necessary evidence for 2G+ one by one.
 
+[start_screen_authority_function_hint]
+    de = Die Behördenfunktion ist nur im 3G-Modus verfügbar!
+    en = The authority function is only available in 3G mode!
+
 [validation_start_screen_scan_message_2G_toggle]
     de = Bei Auffrischungsimpfungen ist kein Test nötig
     en = No test is needed when a booster vaccination is given
