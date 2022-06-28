@@ -1466,6 +1466,10 @@
     de = Das Ablaufdatum Ihres neuesten Zertifikats wurde überschritten. Sie können dieses Zertifikat bequem in der CovPass-App austauschen. Vorherige Zertifikate werden nicht erneuert. Nutzen Sie dafür die Erneuerungsfunktion in der Übersicht Ihrer Zertifikate oder scannen Sie ein neu ausgestelltes Zertifikat ein.
     en = The expiry date of your latest certificate has passed. You can conveniently renew this certificate in the CovPass app. Previous certificates will not be renewed. To do so, use the renewal function in the overview of your certificates or scan a newly issued certificate.
 
+[certificates_overview_expired_or_soon_expiring_nonDE]
+    de = Ihr neuestes Zertifikat wurde nicht in Deutschland ausgestellt und kann daher nicht in der App erneuert werden. Bitte wenden Sie sich an den Aussteller des Zertifikats.
+    en = Your latest certificate was not issued in Germany and therefore cannot be renewed in the app. Please contact the issuer of the certificate.
+
 [certificates_overview_expired_action_button_title]
     de = Neues Zertifikat hinzufügen
     en = Add new certificate
@@ -2106,6 +2110,10 @@
 [certificate_expires_detail_view_note_message]
     de = Wenn es sich hierbei um Ihr neuestes Zertifikat handelt, können Sie es auf der Übersicht Ihrer Zertifikate erneuern. Sie können frühere Zertifikate nicht erneuern. In Ihrem neuesten Zertifikat sind alle notwendigen Informationen für eine Prüfung enthalten.
     en = If this is your latest certificate, you can renew it on the overview of your certificates. You cannot renew previous certificates. Your latest certificate contains all the necessary information for a check.
+
+[certificate_expires_detail_view_note_nonDE]
+    de = Dieses Zertifikat wurde nicht in Deutschland ausgestellt und kann daher nicht in der App erneuert werden. Bitte wenden Sie sich an den Aussteller des Zertifikats.
+    en = This certificate was not issued in Germany and therefore cannot be renewed in the app. Please contact the issuer of the certificate.
 
 [certificate_invalid_detail_view_note_title]
     de = Zertifikat ungültig
