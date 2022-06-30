@@ -710,6 +710,11 @@
 [error_2G_unexpected_type_old_recovery_button]
     ref = ok
 
+[result_countdown]
+    de = Diese Ansicht schließt sich in %d Sekunden.
+    en = This view closes in %d seconds.
+    
+
 [[app information]]
 [accessibility_app_information_label_back]
     de = Zurück zum Startbildschirm
@@ -1389,4 +1394,3 @@
 [MX]
     de = Mexiko
     en = Mexico
-
