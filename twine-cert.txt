@@ -2857,7 +2857,7 @@
     en = Changes to your certificates
 
 [certificate_renewal_startpage_copy]
-    de = Die Spezifikationen der EU für bestimmte Impfzertifikate wurden geändert. Dieses Zertifikat entspricht nicht der aktuellen Nummerierung. Es ist weiterhin gültig. Falls es sich jedoch um ein Zertifikat für eine Auffrischungsimpfung handelt, wird diese bei einer Prüfung nicht erkannt.\n\nWir empfehlen Ihnen daher, ein neues Impfzertifikat mit der Nummer 2/1 direkt kostenlos über die App anzufordern. Hierfür ist Ihr Einverständnis erforderlich.
+    de = Die Spezifikationen der EU für bestimmte Impfzertifikate wurden geändert. Dieses Zertifikat entspricht nicht der aktuellen Nummerierung. Es ist weiterhin gültig. Falls es sich jedoch um ein Zertifikat für eine Auffrischimpfung handelt, wird diese bei einer Prüfung nicht erkannt.\n\nWir empfehlen Ihnen daher, ein neues Impfzertifikat mit der Nummer 2/1 direkt kostenlos über die App anzufordern. Hierfür ist Ihr Einverständnis erforderlich.
     en = The EU specifications for certain vaccination certificates have been changed. This certificate does not correspond to the current numbering. It is still valid. However, if it is a certificate for a booster vaccination, it will not be recognized as such when checked.\n\nTherefore we recommend requesting a new certificate with the number 2/1 directly free of charge via the app.
 
 [certificate_renewal_startpage_copy_box]
