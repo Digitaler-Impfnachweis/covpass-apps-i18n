@@ -710,7 +710,8 @@
 [error_2G_unexpected_type_old_recovery_button]
     ref = ok
 
-[[app information]]
+
+[[Settings]]
 [accessibility_app_information_label_back]
     de = Zurück zum Startbildschirm
     en = Back to the start screen
@@ -828,8 +829,8 @@
     en = Update rule set
 
 [app_information_message_update]
-    de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
-    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
+    de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln. Diese Listen aktualisieren sich im Online-Modus täglich automatisch.
+    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany. These lists update automatically every day in online mode.
 
 [app_information_message_update_note]
     de = Letztes Update
@@ -855,6 +856,26 @@
     de = Zurück
     en = Back
 
+[accessibility_app_information_checking_rules_open]
+    de = Die Ansicht "Prüfregeln" wurde geöffnet
+    en = The view "Checking rules" has been opened
+
+[accessibility_app_information_checking_rules_close]
+    de = Die Ansicht "Prüfregeln" wurde geschlossen
+    en = The view "Checking rules" has been closed
+
+[app_information_title_checkrules]
+    de = Prüfregeln
+    en = Checking rules
+
+[app_information_offline_revocation_title]
+    de = Gesperrte Zertifikate offline prüfen
+    en = Check revoked certificates offline
+    
+[app_information_offline_revocation_copy]
+    de = Aktivieren Sie diese Einstellung, wenn Sie auch im Offline-Modus von den Behörden gesperrte Zertifikate erkennen möchten. Andernfalls werden gesperrte Zertifikate nur im Online-Modus erkannt. Diese Funktion verbraucht mehr Datenvolumen.
+    en = Activate this setting if you also want to detect certificates revoked by the authorities in offline mode. Otherwise, revoked certificates are only detected in online mode. This function consumes more data volume.
+
 [accessibility_app_information_title_update]
     de = Die Ansicht "Prüfregeln aktualisieren" wurde geöffnet
     en = The view "Update rule set" has been opened
@@ -864,8 +885,8 @@
     en = The view "Check situation" has been opened
 
 [app_information_title_local_rules]
-    de = Prüfsituation
-    en = Check situation
+    de = Regelwerk
+    en = Checking rules
 
 [app_information_title_local_rules_button]
     de = Übernehmen
