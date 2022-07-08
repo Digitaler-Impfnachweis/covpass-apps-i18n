@@ -2256,7 +2256,7 @@
     en = Check the validity of your certificates
 
 [error_validity_check_certificates_message]
-    de = Wenn Sie dieses Zertifikat in der App erneuern können, erhalten Sie eine Benachrichtigung.Mehr Informationen zum Austausch von abgelaufenen Zertifikaten finden Sie in unseren FAQs.
+    de = Wenn Sie dieses Zertifikat in der App erneuern können, erhalten Sie eine Benachrichtigung. Mehr Informationen zum Austausch von abgelaufenen Zertifikaten finden Sie in unseren FAQs.
     en = If you can renew this certificate in the app, you will receive a notification. You can find more information about replacing expired certificates in our FAQs.
 
 [error_validity_check_certificates_button_title]
