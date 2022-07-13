@@ -560,12 +560,12 @@
     ref = ok
 
 [file_import_error_maximum_title]
-    de = Maximale Anzahl an Zertifikaten überschritten
-    en = Maximum number of certificates exceeded
+    de = Zu viele Personen
+    en = Too many people
 
 [file_import_error_maximum_copy]
-    de = Die gewählte Datei hat entweder zu viele Seiten oder beinhaltet Zertifikate für mehr als 20 unterschiedliche Personen. Versuchen Sie die Seitenzahl zu reduzieren.
-    en = The selected file either has too many pages or contains certificates for more than 20 different people. Try to reduce the number of pages.
+    de = Sie können in der App Zertifikate von bis zu 20 Personen speichern. Der Import übersteigt diese maximale Personenzahl. Bitte passen Sie die ausgewählte Datei an oder löschen Sie bereits in die App importierte Zertifikate, die nicht mehr benötigt werden.
+    en = You can store certificates of up to 20 people in the app. The import exceeds this maximum number of people. Please adjust the selected file or delete certificates already imported into the app that are no longer needed.
 
 [file_import_error_maximum_button]
     ref = ok
