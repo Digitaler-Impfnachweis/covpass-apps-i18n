@@ -711,7 +711,14 @@
     ref = ok
 
 
+[result_countdown]
+    de = Diese Ansicht schließt sich in %d Sekunden.
+    en = This view closes in %d seconds.
+    
+
+[[app information]]
 [[Settings]]
+
 [accessibility_app_information_label_back]
     de = Zurück zum Startbildschirm
     en = Back to the start screen
@@ -1410,4 +1417,3 @@
 [MX]
     de = Mexiko
     en = Mexico
-
