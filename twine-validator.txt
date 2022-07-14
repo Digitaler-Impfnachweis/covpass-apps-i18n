@@ -211,7 +211,7 @@
     en = Scan the necessary evidence for 2G+ one by one.
 
 [validation_start_screen_scan_message_2G_toggle]
-    de = Bei Auffrischungsimpfungen ist kein Test nötig
+    de = Bei Auffrischimpfungen ist kein Test nötig
     en = No test is needed when a booster vaccination is given
 
 [validation_start_screen_scan_sync_message_title]
@@ -530,7 +530,7 @@
     ref = close
 
 [result_2G_footnote]
-    de = * Grundimmunisierung, Auffrischungsimpfung oder Genesung
+    de = * Grundimmunisierung, Auffrischimpfung oder Genesung
     en = * Basic immunization, booster vaccination or recovery.
 
 [result_2G_button_scan_test]
@@ -558,7 +558,7 @@
     en = Valid 2G proof*
 
 [result_2G_booster_valid]
-    de = Auffrischungsimpfung gültig
+    de = Auffrischimpfung gültig
     en = Booster vaccination valid
 
 [result_2G_gproof_invalid]
@@ -594,7 +594,7 @@
     en = Basic immunisation
     
 [result_2G_2nd_booster_valid]
-    de = Auffrischungsimpfung
+    de = Auffrischimpfung
     en = Booster vaccination
 
 [result_2G_2nd_rapidtest_valid]
@@ -634,7 +634,7 @@
     en = Vaccination* or recovery
 
 [result_2G__3rd_footnote]
-    de = * Erwartet Grundimmunisierung oder Auffrischungsimpfung
+    de = * Erwartet Grundimmunisierung oder Auffrischimpfung
     en = * Basic immunization or booster vaccination expected
 
 [result_2G__3rd_button]
@@ -710,12 +710,15 @@
 [error_2G_unexpected_type_old_recovery_button]
     ref = ok
 
+
 [result_countdown]
     de = Diese Ansicht schließt sich in %d Sekunden.
     en = This view closes in %d seconds.
     
 
 [[app information]]
+[[Settings]]
+
 [accessibility_app_information_label_back]
     de = Zurück zum Startbildschirm
     en = Back to the start screen
@@ -833,8 +836,8 @@
     en = Update rule set
 
 [app_information_message_update]
-    de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
-    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
+    de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln. Diese Listen aktualisieren sich im Online-Modus täglich automatisch.
+    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany. These lists update automatically every day in online mode.
 
 [app_information_message_update_note]
     de = Letztes Update
@@ -860,6 +863,26 @@
     de = Zurück
     en = Back
 
+[accessibility_app_information_checking_rules_open]
+    de = Die Ansicht "Prüfregeln" wurde geöffnet
+    en = The view "Checking rules" has been opened
+
+[accessibility_app_information_checking_rules_close]
+    de = Die Ansicht "Prüfregeln" wurde geschlossen
+    en = The view "Checking rules" has been closed
+
+[app_information_title_checkrules]
+    de = Prüfregeln
+    en = Checking rules
+
+[app_information_offline_revocation_title]
+    de = Gesperrte Zertifikate offline prüfen
+    en = Check revoked certificates offline
+    
+[app_information_offline_revocation_copy]
+    de = Aktivieren Sie diese Einstellung, wenn Sie auch im Offline-Modus von den Behörden gesperrte Zertifikate erkennen möchten. Andernfalls werden gesperrte Zertifikate nur im Online-Modus erkannt. Diese Funktion verbraucht mehr Datenvolumen.
+    en = Activate this setting if you also want to detect certificates revoked by the authorities in offline mode. Otherwise, revoked certificates are only detected in online mode. This function consumes more data volume.
+
 [accessibility_app_information_title_update]
     de = Die Ansicht "Prüfregeln aktualisieren" wurde geöffnet
     en = The view "Update rule set" has been opened
@@ -869,8 +892,8 @@
     en = The view "Check situation" has been opened
 
 [app_information_title_local_rules]
-    de = Prüfsituation
-    en = Check situation
+    de = Regelwerk
+    en = Checking rules
 
 [app_information_title_local_rules_button]
     de = Übernehmen
