@@ -285,7 +285,7 @@
 
 [certificate_type_rapidtest]
     de = Antigen-Schnelltest
-    en = antigen rapid test
+    en = Antigen rapid test
 
 [certificate_type_pcrtest]
     de = PCR-Test
