@@ -275,16 +275,44 @@
     en = Rule set: %@
 
 [validation_start_screen_offline_modus_information_title]
-     de = Prüfregeln aktualisieren
-     en = Update rule set
+    de = Prüfregeln aktualisieren
+    en = Update rule set
 
 [validation_start_screen_offline_modus_information]
-     de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
-     en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
+    de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
+    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
 
- [validation_start_screen_offline_modus_button]
-     de = Aktualisieren
-     en = Update
+[validation_start_screen_offline_modus_button]
+    de = Aktualisieren
+    en = Update
+
+[start_offline_title]
+    de = Offline prüfen
+    en = Check offline
+
+[start_offline_status_available]
+    de = Verfügbar
+    en = Available
+
+[start_offline_status_unavailable]
+    de = Aktualisierung notwendig
+    en = Update required
+
+[start_offline_copy]
+    de = Um ohne Internetverbindung zuverlässig prüfen zu können, sollten die Prüfregeln vor weniger als 24 Stunden aktualisiert worden sein.
+    en = To be able to check reliably without an internet connection, the checking rules should have been updated less than 24 hours ago.
+
+[start_offline_link_title]
+    de = Prüfregeln aktualisieren
+    en = Update checking rules
+
+[start_offline_link_subtitle_available]
+    de = Letzte Aktualisierung vor weniger als 24 Stunden
+    en = Last updated less than 24 hours ago
+
+[start_offline_subtitle_unavailable]
+    de = Letzte Aktualisierung älter als 24 Stunden
+    en = Last update older than 24 hours
 
 
 [[popup: Check vaccination]]
@@ -832,8 +860,51 @@
     en = Back
 
 [app_information_title_update]
-    de = Prüfregeln aktualisieren
-    en = Update rule set
+    de = Prüfregeln
+    en = Checking rules
+
+[settings_rules_list_status_updated]
+    de = Aktualisiert
+    en = Up to date
+
+[settings_rules_list_status_outofdate]
+    de = Aktualisierung notwendig
+    en = Update required
+
+[settings_rules_list_entry]
+    de = Einreiseregeln
+    en = Entry rules
+
+[settings_rules_list_domestic]
+    de = Inlandsregeln
+    en = Domestic rules
+
+[settings_rules_list_features]
+    de = Regelmerkmale
+    en = Rule features
+
+[settings_rules_list_issuer]
+    de = Zertifikatsaussteller
+    en = Certificate issuer
+    
+[settings_rules_list_countries]
+    de = Länderlisten
+    en = Country lists
+
+[settings_rules_list_authorities]
+    de = Behördenlisten
+    en = List of authorities
+
+[settings_rules_list_loading_title]
+    de = Listen werden aktualisiert…
+    en = Lists are being updated...
+
+[settings_rules_list_loading_size]
+    de = %d / %d MB
+    en = %d / %d MB
+
+[settings_rules_list_loading_cancel]
+    ref = cancel
 
 [app_information_message_update]
     de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln. Diese Listen aktualisieren sich im Online-Modus täglich automatisch.
