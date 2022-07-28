@@ -2403,47 +2403,47 @@
     de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan geltenden Corona-Einreiseregeln in den entsprechenden Ländern.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
     en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Covid-19 rules in the relevant travel countries.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
 
-[settings_rules_lists_title]
+[settings_rules_list_title]
     de = Prüfregeln
     en = Checking rules
     
-[settings_rules_lists_status_available]
+[settings_rules_list_status_available]
     de = Aktuell
     en = Up to date
     
-[settings_rules_lists_status_unavailable]
+[settings_rules_list_status_unavailable]
     de = Aktualisierung notwendig
     en = Updated required
     
-[settings_rules_lists_entry]
+[settings_rules_list_entry]
     de = Einreiseregeln
     en = Entry rules
 
-[settings_rules_lists_domestic]
+[settings_rules_list_domestic]
     de = Inlandsregeln
     en = Domestic rules
 
-[settings_rules_lists_features]
+[settings_rules_list_features]
     de = Regelmerkmale
     en = Rule features
 
-[settings_rules_lists_issuer]
+[settings_rules_list_issuer]
     de = Zertifikatsaussteller
     en = Certificate issuer
 
-[settings_rules_lists_countries]
+[settings_rules_list_countries]
     de = Länderlisten
     en = Country lists
 
-[settings_rules_lists_loading_title]
+[settings_rules_list_loading_title]
     de = Listen werden aktualisiert…
     en = Lists are being updated...
 
-[settings_rules_lists_loading_size]
+[settings_rules_list_loading_size]
     de = %d / %d MB
     en = %d / %d MB
 
-[settings_rules_lists_loading_cancel]
+[settings_rules_list_loading_cancel]
     ref = cancel
 
 [app_information_message_update_note]
