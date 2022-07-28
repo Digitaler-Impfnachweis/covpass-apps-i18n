@@ -2413,7 +2413,7 @@
     
 [settings_rules_lists_status_unavailable]
     de = Aktualisierung notwendig
-    en = Updated required
+    en = Update required
     
 [settings_rules_lists_entry]
     de = Einreiseregeln
