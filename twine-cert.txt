@@ -525,8 +525,8 @@
     en = Check whether there is a QR code in the selected file.
 
 [file_import_result_info_bullet2]
-    de = Beachten Sie, dass keine gesperrten Zertifikate importiert werden können.
-    en = Note that no revoked certificates can be imported.
+    de = Beachten Sie, dass Zertifikate nicht importiert werden können, wenn sie gesperrt, ungültig oder bereits in der App hinterlegt sind.
+    en = Note that certificates cannot be imported if they are revoked, invalid or already stored in the app.
    
 [file_import_result_info_bullet3]
     de = Erstellen Sie einen Screenshot des betreffenden QR-Codes und importieren Sie ihn als Foto erneut.
