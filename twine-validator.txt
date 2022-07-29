@@ -869,7 +869,7 @@
 
 [settings_rules_list_status_updated]
     de = Aktualisiert
-    en = Up to date
+    en = Updated
 
 [settings_rules_list_status_outofdate]
     de = Aktualisierung notwendig

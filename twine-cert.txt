@@ -2407,11 +2407,11 @@
     de = Prüfregeln
     en = Checking rules
     
-[settings_rules_list_status_available]
-    de = Aktuell
-    en = Up to date
+[settings_rules_list_status_updated]
+    de = Aktualisiert
+    en = Updated
     
-[settings_rules_list_status_unavailable]
+[settings_rules_list_status_outofdate]
     de = Aktualisierung notwendig
     en = Update required
     
