@@ -862,6 +862,10 @@
 [app_information_title_update]
     de = Prüfregeln
     en = Checking rules
+    
+[settings_rules_list_title]
+    de = Prüfregeln
+    en = Checking rules
 
 [settings_rules_list_status_updated]
     de = Aktualisiert
@@ -909,6 +913,10 @@
 [app_information_message_update]
     de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln. Diese Listen aktualisieren sich im Online-Modus täglich automatisch.
     en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany. These lists update automatically every day in online mode.
+
+[app_information_rules_list_title]
+    de = Regelwerk
+    en = Rules
 
 [app_information_message_update_note]
     de = Letztes Update
