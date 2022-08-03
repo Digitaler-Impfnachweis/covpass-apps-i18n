@@ -411,8 +411,8 @@
     en = Which QR code can I scan and save to my smartphone?
 
 [certificate_add_popup_action_title_linked]
-    de = #Welchen QR-Code kann ich einscannen?::$0#
-    en = #Which QR code can I scan?::$0#
+    de = #Mehr Informationen in den Häufigen Fragen::$0#
+    en = #More information in the FAQ::$0#
 
 [certificate_add_popup_scan_button_title]
     de = Zertifikat hinzufügen
