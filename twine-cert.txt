@@ -188,6 +188,10 @@
     de = Der Startbildschirm wurde geöffnet
     en = The start screen has been opened
 
+[accessibility_start_screen_swipe]
+    de = Wischen Sie mit drei Fingern, um die Zertifikate der nächsten Person anzuzeigen.
+    en = Swipe with three fingers to display the certificates of the next person.
+
 [vaccination_start_screen_title]
     de = Digitale COVID-Zertifikate der EU
     en = EU Digital COVID Certificates
@@ -237,6 +241,10 @@
 [modal_subline]
     de = %d aktuell verwendete(s) Zertifikat(e)
     en = %d certificate(s) currently in use
+
+[accessibility_modal_swipe]
+    de = Wischen Sie mit drei Fingern, um das nächste Zertifikat anzuzeigen.
+    en = Swipe with three fingers to display next certificate.
 
 [modal_button]
     de = Zertifikate verwalten
