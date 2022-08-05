@@ -407,8 +407,8 @@
     en = In the following step, scan the QR code from an EU COVID digital certificate or upload it as a photo or PDF file. The certificate will then be loaded directly into the CovPass app.
 
 [certificate_add_popup_action_title]
-    de = Welchen QR-Code kann ich einscannen?
-    en = Which QR code can I scan and save to my smartphone?
+    de = Mehr Informationen in den Häufigen Fragen
+    en = More information in the FAQ
 
 [certificate_add_popup_action_title_linked]
     de = #Mehr Informationen in den Häufigen Fragen::$0#
