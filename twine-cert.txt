@@ -2402,6 +2402,34 @@
 [app_information_message_update]
     de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan geltenden Corona-Einreiseregeln in den entsprechenden Ländern.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
     en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Covid-19 rules in the relevant travel countries.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
+    
+[app_information_list_update-notifications]
+    de = Update-Benachrichtigungen
+    en = Update notifications
+    
+[app_information_title_update-notifications]
+    de = Update-Benachrichtigungen
+    en = Update notifications   
+    
+[app_information_copy_update-notifications]
+    de = Sie können ab jetzt die Update-Benachrichtigungen deaktivieren. Mit dem Regler können Sie jederzeit die Updates deaktivieren oder wieder aktivieren. Wenn sie den Update-Benachrichtigungen deaktivieren, bekommen Sie keine Updates mehr über die neuesten Software-Entwicklungen in der App.
+    en = You can now disable the update notifications. You can use the toggle to disable or re-enable the updates at any time. If you disable the update screen, you will no longer receive updates about the latest software developments in the app.
+
+[app_information_update-notifications_toggle]
+    de = Update-Benachrichtigungen anzeigen
+    en = Show update notifications  
+
+[app_information_update-notifications_new-version_copy]
+    de = Neue Funktionen (Version %d)
+    en = New functions (version %d) 
+    
+[whats-new_screen_update-notifications_checkbox_headline]
+    de = Diese Art von Benachrichtigungen nicht mehr anzeigen
+    en = Do not show this type of notifications anymore 
+
+[whats-new_screen_update-notifications_checkbox_copy]
+    de = Sie können diese Entscheidung jederzeit in den Einstellungen ändern.
+    en = You can change this option anytime in the settings.
 
 [settings_rules_list_title]
     de = Prüfregeln
