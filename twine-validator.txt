@@ -299,7 +299,7 @@
     en = Update required
 
 [start_offline_copy]
-    de = Um ohne Internetverbindung zuverlässig prüfen zu können, sollten die Prüfregeln vor weniger als 24 Stunden aktualisiert worden sein.
+    de = Um ohne Internetverbindung zuverlässig prüfen zu können, sollten die Prüfregeln vor weniger als 24 Stunden aktualisiert worden sein.
     en = To be able to check reliably without an internet connection, the checking rules should have been updated less than 24 hours ago.
 
 [start_offline_link_title]
@@ -307,11 +307,11 @@
     en = Update checking rules
 
 [start_offline_link_subtitle_available]
-    de = Letzte Aktualisierung vor weniger als 24 Stunden
+    de = Letzte Aktualisierung vor weniger als 24 Stunden
     en = Last updated less than 24 hours ago
 
 [start_offline_subtitle_unavailable]
-    de = Letzte Aktualisierung älter als 24 Stunden
+    de = Letzte Aktualisierung älter als 24 Stunden
     en = Last update older than 24 hours
 
 
@@ -957,9 +957,9 @@
 [app_information_offline_revocation_title]
     de = Gesperrte Zertifikate offline prüfen
     en = Check revoked certificates offline
-    
+
 [app_information_offline_revocation_copy]
-    de = Aktivieren Sie diese Einstellung, wenn Sie auch im Offline-Modus von den Behörden gesperrte Zertifikate erkennen möchten. Andernfalls werden gesperrte Zertifikate nur im Online-Modus erkannt. Diese Funktion verbraucht mehr Datenvolumen.
+    de = Aktivieren Sie diese Einstellung, wenn Sie auch im Offline-Modus von den Behörden gesperrte Zertifikate erkennen möchten. Andernfalls werden gesperrte Zertifikate nur im Online-Modus erkannt. Diese Funktion verbraucht mehr Datenvolumen.
     en = Activate this setting if you also want to detect certificates revoked by the authorities in offline mode. Otherwise, revoked certificates are only detected in online mode. This function consumes more data volume.
 
 [accessibility_app_information_title_update]
