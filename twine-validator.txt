@@ -971,12 +971,10 @@
     en = If the function is deactivated, the local app data will be deleted from your device. Certificates can then only be checked in online mode.
     
 [app_information_offline_revocation_hint_button_active]
-    de = OK
-    en = OK
+    ref = ok
 
 [app_information_offline_revocation_hint_button_inactive]
-    de = Abbrechen
-    en = Cancel
+    ref = cancel
 
 [accessibility_app_information_title_update]
     de = Die Ansicht "Prüfregeln aktualisieren" wurde geöffnet
