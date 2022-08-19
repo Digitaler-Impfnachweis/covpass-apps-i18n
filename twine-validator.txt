@@ -963,18 +963,18 @@
     en = Activate this setting if you also want to detect certificates revoked by the authorities in offline mode. Otherwise, revoked certificates are only detected in online mode. This function consumes more data volume.
 
 [app_information_offline_revocation_hint_title]
-    de = Hinweis
+    de = Hinweis
     en = Note
 
 [app_information_offline_revocation_hint_copy]
-    de = Wenn die Funktion deaktiviert wird, werden die lokalen App-Daten von Ihrem Gerät gelöscht. Zertifikate können dann nur noch im Online-Modus geprüft werden.
+    de = Wenn die Funktion deaktiviert wird, werden die lokalen App-Daten von Ihrem Gerät gelöscht. Zertifikate können dann nur noch im Online-Modus geprüft werden.
     en = If the function is deactivated, the local app data will be deleted from your device. Certificates can then only be checked in online mode.
     
 [app_information_offline_revocation_hint_button_active]
-    ref = ok
+    ref = ok
 
 [app_information_offline_revocation_hint_button_inactive]
-    ref = cancel
+    ref = cancel
 
 [accessibility_app_information_title_update]
     de = Die Ansicht "Prüfregeln aktualisieren" wurde geöffnet
