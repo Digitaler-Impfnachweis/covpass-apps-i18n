@@ -2299,6 +2299,14 @@
     de = Die Ansicht "Open-Source-Lizenzen" wurde geöffnet
     en = The view "Open-source licences" has been opened
 
+[accessibility_app_information_update_notifications_announce_open]
+    de = Die Ansicht "Update-Benachrichtigungen" wurde geöffnet
+    en = The view "update notifications" has been opened
+
+[accessibility_app_information_update_notifications_announce_close]
+    de = Die Ansicht "Update-Benachrichtigungen" wurde geschlossen
+    en = The view "update notifications" has been closed
+
 [accessibility_app_information_label_back]
     de = Zurück zum Startbildschirm
     en = Back to the start screen
@@ -2310,6 +2318,14 @@
 [accessibility_app_information_version_number_delimiter]
     de = Punkt
     en = point
+
+[settings_list_status_on]
+    de = An
+    en = On
+    
+[settings_list_status_off]
+    de = Aus
+    en = Off
 
 [app_information_title]
     de = Informationen
