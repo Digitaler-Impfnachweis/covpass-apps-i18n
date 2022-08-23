@@ -2493,6 +2493,10 @@
     de = Taste
     en = Button
 
+[whats_new_screen_title]
+    de = Neue Funktionen
+    en = New features
+    
 
 [[popup: share certification]]
 [share_certificate_title]
