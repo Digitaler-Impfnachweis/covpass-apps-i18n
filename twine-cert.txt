@@ -2419,15 +2419,15 @@
     de = Update-Benachrichtigungen anzeigen
     en = Show update notifications  
 
-[app_information_update_notifications_new-version_copy]
+[app_information_update_notifications_new_version_copy]
     de = Neue Funktionen (Version %d)
     en = New functions (Version %d) 
     
-[whats-new_screen_update_notifications_checkbox_headline]
+[whats_new_screen_update_notifications_checkbox_headline]
     de = Diese Art von Benachrichtigungen nicht mehr anzeigen
     en = Do not show this type of notifications anymore 
 
-[whats-new_screen_update_notifications_checkbox_copy]
+[whats_new_screen_update_notifications_checkbox_copy]
     de = Sie können diese Entscheidung jederzeit in den Einstellungen ändern.
     en = You can change this option anytime in the settings.
 
