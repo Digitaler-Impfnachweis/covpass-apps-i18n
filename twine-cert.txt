@@ -2436,8 +2436,8 @@
     en = Show update notifications  
 
 [app_information_update_notifications_new_version_copy]
-    de = Neue Funktionen (Version %d)
-    en = New functions (Version %d) 
+    de = Neue Funktionen (Version %@)
+    en = New functions (Version %@) 
     
 [whats_new_screen_update_notifications_checkbox_headline]
     de = Diese Art von Benachrichtigungen nicht mehr anzeigen
