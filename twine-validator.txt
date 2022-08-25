@@ -16,6 +16,23 @@
     de = Abbrechen
     en = Cancel
 
+[continue]
+    de = Weiter
+    en = Continue
+    
+[back]
+    de = Zurück
+    en = Back
+    
+[on]
+    de = An
+    en = On
+    
+[off]
+    de = Aus
+    en = Off
+
+
 [[onboarding]]
 [start_onboarding_title]
     de = Willkommen in der CovPassCheck-App
@@ -1004,6 +1021,17 @@
     de = Einreise
     en = Entering DE
 
+[accessibility_settings_beep_announce_open]
+    de = Die Ansicht "Signalton beim Scannen" wurde geöffnet
+    en = The view "Beep when checking" has been opened
+
+[accessibility_settings_beep_announce_close]
+    de = Die Ansicht "Signalton beim Scannen" wurde geschlossen
+    en = The view "Beep when checking" has been closed
+
+[accessibility_settings_beep_backlabel]
+    ref = back
+
 [app_information_beep_when_checking_title]
     de = Signalton beim Scannen
     en = Beep when checking
@@ -1025,12 +1053,10 @@
     en = Function for authorities
     
 [app_information_authorities_function_state_on]
-    de = An
-    en = On
+    ref = on
     
 [app_information_authorities_function_state_off]
-    de = Aus
-    en = Off  
+    ref = off 
     
 [app_information_version_label]
     de = Version %@
