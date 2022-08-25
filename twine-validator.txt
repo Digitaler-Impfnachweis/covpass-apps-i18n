@@ -16,7 +16,7 @@
     de = Abbrechen
     en = Cancel
 
-[continue]
+[next]
     de = Weiter
     en = Continue
     
