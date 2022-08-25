@@ -915,8 +915,8 @@
     ref = cancel
 
 [app_information_message_update]
-    de = Zur Überprüfung eingescannter Zertifikate benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller und der momentan in Deutschland geltenden Corona-Regeln. Diese Listen aktualisieren sich im Online-Modus täglich automatisch.
-    en = To verify scanned certificates, the app requires up-to-date lists of trusted certificate issuers as well as the current Corona rules in Germany. These lists update automatically every day in online mode.
+    de = Legen Sie fest, nach welchen Regeln COVID-Zertifikate geprüft werden sollen. Sollten die Prüfregeln nicht aktuell sein, können Sie hier auch ein manuelles Update vornehmen.
+    en = Define the rules according to which COVID certificates are to be checked. If the checking rules are not up to date, you can also update them manually here.
 
 [app_information_rules_list_title]
     de = Regelwerk
