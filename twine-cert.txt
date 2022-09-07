@@ -3214,12 +3214,12 @@
     en = Exempt from %d
 
 [infschg_cert_overview_mask_hint_optional]
-    de = Sie müssen nicht notwendigerweise eine Maske tragen. In manchen Bundesländern kann der zusätzliche Nachweis eines negativen Tests notwendig sein.
-    en = You do not necessarily have to wear a mask. In some federal states, additional proof of a negative test may be required.
+    de = Sie müssen in Deutschland nicht notwendigerweise eine Maske tragen, da Sie innerhalb der letzten 24 Stunden ein negatives Testergebnis erhalten haben.
+    en = You do not necessarily have to wear a mask in Germany because you have received a negative test result within the last 24 hours.
 
 [infschg_cert_overview_mask_hint_mandatory]
-    de = Um von der Maskenpflicht befreit zu sein, müssen Sie innerhalb der letzten 3 Monate geimpft worden oder genesen sein. Auch ein negativer Test innerhalb der letzten 24 Stunden befreit Sie von der Maskenpflicht.
-    en = To be exempt from the mask obligation, you must have been vaccinated or recovered within the last 3 months. A negative test within the last 24 hours also exempts you from the mask requirement.
+    de = Ein negativer Schnell- oder PCR-Test befreit Sie für 24 Stunden deutschlandweit von der Maskenpflicht. In manchen Bundesländern können Sie auch durch Impfungen und Genesungen von der Maskenpflicht befreit sein. Informieren Sie sich bitte über die Regelungen in Ihrem Bundesland.
+    en = A negative rapid or PCR test exempts you from the mask requirement for 24 hours throughout Germany. In some federal states, you may also be exempt from the mask requirement due to vaccinations and recoveries. Please inform yourself about the regulations in your federal state.
     
 [infschg_cert_overview_immunisation_time_since]
     de = Seit %d
@@ -3229,6 +3229,23 @@
     de = Ab %d
     en = From %d
 
-[infschg_cert_overview_immunisation_hint]
-    de = Ein vollständiger Immunschutz ist gegeben, wenn drei Einzelimpfungen erfolgt sind und die letzte Einzelimpfung mindestens drei Monate nach der zweiten Einzelimpfung erfolgt ist.
-    en = Complete immune protection is given if three vaccinations have been given and the last vaccination was given at least three months after the second vaccination.
+[infschg_cert_overview_immunisation_incomplete_A]
+    de = Sie haben noch nicht alle derzeit empfohlenen Impfungen erhalten. Ihr Impfschutz ist noch nicht vollständig.
+    en = You have not yet received all currently recommended vaccinations. Your vaccination protection is not yet complete.
+
+[infschg_cert_overview_immunisation_complete_B2]
+    de = Sie haben alle derzeit empfohlenen Impfungen erhalten. Ihr Impfschutz ist vollständig.
+    en = You have received all currently recommended vaccinations. Your vaccination protection is complete.
+
+[infschg_cert_overview_immunisation_third_vacc_C2]
+    de = Sie haben alle Impfungen für einen vollständigen Impfschutz erhalten. Ihr Impfschutz ist wirksam. Bitte informieren Sie sich aber auch über empfohlene Auffrischimpfungen.
+    en = You have received all vaccinations for a complete vaccination protection. Your vaccination protection is effective. However, please also inform yourself about recommended booster vaccinations.
+
+[infschg_cert_overview_immunisation_E2]
+    de = Sie gelten aufgrund Ihrer Impfung und durchgemachten Infektion als vollständig geimpft. Bitte informieren Sie sich aber auch über empfohlene Auffrischimpfungen.
+    en = You are considered fully vaccinated based on your vaccination and the infection you have had. However, please also inform yourself about recommended booster vaccinations.
+    
+[infschg_cert_overview_immunisation_invalid]
+    de = Fügen Sie ein gültiges Zertifikat hinzu oder erneuern Sie Ihr neuestes Zertifikat, um Informationen zu Ihrem Impfstatus zu erhalten.
+    en = Add a valid certificate or renew your latest certificate to get information about your vaccination status.
+    
