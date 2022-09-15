@@ -1371,9 +1371,9 @@
     en = Not fully vaccinated
 
 [vaccination_certificate_overview_incomplete_message]
-    de = Ihr Impfschutz ist nicht vollständig. Um den QR-Code als Nachweis für einen kompletten Impfschutz vorzeigen zu können, fügen Sie bitte eine weitere Impfung hinzu.
-    en = You are not fully vaccinated. To use this QR code as proof of completed vaccination, you will need to add another vaccine dose.
-
+    de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+    en = Show this QR code when needed. Be ready to show your ID when your QR code is checked.
+    
 [vaccination_certificate_detail_view_incomplete_action_button_title]
     de = Nachweise anzeigen
     en = Show certificates
@@ -1383,8 +1383,8 @@
     en = Basic immunisation
 
 [vaccination_certificate_overview_complete_from_message]
-    de = Ihr Impfschutz ist noch nicht vollständig. Der Impfschutz ist erst 14 Tage nach der letzten Impfung vollständig.
-    en = You are not yet considered fully vaccinated. Full vaccination takes effect 14 days after the final dose.
+    de = Zeigen Sie bei Bedarf den QR-Code vor. Halten Sie zudem ein Ausweisdokument bei der Überprüfung bereit.
+    en = Show this QR code when needed. Be ready to show your ID when your QR code is checked.
 
 [vaccination_certificate_overview_complete_title]
     de = Grundimmunisierung
@@ -3186,12 +3186,12 @@
     en = No mask obligation
     
 [infschg_start_immune_complete]
-    de = Immunschutz vorhanden
-    en = Complete immune protection
+    de = Impfschutz vorhanden
+    en = Complete vaccination protection
 
 [infschg_start_immune_incomplete]
-    de = Immunschutz unvollständig
-    en = Incomplete immune protection
+    de = Impfschutz unvollständig
+    en = Incomplete vaccination protection
 
 [infschg_start_notification]
     de = Status überprüfen
@@ -3214,12 +3214,12 @@
     en = Exempt from %d
 
 [infschg_cert_overview_mask_hint_optional]
-    de = Sie müssen in Deutschland nicht notwendigerweise eine Maske tragen, da Sie innerhalb der letzten 24 Stunden ein negatives Testergebnis erhalten haben.
-    en = You do not necessarily have to wear a mask in Germany because you have received a negative test result within the last 24 hours.
+    de = Sie sind in Deutschland in den meisten Bereichen vom Tragen einer Maske befreit. Beachten Sie, dass die Befreiung nicht für Orte gilt, an denen eine besondere Maskenpflicht gilt: z.B. Arztpraxen, Krankenhäuser oder dem Personenfernverkehr.
+    en = You are exempt from wearing a mask in most areas in Germany. Note that the exemption does not apply to places where a special mask requirement applies: e.g. doctors' offices, hospitals or long-distance passenger transport.
 
 [infschg_cert_overview_mask_hint_mandatory]
-    de = Ein negativer Schnell- oder PCR-Test befreit Sie für 24 Stunden deutschlandweit von der Maskenpflicht. In manchen Bundesländern können Sie auch durch Impfungen und Genesungen von der Maskenpflicht befreit sein. Informieren Sie sich bitte über die Regelungen in Ihrem Bundesland.
-    en = A negative rapid or PCR test exempts you from the mask requirement for 24 hours throughout Germany. In some federal states, you may also be exempt from the mask requirement due to vaccinations and recoveries. Please inform yourself about the regulations in your federal state.
+    de = In ihrem Bundesland können Sie bis zu 24h von der Maskenpflicht befreit werden. Beachten Sie, dass in Ihrem Bundesland andere Bestimmungen gelten können. Denken Sie auch daran, dass die Befreiung nicht für Orte gilt, an denen eine besondere Maskenpflicht gilt: z.B. Arztpraxen, Krankenhäuser oder dem Personenfernverkehr.
+    en = You can be exempted from the mask requirement for up to 24 hours in your state. Note that different regulations may apply in your federal state. Also remember that the exemption does not apply to places where a special mask requirement applies: e.g. doctors' offices, hospitals or long-distance passenger transport.
     
 [infschg_cert_overview_immunisation_time_since]
     de = Seit %d
@@ -3244,6 +3244,10 @@
 [infschg_cert_overview_immunisation_E2]
     de = Sie gelten aufgrund Ihrer Impfung und durchgemachten Infektion als vollständig geimpft. Bitte informieren Sie sich aber auch über empfohlene Auffrischimpfungen.
     en = You are considered fully vaccinated based on your vaccination and the infection you have had. However, please also inform yourself about recommended booster vaccinations.
+    
+[infschg_cert_overview_immunisation_E22]
+    de = Sie gelten aufgrund Ihrer Impfung und durchgemachten Infektion als vollständig geimpft. Allerdings ist Ihr Immunschutz erst in %d Tagen wirksam. Bitte bedenken Sie, dass Sie noch ansteckend sein können und informieren Sie sich aber auch über empfohlene Auffrischimpfungen
+    en = You are considered fully vaccinated based on your vaccination and the infection you have had. However, your immune protection is only effective in %d days. Please bear in mind that you can still be contagious, but also inform yourself about recommended booster vaccinations
     
 [infschg_cert_overview_immunisation_invalid]
     de = Fügen Sie ein gültiges Zertifikat hinzu oder erneuern Sie Ihr neuestes Zertifikat, um Informationen zu Ihrem Impfstatus zu erhalten.
