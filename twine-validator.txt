@@ -1201,12 +1201,8 @@
     en = Exemption from the mask obligation
 
 [infschg_info_copy_3]
-    de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit Sie ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass Sie auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind.*
-    en = If the federal state in which you are staying has decreed that masks are compulsory, a negative rapid or PCR test will exempt you from the requirement to wear a mask at leisure, cultural and sporting events and in catering establishments for 24 hours. An unsupervised self-test is not sufficient. Your state may regulate that you may also be exempt from this requirement through vaccination or convalescence (if these are no more than three months old)*.
-    de = Sollten Ihre in der CovPass-App hinterlegten COVID-Zertifikate ausreichen, um Sie in Ihrem Bundesland von der Maskenpflicht zu befreien, färbt sich Ihr Zertifikat grün. Ihre Befreiung von der Maskenpflicht in Ihrem Bundesland kann durch einen Scan Ihres QR-Codes auf dem Startbildschirm oder aus der Detail-Ansicht heraus mithilfe der CovPassCheck-App nachgewiesen werden.
-    en = Sollten Ihre in der CovPass-App hinterlegten COVID-Zertifikate ausreichen, um Sie in Ihrem Bundesland von der Maskenpflicht zu befreien, färbt sich Ihr Zertifikat grün. Ihre Befreiung von der Maskenpflicht in Ihrem Bundesland kann durch einen Scan Ihres QR-Codes auf dem Startbildschirm oder aus der Detail-Ansicht heraus mithilfe der CovPassCheck-App nachgewiesen werden.
-    de = *Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.
-    en = *An exemption from the mask requirement does not apply to long-distance public transportation, hospitals, nursing facilities, and patients in doctors' offices.
+    de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit Sie ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass Sie auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind.*\n\nSollten Ihre in der CovPass-App hinterlegten COVID-Zertifikate ausreichen, um Sie in Ihrem Bundesland von der Maskenpflicht zu befreien, färbt sich Ihr Zertifikat grün. Ihre Befreiung von der Maskenpflicht in Ihrem Bundesland kann durch einen Scan Ihres QR-Codes auf dem Startbildschirm oder aus der Detail-Ansicht heraus mithilfe der CovPassCheck-App nachgewiesen werden.\n\n*Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.
+    en = If the federal state in which you are staying has decreed that masks are compulsory, a negative rapid or PCR test will exempt you from the requirement to wear a mask at leisure, cultural and sporting events and in catering establishments for 24 hours. An unsupervised self-test is not sufficient. Your state may regulate that you may also be exempt from this requirement through vaccination or convalescence (if these are no more than three months old)*.\n\nIf your COVID certificates stored in the CovPass app are sufficient to exempt you from the mask requirement in your state, your certificate will turn green. Your exemption from the mask requirement in your state can be verified by scanning your QR code on the home screen or from the details view using the CovPassCheck app.\n\n*An exemption from the mask requirement does not apply to long-distance public transportation, hospitals, nursing facilities, and patients in doctors' offices.
 
 [infschg_info_button]
     ref = ok
@@ -1251,6 +1247,71 @@
     de = Letzte Aktualisierung vor weniger als 24 Stunden
     en = Last updated less than 24 hours ago
    
+[[federal state names]]
+
+[BY]
+    de = Bayern
+    en = Bavaria
+
+[BB]
+    de = Brandenburg
+    en = Brandenburg
+
+[BE]
+    de = Berlin
+    en = Berlin
+
+[BW]
+    de = Baden-Württemberg
+    en = Baden-Württemberg
+
+[HB]
+    de = Bremen
+    en = Bremen
+
+[HH]
+    de = Hamburg
+    en = Hamburg
+
+[HE]
+    de = Hessen
+    en = Hesse
+
+[MV]
+    de = Mecklenburg Vorpommern
+    en = Mecklenburg Western Pomerania
+
+[NI]
+    de = Niedersachsen
+    en = Lower Saxony
+
+[NW]
+    de = Nordrhein-Westfalen
+    en = Northrhine-Westphalia
+
+[RP]
+    de = Rheinland Pfalz
+    en = Rhineland Palatinate
+
+[SN]
+    de = Sachsen
+    en = Saxony
+
+[ST]
+    de = Sachsen Anhalt
+    en = Saxony-Anhalt
+
+[SL]
+    de = Saarland
+    en = Saarland
+
+[SH]
+    de = Schleswig Holstein
+    en = Schleswig Holstein
+
+[TH]
+    de = Thüringen
+    en = Thuringia
 [[country list names]]
 
 [IT]
