@@ -1293,7 +1293,7 @@
     de = Nordrhein-Westfalen
     en = Northrhine-Westphalia
 
-[DE-RP]
+[DE_RP]
     de = Rheinland Pfalz
     en = Rhineland Palatinate
 
