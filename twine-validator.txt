@@ -1246,6 +1246,10 @@
 [infschg_start_screen_white_box_copy_2]
     de = Letzte Aktualisierung vor weniger als 24 Stunden
     en = Last updated less than 24 hours ago
+    
+[infschg_module_choose_federal_state_title]
+    de = Bundesland wählen
+    en = Choose federal state
    
 [[federal state names]]
 
