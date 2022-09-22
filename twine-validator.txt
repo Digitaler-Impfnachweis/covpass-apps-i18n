@@ -1253,69 +1253,70 @@
    
 [[federal state names]]
 
-[BY]
+[DE_BY]
     de = Bayern
     en = Bavaria
 
-[BB]
+[DE_BB]
     de = Brandenburg
     en = Brandenburg
 
-[BE]
+[DE_BE]
     de = Berlin
     en = Berlin
 
-[BW]
+[DE_BW]
     de = Baden-Württemberg
     en = Baden-Württemberg
 
-[HB]
+[DE_HB]
     de = Bremen
     en = Bremen
 
-[HH]
+[DE_HH]
     de = Hamburg
     en = Hamburg
 
-[HE]
+[DE_HE]
     de = Hessen
     en = Hesse
 
-[MV]
+[DE_MV]
     de = Mecklenburg Vorpommern
     en = Mecklenburg Western Pomerania
 
-[NI]
+[DE_NI]
     de = Niedersachsen
     en = Lower Saxony
 
-[NW]
+[DE_NW]
     de = Nordrhein-Westfalen
     en = Northrhine-Westphalia
 
-[RP]
+[DE-RP]
     de = Rheinland Pfalz
     en = Rhineland Palatinate
 
-[SN]
+[DE_SN]
     de = Sachsen
     en = Saxony
 
-[ST]
+[DE_ST]
     de = Sachsen Anhalt
     en = Saxony-Anhalt
 
-[SL]
+[DE_SL]
     de = Saarland
     en = Saarland
 
-[SH]
+[DE_SH]
     de = Schleswig Holstein
     en = Schleswig Holstein
 
-[TH]
+[DE_TH]
     de = Thüringen
     en = Thuringia
+    
 [[country list names]]
 
 [IT]
