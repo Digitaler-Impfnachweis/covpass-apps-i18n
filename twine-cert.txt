@@ -3255,4 +3255,4 @@
     
 [infschg_more_info_link]
     de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More information::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#

@@ -1194,11 +1194,38 @@
     
 [infschg_result_mask_optional_copy]
     de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
-    en = Now compare the following data with an identification document of the person being checked.
-    
+    en = Now compare the following data with an identification document of the person being checked. 
+
 [infschg_result_mask_optional_copy_notification]
     de = Diese Ansicht schließt sich nach 2 Min. von selbst.
     en = This view will close by itself after 2 min.
+
+[infschg_info_copy_2]
+    de = Befreiung von der Maskenpflicht
+    en = Exemption from the mask obligation
+
+[infschg_info_copy_3]
+    de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit Sie ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass Sie auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind.*\n\nSollten Ihre in der CovPass-App hinterlegten COVID-Zertifikate ausreichen, um Sie in Ihrem Bundesland von der Maskenpflicht zu befreien, färbt sich Ihr Zertifikat grün. Ihre Befreiung von der Maskenpflicht in Ihrem Bundesland kann durch einen Scan Ihres QR-Codes auf dem Startbildschirm oder aus der Detail-Ansicht heraus mithilfe der CovPassCheck-App nachgewiesen werden.\n\n*Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.
+    en = If the federal state in which you are staying has decreed that masks are compulsory, a negative rapid or PCR test will exempt you from the requirement to wear a mask at leisure, cultural and sporting events and in catering establishments for 24 hours. An unsupervised self-test is not sufficient. Your state may regulate that you may also be exempt from this requirement through vaccination or convalescence (if these are no more than three months old)*.\n\nIf your COVID certificates stored in the CovPass app are sufficient to exempt you from the mask requirement in your state, your certificate will turn green. Your exemption from the mask requirement in your state can be verified by scanning your QR code on the home screen or from the details view using the CovPassCheck app.\n\n*An exemption from the mask requirement does not apply to long-distance public transportation, hospitals, nursing facilities, and patients in doctors' offices.
+
+[infschg_info_button]
+    ref = ok
+
+[infschg_accessibility_start_screen_label_information]
+    de = Mehr Informationen
+    en = More information
+
+[infschg_validation_start_screen_title]
+    de = Maskenpflicht prüfen
+    en = Check mask obligation
+
+[infschg_start_screen_dropdown_title]
+    de = Bundesland
+    en = Federal state
+
+[infschg_start_screen_dropdown_text]
+    de = %@
+    en = %@
     
 [infschg_result_mask_optional_infobox_title]
     de = Behördenfunktion
@@ -1299,6 +1326,80 @@
 [infschg_result_mask_mandatory_deviating_data_link]
     de = Abweichung ignorieren
     en = Ignore deviation
+    
+[infschg_start_screen_white_box_copy_2]
+    de = Letzte Aktualisierung vor weniger als 24 Stunden
+    en = Last updated less than 24 hours ago
+    
+[infschg_module_choose_federal_state_title]
+    de = Bundesland wählen
+    en = Choose federal state
+   
+[[federal state names]]
+
+[DE_BY]
+    de = Bayern
+    en = Bavaria
+
+[DE_BB]
+    de = Brandenburg
+    en = Brandenburg
+
+[DE_BE]
+    de = Berlin
+    en = Berlin
+
+[DE_BW]
+    de = Baden-Württemberg
+    en = Baden-Württemberg
+
+[DE_HB]
+    de = Bremen
+    en = Bremen
+
+[DE_HH]
+    de = Hamburg
+    en = Hamburg
+
+[DE_HE]
+    de = Hessen
+    en = Hesse
+
+[DE_MV]
+    de = Mecklenburg Vorpommern
+    en = Mecklenburg Western Pomerania
+
+[DE_NI]
+    de = Niedersachsen
+    en = Lower Saxony
+
+[DE_NW]
+    de = Nordrhein-Westfalen
+    en = Northrhine-Westphalia
+
+[DE_RP]
+    de = Rheinland Pfalz
+    en = Rhineland Palatinate
+
+[DE_SN]
+    de = Sachsen
+    en = Saxony
+
+[DE_ST]
+    de = Sachsen Anhalt
+    en = Saxony-Anhalt
+
+[DE_SL]
+    de = Saarland
+    en = Saarland
+
+[DE_SH]
+    de = Schleswig Holstein
+    en = Schleswig Holstein
+
+[DE_TH]
+    de = Thüringen
+    en = Thuringia
     
 
 [[country list names]]
