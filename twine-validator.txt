@@ -1176,26 +1176,30 @@
     de = Einstellungen zur Behördenfunktion wurden geöffnet
     en = Settings about the function for authorities were opened
     
-[[infschg]]
-[infschg_info_accessibility_announce_open]
-    de = Die Ansicht "Neue gesetzliche Regelungen" wurde geöffnet.
-    en = The view "New legal regulations" has been opened.
+[infschg_settings_title]
+    de = Prüfregeln
+    en = Checking rules
     
-[infschg_info_accessibility_announce_close]
-    de = Die Ansicht "Neue gesetzliche Regelungen" wurde geschlossen.
-    en = The view "New legal regulations" has been closed.
+[infschg_settings_copy_1]
+    de = Hier können Sie die Regeln aktualisieren, nach denen Zertifikate geprüft werden. Sollte Ihr Smartphone üblicherweise mit dem Internet verbunden sein, passiert das automatisch. 
+    en = Here you can update the rules according to which certificates are checked. If your smartphone is usually connected to the Internet, this happens automatically.
     
-[infschg_info_accessibility_close]
-    ref = close
+[infschg_result_mask_optional_title]
+    de = Keine Maskenpflicht
+    en = No mask obligation
     
-[infschg_info_title]
-    de = Neue gesetzliche Regelungen
-    en = New legal regulations
+[infschg_result_mask_optional_subtitle]
+    de = In %@
+    en = In %@
     
-[infschg_info_copy_1]
-    de = In Deutschland tritt eine Änderung des Infektionsschutzgesetzes in Kraft. Ab dem 1. Oktober 2022 können die Bundesländer eine Maskenpflicht in öffentlich zugänglichen Innenräumen anordnen.
-    en = In Germany, an amendment to the Infection Protection Act comes into force. From October 1, 2022, the German federal states will be able to make masks compulsory in indoor areas accessible to the public.
-    
+[infschg_result_mask_optional_copy]
+    de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+    en = Now compare the following data with an identification document of the person being checked. 
+
+[infschg_result_mask_optional_copy_notification]
+    de = Diese Ansicht schließt sich nach 2 Min. von selbst.
+    en = This view will close by itself after 2 min.
+
 [infschg_info_copy_2]
     de = Befreiung von der Maskenpflicht
     en = Exemption from the mask obligation
@@ -1223,26 +1227,106 @@
     de = %@
     en = %@
     
-[infschg_start_screen_button_scan]
-    de = Zertifikat scannen
-    en = Scan certificate
+[infschg_result_mask_optional_infobox_title]
+    de = Behördenfunktion
+    en = Public authority function
 
-[infschg_start_screen_white_box_title_1]
-    de = Offline prüfen
-    en = Check offline
+[infschg_result_mask_optional_infobox_copy]
+    de = Diese Funktion richtet sich ausschließlich an die Polizeibehörden. Der Versuch ein Zertifikat unberechtigt sperren zu lassen ist strafbar und kann erhebliche Folgen nach sich ziehen.
+    en = This function is intended exclusively for police authorities. Attempting to revoke a certificate without authorization is punishable by law and can have serious consequences.
+    
+[infschg_result_mask_optional_infobox_link]
+    de = Informationen zur Sperrung anzeigen
+    en = Show information about the suspension
+    
+[infschg_result_mask_mandatory_title]
+    de = Maskenpflicht
+    en = Mask obligation
+    
+[infschg_result_mask_mandatory_copy]
+    de = Das gescannte Zertifikat befreit nicht von der Maskenpflicht. Mögliche Gründe: 
+    en = The scanned certificate does not exempt from the mask requirement. Possible reasons: 
+    
+[infschg_result_mask_mandatory_reason_1_title]
+    de = Zertifikat nicht im Gültigkeitszeitraum
+    en = Certificate not within the validity period
+   
+[infschg_result_mask_mandatory_reason_1_copy]
+    de = Eventuell liegt eine Wartezeit für das gescannte Zertifikat vor, welche abgewartet werden muss oder das Zertifikat ist zu alt.
+    en = There may be a waiting period for the scanned certificate, which must be passed, or the certificate may be too old.
+    
+[infschg_result_mask_mandatory_reason_2_title]
+    de = Falscher Zertifikatstyp
+    en = Incorrect certificate type
+    
+[infschg_result_mask_mandatory_reason_2_copy]
+    de = Für die Befreiung von der Maskenpflicht ist in Ihrem Bundesland ein anderer Zertifikatstyp notwendig. Bitte informieren Sie sich über die  aktuellen Bestimmungen Ihres Bundeslands.
+    en = A different type of certificate is required in your federal state for exemption from the masking requirement. Please inform yourself about the current regulations of your federal state.
+    
+[infschg_result_mask_mandatory_reason_3_title]
+    de = Unvollständige Impfserie
+    en = Incomplete vaccination series
+    
+[infschg_result_mask_mandatory_reason_3_copy]
+    de = Je nach Impfstoff sind für die Erlangung des vollständigen Impfschutzes mehrere Impfdosen erforderlich.
+    en = Depending on the vaccine, several doses of vaccine may be required to achieve full protection.
+    
+[infschg_result_mask_mandatory_reason_4_title]
+    de = Ungültige Signatur
+    en = Invalid signature
+    
+[infschg_result_mask_mandatory_reason_4_copy]
+    de = Das Zertifikat wurde nicht von einer autorisierten Stelle ausgestellt oder gehört nicht zu einem Digitalen COVID-Zertifikat der EU.
+    en = The certificate was not issued by an authorized body or does not belong to an EU COVID Digital Certificate.
+    
+[infschg_result_mask_mandatory_reason_5_title]
+    de = QR-Code nicht lesbar
+    en = QR code not scannable
+    
+[infschg_result_mask_mandatory_reason_5_copy]
+    de = Der QR-Code ist nicht lesbar. Bitte aktualisieren Sie die CovPassCheck-App, wenn dieses Problem häufiger auftritt.
+    en = The QR code is not scannable. Please update the CovPassCheck app if this problem occurs frequently.
+    
+[infschg_result_mask_mandatory_second_scan_infobox_title]
+    de = Zwei Nachweise notwendig?
+    en = Two proofs required?
 
-[infschg_start_screen_white_box_tag]
-    de = Verfügbar
-    en = Available
+[infschg_result_mask_mandatory_second_scan_infobox_copy]
+    de = Es kann sein, dass Ihr Bundesland eine Maskenbefreiung bei einer Grundimmunisierung nach einer Genesung ermöglicht. Scannen Sie in diesem Fall beide Zertifikate der Person:
+    en = It is possible that your state allows a mask exemption for basic immunization after recovery. In this case, scan both of the person's certificates:
+    
+[infschg_result_mask_mandatory_second_scan_infobox_button]
+    de = Zweites Zertifikat scannen
+    en = Scan second certificate
+    
+[infschg_result_mask_mandatory_deviating_data_title]
+    de = Abweichende Daten
+    en = Deviating data
+    
+[infschg_result_mask_mandatory_deviating_data_copy]
+    de = Die persönlichen Daten der beiden gescannten Nachweise stimmen nicht überein:
+    en = The personal data of the two scanned proofs do not match:
 
-[infschg_start_screen_white_box_copy_1]
-    de = Um ohne Internetverbindung zuverlässig prüfen zu können, sollten die Prüfregeln vor weniger als 24 Stunden aktualisiert worden sein.
-    en = To be able to check reliably without an Internet connection, the checking rules should have been updated less than 24 hours ago.
+[infschg_result_mask_mandatory_deviating_data_subtitle_1]
+    de = 1. Zertifikat
+    en = 1st certificate
+    
+[infschg_result_mask_mandatory_deviating_data_subtitle_2]
+    de = 2. Zertifikat
+    en = 2nd certificate
 
-[infschg_start_screen_white_box_title_2]
-    de = Prüfregeln aktualisieren
-    en = Update checking rules
-
+[infschg_result_mask_mandatory_deviating_data_subtitle_3]
+    de = Kein Fehler?
+    en = Not an error?
+    
+[infschg_result_mask_mandatory_deviating_data_copy_2]
+    de = Sollte es sich Ihrer Ansicht zum Beispiel um einen Tippfehler handeln, können Sie diese Abweichung ignorieren und die Prüfung fortsetzen.
+    en = If you think the error is a typo, you can ignore this discrepancy and continue the check
+    
+[infschg_result_mask_mandatory_deviating_data_link]
+    de = Abweichung ignorieren
+    en = Ignore deviation
+    
 [infschg_start_screen_white_box_copy_2]
     de = Letzte Aktualisierung vor weniger als 24 Stunden
     en = Last updated less than 24 hours ago
@@ -1317,6 +1401,7 @@
     de = Thüringen
     en = Thuringia
     
+
 [[country list names]]
 
 [IT]
