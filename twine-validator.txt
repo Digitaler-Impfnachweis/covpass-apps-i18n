@@ -1327,6 +1327,22 @@
     de = Abweichung ignorieren
     en = Ignore deviation
     
+[infschg_result_no_mask_rules_title]
+    de = Keine vorliegende Regeln
+    en = No present rules
+    
+[infschg_result_no_mask_rules_subtitle]
+    de = In %@
+    en = In %@
+    
+[infschg_result_no_mask_rules_copy_1_bold]
+    de = Für dieses Bundesland liegen keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
+    en = There are no federal state-specific rules for this federal state. Therefore, only the uniform federal rules on mandatory masks apply.
+    
+[infschg_result_no_mask_rules_copy_2]
+    de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit die Prüflinge ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass die Prüflinge auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind. Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.
+    en = If the federal state in which you are staying has ordered a mask requirement, a negative rapid or PCR test exempts examinees from this mask requirement for 24 hours at recreational, cultural and sporting events and in catering establishments. An unsupervised self-test is not sufficient. Your state may regulate that examinees are also exempt from the mask requirement due to vaccinations or recovery (if these occurred no more than three months ago). An exemption from the mask requirement does not apply in long-distance public transport, in hospitals, nursing facilities and for patients in doctors' offices.
+    
 [infschg_start_screen_white_box_copy_2]
     de = Letzte Aktualisierung vor weniger als 24 Stunden
     en = Last updated less than 24 hours ago
