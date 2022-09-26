@@ -1200,6 +1200,14 @@
     de = Diese Ansicht schließt sich nach 2 Min. von selbst.
     en = This view will close by itself after 2 min.
 
+[infschg_info_title]
+    de = Neue gesetzliche Regelungen
+    en = New legal regulations
+    
+[infschg_info_copy_1]
+    de = In Deutschland tritt eine Änderung des Infektionsschutzgesetzes in Kraft. Ab dem 1. Oktober 2022 können die Bundesländer eine Maskenpflicht in öffentlich zugänglichen Innenräumen anordnen.
+    en = In Germany, an amendment to the Infection Protection Act comes into force. From October 1, 2022, the federal states will be able to impose a mask requirement in indoor areas accessible to the public.
+    
 [infschg_info_copy_2]
     de = Befreiung von der Maskenpflicht
     en = Exemption from the mask obligation
