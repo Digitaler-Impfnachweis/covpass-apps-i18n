@@ -3423,3 +3423,69 @@
 [infschg_detail_page_no_valid_certificate_link]
     de = Mehr Informationen
     en = More information
+
+[[federal state names]]
+
+[DE_BY]
+    de = Bayern
+    en = Bavaria
+
+[DE_BB]
+    de = Brandenburg
+    en = Brandenburg
+
+[DE_BE]
+    de = Berlin
+    en = Berlin
+
+[DE_BW]
+    de = Baden-Württemberg
+    en = Baden-Württemberg
+
+[DE_HB]
+    de = Bremen
+    en = Bremen
+
+[DE_HH]
+    de = Hamburg
+    en = Hamburg
+
+[DE_HE]
+    de = Hessen
+    en = Hesse
+
+[DE_MV]
+    de = Mecklenburg Vorpommern
+    en = Mecklenburg Western Pomerania
+
+[DE_NI]
+    de = Niedersachsen
+    en = Lower Saxony
+
+[DE_NW]
+    de = Nordrhein-Westfalen
+    en = Northrhine-Westphalia
+
+[DE_RP]
+    de = Rheinland Pfalz
+    en = Rhineland Palatinate
+
+[DE_SN]
+    de = Sachsen
+    en = Saxony
+
+[DE_ST]
+    de = Sachsen Anhalt
+    en = Saxony-Anhalt
+
+[DE_SL]
+    de = Saarland
+    en = Saarland
+
+[DE_SH]
+    de = Schleswig Holstein
+    en = Schleswig Holstein
+
+[DE_TH]
+    de = Thüringen
+    en = Thuringia
