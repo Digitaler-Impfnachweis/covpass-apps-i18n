@@ -975,11 +975,15 @@
     de = Prüfregeln
     en = Checking rules
 
+[app_information_offline_revocation_copy_1]
+    de = Hier können Sie die Regeln aktualisieren, nach denen Zertifkate geprüft werden. Sollte Ihr Smartphone üblicherweise mit dem Internet verbunden sein, passiert das automatisch.
+    en = Here you can update the rules based on which you check certificates. If your smartphone is continuously connected to the internet, this will happen automatically. 
+
 [app_information_offline_revocation_title]
     de = Gesperrte Zertifikate offline prüfen
     en = Check revoked certificates offline
 
-[app_information_offline_revocation_copy]
+[app_information_offline_revocation_copy_2]
     de = Aktivieren Sie diese Einstellung, wenn Sie auch im Offline-Modus von den Behörden gesperrte Zertifikate erkennen möchten. Andernfalls werden gesperrte Zertifikate nur im Online-Modus erkannt. Diese Funktion verbraucht mehr Datenvolumen.
     en = Activate this setting if you also want to detect certificates revoked by the authorities in offline mode. Otherwise, revoked certificates are only detected in online mode. This function consumes more data volume.
 
