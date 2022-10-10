@@ -3300,10 +3300,6 @@
     de = Bundesland
     en = Federal state
 
-[infschg_settings_federal_state_state]
-    de = %d
-    en = %d
-
 [infschg_settings_federal_state_page_title]
     de = Bundesland
     en = Federal state
@@ -3315,10 +3311,6 @@
 [infschg_settings_federal_state_page_tag]
     de = Bundesland
     en = Federal state
-
-[infschg_settings_federal_state_page_box_content]
-    de = %d
-    en = %d
 
 [infschg_detail_page_no_mask_mandatory_title]
     de = Keine Maskenpflicht

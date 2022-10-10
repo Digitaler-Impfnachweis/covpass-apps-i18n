@@ -1234,10 +1234,6 @@
 [infschg_start_screen_dropdown_title]
     de = Bundesland
     en = Federal state
-
-[infschg_start_screen_dropdown_text]
-    de = %@
-    en = %@
     
 [infschg_result_mask_optional_infobox_title]
     de = Behördenfunktion
