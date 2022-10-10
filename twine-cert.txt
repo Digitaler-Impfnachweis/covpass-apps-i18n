@@ -3222,12 +3222,12 @@
     en = You can be exempted from the mask requirement for up to 24 hours in your state. Note that different regulations may apply in your federal state. Also remember that the exemption does not apply to places where a special mask requirement applies: e.g. doctors' offices, hospitals or long-distance passenger transport.
     
 [infschg_cert_overview_immunisation_time_since]
-    de = Seit %d
-    en = Since %d
+    de = Seit %@
+    en = Since %@
 
 [infschg_cert_overview_immunisation_time_from]
-    de = Ab %d
-    en = From %d
+    de = Ab %@
+    en = From %@
 
 [infschg_cert_overview_immunisation_incomplete_A]
     de = Sie haben noch nicht alle derzeit empfohlenen Impfungen erhalten. Ihr Impfschutz ist noch nicht vollständig.
@@ -3270,8 +3270,8 @@
     en = Federal state
     
 [infschg_popup_choose_federal_state_box_content]
-    de = %d
-    en = %d
+    de = %@
+    en = %@
     
 [infschg_popup_choose_federal_state_copy_2]
     de = *Sie dürfen jederzeit das Bundesland von der entsprechenden Auswahl in den Einstellungen ändern.
@@ -3293,8 +3293,8 @@
     en = No valid certificate
 
 [infschg_start_screen_status_federal_state]
-    de = In %d
-    en = In %d
+    de = in %@
+    en = in %@
     
 [infschg_settings_federal_state_title]
     de = Bundesland
@@ -3317,12 +3317,12 @@
     en = No mask required
 
 [infschg_detail_page_no_mask_mandatory_subtitle]
-    de = Befreit bis %d
-    en = Exempt until %d
+    de = Befreit bis %@
+    en = Exempt until %@
 
 [infschg_detail_page_no_mask_mandatory_federal_state]
-    de = In %d
-    en = In %d
+    de = in %@
+    en = in %@
 
 [infschg_detail_page_no_mask_mandatory_copy_1]
     de = Sie sind in diesem Bundesland in einigen Situationen von der Maskenpflicht ausgenommen; eine Maske ist dennoch empfohlen.
@@ -3349,12 +3349,12 @@
     en = Mask mandatory
 
 [infschg_detail_page_mask_mandatory_subtitle]
-    de = Befreit bis %d
-    en = Exempt until %d
+    de = Befreit bis %@
+    en = Exempt until %@
 
 [infschg_detail_page_mask_mandatory_federal_state]
-    de = In %d
-    en = In %d
+    de = in %@
+    en = in %@
 
 [infschg_detail_page_mask_mandatory_copy_1]
     de = Sie sind in diesem Bundesland nicht von der Maskenpflicht ausgenommen.
@@ -3381,8 +3381,8 @@
     en = Mask mandatory
 
 [infschg_detail_page_mask_status_uncertain_federal_state]
-    de = In %d
-    en = In %d
+    de = in %@
+    en = in %@
 
 [infschg_detail_page_mask_status_uncertain_copy_1]
     de = Für dieses Bundesland liegen keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
@@ -3415,6 +3415,10 @@
 [infschg_detail_page_no_valid_certificate_link]
     de = Mehr Informationen
     en = More information
+    
+[infschg_module_choose_federal_state_title]
+    de = Bundesland wählen
+    en = Choose federal state
 
 [[federal state names]]
 
