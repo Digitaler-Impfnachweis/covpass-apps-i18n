@@ -3333,7 +3333,7 @@
     en = In %d
 
 [infschg_detail_page_no_mask_mandatory_copy_1]
-    de = Sie sind in diesem Bundesland  in einigen Situationen von der Maskenpflicht ausgenommen; eine Maske ist dennoch empfohlen.
+    de = Sie sind in diesem Bundesland in einigen Situationen von der Maskenpflicht ausgenommen; eine Maske ist dennoch empfohlen.
     en = You are exempt from the mask requirement in some situations in this state; however, a mask is still recommended.
 
 [infschg_detail_page_no_mask_mandatory_link]
