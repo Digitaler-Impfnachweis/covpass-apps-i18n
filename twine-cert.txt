@@ -3206,12 +3206,12 @@
     en = Your current certificate
 
 [infschg_cert_overview_mask_time_until]
-    de = Befreit bis %d
-    en = Exempt until %d
+    de = Befreit bis %@
+    en = Exempt until %@
 
 [infschg_cert_overview_mask_time_from]
-    de = Befreit ab %d
-    en = Exempt from %d
+    de = Befreit ab %@
+    en = Exempt from %@
 
 [infschg_cert_overview_mask_hint_optional]
     de = Sie sind in Deutschland in den meisten Bereichen vom Tragen einer Maske befreit. Beachten Sie, dass die Befreiung nicht für Orte gilt, an denen eine besondere Maskenpflicht gilt: z.B. Arztpraxen, Krankenhäuser oder dem Personenfernverkehr.
