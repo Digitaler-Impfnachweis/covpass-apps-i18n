@@ -1209,16 +1209,16 @@
     en = New legal regulations
     
 [infschg_info_copy_1]
-    de = In Deutschland tritt eine Änderung des Infektionsschutzgesetzes in Kraft. Ab dem 1. Oktober 2022 können die Bundesländer eine Maskenpflicht in öffentlich zugänglichen Innenräumen anordnen.
-    en = In Germany, an amendment to the Infection Protection Act comes into force. From October 1, 2022, the federal states will be able to impose a mask requirement in indoor areas accessible to the public.
+    de = In Deutschland tritt eine Änderung des Infektionsschutzgesetzes in Kraft. Deshalb ändert sich Ihre CovPassCheck-App ab heute auch.
+    en = An amendment to the Infection Protection Act comes into force in Germany. Therefore, as of today, your CovPassCheck app will also change.
     
 [infschg_info_copy_2]
-    de = Befreiung von der Maskenpflicht
-    en = Exemption from the mask obligation
+    de = Befreiung von einer bundeslandspezifischen Maskenpflicht
+    en = Exemption from a state-specific mask obligation
 
 [infschg_info_copy_3]
-    de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit Sie ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass Sie auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind.* Sobald die ersten Bundesländer eine Maskenpflicht anordnen, wird die CovPass-App nach einem weiteren Update Ihren Status zur bundeslandspezifischen Maskenpflicht anzeigen.\n\nSollten Ihre in der CovPass-App hinterlegten COVID-Zertifikate ausreichen, um Sie in Ihrem Bundesland von der Maskenpflicht zu befreien, färbt sich Ihr Zertifikat grün. Ihre Befreiung von der Maskenpflicht in Ihrem Bundesland kann durch einen Scan Ihres QR-Codes auf dem Startbildschirm oder aus der Detail-Ansicht heraus mithilfe der CovPassCheck-App nachgewiesen werden.\n\n*Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.
-    en = In case the federal state in which you are staying has ordered a mask obligation, a negative rapid or PCR test exempts you from this mask obligation for 24 hours at leisure, cultural and sporting events as well as in catering establishments. An unsupervised self-test is not sufficient. Your state may regulate that you are also exempt from the mask requirement through vaccinations or recovery (if these occurred no more than three months ago).* As soon as the first states mandate a mask requirement, the CovPass app will display your state-specific mask requirement status after a further update.\n\nIf your COVID certificates stored in the CovPass app are sufficient to exempt you from the mask requirement in your state, your certificate will turn green. Your exemption from the mask requirement in your state can be verified by scanning your QR code on the home screen or from the details view using the CovPassCheck app.\n\n*An exemption from the mask requirement does not apply to long-distance public transportation, hospitals, nursing facilities, and patients in doctors' offices.
+    de = Sie können jetzt mit dieser App prüfen, ob die Nachweise einer Person für die Befreiung von einer bundeslandspezifischen Maskenpflicht ausreichen. Wählen Sie dazu einfach Ihr Bundesland vor der Prüfung aus.\n\nEin negativer Schnell- oder PCR-Test befreit 24 Stunden von dieser Maskenpflicht. In manchen Bundesländern können auch Impfungen und Genesungen von dieser Maskenpflicht befreien.
+    en = You can now use this app to check whether a person's evidence is sufficient for exemption from a state-specific masking requirement. To do so, simply select your state before checking.\n\A negative rapid or PCR test exempts 24 hours from this mask requirement. In some states, vaccinations and recoveries may also exempt you from this mask requirement.
 
 [infschg_info_button]
     ref = ok
@@ -1240,8 +1240,8 @@
     en = Public authority function
 
 [infschg_result_mask_optional_infobox_copy]
-    de = Diese Funktion richtet sich ausschließlich an die Polizeibehörden. Der Versuch ein Zertifikat unberechtigt sperren zu lassen ist strafbar und kann erhebliche Folgen nach sich ziehen.
-    en = This function is intended exclusively for police authorities. Attempting to revoke a certificate without authorization is punishable by law and can have serious consequences.
+    de = Diese Funktion richtet sich ausschließlich an die Polizeibehörden. Der Versuch, ein Zertifikat unberechtigt sperren zu lassen, ist strafbar und kann erhebliche Folgen nach sich ziehen.
+    en = This function is intended exclusively for police authorities. Attempting to have a certificate revoked without authorization is punishable by law and can have significant consequences.
     
 [infschg_result_mask_optional_infobox_link]
     de = Informationen zur Sperrung anzeigen
@@ -1260,32 +1260,32 @@
     en = Certificate not within the validity period
    
 [infschg_result_mask_mandatory_reason_1_copy]
-    de = Eventuell liegt eine Wartezeit für das gescannte Zertifikat vor, welche abgewartet werden muss oder das Zertifikat ist zu alt.
-    en = There may be a waiting period for the scanned certificate, which must be passed, or the certificate may be too old.
+    de = Eventuell sind noch nicht 28 Tage nach dem positiven Test vergangen oder die letzte Impfung/Genesung liegt über 90 Tage zurück.
+    en = It may not have been 28 days since the positive test or the last vaccination/recovery was over 90 days ago.
     
 [infschg_result_mask_mandatory_reason_2_title]
     de = Falscher Zertifikatstyp
     en = Incorrect certificate type
     
 [infschg_result_mask_mandatory_reason_2_copy]
-    de = Für die Befreiung von der Maskenpflicht ist in Ihrem Bundesland ein anderer Zertifikatstyp notwendig. Bitte informieren Sie sich über die  aktuellen Bestimmungen Ihres Bundeslands.
-    en = A different type of certificate is required in your federal state for exemption from the masking requirement. Please inform yourself about the current regulations of your federal state.
-    
+    de = Für die Befreiung von der Maskenpflicht ist in Ihrem Bundesland ein anderer Zertifikatstyp notwendig. 
+    en = A different type of certificate is required in your federal state for exemption from the masking requirement. 
+
 [infschg_result_mask_mandatory_reason_3_title]
     de = Unvollständige Impfserie
     en = Incomplete vaccination series
     
 [infschg_result_mask_mandatory_reason_3_copy]
-    de = Je nach Impfstoff sind für die Erlangung des vollständigen Impfschutzes mehrere Impfdosen erforderlich.
-    en = Depending on the vaccine, several doses of vaccine may be required to achieve full protection.
+    de = Für die Erlangung eines vollständigen Impfschutzes sind drei Impfstoffdosen oder zwei Impfstoffdosen plus eine Genesung erforderlich.
+    en = Three doses of vaccine or two doses of vaccine plus one recovery are required to obtain full vaccine protection.
     
 [infschg_result_mask_mandatory_reason_4_title]
     de = Ungültige Signatur
     en = Invalid signature
     
 [infschg_result_mask_mandatory_reason_4_copy]
-    de = Das Zertifikat wurde nicht von einer autorisierten Stelle ausgestellt oder gehört nicht zu einem Digitalen COVID-Zertifikat der EU.
-    en = The certificate was not issued by an authorized body or does not belong to an EU COVID Digital Certificate.
+    de = Das Zertifikat ist kein Digitales COVID-Zertifikat der EU oder wurde nicht von einer autorisierten Stelle ausgestellt.
+    en = The certificate is not an EU Digital COVID Certificate or has not been issued by an authorized body.
     
 [infschg_result_mask_mandatory_reason_5_title]
     de = QR-Code nicht lesbar
@@ -1336,20 +1336,20 @@
     en = Ignore deviation
     
 [infschg_result_no_mask_rules_title]
-    de = Keine vorliegende Regeln
+    de = Keine vorliegenden Regeln
     en = No present rules
     
 [infschg_result_no_mask_rules_subtitle]
-    de = In %@
-    en = In %@
+    de = in %@
+    en = in %@
     
 [infschg_result_no_mask_rules_copy_1_bold]
     de = Für dieses Bundesland liegen keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
     en = There are no federal state-specific rules for this federal state. Therefore, only the uniform federal rules on mandatory masks apply.
     
 [infschg_result_no_mask_rules_copy_2]
-    de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit die Prüflinge ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass die Prüflinge auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind. Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.
-    en = If the federal state in which you are staying has ordered a mask requirement, a negative rapid or PCR test exempts examinees from this mask requirement for 24 hours at recreational, cultural and sporting events and in catering establishments. An unsupervised self-test is not sufficient. Your state may regulate that examinees are also exempt from the mask requirement due to vaccinations or recovery (if these occurred no more than three months ago). An exemption from the mask requirement does not apply in long-distance public transport, in hospitals, nursing facilities and for patients in doctors' offices.
+    de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigter durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass auch vollständige Impfungen oder Genesungen (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreien.\n\nEine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und in Arztpraxen.
+    en = If the federal state in which you are staying has ordered a mask obligation, a negative rapid or PCR test exempts you from this mask obligation for 24 hours at recreational, cultural and sporting events and in catering establishments. An unsupervised self-test performed is not sufficient. Your state may regulate that complete vaccinations or recoveries (if these occurred no more than three months ago) also exempt you from the mask requirement.\n\nAn exemption from the mask requirement does not apply in long-distance public transport, hospitals, nursing facilities, and doctors' offices.
     
 [infschg_start_screen_white_box_copy_2]
     de = Letzte Aktualisierung vor weniger als 24 Stunden
