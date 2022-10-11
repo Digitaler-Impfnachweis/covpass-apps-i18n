@@ -1390,8 +1390,8 @@
     en = Hesse
 
 [DE_MV]
-    de = Mecklenburg Vorpommern
-    en = Mecklenburg Western Pomerania
+    de = Mecklenburg-Vorpommern
+    en = Mecklenburg-Western Pomerania
 
 [DE_NI]
     de = Niedersachsen
@@ -1402,15 +1402,15 @@
     en = Northrhine-Westphalia
 
 [DE_RP]
-    de = Rheinland Pfalz
-    en = Rhineland Palatinate
+    de = Rheinland-Pfalz
+    en = Rhineland-Palatinate
 
 [DE_SN]
     de = Sachsen
     en = Saxony
 
 [DE_ST]
-    de = Sachsen Anhalt
+    de = Sachsen-Anhalt
     en = Saxony-Anhalt
 
 [DE_SL]
@@ -1418,8 +1418,8 @@
     en = Saarland
 
 [DE_SH]
-    de = Schleswig Holstein
-    en = Schleswig Holstein
+    de = Schleswig-Holstein
+    en = Schleswig-Holstein
 
 [DE_TH]
     de = Thüringen
