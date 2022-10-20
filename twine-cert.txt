@@ -3294,7 +3294,7 @@
 
 [infschg_start_screen_status_grey_2]
     de = Keine zusätzlichen Regeln
-    en = No federal state rules
+    en = No additional rules
     
 [infschg_start_screen_status_federal_state]
     de = in %@
