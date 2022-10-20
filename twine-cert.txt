@@ -3293,7 +3293,7 @@
     en = No valid certificate
 
 [infschg_start_screen_status_grey_2]
-    de = Keine Bundesland-Regeln
+    de = Keine zusätzlichen Regeln
     en = No federal state rules
     
 [infschg_start_screen_status_federal_state]
