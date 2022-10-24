@@ -3274,8 +3274,8 @@
     en = %@
     
 [infschg_popup_choose_federal_state_copy_2]
-    de = *Sie dürfen jederzeit das Bundesland von der entsprechenden Auswahl in den Einstellungen ändern.
-    en = *You may change the federal state from the corresponding selection in the settings at any time.
+    de = *Sie können jederzeit das Bundesland von der entsprechenden Auswahl in den Einstellungen ändern.
+    en = *You can change the federal state from the corresponding selection in the settings at any time.
     
 [infschg_popup_choose_federal_state_button]
     ref = OK
