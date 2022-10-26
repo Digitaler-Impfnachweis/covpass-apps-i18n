@@ -2708,6 +2708,10 @@
     de = Anbieter
     en = Provider
 
+[share_certificate_transmission_details_partner]
+    de = Prüfpartner
+    en = Verification Partner
+
 [share_certificate_transmission_details_booking]
     de = Buchung
     en = Booking
