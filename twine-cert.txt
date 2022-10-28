@@ -188,6 +188,10 @@
     de = Der Startbildschirm wurde geöffnet
     en = The start screen has been opened
 
+[accessibility_start_screen_info_closing_announce]
+    de = Der Startbildschirm wird geschlossen
+    en = The start screen will be closed
+
 [vaccination_start_screen_title]
     de = Digitale COVID-Zertifikate der EU
     en = EU Digital COVID Certificates
@@ -310,6 +314,10 @@
 [accessibility_certificate_popup_checkapp_announce]
     de = Die Ansicht "Scannen bitte!" wurde geöffnet
     en = The view "Please scan!" has been opened
+
+[accessibility_certificate_popup_checkapp_closing_announce]
+    de = Die Ansicht "Scannen bitte!" wurde geschlossen
+    en = The view "Please scan!" has been closed
 
 
 [[popup: add certification]]
@@ -478,6 +486,27 @@
 
 
 [[file import]]
+
+[accessibility_scan_camera_torch_turn_on]
+    de = Taschenlampe anschalten
+    en = Switch on torch
+
+[accessibility_scan_camera_torch_on]
+    de = Taschenlampe wurde angeschaltet
+    en = Torch has been switched on
+
+[accessibility_scan_camera_torch_turn_off]
+    de = Taschenlampe ausschalten
+    en = Switch off torch
+
+[accessibility_scan_camera_torch_turn_off]
+    de = Taschenlampe wurde ausgeschaltet
+    en = Torch has been switched off
+
+[accessibility_scan_camera_select_file]
+    de = Datei auswählen
+    en = Select file
+
 [accessibility_scan_camera_select_file]
     de = Datei auswählen
     en = Select file
@@ -607,6 +636,14 @@
 [accessibility_certificate_check_validity_label_display_certificate]
     de = Zertifikat anzeigen
     en = Display certificate
+
+[accessibility_popup_check_validity_choose_country]
+    de = Land wählen
+    en = Choose country
+
+[accessibility_popup_check_validity_choose_date]
+    de = Datum wählen
+    en = Choose date
 
 [accessibility_certificate_check_validity_announce]
     de = Die Ansicht "Gültigkeit prüfen" wurde geöffnet
@@ -2295,9 +2332,17 @@
     de = Kontakt-Ansicht wurde geöffnet
     en = Contact has been opened
 
+[accessibility_app_information_title_contact_closing_announce]
+    de = Kontakt-Ansicht wurde geschlossen
+    en = Contact has been closed
+
 [accessibility_app_information_title_open_source_announce]
     de = Die Ansicht "Open-Source-Lizenzen" wurde geöffnet
     en = The view "Open-source licences" has been opened
+
+[accessibility_app_information_title_open_source_announce_closing]
+    de = Die Ansicht "Open-Source-Lizenzen" wurde geschlossen
+    en = The view "Open-source licences" has been closed
 
 [accessibility_app_information_update_notifications_announce_open]
     de = Die Ansicht "Update-Benachrichtigungen" wurde geöffnet
@@ -2314,6 +2359,46 @@
 [accessibility_app_information_title_informationt_announce]
     de = Die Ansicht "Informationen" wurde geöffnet
     en = Information has been opened
+
+[accessibility_app_information_title_information_closing_announce]
+    de = Die Ansicht "Informationen" wurde geschlossen
+    en = Information has been closed
+
+[accessibility_app_information_title_checking_rules_announce]
+    de = Die Ansicht "Prüfregeln aktualisieren" wurde geöffnet
+    en = Update Checking Rules has been opened
+
+[accessibility_app_information_title_checking_rules_closing_announce]
+    de = Die Ansicht "Prüfregeln aktualisieren" wurde geschlossen
+    en = Update checking rules has been closed
+
+[accessibility_app_information_title_update_notifications_announce]
+    de = Die Ansicht "Update-Benachrichtigungen" wurde geöffnet
+    en = Update notifications has been opened
+
+[accessibility_app_information_title_update_notifications_closing_announce]
+    de = Die Ansicht "Update-Benachrichtigungen" wurde geschlossen
+    en = Update notifications has been closed
+
+[accessibility_app_information_title_federal_state_rules_announce]
+    de = Die Ansicht "Bundeslandregeln" wurde geöffnet
+    en = Federal state rules has been opened
+
+[accessibility_app_information_title_federal_state_rules_icon]
+    de = Bundesland auswählen
+    en = Select federal state
+
+[accessibility_popup_valid_certificate_germany_announce]
+    de = Die Ansicht "Gültigkeit von Zertifikaten in Deutschland" wurde geöffnet
+    en = Validity of certificates in Germany has been opened
+
+[accessibility_popup_valid_certificate_germany_closing_announce]
+    de = Die Ansicht "Gültigkeit von Zertifikaten in Deutschland" wurde geschlossen
+    en = Validity of certificates in Germany has been closed
+
+[accessibility_app_information_title_federal_state_rules_closing_announce]
+    de = Die Ansicht "Bundeslandregeln" wurde geschlossen
+    en = Federal state rules has been closed
 
 [accessibility_app_information_version_number_delimiter]
     de = Punkt
@@ -2947,6 +3032,15 @@
     en = Yes, finish
 
 [[dcc renewal]]
+
+[accessibility_popup_renew_certificate_announce]
+    de = Die Ansicht "Änderungen bei Ihren Zertifikaten" wurde geöffnet
+    en = Changes to your certificates has been opened
+
+[accessibility_popup_renew_certificate_closing_announce]
+    de = Die Ansicht "Änderungen bei Ihren Zertifikaten" wurde geschlossen
+    en = Changes to your certificates has been closed
+
 [certificate_renewal_startpage_headline]
     de = Änderungen bei Ihren Zertifikaten
     en = Changes to your certificates
@@ -2966,6 +3060,14 @@
 [certificate_renewal_startpage_secondary_button]
     de = Später nachholen
     en = Renew later
+
+[accessibility_renew_certificate_concent_announce]
+    de = Die Ansicht "Einwilligung zur Übermittlung Ihrer Zertifikate" wurde geöffnet
+    en = Consent to transmitting your certificates has been opened
+
+[accessibility_renew_certificate_concent_closing_announce]
+    de = Die Ansicht "Einwilligung zur Übermittlung Ihrer Zertifikate" wurde geschlossen
+    en = Consent to transmitting your certificates has been closed
 
 [certificate_renewal_consent_page_transfer_certificates_headline]
     de = Einwilligung zur Übermittlung Ihrer Zertifikate an das RKI
