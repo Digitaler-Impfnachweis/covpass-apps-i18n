@@ -388,6 +388,18 @@
 [accessibility_scan_camera_torch_off]
     de = Taschenlampe ausschalten
     en = Switch off torch
+    
+[accessibility_scan_camera_announce]
+    de = Kamera-Ansicht wurde geöffnet. Der QR-Code wird automatisch gescannt. 
+    en = Camera has been opened. The QR code will be scanned automatically.
+
+[accessibility_scan_camera_torch_on]
+    de = Taschenlampe wurde angeschaltet
+    en = Torch has been switched on
+
+[accessibility_scan_camera_torch_turn_off]
+    de = Taschenlampe wurde ausgeschaltet
+    en = Torch has been switched off
 
 [validation_check_popup_valid_vaccination_recovery_title]
     de = Zertifikat gültig*
@@ -788,6 +800,10 @@
     de = Die Ansicht "Kontakt" wurde geöffnet
     en = Contact has been opened
 
+[accessibility_app_information_title_contact_closing_announce]
+    de = Die Ansicht "Kontakt" wurde geschlossen
+    en = Contact has been closed
+
 [app_information_message_contact_support]
     de = Kontakt bei technischen Fragen zur CovPassCheck-App
     en = Contact for technical questions about the CovPassCheck app
@@ -852,6 +868,10 @@
     de = Open-Source-Lizenzen
     en = Open-source licences
 
+[accessibility_app_information_title_open_source_closing_announce]
+    de = Die Ansicht "Open-Source-Lizenzen" wurde geschlossen
+    en = The view "Open-source licences" has been closed
+
 [app_information_title_accessibility_statement]
     de = Barrierefreiheitserklärung
     en = Accessibility statement
@@ -875,6 +895,10 @@
 [app_information_message_open_source]
     de = Die App verwendet die folgenden Open-Source-Bibliotheken:
     en = The app uses the following open-source libraries:
+
+[accessibility_app_information_title_informationt_closing_announce]
+    de = Die Ansicht "Informationen" wurde geschlossen
+    en = Information has been closed
 
 [accessibility_app_information_open_source_label_back]
     de = Zurück
@@ -1204,6 +1228,14 @@
     de = Diese Ansicht schließt sich nach 2 Min. von selbst.
     en = This view will close by itself after 2 min.
 
+[accessibility_popup_new_rules_announce]
+    de = Die Ansicht "Neue gesetzliche Regelungen" wurde geöffnet
+    en = New state rules has been opened
+
+[accessibility_popup_new_rules_closing_announce]
+    de = Die Ansicht "Neue gesetzliche Regelungen" wurde geschlossen
+    en = New state rules has been opened
+    
 [infschg_info_title]
     de = Neue gesetzliche Regelungen
     en = New legal regulations
@@ -1354,6 +1386,18 @@
 [infschg_start_screen_white_box_copy_2]
     de = Letzte Aktualisierung vor weniger als 24 Stunden
     en = Last updated less than 24 hours ago
+
+[accessibility_checkapp_popup_choose_federal_state_announce]
+    de = Die Ansicht "Bundesland wählen" wurde geöffnet
+    en = Choose federal state has been opened
+
+[accessibility_checkapp_popup_choose_federal_state_announce_when_chosen]
+    de = Bundesland %@ wurde ausgewählt
+    en = Federal state %@ was selected
+
+[accessibility_checkapp_popup_choose_federal_state_closing_announce]
+    de = Die Ansicht "Bundesland wählen" wurde geschlossen
+    en = Choose federal state has been closed
     
 [infschg_module_choose_federal_state_title]
     de = Bundesland wählen
