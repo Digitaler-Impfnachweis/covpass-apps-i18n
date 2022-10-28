@@ -3366,6 +3366,18 @@
 [infschg_popup_choose_federal_state_title]
     de = Wählen Sie Ihr Bundesland
     en = Choose your federal state
+
+[accessibility_popup_choose_federal_state_announce]
+    de = Die Ansicht "Wählen Sie ihr Bundesland" wurde geöffnet
+    en = Choose federal state has been opened
+
+[accessibility_popup_choose_federal_state_closing_announce]
+    de = Die Ansicht "Wählen Sie ihr Bundesland" wurde geschlossen
+    en = Choose federal state has been opened
+
+[accessibility_start_screen_arrow_card]
+    de = Alle Zertifikate von dieser Person öffnen
+    en = Open all certificates of this person
     
 [infschg_popup_choose_federal_state_copy_1]
     de = Die Regeln zur Maskenpflicht können je nach Bundesland variieren. Wählen Sie Ihr Bundesland aus, um Ihren aktuellen Maskenstatus sehen zu können.*
@@ -3386,6 +3398,14 @@
 [infschg_popup_choose_federal_state_button]
     ref = OK
     
+[accessibility_infschg_modal_view_announce]
+    de = Eine Übersicht aller Zertifikate wurde geöffnet
+    en = An overview of all certificates has been opened
+
+[accessibility_infschg_modal_view_announce_closing]
+    de = Die Übersicht aller Zertifikate wurde geschlossen
+    en = The overview of all certificates has been closed
+
 [infschg_start_screen_status_green]
     de = Keine Maskenpflicht
     en = No mask required
@@ -3526,6 +3546,18 @@
     de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
     en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
     
+[accessibility_app_popup_choose_federal_state_announce]
+    de = Die Ansicht "Bundesland wählen" wurde geöffnet
+    en = Choose federal state has been opened
+
+[accessibility_app_popup_choose_federal_state_announce_when_chosen]
+    de = Bundesland %@ wurde ausgewählt
+    en = Federal state %@ was selected
+
+[accessibility_app_popup_choose_federal_state_closing_announce]
+    de = Die Ansicht "Bundesland wählen" wurde geschlossen
+    en = Choose federal state has been closed
+
 [infschg_module_choose_federal_state_title]
     de = Bundesland wählen
     en = Choose federal state
