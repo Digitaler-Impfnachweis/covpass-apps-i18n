@@ -638,12 +638,12 @@
     en = Display certificate
 
 [accessibility_popup_check_validity_choose_country]
-    de = Land wählen
-    en = Choose country
+    de = Ziehlort %@. Wählen Sie ein Land
+    en = Destination %@. Choose a country
 
 [accessibility_popup_check_validity_choose_date]
-    de = Datum wählen
-    en = Choose date
+    de = Datum %d. Wählen Sie ein Datum der Abreise.
+    en = Date chosen %d. Choose a departure date. 
 
 [accessibility_certificate_check_validity_announce]
     de = Die Ansicht "Gültigkeit prüfen" wurde geöffnet
