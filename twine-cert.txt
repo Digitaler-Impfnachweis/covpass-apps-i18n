@@ -1402,6 +1402,10 @@
     de = Nachweise anzeigen
     en = Show certificates
 
+[accessibility_certificate_overview_complete_action_button]
+    de = Neue Regelungen
+    en = New regulations
+    
 [vaccination_certificate_overview_booster_vaccination_notification_icon_new]
     de = Neu
     en = New
