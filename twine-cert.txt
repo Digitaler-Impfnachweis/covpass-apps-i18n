@@ -506,11 +506,11 @@
 [accessibility_scan_camera_select_file]
     de = Datei auswählen
     en = Select file
-
-[accessibility_scan_camera_select_file]
-    de = Datei auswählen
-    en = Select file
-
+    
+[accessibility_scan_camera_file_selected]
+    de = Datei wurde ausgewählt
+    en = File has been selected
+    
 [file_import_menu_title]
     de = Datei öffnen
     en = Open file
