@@ -638,7 +638,7 @@
     en = Display certificate
 
 [accessibility_popup_check_validity_choose_country]
-    de = Ziehlort %@. Wählen Sie ein Land
+    de = Zielort %@. Wählen Sie ein Land
     en = Destination %@. Choose a country
 
 [accessibility_popup_check_validity_choose_date]
