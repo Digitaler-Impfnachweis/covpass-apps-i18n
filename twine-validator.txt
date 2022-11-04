@@ -357,10 +357,6 @@
     de = Schließen
     en = Close
 
-[accessibility_scan_camera_announce]
-    de = Kamera-Ansicht wurde geöffnet
-    en = Camera has been opened
-
 [accessibility_scan_camera_closing_announce]
     de = Kamera-Ansicht wurde geschlossen
     en = Camera has been closed
@@ -381,10 +377,6 @@
     de = Erlauben
     en = Allow
 
-[accessibility_scan_camera_torch_on]
-    de = Taschenlampe anschalten
-    en = Switch on torch
-
 [accessibility_scan_camera_torch_off]
     de = Taschenlampe ausschalten
     en = Switch off torch
@@ -393,6 +385,10 @@
     de = Kamera-Ansicht wurde geöffnet. Der QR-Code wird automatisch gescannt. 
     en = Camera has been opened. The QR code will be scanned automatically.
 
+[accessibility_scan_camera_torch_turn_on]
+    de = Taschenlampe anschalten
+    en = Switch on torch
+    
 [accessibility_scan_camera_torch_on]
     de = Taschenlampe wurde angeschaltet
     en = Torch has been switched on
