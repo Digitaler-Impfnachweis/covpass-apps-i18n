@@ -3316,8 +3316,8 @@
     en = Exempt from %@
 
 [infschg_cert_overview_mask_hint_optional]
-    de = Sie sind in Deutschland in den meisten Bereichen vom Tragen einer Maske befreit. Beachten Sie, dass die Befreiung nicht für Orte gilt, an denen eine besondere Maskenpflicht gilt: z.B. Arztpraxen, Krankenhäuser oder dem Personenfernverkehr.
-    en = You are exempt from wearing a mask in most areas in Germany. Note that the exemption does not apply to places where a special mask requirement applies: e.g. doctors' offices, hospitals or long-distance passenger transport.
+    de = Sie sind in diesem Bundesland  in einigen Situationen von der Maskenpflicht ausgenommen; eine Maske ist dennoch empfohlen.
+    en = You are exempt from the mask requirement in some situations in this state; however, a mask is still recommended.
 
 [infschg_cert_overview_mask_hint_mandatory]
     de = In ihrem Bundesland können Sie bis zu 24h von der Maskenpflicht befreit werden. Beachten Sie, dass in Ihrem Bundesland andere Bestimmungen gelten können. Denken Sie auch daran, dass die Befreiung nicht für Orte gilt, an denen eine besondere Maskenpflicht gilt: z.B. Arztpraxen, Krankenhäuser oder dem Personenfernverkehr.
