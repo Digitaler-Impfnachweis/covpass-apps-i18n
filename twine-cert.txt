@@ -2308,6 +2308,47 @@
     ref = ok
 
 [[app information]]
+
+[accessibility_app_information_title_accessibility_statement_announce]
+    de = Die Ansicht "Barrierefreiheitserklärung" wurde geöffnet
+    en = The view "Accessibility statement" has been opened
+
+[accessibility_app_information_title_accessibility_statement_announce_closing]
+    de = Die Ansicht "Barrierefreiheitserklärung" wurde geschlossen
+    en = The view "Accessibility statement" has been closed
+    
+[accessibility_app_information_title_legal_information_announce]
+    de = Die Ansicht "Impressum" wurde geöffnet
+    en = The view "Legal information" has been opened
+
+[accessibility_app_information_title_legal_information_announce_closing]
+    de = Die Ansicht "Impressum" wurde geschlossen
+    en = The view "Legal information" has been closed
+    
+[accessibility_app_information_title_simple_language_announce]
+    de = Die Ansicht "Leichte Sprache" wurde geöffnet
+    en = The view "Simple language" has been opened
+
+[accessibility_app_information_title_simple_language_announce_closing]
+    de = Die Ansicht "Leichte Sprache" wurde geschlossen
+    en = The view "Simple language" has been closed
+
+[accessibility_app_information_title_faq_announce]
+    de = Die Ansicht "Häufige Fragen" wurde geöffnet
+    en = The view "Frequently asked questions" has been opened
+
+[accessibility_app_information_title_faq_announce_closing]
+    de = Die Ansicht "Häufige Fragen" wurde geschlossen
+    en = The view "Frequently asked questions" has been closed
+    
+[accessibility_app_information_title_us_terms_announce]
+    de = Die Ansicht "Nutzungsbedingungen für US-Bürgerinnen und Bürger" wurde geöffnet
+    en = The view "Terms of use for US citizens" has been opened
+
+[accessibility_app_information_title_us_terms_announce_closing]
+    de = Die Ansicht "Nutzungsbedingungen für US-Bürgerinnen und Bürger" wurde geschlossen
+    en = The view "Terms of use for US citizens" has been closed
+
 [accessibility_app_information_title_update]
     de = Die Ansicht "Prüfregeln aktualisieren" wurde geöffnet
     en = The view "Update checking rules" has been opened
@@ -2352,7 +2393,7 @@
     de = Zurück zum Startbildschirm
     en = Back to the start screen
 
-[accessibility_app_information_title_informationt_announce]
+[accessibility_app_information_title_information_announce]
     de = Die Ansicht "Informationen" wurde geöffnet
     en = Information has been opened
 
