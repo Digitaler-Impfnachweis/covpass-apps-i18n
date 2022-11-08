@@ -204,12 +204,36 @@
 
 [[start screen]]
 [accessibility_validation_start_screen_label_information]
-    de = Mehr Informationen
-    en = More information
+    de = Einstellungen
+    en = Settings
 
 [validation_start_screen_title]
-    de = Übersicht
-    en = Overview
+    de = CovPass-Check
+    en = CovPass-Check
+
+[start_screen_toggle_mask]
+    de = Maskenpflicht
+    en = Mask obligation
+    
+[start_screen_toggle_vaccination]
+    de = Impfstatus
+    en = Vaccination status
+
+[start_screen_vaccination_status_title]
+    de = Impfstatus nach IfSG §22a
+    en = Vaccination status according to IfSG §22a
+    
+[accessibility_start_screen_vaccination_status_title]
+    de = Impfstatus nach Infektionsschutzgesetz Paragraph 22a
+    en = Vaccination status according to Infection Protection Act paragraph 22a
+
+[start_screen_vaccination_status_copy]
+    de = Einen gültigen Impfstatus hat, wer mindestens drei Impfungen oder zwei Impfungen und eine Genesung nachweisen kann.
+    en = A valid vaccination status is achieved by at least three vaccinations or two vaccinations and one recovery.
+
+[start_screen_vaccination_status_hint]
+    de = Bitte scannen Sie immer die aktuellsten Nachweise zuerst.
+    en = Please always scan the most recent certificates first.
 
 [validation_start_screen_scan_title]
     de = 3G prüfen
