@@ -3432,6 +3432,10 @@
     de = *Sie können jederzeit das Bundesland von der entsprechenden Auswahl in den Einstellungen ändern.
     en = *You can change the federal state from the corresponding selection in the settings at any time.
     
+[infschg_popup_choose_federal_state_copy_3]
+    de = Regeln vom %@ (Gültigkeitsbeginn)
+    en = Rules from %@ (start of validity)
+    
 [infschg_popup_choose_federal_state_button]
     ref = OK
     
@@ -3471,9 +3475,13 @@
     de = Bundesland
     en = Federal state
 
-[infschg_settings_federal_state_page_copy]
+[infschg_settings_federal_state_page_copy_1]
     de = Wählen Sie das Bundesland aus, nach dessen Regeln Ihr Maskenstatus angezeigt werden soll.
     en = Select the federal state according to whose rules you want your mask status to be displayed.
+
+[infschg_settings_federal_state_page_copy_2]
+    de = Regeln vom %@ (Gültigkeitsbeginn)
+    en = Rules from %@ (start of validity)
 
 [infschg_settings_federal_state_page_tag]
     de = Bundesland
@@ -3488,12 +3496,12 @@
     en = Exempt until %@
 
 [infschg_detail_page_no_mask_mandatory_federal_state]
-    de = in %@
-    en = in %@
+    de = in %@*
+    en = in %@*
 
 [infschg_detail_page_no_mask_mandatory_copy_1]
-    de = Sie sind in diesem Bundesland in einigen Situationen von der Maskenpflicht ausgenommen; eine Maske ist dennoch empfohlen.
-    en = You are exempt from the mask requirement in some situations in this state; however, a mask is still recommended.
+    de = Sie sind in diesem Bundesland in einigen Situationen von der Maskenpflicht ausgenommen; eine Maske ist dennoch empfohlen.\n\n *Regeln vom %@ (Gültigkeitsbeginn)
+    en = You are exempt from the mask requirement in some situations in this state; however, a mask is still recommended.\n\n *Rules from %@ (start of validity)
 
 [infschg_detail_page_no_mask_mandatory_link]
     de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
@@ -3520,12 +3528,12 @@
     en = Exempt from %@
 
 [infschg_detail_page_mask_mandatory_federal_state]
-    de = in %@
-    en = in %@
+    de = in %@*
+    en = in %@*
 
 [infschg_detail_page_mask_mandatory_copy_1]
-    de = Sie sind in diesem Bundesland nicht von der Maskenpflicht ausgenommen.
-    en = You are not exempt from the mask requirement in this state.
+    de = Sie sind in diesem Bundesland nicht von der Maskenpflicht ausgenommen.\n\n *Regeln vom %@ (Gültigkeitsbeginn)
+    en = You are not exempt from the mask requirement in this state.\n\n *Rules from %@ (start of validity)
 
 [infschg_detail_page_mask_mandatory_link]
     de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
@@ -3548,8 +3556,8 @@
     en = Mask mandatory
 
 [infschg_detail_page_mask_status_uncertain_federal_state]
-    de = in %@
-    en = in %@
+    de = in %@*
+    en = in %@*
 
 [infschg_detail_page_mask_status_uncertain_copy_1]
     de = Für dieses Bundesland liegen keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
