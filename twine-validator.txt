@@ -216,19 +216,19 @@
     en = Mask obligation
     
 [start_screen_toggle_vaccination]
-    de = Impfstatus
+    de = Impfschutz
     en = Vaccination status
 
 [start_screen_vaccination_status_title]
-    de = Impfstatus nach IfSG §22a
+    de = Impfschutz nach IfSG §22a
     en = Vaccination status according to IfSG §22a
     
 [accessibility_start_screen_vaccination_status_title]
-    de = Impfstatus nach Infektionsschutzgesetz Paragraph 22a
+    de = Impfschutz nach Infektionsschutzgesetz Paragraph 22a
     en = Vaccination status according to Infection Protection Act paragraph 22a
 
 [start_screen_vaccination_status_copy]
-    de = Einen gültigen Impfstatus hat, wer mindestens drei Impfungen oder zwei Impfungen und eine Genesung nachweisen kann.
+    de = Einen gültigen Impfschutz hat, wer mindestens drei Impfungen oder zwei Impfungen und eine Genesung nachweisen kann.
     en = A valid vaccination status is achieved by at least three vaccinations or two vaccinations and one recovery.
 
 [start_screen_vaccination_status_hint]
@@ -493,7 +493,7 @@
     en = Vaccination series incomplete
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_expiration_text]
-    de = Für einen vollständigen Impfstatus muss eine Reihe von mindestens drei Immun-Ereignissen (Impfungen oder Genesungen) nachgewiesen werden, davon mindestens zwei Impfungen.
+    de = Für einen vollständigen Impfschutz muss eine Reihe von mindestens drei Immun-Ereignissen (Impfungen oder Genesungen) nachgewiesen werden, davon mindestens zwei Impfungen.
     en = For a complete vaccination status, a series of at least three vaccinations or recoveries must be demonstrated, including at least two vaccinations.
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection]
@@ -509,16 +509,20 @@
     en = Not approved vaccine
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted_text]
-    de = Wenn die letzte Impfung mit einem nicht in Deutschland zugelassenen Impfstoff erfolgte, muss eine weitere Impfung mit einem mRNA-Impfstoff nachgewiesen werden.
-    en = If the last vaccination was with a vaccine not licensed in Germany, another vaccination with an mRNA vaccine must be proven.
+    de = Bei Impfserien mit nicht in Deutschland zugelassenen Impfstoffen muss mindestens eine Impfung mit einem mRNA-Impfstoff nachgewiesen werden.
+    en = For vaccination series with vaccines not approved in Germany, at least one vaccination with an mRNA vaccine must be proven.
+
+[validation_faq_link]
+    de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted_button]
     de = Neue Prüfung
     en = New scan
     
 [functional_validation_check_popup_second_scan_title]
-    de = Impfstatus prüfen
-    en = Check vaccination status
+    de = Impfschutz-Prüfung
+    en = Immunisation check
 
 [functional_validation_check_popup_second_scan_subtitle]
     de = nach IfSG §22a
@@ -549,7 +553,7 @@
     en = Please scan another proof of vaccination
     
 [functional_validation_check_popup_second_scan_hint_title]
-    de = Hiinweis
+    de = Hinweis
     en = Please note
     
 [functional_validation_check_popup_second_scan_hint_copy]
