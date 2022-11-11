@@ -634,8 +634,8 @@
     en = Destination %@. Choose a country
 
 [accessibility_popup_check_validity_choose_date]
-    de = Datum %d. Wählen Sie ein Datum der Abreise.
-    en = Date chosen %d. Choose a departure date. 
+    de = Datum %@. Wählen Sie ein Datum der Abreise.
+    en = Date chosen %@. Choose a departure date. 
 
 [accessibility_certificate_check_validity_announce]
     de = Die Ansicht "Gültigkeit prüfen" wurde geöffnet
