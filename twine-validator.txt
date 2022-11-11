@@ -216,19 +216,19 @@
     en = Mask obligation
     
 [start_screen_toggle_vaccination]
-    de = Impfstatus
+    de = Impfschutz
     en = Vaccination status
 
 [start_screen_vaccination_status_title]
-    de = Impfstatus nach IfSG §22a
+    de = Impfschutz nach IfSG §22a
     en = Vaccination status according to IfSG §22a
     
 [accessibility_start_screen_vaccination_status_title]
-    de = Impfstatus nach Infektionsschutzgesetz Paragraph 22a
+    de = Impfschutz nach Infektionsschutzgesetz Paragraph 22a
     en = Vaccination status according to Infection Protection Act paragraph 22a
 
 [start_screen_vaccination_status_copy]
-    de = Einen gültigen Impfstatus hat, wer mindestens drei Impfungen oder zwei Impfungen und eine Genesung nachweisen kann.
+    de = Einen gültigen Impfschutz hat, wer mindestens drei Impfungen oder zwei Impfungen und eine Genesung nachweisen kann.
     en = A valid vaccination status is achieved by at least three vaccinations or two vaccinations and one recovery.
 
 [start_screen_vaccination_status_hint]
@@ -422,8 +422,12 @@
     en = Torch has been switched off
 
 [validation_check_popup_valid_vaccination_recovery_title]
-    de = Zertifikat gültig*
-    en = Certificate valid*
+    de = Vollständiger Impfschutz vorhanden
+    en = Full vaccination protection available
+
+[validation_check_popup_valid_vaccination_recovery_subtitle]
+    de = nach IfSG §22a
+    en = according to IfSG §22a
 
 [validation_check_popup_valid_vaccination_recovery_message]
     de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
@@ -454,8 +458,8 @@
     en = Invalid signature
 
 [technical_validation_check_popup_unsuccessful_certificate_signature_subline]
-    de = Das Zertifikat wurde nicht von einer autorisierten Stelle ausgestellt oder gehört nicht zu einem Digitalen COVID-Zertifikat der EU.
-    en = The certificate was issued by an unauthorized organization, or does not belong to the EU Digital Covid Certificate network.
+    de = Das Zertifikat ist kein Digitales COVID-Zertifikat der EU oder wurde nicht von einer autorisierten Stelle ausgestellt.
+    en = The certificate is not an EU Digital COVID Certificate or has not been issued by an authorized body.
 
 [technical_validation_check_popup_unsuccessful_certificate_qrreadibility_subheading]
     de = QR-Code nicht lesbar
@@ -465,45 +469,96 @@
     de = Der QR-Code ist nicht lesbar. Bitte aktualisieren Sie die CovPassCheck-App, wenn dieses Problem häufiger auftritt.
     en = Unable to read the QR code. Please update the CovPassCheck App, if the problem is recurring.
 
-[technical_validation_check_popup_valid_vaccination_button_title]
-    de = Weiteres Zertifikat scannen
-    en = Scan another certificate
-
+[technical_validation_check_popup_valid_vaccination_button_1_title]
+    de = Neue Prüfung
+    en = New scan 
+    
+[technical_validation_check_popup_valid_vaccination_button_3_title]
+    ref = cancel
+    
 [functional_validation_check_popup_unsuccessful_certificate_title]
-    de = Zertifikat erfüllt nicht alle Bedingungen
-    en = Certificate does not fulfill all conditions
+    de = Unvollständiger Impfschutz
+    en = Incomplete vaccination protection
 
-[functional_validation_check_popup_unsuccessful_certificate_subline]
-    de = Die geprüfte Person kann den Grund z. B. in der CovPass-App einsehen. Die häufigsten Gründe:
-    en = The checked person can see the reason in their CovPass App. The most common reasons:
+[functional_validation_check_popup_unsuccessful_certificate_subtitle]
+    de = nach IfSG §22a
+    en = according to IfSG §22a
+
+[functional_validation_check_popup_unsuccessful_certificate_copy]
+    de = Der erbrachte Nachweis weist keinen vollständigen Impfschutz aus. Mögliche Gründe:
+    en = The certificate provided does not indicate complete vaccination protection. Possible reasons:
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_expiration]
-    de = Abgelaufener Test
-    en = Test expired
+    de = Impfserie unvollständig
+    en = Vaccination series incomplete
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_expiration_text]
-    de = Ein negativer Schnelltest ist für maximal 48 Stunden gültig. Ein negativer PCR-Test ist für maximal 72 Stunden gültig.
-    en = A negative rapid test has a maximal validity of 48 hours. A negative PCR test has a maximal validity of 72 hours.
+    de = Für einen vollständigen Impfschutz muss eine Reihe von mindestens drei Immun-Ereignissen (Impfungen oder Genesungen) nachgewiesen werden, davon mindestens zwei Impfungen.
+    en = For a complete vaccination status, a series of at least three vaccinations or recoveries must be demonstrated, including at least two vaccinations.
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection]
-    de = Noch nicht gültiger Schutz
-    en = Protection not yet valid
+    de = Falsche Zertifikate gescannt
+    en = Wrong certificates scanned
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_protection_text]
-    de = Erst 14 Tage nach der Zweitimpfung gilt der Impfschutz als vollständig. Die Genesung von einer Corona-Infektion muss mindestens 28 Tage alt sein.
-    en = Individuals are not completely protected until 14 days after the second vaccination. A recovery from a Corona infection has to be at least 28 days in the past.
+    de = Bitte scannen Sie immer die aktuellsten Nachweise zuerst.
+    en = Please always scan the most recent certificates first.
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted]
-    de = Unvollständige Impfserie
-    en = Uncompleted vaccination series
+    de = Nicht zugelassener Impfstoff
+    en = Not approved vaccine
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted_text]
-    de = Je nach Impfstoff sind für die Erlangung des vollständigen Impfschutzes mehrere Impfdosen erforderlich.
-    en = Depending on the vaccine, multiple vaccine doses have to be administered for completed protection.
+    de = Bei Impfserien mit nicht in Deutschland zugelassenen Impfstoffen muss mindestens eine Impfung mit einem mRNA-Impfstoff nachgewiesen werden.
+    en = For vaccination series with vaccines not approved in Germany, at least one vaccination with an mRNA vaccine must be proven.
 
-[technical_validation_check_popup_valid_vaccination_button_further]
-    de = Weiteres Zertifikat scannen
-    en = Scan another certificate
+[validation_faq_link]
+    de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+
+[functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted_button]
+    de = Neue Prüfung
+    en = New scan
+    
+[functional_validation_check_popup_second_scan_title]
+    de = Impfschutz-Prüfung
+    en = Immunisation check
+
+[functional_validation_check_popup_second_scan_subtitle]
+    de = nach IfSG §22a
+    en = according to IfSG §22a
+
+[functional_validation_check_popup_second_scan_blue_card_1_title]
+    de = 1. Zertifikat
+    en = 1st certificate
+    
+[functional_validation_check_popup_second_scan_blue_card_1_subtitle]
+    de = Nicht ausreichend
+    en = Insufficient
+
+[functional_validation_check_popup_second_scan_blue_card_2_title]
+    de = 2. Zertifikat
+    en = 2nd certificate
+    
+[functional_validation_check_popup_second_scan_blue_card_2_subtitle]
+    de = Scannen Sie einen weiteren Nachweis
+    en = Please scan another proof of vaccination
+    
+[functional_validation_check_popup_second_scan_blue_card_3_title]
+    de = 3. Zertifikat
+    en = 3rd certificate
+    
+[functional_validation_check_popup_second_scan_blue_card_3_subtitle]
+    de = Scannen Sie einen weiteren Nachweis
+    en = Please scan another proof of vaccination
+    
+[functional_validation_check_popup_second_scan_hint_title]
+    de = Hinweis
+    en = Please note
+    
+[functional_validation_check_popup_second_scan_hint_copy]
+    de = Für den Nachweis eines vollständigen Impfschutzes sind mehrere Nachweise notwendig.
+    en = Multiple vaccination proofs are required to confirm complete vaccination protection.
 
 [validation_check_popup_valid_vaccination_button_title]
     de = Weiteres Zertifikat scannen
@@ -1422,6 +1477,23 @@
 [infschg_module_choose_federal_state_title]
     de = Bundesland wählen
     en = Choose federal state
+
+[infschg_name_matching_error_title]
+    de = Abweichende Daten
+    en = Deviating details
+   
+[infschg_name_matching_error_copy]
+    de = Die persönlichen Daten der beiden gescannten Nachweise stimmen nicht überein. Scannen Sie bitte einen anderen Nachweis.
+    en = The personal data of the two scanned certificates do not match. Please scan another certificate.
+
+[infschg_name_matching_error_retry]
+    de = Nochmal versuchen
+    en = Try again
+
+[infschg_name_matching_error_cancel]
+    de = Prüfung abbrechen
+    en = Cancel check
+   
    
 [[federal state names]]
 
