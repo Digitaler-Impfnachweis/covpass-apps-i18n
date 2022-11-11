@@ -1473,6 +1473,23 @@
 [infschg_module_choose_federal_state_title]
     de = Bundesland wählen
     en = Choose federal state
+
+[infschg_name_matching_error_title]
+    de = Abweichende Daten
+    en = Deviating details
+   
+[infschg_name_matching_error_copy]
+    de = Die persönlichen Daten der beiden gescannten Nachweise stimmen nicht überein. Scannen Sie bitte einen anderen Nachweis.
+    en = The personal data of the two scanned certificates do not match. Please scan another certificate.
+
+[infschg_name_matching_error_retry]
+    de = Nochmal versuchen
+    en = Try again
+
+[infschg_name_matching_error_cancel]
+    de = Prüfung abbrechen
+    en = Cancel check
+   
    
 [[federal state names]]
 
