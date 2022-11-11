@@ -522,7 +522,7 @@
     
 [functional_validation_check_popup_second_scan_title]
     de = Impfschutz-Prüfung
-    en = Immunisation check
+    en = Check vaccination status
 
 [functional_validation_check_popup_second_scan_subtitle]
     de = nach IfSG §22a
