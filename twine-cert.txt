@@ -3552,8 +3552,8 @@
     en = in %@
 
 [infschg_detail_page_mask_status_uncertain_copy_1]
-    de = Für dieses Bundesland liegen keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.\n\n *Die Berücksichtigung neu eingeführter Regeln kann zeitlich verzögert sein.
-    en = There are no federal state-specific rules for this federal state. Therefore, only the uniform federal rules on mandatory masks apply.\n\n*The integration of newly introduced rules may be delayed.
+    de = Für dieses Bundesland liegen dem RKI aktuell keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
+    en = For this federal state the RKI has not received federal state-specifc rules. Therefore, only the uniform federal rules on mandatory masks apply.
 
 [infschg_detail_page_mask_status_uncertain_link]
     de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
