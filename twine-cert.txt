@@ -3560,7 +3560,7 @@
     en = in %@*
 
 [infschg_detail_page_mask_status_uncertain_copy_1]
-    de = Für dieses Bundesland liegen keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
+    de = Für dieses Bundesland liegen dem RKI aktuell keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.  
     en = There are no federal state-specific rules for this federal state. Therefore, only the uniform federal rules on mandatory masks apply.
 
 [infschg_detail_page_mask_status_uncertain_link]
