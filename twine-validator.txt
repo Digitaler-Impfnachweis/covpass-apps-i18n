@@ -489,8 +489,8 @@
     en = according to IfSG §22a
 
 [functional_validation_check_popup_unsuccessful_certificate_copy]
-    de = Der erbrachte Nachweis weist keinen vollständigen Impfschutz aus. Mögliche Gründe:
-    en = The certificate provided does not indicate complete vaccination protection. Possible reasons:
+    de = Die erbrachten Nachweise ergeben keinen vollständigen Impfschutz. Mögliche Gründe:
+    en = The certificates provided do not indicate complete vaccination protection. Possible reasons:
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_expiration]
     de = Impfserie unvollständig
