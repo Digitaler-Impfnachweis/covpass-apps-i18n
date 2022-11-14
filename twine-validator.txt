@@ -458,7 +458,7 @@
     en = Invalid signature
 
 [technical_validation_check_popup_unsuccessful_certificate_signature_subline]
-    de = Das Zertifikat ist kein Digitales COVID-Zertifikat der EU oder wurde nicht von einer autorisierten Stelle ausgestellt.
+    de = Das Zertifikat ist kein digitales COVID-Zertifikat der EU oder wurde nicht von einer autorisierten Stelle ausgestellt.
     en = The certificate is not an EU Digital COVID Certificate or has not been issued by an authorized body.
 
 [technical_validation_check_popup_unsuccessful_certificate_qrreadibility_subheading]
@@ -1224,7 +1224,7 @@
     de = Behördenfunktion
     en = Function for authorities
 [revocation_copy]
-    de = Diese Funktion richtet sich ausschließlich an die Polizeibehörden und ermöglicht diesen, die Sperrkennung eines Zertifikats im Rahmen von Ermittlungen auszulesen. Im normalen Gebrauch soll diese Funktion deaktiviert bleiben. Der Versuch ein Zertifikat unberechtigt durch die Behördenfunktion sperren zu lassen ist strafbar und kann erhebliche Folgen nach sich ziehen.\n\nSollten Sie den Verdacht haben, dass ein gefälschtes oder inhaltlich unrichtiges Zertifikat vorliegt, informieren Sie bitte die nächste Polizeibehörde.
+    de = Diese Funktion richtet sich ausschließlich an die Polizeibehörden und ermöglicht diesen, die Sperrkennung eines Zertifikats im Rahmen von Ermittlungen auszulesen. Im normalen Gebrauch soll diese Funktion deaktiviert bleiben. Der Versuch, ein Zertifikat unberechtigt durch die Behördenfunktion sperren zu lassen, ist strafbar und kann erhebliche Folgen nach sich ziehen.\n\nSollten Sie den Verdacht haben, dass ein gefälschtes oder inhaltlich unrichtiges Zertifikat vorliegt, informieren Sie bitte die nächste Polizeibehörde.
     en = This function is intended exclusively for police authorities and enables them to retrieve the revocation identifier of a certificate in the course of investigations. In normal use, this function should remain deactivated. Attempting to revoke a certificate without authorization using this function is punishable by law and can have serious consequences.\n\nIf you suspect that you have a forged certificate or a certificate with incorrect content, please inform the local police authority.
     
 [revocation_toggle_text]
