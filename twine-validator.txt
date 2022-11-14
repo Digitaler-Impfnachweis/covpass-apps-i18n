@@ -473,6 +473,10 @@
     de = Neue Prüfung
     en = New scan 
     
+[technical_validation_check_popup_valid_vaccination_button_2_title]
+    de = Letzter Scan wiederholen
+    en = Repeat last scan 
+    
 [technical_validation_check_popup_valid_vaccination_button_3_title]
     ref = cancel
     
