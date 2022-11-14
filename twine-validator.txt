@@ -472,7 +472,11 @@
 [technical_validation_check_popup_valid_vaccination_button_1_title]
     de = Neue Prüfung
     en = New scan 
-    
+
+[technical_validation_check_popup_retry]
+    de = Letzten Scan wiederholen
+    en = Retry last scan
+
 [technical_validation_check_popup_valid_vaccination_button_3_title]
     ref = cancel
     
