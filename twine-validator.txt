@@ -2043,15 +2043,15 @@
 
 [entry_check_success_title]
     de = Keine Einschränkung
-    en = 
+    en = No restriction
     
 [entry_check_success_subtitle]
     de = nach Coronavirus-Einreiseverordnung
-    en =     
+    en = according to the Coronavirus Entry Regulations
     
 [entry_check_success_copy]
     de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
-    en = 
+    en = Now match the following data with an identity document of the person being checked.
     
 [entry_check_link]
     de = #Mehr zur Coronavirus-Einreiseverordnung::https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/coronaeinreisev.html#
