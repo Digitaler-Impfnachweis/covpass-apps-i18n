@@ -1455,8 +1455,8 @@
     en = in %@
     
 [infschg_result_no_mask_rules_copy_1_bold]
-    de = Für dieses Bundesland liegen keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
-    en = There are no federal state-specific rules for this federal state. Therefore, only the uniform federal rules on mandatory masks apply.
+    de = Für dieses Bundesland liegen dem RKI aktuell keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
+    en = The RKI does not currently have any state-specific rules for this federal state. Therefore, only the uniform federal rules on mandatory masks apply.
     
 [infschg_result_no_mask_rules_copy_2]
     de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigter durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass auch vollständige Impfungen oder Genesungen (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreien.\n\nEine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und in Arztpraxen.
@@ -1930,3 +1930,129 @@
 [MX]
     de = Mexiko
     en = Mexico
+
+
+[[ruleset date]]
+
+[state_ruleset_date_available_long]
+    de = Es gelten die bundeslandspezifischen Regeln vom %@ (Gültigkeitsbeginn).
+    en = The federal state-specific rules from %@ (start of validity) apply.
+    
+[state_ruleset_date_available_short]
+    de = *Regeln vom %@ (Gültigkeitsbeginn)
+    en = *Rules from %@ (start of validity)
+    
+[state_ruleset_date_unavailable]
+    de = Für dieses Bundesland liegen dem RKI aktuell keine bundeslandspezifischen Regeln vor. Es gelten die Regeln des Bundes.
+    en = The RKI currently has no state-specific rules for this federal state. The rules of the federal government apply.
+    
+
+[[Entry Check: Settings]]
+
+[settings_rules_context_title]
+    de = Prüfkontext
+    en = Check context
+    
+[settings_rules_context_subtitle]
+    de = Auf dieser Basis wird der Impfschutz angezeigt.
+    en = On this basis, the vaccination status is displayed.
+    
+[settings_rules_context_germany_title]
+    de = Ich prüfe innerhalb Deutschlands
+    en = I check within Germany
+    
+[settings_rules_context_germany_subtitle]
+    de = Auf Basis des Infektionsschutzgesetz §22a
+    en = On the basis of the Infection Protection Act §22a
+    
+[settings_rules_context_entry_title]
+    de = Ich prüfe bei Einreisen
+    en = I check at entries
+    
+[settings_rules_context_entry_subtitle]
+    de = Auf Basis der Coronavirus-Einreiseverordnung
+    en = On the basis of the Coronavirus Entry Regulations
+    
+[accessibility_option_selected]
+    de = Ausgewählt
+    en = Selected
+    
+[accessibility_option_unselected]
+    de = Nicht ausgewählt
+    en = Not selected
+
+
+[[Entry Check: Start View]]
+
+[start_vaccination_status_entry_title]
+    de = Impfschutz nach Coronavirus-Einreiseverordnung
+    en = Vaccination status according to the Coronavirus Entry Regulations
+    
+[start_vaccination_status_entry_subtitle]
+    de = Derzeit gibt es keine Beschränkungen für die Einreise nach Deutschland. Um den Impfschutz innerhalb Deutschlands nach Infektionsschutzgesetz §22a zu prüfen, ändern Sie den Prüfkontext in den Einstellungen.
+    en = There are currently no restrictions on entering Germany. To check the vaccination status within Germany according to Infection Protection Act §22a, change the check context in the settings.
+
+
+[[Entry Check: Initial setup]]
+
+[accessibility_rules_context_initial_setup_open]
+    de = Die Ansicht "Prüfkontext bestimmen" wurde geöffnet.
+    en = The view "Determine check context" has been opened.
+    
+[accessibility_rules_context_initial_setup_close]
+    de = Die Ansicht "Prüfkontext bestimmen" wurde geschlossen.
+    en = The view "Determine check context" has been closed.
+
+[rules_context_initial_setup_title]
+    de = Wann nutzen Sie die CovPassCheck-App?
+    en = How do you use the CovPassCheck app?
+    
+[rules_context_initial_setup_subtitle]
+    de = Wählen Sie, auf welcher Grundlage der Impfschutz bestimmt werden soll:
+    en = Select on which basis the vaccination status is to be determined:
+        
+[rules_context_initial_setup_hint]
+    de = Sie können die Angabe jederzeit in den Einstellungen ändern.
+    en = You can change this at any time in the settings.
+    
+[rules_context_initial_setup_button]
+    de = Übernehmen
+    en = Apply
+
+
+[[Entry Check: No rules dialog]]
+
+[dialog_no_entry_rules_available_title]
+    de = Keine Einreiseregeln
+    en = No entry rules
+
+[dialog_no_entry_rules_available_subtitle]
+    de = Aktuell bestehen keine Einreiseregeln nach Deutschland. Wollen Sie den Scanvorgang trotzdem weiterführen?
+    en = There are currently no entry rules to Germany. Do you still want to continue the scanning process?
+
+[dialog_no_entry_rules_available_button1]
+    de = Weiter
+    en = Continue
+            
+[dialog_no_entry_rules_available_button2]
+    de = Abbrechen
+    en = Cancel
+
+
+[[Entry Check: Result Views]]
+
+[entry_check_success_title]
+    de = Keine Einschränkung
+    en = 
+    
+[entry_check_success_subtitle]
+    de = nach Coronavirus-Einreiseverordnung
+    en =     
+    
+[entry_check_success_copy]
+    de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
+    en = 
+    
+[entry_check_link]
+    de = #Mehr zur Coronavirus-Einreiseverordnung::https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/coronaeinreisev.html#
+    en = #More about the Coronavirus Entry Regulations::https://www.bundesgesundheitsministerium.de/en/service/gesetze-und-verordnungen/guv-19-lp/coronavirus-einreiseverordnung.html#
