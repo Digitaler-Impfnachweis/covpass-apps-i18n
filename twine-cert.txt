@@ -3333,8 +3333,8 @@
     en = Complete vaccination protection
 
 [infschg_start_immune_incomplete]
-    de = Impfschutz unvollständig
-    en = Incomplete vaccination protection
+    de = Impfschutz vollständig
+    en = Complete vaccination protection
 
 [infschg_start_notification]
     de = Status überprüfen
