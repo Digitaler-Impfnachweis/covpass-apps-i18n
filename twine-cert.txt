@@ -3333,8 +3333,8 @@
     en = Complete vaccination protection
 
 [infschg_start_immune_incomplete]
-    de = Impfschutz vollständig
-    en = Complete vaccination protection
+    de = Impfschutz unvollständig
+    en = Incomplete vaccination protection
 
 [infschg_start_notification]
     de = Status überprüfen
@@ -3369,8 +3369,8 @@
     en = Since %@
 
 [infschg_cert_overview_immunisation_time_from]
-    de = Ab %@
-    en = From %@
+    de = Vollständig ab %@
+    en = Complete from %@
 
 [infschg_cert_overview_immunisation_incomplete_A]
     de = Sie haben noch nicht alle derzeit empfohlenen Impfungen erhalten. Ihr Impfschutz ist noch nicht vollständig. Bitte beachten Sie, dass der in der App angezeigte Impfstatus gemäß Infektionsschutzgesetz bestimmt wird. Für Kinder unter 12 Jahren und alle anderen Personen bestehen nach Bundesrecht derzeit keine Beschränkungen, die an den in der App einsehbaren Impfstatus „vollständig geimpft“ anknüpfen. Bitte beachten Sie zum einen die Empfehlungen der Ständigen Impfkommission und zum anderen möglicherweise abweichende Regeln in Ihrem Bundesland.
