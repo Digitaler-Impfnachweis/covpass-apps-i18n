@@ -420,6 +420,21 @@
 [accessibility_scan_camera_torch_turn_off]
     de = Taschenlampe wurde ausgeschaltet
     en = Torch has been switched off
+    
+[dialog_second_scan_title]
+    de = Zertifikat wurde bereits gescannt
+    en = Certificate has already been scanned
+
+[dialog_second_scan_message]
+    de = Sie haben dieses Zertifikat bereits gescannt. Scannen Sie bitte einen anderen Nachweis.
+    en = You have already scanned this certificate. Please scan another certificate.
+
+[dialog_second_scan_button_repeat]
+    de = Wiederholen
+    en = Repeat
+
+[dialog_second_scan_button_update]
+    ref = cancel
 
 [validation_check_popup_valid_vaccination_recovery_title]
     de = Vollständiger Impfschutz vorhanden
