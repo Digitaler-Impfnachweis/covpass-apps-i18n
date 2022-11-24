@@ -62,8 +62,8 @@
     en = Step two: open the QR code in the CovPass app
 
 [vaccination_second_onboarding_page_message]
-    de = Mit dem QR-Code können Sie eine Corona-Impfung oder eine Genesung von einer Corona-Infektion nachweisen. Nach dem Scannen wird der QR-Code direkt in der CovPass-App angezeigt. Bitte beachten Sie, dass eine ausreichende Wirksamkeit des Impfschutzes erst etwa 14 Tage nach der letzten Impfung eintritt. Der QR-Code für den vollständigen Impfschutz ist deshalb erst nach Ablauf der 14 Tage gültig.
-    en = Using the QR code, you can show evidence of a Covid-19 vaccination or recovery from a Covid-19 infection. The QR code is displayed directly in the CovPass app after scanning it. Please be aware that a vaccination only becomes sufficiently effective about 14 days after the final dose. For this reason, the QR code for full vaccination only becomes valid after 14 days have passed.
+    de = Mit dem QR-Code können Sie Corona-Impfungen und Genesungen von einer Corona-Infektion nachweisen. Ebenso zeigt die App an, ob Sie in bestimmten Bundesländern im öffentlichen Personennahverkehr und in öffentlich zugänglichen Innenräumen wie beispielsweise Restaurants oder Freizeitveranstaltungen eine Maske tragen müssen oder nicht.
+    en = You can use the QR code to track Corona vaccinations and recoveries from Corona infection. Likewise, the app shows whether or not you need to wear a mask on public transportation in certain states and in indoor spaces open to the public, such as restaurants or recreational events.
 
 [vaccination_third_onboarding_page_title]
     de = Dritter Schritt: Zeigen Sie den QR-Code bei Bedarf vor
