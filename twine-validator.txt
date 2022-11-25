@@ -1311,8 +1311,8 @@
     en = No mask obligation
     
 [infschg_result_mask_optional_subtitle]
-    de = In %@
-    en = In %@
+    de = in %@*
+    en = in %@*
     
 [infschg_result_mask_optional_copy]
     de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
