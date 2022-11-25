@@ -1466,8 +1466,8 @@
     en = No present rules
     
 [infschg_result_no_mask_rules_subtitle]
-    de = in %@
-    en = in %@
+    de = in %@*
+    en = in %@*
     
 [infschg_result_no_mask_rules_copy_1_bold]
     de = Für dieses Bundesland liegen dem RKI aktuell keine bundeslandspezifischen Regeln vor. Es gelten daher nur die bundeseinheitlichen Regeln zur Maskenpflicht.
