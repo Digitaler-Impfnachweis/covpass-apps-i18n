@@ -220,8 +220,8 @@
     en = Vaccination status
 
 [start_screen_vaccination_status_title]
-    de = Impfschutz nach IfSG §22a
-    en = Vaccination status according to IfSG §22a
+    de = Impfschutz nach IfSG § 22a
+    en = Vaccination status according to IfSG § 22a
     
 [accessibility_start_screen_vaccination_status_title]
     de = Impfschutz nach Infektionsschutzgesetz Paragraph 22a
@@ -441,8 +441,8 @@
     en = Full vaccination protection available
 
 [validation_check_popup_valid_vaccination_recovery_subtitle]
-    de = nach IfSG §22a
-    en = according to IfSG §22a
+    de = nach IfSG § 22a
+    en = according to IfSG § 22a
 
 [validation_check_popup_valid_vaccination_recovery_message]
     de = Gleichen Sie jetzt folgende Daten mit einem Ausweisdokument der geprüften Person ab.
@@ -500,8 +500,8 @@
     en = Incomplete vaccination protection
 
 [functional_validation_check_popup_unsuccessful_certificate_subtitle]
-    de = nach IfSG §22a
-    en = according to IfSG §22a
+    de = nach IfSG § 22a
+    en = according to IfSG § 22a
 
 [functional_validation_check_popup_unsuccessful_certificate_copy]
     de = Die erbrachten Nachweise ergeben keinen vollständigen Impfschutz. Mögliche Gründe:
@@ -544,8 +544,8 @@
     en = Check vaccination status
 
 [functional_validation_check_popup_second_scan_subtitle]
-    de = nach IfSG §22a
-    en = according to IfSG §22a
+    de = nach IfSG § 22a
+    en = according to IfSG § 22a
 
 [functional_validation_check_popup_second_scan_blue_card_1_title]
     de = 1. Zertifikat
@@ -1977,8 +1977,8 @@
     en = I check within Germany
     
 [settings_rules_context_germany_subtitle]
-    de = Auf Basis des Infektionsschutzgesetz §22a
-    en = On the basis of the Infection Protection Act §22a
+    de = Auf Basis des Infektionsschutzgesetz § 22a
+    en = On the basis of the Infection Protection Act § 22a
     
 [settings_rules_context_entry_title]
     de = Ich prüfe bei Einreisen
@@ -2004,8 +2004,8 @@
     en = Vaccination status according to the Coronavirus Entry Regulations
     
 [start_vaccination_status_entry_subtitle]
-    de = Derzeit gibt es keine Beschränkungen für die Einreise nach Deutschland. Um den Impfschutz innerhalb Deutschlands nach Infektionsschutzgesetz §22a zu prüfen, ändern Sie den Prüfkontext in den Einstellungen.
-    en = There are currently no restrictions on entering Germany. To check the vaccination status within Germany according to Infection Protection Act §22a, change the check context in the settings.
+    de = Derzeit gibt es keine Beschränkungen für die Einreise nach Deutschland. Um den Impfschutz innerhalb Deutschlands nach Infektionsschutzgesetz § 22a zu prüfen, ändern Sie den Prüfkontext in den Einstellungen.
+    en = There are currently no restrictions on entering Germany. To check the vaccination status within Germany according to Infection Protection Act § 22a, change the check context in the settings.
 
 
 [[Entry Check: Initial setup]]
