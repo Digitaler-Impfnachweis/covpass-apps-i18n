@@ -430,8 +430,8 @@
     en = You have already scanned this certificate. Please scan another certificate.
 
 [dialog_second_scan_button_repeat]
-    de = Wiederholen
-    en = Repeat
+    de = Neuer Scan
+    en = New scan
 
 [dialog_second_scan_button_update]
     ref = cancel
