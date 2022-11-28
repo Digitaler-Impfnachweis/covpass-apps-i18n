@@ -1815,8 +1815,8 @@
     en = Display QR code
 
 [vaccination_certificate_detail_view_pdf_action_button_title]
-    de = EU-Ausdruck erstellen
-    en = Create EU printout
+    de = PDF erstellen
+    en = Create PDF
 
 [vaccination_certificate_detail_view_pdf_action_button_note]
     de = Sie können nur deutsche Zertifikate als PDF herunterladen.
@@ -2115,8 +2115,8 @@
     en = Display QR code
 
 [recovery_certificate_detail_view_create_pdf_action_button_title]
-    de = EU-Ausdruck erstellen
-    en = Create EU printout
+    de = PDF erstellen
+    en = Create PDF
 
 [recovery_certificate_detail_view_pdf_action_button_note]
     de = Sie können nur deutsche Impf- und Genesenenzertifikate als PDF herunterladen.
@@ -2167,15 +2167,15 @@
 
 [[print certificate]]
 [accessibility_vaccination_certificate_detail_view_pdf_announce]
-    de = Die Ansicht für "EU-Ausdruck erstellen" wurde geöffnet
-    en = The view "Create EU printout" has been opened
+    de = Die Ansicht für "PDF erstellen" wurde geöffnet
+    en = The view "Create PDF" has been opened
 
 [accessibility_certificate_create_pdf_label_close]
     ref = close
 
 [certificate_create_pdf_headline]
-    de = EU-Ausdruck erstellen
-    en = Create EU printout
+    de = PDF erstellen
+    en = Create PDF
 
 [certificate_create_pdf_first_list_item]
     de = Sie können das Zertifikat als PDF-Dokument speichern. Die Speicherung ist freiwillig. Auf das PDF-Dokument haben zunächst nur Sie Zugriff.
