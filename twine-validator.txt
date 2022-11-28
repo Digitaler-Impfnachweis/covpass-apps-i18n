@@ -1462,8 +1462,8 @@
     en = Ignore deviation
     
 [infschg_result_no_mask_rules_title]
-    de = Keine vorliegenden Regeln
-    en = No present rules
+    de = Keine zusätzlichen Regeln
+    en = No additional rules
     
 [infschg_result_no_mask_rules_subtitle]
     de = in %@
