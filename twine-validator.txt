@@ -2004,8 +2004,8 @@
     en = Vaccination status according to the Coronavirus Entry Regulations
     
 [start_vaccination_status_entry_subtitle]
-    de = Derzeit gibt es keine Beschränkungen für die Einreise nach Deutschland. Um den Impfschutz innerhalb Deutschlands nach Infektionsschutzgesetz § 22a zu prüfen, ändern Sie den Prüfkontext in den Einstellungen.
-    en = There are currently no restrictions on entering Germany. To check the vaccination status within Germany according to Infection Protection Act § 22a, change the check context in the settings.
+    de = Derzeit gibt es keine Beschränkungen für die Einreise nach Deutschland. Um den Impfschutz innerhalb Deutschlands nach Infektionsschutzgesetz § 22a zu prüfen, ändern Sie den Prüfkontext in den #Einstellungen.::$0#
+    en = There are currently no restrictions on entering Germany. To check the vaccination status within Germany according to Infection Protection Act § 22a, change the check context in the #settings.::$0#
 
 
 [[Entry Check: Initial setup]]
