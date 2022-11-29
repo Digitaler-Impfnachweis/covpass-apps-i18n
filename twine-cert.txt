@@ -3430,7 +3430,7 @@
     
 [infschg_popup_choose_federal_state_copy_2]
     de = *Sie können jederzeit das Bundesland in den Einstellungen ändern. Weitere Informationen zur Maskenpflicht finden Sie #in den häufigen Fragen::$0#.
-    en = You can change the state in the settings at any time. For more information about the mask requirement, see the #frequently asked questions::$0#.
+    en = *You can change the state in the settings at any time. For more information about the mask requirement, see the #frequently asked questions::$0#.
     
 [infschg_popup_choose_federal_state_copy_3]
     de = Regeln vom %@ (Gültigkeitsbeginn)
