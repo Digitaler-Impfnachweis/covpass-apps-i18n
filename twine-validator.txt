@@ -1224,6 +1224,14 @@
     de = Neue Funktionen (Version %@)
     en = New functions (Version %@)
 
+[settings_list_status_on]
+    de = An
+    en = On
+    
+[settings_list_status_off]
+    de = Aus
+    en = Off
+
 
 [[error handling]]
 [error_standard_unexpected_title]
