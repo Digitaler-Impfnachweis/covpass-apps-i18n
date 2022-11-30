@@ -3417,8 +3417,8 @@
     en = Open all certificates of this person
     
 [infschg_popup_choose_federal_state_copy_1]
-    de = Die Regeln zur Maskenpflicht können je nach Bundesland variieren. Wählen Sie Ihr Bundesland aus, um Ihren aktuellen Maskenstatus sehen zu können.*
-    en = Mask requirement rules may vary by federal state. Select your federal state to see your current mask status.*
+    de = Seit dem 1. Oktober 2022 können die Bundesländer eine Maskenpflicht in öffentlich zugänglichen Innenräumen anordnen. Wählen Sie Ihr Bundesland aus, um Ihren aktuellen Maskenstatus sehen zu können.*
+    en = Beginning October 1, 2022, states may mandate a mask requirement in indoor spaces open to the public. Select your state to see your current mask status.*
     
 [infschg_popup_choose_federal_state_tag]
     de = Bundesland
@@ -3429,8 +3429,8 @@
     en = %@
     
 [infschg_popup_choose_federal_state_copy_2]
-    de = *Sie können jederzeit das Bundesland von der entsprechenden Auswahl in den Einstellungen ändern.
-    en = *You can change the federal state from the corresponding selection in the settings at any time.
+    de = *Sie können jederzeit das Bundesland in den Einstellungen ändern. Weitere Informationen zur Maskenpflicht finden Sie #in den häufigen Fragen::$0#.
+    en = *You can change the state in the settings at any time. For more information about the mask requirement, see the #frequently asked questions::$0#.
     
 [infschg_popup_choose_federal_state_copy_3]
     de = Regeln vom %@ (Gültigkeitsbeginn)
