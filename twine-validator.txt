@@ -39,7 +39,7 @@
     en = Welcome to the CovPassCheck app
 
 [start_onboarding_message]
-    de = Finden Sie in wenigen Sekunden heraus, ob die geprüfte Person ein gültiges COVID-Zertifikat besitzt.
+    de = Finden Sie in wenigen Sekunden heraus, ob die geprüfte Person ein gültiges COVID-Zertifikat der EU besitzt.
     en = Find out in just a few seconds if the person you are checking has a valid EU Covid-19 certificate.
 
 [start_onboarding_secure_title]
