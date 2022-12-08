@@ -70,8 +70,8 @@
     en = Step three: show your QR code when needed
 
 [vaccination_third_onboarding_page_message]
-    de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen.
-    en = You can show your QR code from the CovPass app when you need it. The person checking the QR code will then scan it. You will also need to have an ID document at hand for this. Your QR code is stored only on your smartphone, so you can display it at any time even without an internet connection.
+    de = Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person mit der CovPassCheck-App gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit. Da der QR-Code nur auf Ihrem Smartphone gespeichert ist, können Sie ihn jederzeit auch ohne Internetverbindung anzeigen lassen.
+    en = You can show your QR code from the CovPass app when you need it. The person checking the QR code then scans it with the CovPassCheck app. You will also need to have an ID document at hand for this. Your QR code is stored only on your smartphone, so you can display it at any time even without an internet connection.
 
 [vaccination_fourth_onboarding_page_title]
     de = Datenschutz und Datensicherheit
