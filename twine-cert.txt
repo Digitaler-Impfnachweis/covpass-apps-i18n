@@ -94,16 +94,16 @@
     en = The digital COVID Certificates are only stored on your smartphone. You have the possibility to delete the digital COVID Certificates at any time.
 
 [vaccination_fourth_onboarding_page_message]
-    de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung:
-    en = Detailed information about this data processing is available in the privacy notice:
+    de = Ausführliche Hinweise zur Datenverarbeitung finden Sie in der Datenschutzerklärung.
+    en = Detailed information about this data processing is available in the privacy notice.
 
 [vaccination_fourth_onboarding_page_message_for_us_citizens_title]
     de = Nutzungsbedingungen für US-Bürgerinnen und Bürger
     en = Terms of Use for US citizens
 
 [vaccination_fourth_onboarding_page_message_for_us_citizens_copy]
-    de = Wenn Sie US-Bürgerin oder US-Bürger sind, gelten diese Nutzungsbedingungen für die App:
-    en = If you are a US citizen, these Terms of Use apply to the App:
+    de = Wenn Sie US-Bürgerin oder US-Bürger sind, gelten diese Nutzungsbedingungen für die App.
+    en = If you are a US citizen, these Terms of Use apply to the App.
 
 [vaccination_fourth_onboarding_page_button_title]
     de = Alles klar
