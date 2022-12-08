@@ -78,19 +78,19 @@
     en = Data protection and security
 
 [vaccination_fourth_onboarding_page_first_list_item]
-    de = Die Nutzung der CovPass-App ist freiwillig. Sie können Ihre digitalen COVID-Zertifikate der EU auch in Papierform verwenden.
+    de = Die Nutzung der CovPass-App ist freiwillig. Sie können Ihre digitalen COVID-Zertifikate auch in Papierform verwenden.
     en = Using the CovPass app is voluntary. You can also use the digital COVID Certificates in paper form.
 
 [vaccination_fourth_onboarding_page_second_list_item]
-    de = Zum Schutz vor Fälschungen oder Manipulationen werden die digitalen COVID-Zertifikate der EU durch das RKI bei der Erstellung elektronisch signiert. Hierzu werden die notwendigen Daten einmalig verschlüsselt an das RKI übermittelt. Nach der Erstellung des digitalen COVID-Zertifikats der EU werden Ihre Daten vom RKI sofort unwiderruflich gelöscht. Der QR-Code enthält in kodierter Form die auf dem digitalen COVID-Zertifikat der EU enthaltenen Informationen und die elektronische Signatur des RKI.
-    en = To protect against forged certificates or manipulation, the EU digital COVID Certificates are electronically signed by the RKI when they are created. For this purpose, the necessary data is transmitted once in encrypted form to the RKI. Once the EU digital COVID Certificate has been created, the RKI will immediately and permanently delete the data. The QR code contains the information from the EU digital COVID Certificate, and the RKI’s electronic signature, in encoded form.
+    de = Zum Schutz vor Fälschungen oder Manipulationen werden die digitalen COVID-Zertifikate durch das RKI bei der Erstellung elektronisch signiert. Hierzu werden die notwendigen Daten einmalig verschlüsselt an das RKI übermittelt. Nach der Erstellung des digitalen COVID-Zertifikats werden Ihre Daten vom RKI sofort unwiderruflich gelöscht. Der QR-Code enthält in kodierter Form die auf dem digitalen COVID-Zertifikat enthaltenen Informationen und die elektronische Signatur des RKI.
+    en = To protect against forged certificates or manipulation, the digital COVID Certificates are electronically signed by the RKI when they are created. For this purpose, the necessary data is transmitted once in encrypted form to the RKI. Once the digital COVID Certificate has been created, the RKI will immediately and permanently delete the data. The QR code contains the information from the digital COVID Certificate, and the RKI’s electronic signature, in encoded form.
 
 [vaccination_fourth_onboarding_page_third_list_item]
-    de = Wenn Sie den QR-Code eines digitalen COVID-Zertifikats der EU zur Prüfung vorlegen, werden der prüfenden Person der Name und das Geburtsdatum des Zertifikatsinhabers angezeigt und ggf. ob eine Befreiung von der Pflicht zum Tragen einer Maske besteht. Bei der Prüfung ist gegebenenfalls ergänzend ein Ausweisdokument vorzulegen.
-    en = When you present the QR code of an EU digital COVID certificate in the app for verification, the checking person will be shown the name and date of birth of the certificate holder and, if applicable, whether there is an exemption from the requirement to wear a mask. If necessary, an identity document must also be presented at the time of the examination.
+    de = Wenn Sie den QR-Code eines digitalen COVID-Zertifikats zur Prüfung vorlegen, werden der prüfenden Person der Name und das Geburtsdatum des Zertifikatsinhabers angezeigt und ggf. ob eine Befreiung von der Pflicht zum Tragen einer Maske besteht. Bei der Prüfung ist gegebenenfalls ergänzend ein Ausweisdokument vorzulegen.
+    en = When you present the QR code of a digital COVID certificate in the app for verification, the checking person will be shown the name and date of birth of the certificate holder and, if applicable, whether there is an exemption from the requirement to wear a mask. If necessary, an identity document must also be presented at the time of the examination.
 
 [vaccination_fourth_onboarding_page_fourth_list_item]
-    de = Die digitalen COVID-Zertifikate der EU werden ausschließlich auf Ihrem Smartphone gespeichert. Sie haben jederzeit die Möglichkeit, die digitalen COVID-Zertifikate der EU wieder zu entfernen.
+    de = Die digitalen COVID-Zertifikate werden ausschließlich auf Ihrem Smartphone gespeichert. Sie haben jederzeit die Möglichkeit, die digitalen COVID-Zertifikate wieder zu entfernen.
     en = The digital COVID Certificates are only stored on your smartphone. You have the possibility to delete the digital COVID Certificates at any time.
 
 [vaccination_fourth_onboarding_page_message]
