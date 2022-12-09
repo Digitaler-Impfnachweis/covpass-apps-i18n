@@ -1307,8 +1307,8 @@
     en = Technical details of the certificate
     
 [revocation_detail_page_button_text]
-    de = PDF erstellen
-    en = Create PDF
+    de = EU-Ausdruck erstellen
+    en = Create EU printout
     
 [revocation_detail_page_transaction_number]
     de = Transaktionsnummer
