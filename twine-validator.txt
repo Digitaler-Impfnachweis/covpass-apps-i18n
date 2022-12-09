@@ -1502,7 +1502,7 @@
     en = Not an error?
     
 [infschg_result_mask_mandatory_deviating_data_copy_2]
-    de = Sollte es sich Ihrer Ansicht zum Beispiel um einen Tippfehler handeln, können Sie diese Abweichung ignorieren und die Prüfung fortsetzen.
+    de = Sollte es sich Ihrer Ansicht nach zum Beispiel um einen Tippfehler handeln, können Sie diese Abweichung ignorieren und die Prüfung fortsetzen.
     en = If you think the error is a typo, you can ignore this discrepancy and continue the check
     
 [infschg_result_mask_mandatory_deviating_data_link]
