@@ -229,8 +229,8 @@
     en = Invalid
 
 [vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
-    de = Status überprüfen
-    en = Check status
+    de = Zertifikat erneuern
+    en = Renew certificate
 
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
