@@ -2141,8 +2141,8 @@
     en = Certificate expires on %@ at %@
 
 [certificate_expires_detail_view_note_message]
-    de = Wenn es sich hierbei um Ihr neuestes Zertifikat handelt, können Sie es auf der Übersicht Ihrer Zertifikate erneuern. Sie können frühere Zertifikate nicht erneuern. In Ihrem neuesten Zertifikat sind alle notwendigen Informationen für eine Prüfung enthalten.
-    en = If this is your latest certificate, you can renew it on the overview of your certificates. You cannot renew previous certificates. Your latest certificate contains all the necessary information for a check.
+    de = Die technische Gültigkeit Ihres Zertifikats läuft bald ab. Sie müssen es jedoch nicht erneuern, da es für den Nachweis Ihres Immunschutzes nicht mehr relevant ist.
+    en = The technical validity of your certificate will expire soon. However, you do not need to renew it as it is no longer relevant for proving your immune protection.
 
 [certificate_expires_detail_view_note_nonDE]
     de = Dieses Zertifikat wurde nicht in Deutschland ausgestellt und kann daher nicht in der App erneuert werden. Bitte wenden Sie sich an den Aussteller des Zertifikats.
@@ -2161,8 +2161,8 @@
     en = Certificate expired
 
 [certificate_expired_detail_view_note_message]
-    de = Wenn es sich hierbei um Ihr neuestes Zertifikat handelt, können Sie es auf der Übersicht Ihrer Zertifikate erneuern. Andernfalls müssen Sie nichts tun, da in Ihrem neuesten Zertifikat alle notwendigen Informationen für eine Prüfung enthalten sind.
-    en = If this is your latest certificate, you can renew it on the overview of your certificates. Otherwise, you don't have to do anything because your latest certificate contains all the necessary information for a check.
+    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen. Sie müssen es jedoch nicht erneuern, da es für den Nachweis Ihres Immunschutzes nicht mehr relevant ist.
+    en = The technical validity of your certificate expired on %@ at %@. However, you do not need to renew it as it is no longer relevant for proving your immune protection.
 
 
 [[print certificate]]
