@@ -506,6 +506,14 @@
     de = Letzten Scan wiederholen
     en = Retry last scan
 
+[technical_validation_invalid_expired_title]
+    de = Zertifikat abgelaufen
+    en = Certificate expired
+    
+[technical_validation_invalid_expired_subtitle]
+    de = Das technische Ablaufdatum des Zertifikats wurde überschritten. Scannen Sie ein neu ausgestelltes Zertifikat ein.
+    en = The technical expiry date of the certificate has been exceeded. Scan a newly issued certificate.
+
 [technical_validation_check_popup_valid_vaccination_button_3_title]
     ref = cancel
     
