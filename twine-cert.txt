@@ -3250,6 +3250,17 @@
 [renewal_expiry_success_button]
     ref = ok
 
+[renewal_expiry_modal_not_available_title]
+    de = Erneuern Sie Ihr Zertifikat
+    en = Renew your certificate
+
+[renewal_expiry_modal_not_available_copy]
+    de = Die technische Gültigkeit mindestens eines Ihrer Zertifikate läuft bald ab. Da Ihr Zertifikat nicht in Deutschland ausgestellt wurde, kann dieses nicht in der CovPass-App erneuert werden. Bitte prüfen Sie die Vorgaben des Ausstellungslandes.
+    en = The technical validity of at least one of your certificates is about to expire. As your certificate was not issued in Germany, it cannot be renewed in the CovPass app. Please check the requirements of the country of issuance.
+
+[renewal_expiry_modal_not_available_title]
+    ref = ok
+    
 
 [[DCC revocation]]
 [revocation_error_scan_title]
