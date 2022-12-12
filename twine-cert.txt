@@ -3203,6 +3203,38 @@
     de = Erneuerung notwendig
     en = Renewal needed
 
+[renewal_bluebox_title_expiring_soon_vaccination]
+    de = Impfzertifikat läuft bald ab
+    en = Vaccination certificate expires soon
+  
+[renewal_bluebox_title_expiring_soon_recovery]
+    de = Genesenenzertifikat läuft bald ab
+    en = Recovery certificate expires soon
+
+[renewal_bluebox_title_expired_vaccination]
+    de = Impfzertifikat abgelaufen
+    en = Vaccination certificate expired
+  
+[renewal_bluebox_title_expired_recovery]
+    de = Genesenenzertifikat abgelaufen
+    en = Recovery certificate expired
+
+[renewal_bluebox_copy_expiring_soon]
+    de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical validity of your certificate expires on %@ at %@. Renew the certificate to continue using it.
+
+[renewal_bluebox_copy_expired]
+    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen. Erneuern Sie jetzt Ihr Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical validity of your certificate expired on %@ at %@. Renew your certificate now to continue using it.
+
+[renewal_bluebox_copy_expiry_not_available]
+    de = Die technische Gültigkeit Ihres Impfzertifikats ist abgelaufen. Wenn Sie das Zertifikat weiter benötigen, wenden Sie sich bitte an eine Apotheke, um sich ein neues Zertifikat ausstellen zu lassen.
+    en = The technical validity of your vaccination certificate has expired. If you still need the certificate, please visit a pharmacy to have a new certificate issued.
+
+[renewal_bluebox_copy_expiry_not_german]
+    de = Die technische Gültigkeit mindestens eines Ihrer Zertifikate ist abgelaufen. Da Ihr Zertifikat nicht in Deutschland ausgestellt wurde, kann dieses nicht in der CovPass-App erneuert werden. Bitte prüfen Sie die Vorgaben des Ausstellungslandes.
+    en = The technical validity of at least one of your certificates has expired. As your certificate was not issued in Germany, it cannot be renewed in the CovPass app. Please check the requirements of the country of issuance.
+
 [renewal_expiry_notification_copy_vaccination]
     de = Die technische Laufzeit Ihres Impfzertifikats läuft bald ab oder ist bereits abgelaufen. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
     en = The technical validity of your vaccination certificate is about to expire or has already expired. Renew the certificate to continue using it.
