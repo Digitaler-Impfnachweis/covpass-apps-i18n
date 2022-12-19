@@ -3194,8 +3194,8 @@
     ref = ok
 
 [certificate_renewal_error_button_secondary]
-    de = Mehr Informationen
-    en = More information
+    de = Mehr in den häufigen Fragen
+    en = More in the FAQ
 
 
 [[DCC renewal when expiring]]
