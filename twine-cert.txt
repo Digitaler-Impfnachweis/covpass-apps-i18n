@@ -3204,8 +3204,8 @@
     en = Renewal needed
 
 [renewal_expiry_notification_copy_vaccination]
-    de = Die technische Laufzeit Ihres Impfzertifikats läuft bald ab oder ist bereits abgelaufen. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
-    en = The technical validity of your vaccination certificate is about to expire or has already expired. Renew the certificate to continue using it.
+    de = Die technische Laufzeit Ihres Zertifikats läuft bald ab oder ist bereits abgelaufen. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical validity of your certificate is about to expire or has already expired. Renew the certificate to continue using it.
 
 [renewal_expiry_notification_button_vaccination]
     de = Impfzertifikat erneuern
