@@ -3188,7 +3188,7 @@
     
 [certificate_renewal_error_copy]
     de = Leider gab es ein Problem bei der Neuausstellung Ihres Zertifikats. Bitte überprüfen Sie Ihre Internetverbindung. Beachten Sie auch, dass ein Zertifikat maximal drei Mal neu ausgestellt werden kann. Falls Sie Ihr Zertifikat bereits in der Corona-Warn-App oder auf einem anderen Gerät erneuert haben, scannen Sie das erneuerte Zertifikat mit der CovPass-App ein.\n\nFehlercode: %@
-    en = Unfortunately, there was a problem reissuing your certificate. Please check your internet connection. Also note that a certificate can be renewed a maximum of three times. If you have already renewed your certificate in the Corona Warn app or on another device, scan the renewed certificate with the CovPass app.\n\nError code: %@
+    en = Unfortunately, there was a problem reissuing your certificate. Please check your internet connection. Also note that a certificate can be renewed a maximum of three times. If you have already renewed your certificate in the Corona-Warn-App or on another device, scan the renewed certificate with the CovPass app.\n\nError code: %@
     
 [certificate_renewal_error_button_primary]
     ref = ok
