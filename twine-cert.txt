@@ -229,6 +229,10 @@
     en = Invalid
 
 [vaccination_start_screen_qrcode_booster_vaccination_note_subtitle]
+    de = Status überprüfen
+    en = Check status
+
+[vaccination_start_screen_qrcode_renewal_note_subtitle]
     de = Zertifikat erneuern
     en = Renew certificate
 
