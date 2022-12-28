@@ -232,6 +232,10 @@
     de = Status überprüfen
     en = Check status
 
+[vaccination_start_screen_qrcode_renewal_note_subtitle]
+    de = Zertifikat erneuern
+    en = Renew certificate
+
 [certificates_start_screen_qr_code_app_reference_text]
     de = Dieser QR-Code lässt sich verlässlich mit der CovPassCheck-App prüfen.
     en = This QR code can be reliably verified with the CovPassCheck app.
@@ -2141,8 +2145,8 @@
     en = Certificate expires on %@ at %@
 
 [certificate_expires_detail_view_note_message]
-    de = Wenn es sich hierbei um Ihr neuestes Zertifikat handelt, können Sie es auf der Übersicht Ihrer Zertifikate erneuern. Sie können frühere Zertifikate nicht erneuern. In Ihrem neuesten Zertifikat sind alle notwendigen Informationen für eine Prüfung enthalten.
-    en = If this is your latest certificate, you can renew it on the overview of your certificates. You cannot renew previous certificates. Your latest certificate contains all the necessary information for a check.
+    de = Die technische Gültigkeit Ihres Zertifikats läuft bald ab. Sie müssen es jedoch nicht erneuern, da es für den Nachweis Ihres Immunschutzes nicht mehr relevant ist.
+    en = The technical validity of your certificate will expire soon. However, you do not need to renew it as it is no longer relevant for proving your immune protection.
 
 [certificate_expires_detail_view_note_nonDE]
     de = Dieses Zertifikat wurde nicht in Deutschland ausgestellt und kann daher nicht in der App erneuert werden. Bitte wenden Sie sich an den Aussteller des Zertifikats.
@@ -2161,8 +2165,8 @@
     en = Certificate expired
 
 [certificate_expired_detail_view_note_message]
-    de = Wenn es sich hierbei um Ihr neuestes Zertifikat handelt, können Sie es auf der Übersicht Ihrer Zertifikate erneuern. Andernfalls müssen Sie nichts tun, da in Ihrem neuesten Zertifikat alle notwendigen Informationen für eine Prüfung enthalten sind.
-    en = If this is your latest certificate, you can renew it on the overview of your certificates. Otherwise, you don't have to do anything because your latest certificate contains all the necessary information for a check.
+    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen. Sie müssen es jedoch nicht erneuern, da es für den Nachweis Ihres Immunschutzes nicht mehr relevant ist.
+    en = The technical validity of your certificate expired on %@ at %@. However, you do not need to renew it as it is no longer relevant for proving your immune protection.
 
 
 [[print certificate]]
@@ -3087,8 +3091,8 @@
     en = The EU specifications for certain vaccination certificates have been changed. This certificate does not correspond to the current numbering. It is still valid. However, if it is a certificate for a booster vaccination, it will not be recognized as such when checked.\n\nTherefore we recommend requesting a new certificate with the number 2/1 directly free of charge via the app.
 
 [certificate_renewal_startpage_copy_box]
-    de = Der Vorgang ist ganz unkompliziert und dauert nur wenige Minuten. Sie können die Erneuerung auch später in der Übersicht Ihrer Zertifikate anstoßen.
-    en = The process is uncomplicated and takes only a few minutes. You can trigger the renewal also later on the overview of your certificates.
+    de = Der Vorgang ist ganz unkompliziert und dauert nur wenige Minuten. Sie können die Erneuerung auch später in der Detailansicht Ihrer Zertifikate anstoßen.
+    en = The process is uncomplicated and takes only a few minutes. You can trigger the renewal also later in the detailed view of your certificates.
 
 [certificate_renewal_startpage_main_button]
     de = Jetzt erneuern
@@ -3187,15 +3191,15 @@
     en = Reissue failed
     
 [certificate_renewal_error_copy]
-    de = Leider gab es ein Problem bei der Neuausstellung Ihres Zertifikats. Bitte überprüfen Sie Ihre Internetverbindung. Beachten Sie, dass Sie das Zertifikat maximal drei Mal im Jahr neu ausstellen lassen können. Für Informationen zum unten aufgeführten Fehlercode kontaktieren Sie bitte unsere Hotline unter 0800–4747–001 oder support@covpass-app.de.\n\nFehlercode: %@
-    en = Unfortunately, there was a problem reissuing your certificate. Please check your internet connection. Note that the certificate can be reissued a maximum of three times a year. For more information on the error code below please contact our hotline at 0800–4747–001 or support@covpass-app.de.\n\nError code: %@
+    de = Leider gab es ein Problem bei der Neuausstellung Ihres Zertifikats. Bitte überprüfen Sie Ihre Internetverbindung. Beachten Sie auch, dass ein Zertifikat maximal drei Mal neu ausgestellt werden kann. Falls Sie Ihr Zertifikat bereits in der Corona-Warn-App oder auf einem anderen Gerät erneuert haben, scannen Sie das erneuerte Zertifikat mit der CovPass-App ein.\n\nFehlercode: %@
+    en = Unfortunately, there was a problem reissuing your certificate. Please check your internet connection. Also note that a certificate can be renewed a maximum of three times. If you have already renewed your certificate in the Corona-Warn-App or on another device, scan the renewed certificate with the CovPass app.\n\nError code: %@
     
 [certificate_renewal_error_button_primary]
     ref = ok
 
 [certificate_renewal_error_button_secondary]
-    de = Mehr Informationen
-    en = More information
+    de = Mehr in den häufigen Fragen
+    en = More in the FAQ
 
 
 [[DCC renewal when expiring]]
@@ -3203,9 +3207,49 @@
     de = Erneuerung notwendig
     en = Renewal needed
 
+[renewal_bluebox_title_expiring_soon_vaccination]
+    de = Impfzertifikat läuft bald ab
+    en = Vaccination certificate expires soon
+  
+[renewal_bluebox_title_expiring_soon_recovery]
+    de = Genesenenzertifikat läuft bald ab
+    en = Recovery certificate expires soon
+
+[renewal_bluebox_title_expired_vaccination]
+    de = Impfzertifikat abgelaufen
+    en = Vaccination certificate expired
+  
+[renewal_bluebox_title_expired_recovery]
+    de = Genesenenzertifikat abgelaufen
+    en = Recovery certificate expired
+
+[renewal_bluebox_copy_expiring_soon]
+    de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical validity of your certificate expires on %@ at %@. Renew the certificate to continue using it.
+
+[renewal_bluebox_copy_expired]
+    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen. Erneuern Sie jetzt Ihr Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical validity of your certificate expired on %@ at %@. Renew your certificate now to continue using it.
+
+[renewal_bluebox_copy_expiry_not_available]
+    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen. Wenn Sie das Zertifikat weiter benötigen, wenden Sie sich bitte an eine Apotheke, um sich ein neues Zertifikat ausstellen zu lassen.
+    en = The technical validity of your certificate has expired on %@ at %@. If you still need the certificate, please visit a pharmacy to have a new certificate issued.
+    
+[renewal_bluebox_copy_expiring_soon_not_available]    
+    de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab. Wenn Sie das Zertifikat weiter benötigen, wenden Sie sich bitte an eine Apotheke, um sich ein neues Zertifikat ausstellen zu lassen.
+    en = The technical validity of your certificate expires on %@ at %@. If you still need the certificate, please visit a pharmacy to have a new certificate issued.
+    
+[renewal_bluebox_copy_expiry_not_german]
+    de = Die technische Gültigkeit mindestens eines Ihrer Zertifikate ist abgelaufen. Da Ihr Zertifikat nicht in Deutschland ausgestellt wurde, kann dieses nicht in der CovPass-App erneuert werden. Bitte prüfen Sie die Vorgaben des Ausstellungslandes.
+    en = The technical validity of at least one of your certificates has expired. As your certificate was not issued in Germany, it cannot be renewed in the CovPass app. Please check the requirements of the country of issuance.
+    
+[renewal_bluebox_copy_expiring_soon_not_german]    
+    de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab. Da Ihr Zertifikat nicht in Deutschland ausgestellt wurde, kann dieses nicht in der CovPass-App erneuert werden. Bitte prüfen Sie die Vorgaben des Ausstellungslandes.
+    en = The technical validity of your certificate expires on %@ at %@. As your certificate was not issued in Germany, it cannot be renewed in the CovPass app. Please check the requirements of the country of issuance.
+
 [renewal_expiry_notification_copy_vaccination]
-    de = Die technische Laufzeit Ihres Impfzertifikats läuft bald ab oder ist bereits abgelaufen. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
-    en = The technical validity of your vaccination certificate is about to expire or has already expired. Renew the certificate to continue using it.
+    de = Die technische Laufzeit Ihres Zertifikats läuft bald ab oder ist bereits abgelaufen. Erneuern Sie das Zertifikat, um es weiterhin nutzen zu können.
+    en = The technical validity of your certificate is about to expire or has already expired. Renew the certificate to continue using it.
 
 [renewal_expiry_notification_button_vaccination]
     de = Impfzertifikat erneuern
@@ -3218,6 +3262,10 @@
 [renewal_expiry_notification_button_recovery]
     de = Genesenenzertifikat erneuern
     en = Renew recovery certificate
+
+[renewal_expiry_notification_button]
+    de = Jetzt erneuern
+    en = Renew now
 
 [renewal_expiry_consent_box_item_1]
     de = Die App übermittelt die genannten Zertifikate zur Überprüfung an das RKI.
@@ -3244,8 +3292,8 @@
     en = In certain cases, additional certificates are sent in addition to the certificate to be renewed. This is necessary in order to be able to include the previous sequence of vaccinations and recoveries in the new certificate.
 
 [renewal_expiry_success_copy]
-    de = Sie können Ihr Zertifikat nun weiterhin wie gewohnt nutzen.
-    en = You can now continue to use your certificate as usual.
+    de = Sie können Ihr Zertifikat nun weiterhin wie gewohnt nutzen.\n\nBitte beachten Sie, dass auch Ihr Papier-Zertifikat bald abläuft oder bereits abgelaufen ist. Wenn gewünscht, können Sie Ihr neues Zertifikat als PDF-Datei herunterladen und ausdrucken.
+    en = You can now continue to use your certificate as usual.\n\nPlease note that your paper certificate will also expire soon or has already expired. If desired, you can download your new certificate as a PDF file and print it out.
 
 [renewal_expiry_success_button]
     ref = ok
@@ -3261,6 +3309,9 @@
 [renewal_expiry_modal_not_available_title]
     ref = ok
     
+[renewal_expiry_success_download_button]
+    de = PDF erstellen
+    en = Create PDF
 
 [[DCC revocation]]
 [revocation_error_scan_title]
