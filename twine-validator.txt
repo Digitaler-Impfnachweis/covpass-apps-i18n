@@ -921,8 +921,8 @@
     en = Contact has been closed
 
 [app_information_message_contact_support]
-    de = Kontakt bei technischen Fragen zur CovPassCheck-App
-    en = Contact for technical questions about the CovPassCheck app
+    de = Kontakt bei Fragen zur CovPassCheck-App
+    en = Contact for questions about the CovPassCheck app
 
 [app_information_message_contact_support_phone]
     de = Telefon: #0800–4747–002::tel:0800–4747–002#
