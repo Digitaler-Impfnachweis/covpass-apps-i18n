@@ -2466,8 +2466,8 @@
     en = Contact
 
 [app_information_message_contact_support]
-    de = Kontakt bei technischen Fragen zur CovPass-App
-    en = Contact for technical questions about the CovPass app
+    de = Kontakt bei Fragen zur CovPass-App
+    en = Contact for questions about the CovPass app
 
 [app_information_message_contact_support_phone]
     de = Telefon: #0800–4747–001::tel:0800–4747–001#
