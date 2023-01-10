@@ -3524,7 +3524,15 @@
 [infschg_start_screen_status_grey_2]
     de = Keine zusätzlichen Regeln
     en = No additional rules
+
+[infschg_detail_view_status_not_applicable_title]
+    de = Keine Prüfung möglich
+    en = No check possible
     
+[infschg_detail_view_status_not_applicable_copy]
+    de = Voraussetzung für die Überprüfung der bundeslandspezifischen Maskenpflicht ist ein technisch gültiges Zertifikat. Bitte überprüfen Sie, ob Sie das Zertifikat erneuern können.
+    en = To check the federal state-specific mask requirement, you must have a technically valid certificate. Please check whether you can renew the certificate.
+
 [infschg_start_screen_status_federal_state]
     de = in %@
     en = in %@
