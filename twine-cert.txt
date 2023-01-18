@@ -3574,12 +3574,12 @@
     en = You are exempt from the mask requirement in some situations in this state; however, a mask is still recommended.\n\n *Rules from %@ (start of validity)
 
 [infschg_detail_page_no_mask_mandatory_link]
-    de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
 
 [infschg_detail_page_no_mask_mandatory_subtitle_2]
-    de = Hinweis:
-    en = Note:
+    de = Weitere Informationen zur Maskenpflicht
+    en = More information about the mask requirement
 
 [infschg_detail_page_no_mask_mandatory_copy_2]
     de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit Sie ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass Sie auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind. Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.\n\nSollten Ihre in der App hinterlegten COVID-Zertifikate ausreichen, um Sie in Ihrem Bundesland von der Maskenpflicht zu befreien, färbt sich Ihr Zertifikat grün. Ihre Befreiung von der Maskenpflicht in Ihrem Bundesland kann durch einen Scan Ihres QR-Codes mithilfe der CovPassCheck-App nachgewiesen werden.
@@ -3606,12 +3606,12 @@
     en = You are not exempt from the mask requirement in this state.\n\n *Rules from %@ (start of validity)
 
 [infschg_detail_page_mask_mandatory_link]
-    de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
 
 [infschg_detail_page_mask_mandatory_subtitle_2]
-    de = Hinweis:
-    en = Note:
+    de = Weitere Informationen zur Maskenpflicht
+    en = More information about the mask requirement
 
 [infschg_detail_page_mask_mandatory_copy_2]
     de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit Sie ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass Sie auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind. Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.\n\nSollten Ihre in der App hinterlegten COVID-Zertifikate ausreichen, um Sie in Ihrem Bundesland von der Maskenpflicht zu befreien, färbt sich Ihr Zertifikat grün. Ihre Befreiung von der Maskenpflicht in Ihrem Bundesland kann durch einen Scan Ihres QR-Codes mithilfe der CovPassCheck-App nachgewiesen werden.
@@ -3634,12 +3634,12 @@
     en = For this federal state the RKI has not received federal state-specifc rules. Therefore, only the uniform federal rules on mandatory masks apply.
 
 [infschg_detail_page_mask_status_uncertain_link]
-    de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
 
 [infschg_detail_page_mask_status_uncertain_subtitle_2]
-    de = Hinweis:
-    en = Note:
+    de = Weitere Informationen zur Maskenpflicht
+    en = More information about the mask requirement
 
 [infschg_detail_page_mask_status_uncertain_copy_2]
     de = Sofern das Bundesland, in dem Sie sich aufhalten, eine Maskenpflicht angeordnet hat, befreit Sie ein negativer Schnell- oder PCR-Test bei Freizeit-, Kultur- und Sportveranstaltungen sowie in gastronomischen Einrichtungen für 24 Stunden von dieser Maskenpflicht. Ein unbeaufsichtigt durchgeführter Selbsttest genügt nicht. Ihr Bundesland kann regeln, dass Sie auch durch Impfungen oder Genesung (wenn diese höchstens drei Monate zurückliegen) von der Maskenpflicht befreit sind. Eine Befreiung von der Maskenpflicht gilt nicht im öffentlichen Personenfernverkehr, in Krankenhäusern, Pflegeeinrichtungen und für Patientinnen und Patienten in Arztpraxen.\n\nSollten Ihre in der App hinterlegten COVID-Zertifikate ausreichen, um Sie in Ihrem Bundesland von der Maskenpflicht zu befreien, färbt sich Ihr Zertifikat grün. Ihre Befreiung von der Maskenpflicht in Ihrem Bundesland kann durch einen Scan Ihres QR-Codes mithilfe der CovPassCheck-App nachgewiesen werden.
@@ -3658,8 +3658,8 @@
     en = In your state, you can be exempt from the mask requirement for up to 24h. Note that different regulations may apply in your state. Also remember that the exemption does not apply to places where a special mask requirement applies: e.g. doctors' offices, hospitals or long-distance passenger transport.
 
 [infschg_detail_page_no_valid_certificate_link]
-    de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
     
 [accessibility_app_popup_choose_federal_state_announce]
     de = Die Ansicht "Bundesland wählen" wurde geöffnet
@@ -3742,3 +3742,29 @@
 [DE_TH]
     de = Thüringen
     en = Thuringia
+
+
+[[common a11y labels]]
+[a11y_accordion_collapsed]
+    de = eingeklappt
+    en = collapsed
+    
+[a11y_accordion_expanded]
+    de = ausgeklappt
+    en = expanded
+
+[a11y_accordion_expand_hint_ios]
+    de = Doppelklicken zum Ausklappen
+    en = Double tap to expand
+
+[a11y_accordion_expand_hint_android]
+    de = Ausklappen
+    en = Expand
+    
+[a11y_accordion_collapse_hint_ios]
+    de = Doppelklicken zum Einklappen
+    en = Double tap to collapse
+
+[a11y_accordion_collapse_hint_android]
+    de = Einklappen
+    en = Collapse
