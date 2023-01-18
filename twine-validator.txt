@@ -554,8 +554,8 @@
     en = For vaccination series with vaccines not approved in Germany, at least one vaccination with an mRNA vaccine must be proven.
 
 [validation_faq_link]
-    de = #Mehr Informationen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More information::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#wer-gilt-in-deutschland-als-vollst-ndig-geimpft-#
+    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#who-is-considered-fully-vaccinated-in-germany-#
 
 [functional_validation_check_popup_unsuccessful_certificate_subheadline_uncompleted_button]
     de = Neue Prüfung
