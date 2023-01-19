@@ -3202,8 +3202,8 @@
     ref = ok
 
 [certificate_renewal_error_button_secondary]
-    de = Mehr in den häufigen Fragen
-    en = More in the FAQ
+    de = Zu den häufigen Fragen
+    en = Go to the FAQ
 
 
 [[DCC renewal when expiring]]
@@ -3463,8 +3463,8 @@
     en = Add a valid certificate or renew your latest certificate to get information about your vaccination status.
     
 [infschg_more_info_link]
-    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Zu den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #Go to the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
 
 [infschg_popup_choose_federal_state_title]
     de = Wählen Sie Ihr Bundesland
@@ -3578,8 +3578,8 @@
     en = You are exempt from the mask requirement in some situations in this state; however, a mask is still recommended.\n\n *Rules from %@ (start of validity)
 
 [infschg_detail_page_no_mask_mandatory_link]
-    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Zu den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #Go to the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
 
 [infschg_detail_page_no_mask_mandatory_subtitle_2]
     de = Hinweis:
@@ -3610,8 +3610,8 @@
     en = You are not exempt from the mask requirement in this state.\n\n *Rules from %@ (start of validity)
 
 [infschg_detail_page_mask_mandatory_link]
-    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Zu den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #Go to the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
 
 [infschg_detail_page_mask_mandatory_subtitle_2]
     de = Hinweis:
@@ -3638,8 +3638,8 @@
     en = For this federal state the RKI has not received federal state-specifc rules. Therefore, only the uniform federal rules on mandatory masks apply.
 
 [infschg_detail_page_mask_status_uncertain_link]
-    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Zu den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #Go to the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
 
 [infschg_detail_page_mask_status_uncertain_subtitle_2]
     de = Hinweis:
@@ -3662,8 +3662,8 @@
     en = In your state, you can be exempt from the mask requirement for up to 24h. Note that different regulations may apply in your state. Also remember that the exemption does not apply to places where a special mask requirement applies: e.g. doctors' offices, hospitals or long-distance passenger transport.
 
 [infschg_detail_page_no_valid_certificate_link]
-    de = #Mehr in den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
-    en = #More in the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
+    de = #Zu den häufigen Fragen::https://www.digitaler-impfnachweis-app.de/faq/#die-aktuell-h-ufigsten-fragen#
+    en = #Go to the FAQ::https://www.digitaler-impfnachweis-app.de/en/faq/#current-most-frequently-asked-questions#
     
 [accessibility_app_popup_choose_federal_state_announce]
     de = Die Ansicht "Bundesland wählen" wurde geöffnet
