@@ -1619,6 +1619,10 @@
     de = Höchstens gültig bis %@
     en = Maximum valid until %@
 
+[certificates_overview_recovery_certificate_sample_date]
+    de = Positiver Test vom %@
+    en = Positive test from %@
+
 [certificates_overview_recovery_certificate_valid_from_date]
     de = Gültig ab %@
     en = Valid from %@
