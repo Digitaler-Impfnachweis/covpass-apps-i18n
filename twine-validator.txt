@@ -1116,7 +1116,7 @@
     en = Checking rules
 
 [app_information_offline_revocation_copy_1]
-    de = Hier können Sie die Regeln aktualisieren, nach denen Zertifkate geprüft werden. Sollte Ihr Smartphone üblicherweise mit dem Internet verbunden sein, passiert das automatisch.
+    de = Hier können Sie die Regeln aktualisieren, nach denen Zertifikate geprüft werden. Sollte Ihr Smartphone üblicherweise mit dem Internet verbunden sein, passiert das automatisch.
     en = Here you can update the rules based on which you check certificates. If your smartphone is continuously connected to the internet, this will happen automatically. 
 
 [app_information_offline_revocation_title]
