@@ -1656,12 +1656,12 @@
     en = Sample taken on %@
 
 [certificates_overview_all_certificates_app_reference_title]
-    de = Scannen bitte!
-    en = Please scan!
+    de = Hinweis:
+    en = Notice:
 
 [certificates_overview_all_certificates_app_reference_text]
-    de = Zeigen Sie diese sensiblen Daten nicht in Gaststätten, bei Veranstaltungen oder in ähnlichen Situationen vor. Lassen Sie Ihren QR-Code immer mit der CovPassCheck-App prüfen.
-    en = Do not show this sensitive data to other people in restaurants, at events or in similar situations. Always have your QR code checked with the CovPassCheck app.
+    de = Zeigen Sie diese sensiblen Daten nicht vor. Lassen Sie in Prüfsituationen nur den QR-Code mit der CovPassCheck-App scannen.
+    en = Do not show this sensitive data. In testing situations, only have the QR code scanned with the CovPassCheck app.
 
 [[detail view: delete certificate]]
 [accessibility_certificate_detail_view_label_delete_button]
