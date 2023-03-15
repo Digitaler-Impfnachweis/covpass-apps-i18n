@@ -1346,14 +1346,6 @@
     de = Für dieses Land gelten keine Corona-bezogenen Beschränkungen bei der Einreise.
     en = There are no Corona-related restrictions on entry for this country.
 
-[check_validity_outdated_info_title]
-    de = Regeln können abweichen
-    en = Rules may deviate
-    
-[check_validity_outdated_info_copy]
-    de = Ab dem 1. Mai 2023 werden die Regeln der Länder nicht mehr aktualisiert. Danach könnten die Hinweise zur Gültigkeit unvollständig sein. Prüfen Sie daher vor jeder Reise die aktuell geltenden Regelungen des Einreiselandes, z.B. über die Internetseite des Auswärtigen Amtes.
-    en = From 1 May 2023, the countries' rules will no longer be updated. After that, the information on validity could be incomplete. Therefore, before each trip, check the currently valid regulations of the country of entry, e.g. via the website of the Federal Foreign Office.
-
 [certificate_check_validity_detail_view_result_not_testable_note_title]
     de = Überprüfen Sie diese Information
     en = Review this information
