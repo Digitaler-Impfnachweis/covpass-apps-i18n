@@ -1339,12 +1339,12 @@
     en = No restrictions
 
 [check_validity_no_restrictions_title]
-    de = Keine Beschränkungen zur Einreise
-    en = No entry restrictions
+    de = Keine Beschränkungen
+    en = No restrictions
     
 [check_validity_no_restrictions_copy]
-    de = Für dieses Land gelten keine Corona-bezogenen Beschränkungen bei der Einreise.
-    en = There are no Corona-related restrictions on entry for this country.
+    de = Bei der Einreise in dieses Land müssen Sie keinen Corona-Impfschutz nachweisen.
+    en = You do not need to provide proof of Corona vaccination when entering this country.
 
 [certificate_check_validity_detail_view_result_not_testable_note_title]
     de = Überprüfen Sie diese Information
