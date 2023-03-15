@@ -2127,3 +2127,7 @@
 [entry_check_link]
     de = #Mehr zur Coronavirus-Einreiseverordnung::https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-19-lp/coronaeinreisev.html#
     en = #More about the Coronavirus Entry Regulations::https://www.bundesgesundheitsministerium.de/en/service/gesetze-und-verordnungen/guv-19-lp/coronavirus-einreiseverordnung.html#
+
+[disclaimer_for_infschg]
+   de = Der Paragraph 22a des Infektionsschutzgesetzes läuft am 7. April 2023 aus.
+   en = Paragraph 22a of the Infection Protection Act expires on 7 April 2023.
