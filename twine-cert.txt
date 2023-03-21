@@ -1334,18 +1334,6 @@
     de = Leider ist eine automatische Prüfung nicht möglich, da für dieses Land keine Einreiseregeln hinterlegt sind. Bitte informieren Sie sich auf der Internetseite des Auswärtigen Amts.
     en = Unfortunately, an automatic check is not possible, as no entry rules are stored for this country. Please consult the website of the Federal Foreign Office for more information.
 
-[check_validity_no_restrictions_status]
-    de = Keine Beschränkungen
-    en = No restrictions
-
-[check_validity_no_restrictions_title]
-    de = Keine Beschränkungen
-    en = No restrictions
-    
-[check_validity_no_restrictions_copy]
-    de = Bei der Einreise in dieses Land müssen Sie keinen Corona-Impfschutz nachweisen.
-    en = You do not need to provide proof of Corona vaccination when entering this country.
-
 [certificate_check_validity_detail_view_result_not_testable_note_title]
     de = Überprüfen Sie diese Information
     en = Review this information
