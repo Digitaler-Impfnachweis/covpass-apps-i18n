@@ -1302,7 +1302,11 @@
     de = Für %@, am %@
     en = For %@ on %@
 
-[certificate_check_validity_detail_view_result_valid_info]
+[certificate_check_validity_detail_view_result_valid_info_singular]
+    de = Es wurde 1 Regel des Ziellandes erfolgreich überprüft.
+    en = 1 rule of the destination country was successfully checked.
+
+[certificate_check_validity_detail_view_result_valid_info_plural]
     de = Es wurden %d Regeln des Ziellandes erfolgreich überprüft.
     en = %d rules of the destination country were successfully checked.
 
