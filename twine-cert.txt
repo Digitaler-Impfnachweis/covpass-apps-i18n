@@ -1304,7 +1304,7 @@
 
 [certificate_check_validity_detail_view_result_valid_info_singular]
     de = Es wurde 1 Regel des Ziellandes erfolgreich überprüft.
-    en = one rule of the destination country was successfully checked.
+    en = 1 rule of the destination country was successfully checked.
 
 [certificate_check_validity_detail_view_result_valid_info_plural]
     de = Es wurden %d Regeln des Ziellandes erfolgreich überprüft.
