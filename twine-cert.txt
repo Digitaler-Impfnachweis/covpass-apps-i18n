@@ -1326,6 +1326,18 @@
     de = Leider ist eine automatische Prüfung nicht möglich. Überprüfen Sie die unten markierten Werte bitte selbst.
     en = Sorry, an automatic check is not possible for this certificate. Please review the information marked out below yourself.
 
+[check_validity_no_rules_status]
+    de = Keine Regeln vorhanden
+    en = No rules available
+
+[check_validity_no_rules_title]
+    de = Keine Einreiseregeln vorhanden
+    en = No entry rules available
+    
+[check_validity_no_rules_copy]
+    de = Leider ist eine automatische Prüfung nicht möglich, da für dieses Land keine Einreiseregeln hinterlegt sind. Bitte informieren Sie sich auf der Internetseite des Auswärtigen Amts.
+    en = Unfortunately, an automatic check is not possible, as no entry rules are stored for this country. Please consult the website of the Federal Foreign Office for more information.
+
 [certificate_check_validity_detail_view_result_not_testable_note_title]
     de = Überprüfen Sie diese Information
     en = Review this information
