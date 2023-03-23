@@ -1072,8 +1072,8 @@
     ref = cancel
 
 [app_information_message_update]
-    de = Legen Sie fest, nach welchen Regeln COVID-Zertifikate geprüft werden sollen. Aktualisieren Sie gegebenenfalls die Prüfregeln (siehe unten).
-    en = Define the rules according to which COVID certificates are to be checked. If necessary, update the checking rules (see below).
+    de = Hier können Sie die Regeln aktualisieren, nach denen Zertifikate geprüft werden. Sollte Ihr Smartphone üblicherweise mit dem Internet verbunden sein, passiert das automatisch.
+    en = Here you can update the rules according to which certificates are checked. If your smartphone is usually connected to the Internet, this happens automatically.
 
 [app_information_rules_list_title]
     de = Regelwerk
