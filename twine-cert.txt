@@ -50,20 +50,20 @@
     en = Page %d of %d
 
 [vaccination_first_onboarding_page_title]
-    de = Erster Schritt: Übertragen Sie das digitale COVID-Zertifikat der EU auf Ihr Smartphone
-    en = Step one: upload your EU Digital COVID Certificate to your smartphone
+    de = Übertragen Sie das digitale COVID-Zertifikat der EU auf Ihr Smartphone
+    en = Upload your EU Digital COVID Certificate to your smartphone
 
 [vaccination_first_onboarding_page_message]
     de = Scannen Sie mit der CovPass-App das digitale COVID-Zertifikat der EU für eine Corona-Impfung oder eine Genesung von der Corona-Infektion. Halten Sie dafür die Kamera Ihres Smartphones über den QR-Code. Das digitale COVID-Zertifikat der EU wird sofort auf Ihr Smartphone übertragen.
     en = Use the CovPass app to scan the EU Digital COVID Certificate for a Covid-19 vaccination or recovery from a Covid-19 infection. To do this, hold your smartphone’s camera above the QR code. Your EU Digital COVID Certificate will be transferred to your smartphone immediately.
 
 [vaccination_second_onboarding_page_title]
-    de = Zweiter Schritt: Rufen Sie den QR-Code in der CovPass-App auf
-    en = Step two: open the QR code in the CovPass app
+    de = Rufen Sie den QR-Code in der CovPass-App auf
+    en = Open the QR code in the CovPass app
 
 [vaccination_second_onboarding_page_message]
-    de = Mit dem QR-Code können Sie Corona-Impfungen und Genesungen von einer Corona-Infektion nachweisen. Ebenso zeigt die App an, ob Sie in bestimmten Bundesländern im öffentlichen Personennahverkehr und in öffentlich zugänglichen Innenräumen wie beispielsweise Restaurants oder Freizeitveranstaltungen eine Maske tragen müssen oder nicht.
-    en = You can use the QR code to track Corona vaccinations and recoveries from Corona infection. Likewise, the app shows whether or not you need to wear a mask on public transportation in certain states and in indoor spaces open to the public, such as restaurants or recreational events.
+    de = Mit dem QR-Code können Sie Corona-Impfungen und Genesungen von einer Corona-Infektion nachweisen. Bei Bedarf können Sie den QR-Code in der CovPass-App vorzeigen. Der QR-Code wird dann von der prüfenden Person mit der CovPassCheck-App gescannt. Halten Sie dazu ergänzend Ihr Ausweisdokument bereit.
+    en = You can use the QR code to track Corona vaccinations and recoveries from Corona infection. You can show your QR code from the CovPass app when you need it. The person checking the QR code then scans it with the CovPassCheck app. You will also need to have an ID document at hand for this.
 
 [vaccination_third_onboarding_page_title]
     de = Dritter Schritt: Zeigen Sie den QR-Code bei Bedarf vor
