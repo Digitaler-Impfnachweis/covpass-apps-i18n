@@ -3792,3 +3792,11 @@
 [a11y_accordion_collapse_hint_android]
     de = Einklappen
     en = Collapse
+
+[start_infobox_title]
+    de = Wichtige Information
+    en = Important information
+
+[start_infobox_copy]
+    de = Die Corona-Einreiseverordnung läuft aus. Sie können ihre Zertifikate in der App nicht mehr auf Gültigkeit bei Reisen prüfen.
+    en = The Corona entry regulation is expiring. You can no longer check your certificates in the app for validity when travelling.
