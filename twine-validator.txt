@@ -972,6 +972,42 @@
     de = #Impressum::$0#
     en = #Legal information::$0#
 
+[app_imprint_title]
+    de = Herausgeber
+    en = Publisher
+
+[app_imprint_subtitle]
+    de = (verantwortlich nach § 5 Abs. 1 TMG, § 18 Abs. 1 MStV, DSGVO, BDSG)
+    en = (responsible according to § 5 para. 1 TMG, § 18 para. 1 MStV, DSGVO, BDSG)
+    
+[app_imprint_publisher]
+    de = Robert Koch-Institut
+    en = Robert Koch-Institut
+
+[app_imprint_address]
+    de = Nordufer 20\n13353 Berlin\vertreten durch den Präsidenten
+    en = Nordufer 20\n13353 Berlin\represented by the President
+
+[app_imprint_contact_title]
+    de = Kontakt
+    en = Contact
+
+[app_imprint_contact_mail]
+    de = #info@covpass-app.de::info@covpass-app.de#
+    en = #info@covpass-app.de::info@covpass-app.de#
+
+[app_imprint_contact_form]
+    de = oder über das #Kontaktformular des Robert Koch-Institut::https://www.rki.de/SharedDocs/Kontaktformulare/weitere/covpass-app/covpass-app_Integrator.html#
+    en = or use the #contact-form of the Robert Koch-Institut::https://www.rki.de/SharedDocs/Kontaktformulare/weitere/covpass-app/covpass-app_Integrator.html#
+
+[app_imprint_identnr_title]
+    de = Umsatzsteueridentifikationsnummer
+    en = VAT identification number
+
+[app_imprint_identnr_nr]
+    de = DE 165 893 430
+    en = DE 165 893 430
+
 [app_information_title_company_easy_language_linked]
     de = #Leichte Sprache::$0#
     en = #Leichte Sprache::$0#
