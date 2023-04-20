@@ -2430,12 +2430,12 @@
     en = Information has been closed
 
 [accessibility_app_information_title_checking_rules_announce]
-    de = Die Ansicht "Prüfregeln aktualisieren" wurde geöffnet
-    en = Update Checking Rules has been opened
+    de = Die Ansicht "Prüfregeln" wurde geöffnet
+    en = Checking Rules has been opened
 
 [accessibility_app_information_title_checking_rules_closing_announce]
-    de = Die Ansicht "Prüfregeln aktualisieren" wurde geschlossen
-    en = Update checking rules has been closed
+    de = Die Ansicht "Prüfregeln" wurde geschlossen
+    en = Checking rules has been closed
 
 [accessibility_app_information_title_update_notifications_announce]
     de = Die Ansicht "Update-Benachrichtigungen" wurde geöffnet
@@ -2562,8 +2562,8 @@
    en = #Accessibility statement::$0#
 
 [app_information_title_update]
-    de = Prüfregeln aktualisieren
-    en = Update checking rules
+    de = Prüfregeln
+    en = Checking rules
 
 [app_information_message_update]
     de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
