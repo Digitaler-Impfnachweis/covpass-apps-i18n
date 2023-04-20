@@ -1072,8 +1072,8 @@
     ref = cancel
 
 [app_information_message_update]
-    de = Hier können Sie die Regeln aktualisieren, nach denen Zertifikate geprüft werden. Sollte Ihr Smartphone üblicherweise mit dem Internet verbunden sein, passiert das automatisch.
-    en = Here you can update the rules according to which certificates are checked. If your smartphone is usually connected to the Internet, this happens automatically.
+    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
+    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
 
 [app_information_rules_list_title]
     de = Regelwerk
