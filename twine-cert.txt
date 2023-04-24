@@ -2546,16 +2546,16 @@
     en = Robert Koch-Institut
 
 [app_imprint_address]
-    de = Nordufer 20\n13353 Berlin\vertreten durch den Präsidenten
-    en = Nordufer 20\n13353 Berlin\represented by the President
+    de = Nordufer 20\n13353 Berlin\nvertreten durch den Präsidenten
+    en = Nordufer 20\n13353 Berlin\nrepresented by the President
 
 [app_imprint_contact_title]
     de = Kontakt
     en = Contact
 
 [app_imprint_contact_mail]
-    de = #info@covpass-app.de::info@covpass-app.de#
-    en = #info@covpass-app.de::info@covpass-app.de#
+    de = #info@covpass-app.de::mailto:info@covpass-app.de#
+    en = #info@covpass-app.de::mailto:info@covpass-app.de#
 
 [app_imprint_contact_form]
     de = oder über das #Kontaktformular des Robert Koch-Institut::https://www.rki.de/SharedDocs/Kontaktformulare/weitere/covpass-app/covpass-app_Integrator.html#
