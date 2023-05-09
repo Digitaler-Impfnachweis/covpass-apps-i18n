@@ -2171,3 +2171,7 @@
 [start_infobox_copy]
     de = Die Entwicklung der CovPassCheck-App endet, da die gesetzliche Grundlage wegfällt.
     en = The development of the CovPassCheck app ends as the legal basis ceases to exist.
+
+[start_infobox_button]
+    de = Mehr anzeigen
+    en = Show more
