@@ -2165,9 +2165,9 @@
     en = #More about the Coronavirus Entry Regulations::https://www.bundesgesundheitsministerium.de/en/service/gesetze-und-verordnungen/guv-19-lp/coronavirus-einreiseverordnung.html#
 
 [start_infobox_title]
-    de = Wichtige Information
-    en = Important information
+    de = Achtung
+    en = Attention
 
 [start_infobox_copy]
-    de = Die Regeln, nach denen die App Zertifikate prüft, werden nicht mehr aktualisiert und verbleiben auf dem Stand vom 30. Mai 2023.
-    en = The rules according to which the app checks certificates will no longer be updated and will remain at the status of 30 May 2023.
+    de = Die Entwicklung der CovPassCheck-App endet, da die gesetzliche Grundlage wegfällt.
+    en = The development of the CovPassCheck app ends as the legal basis ceases to exist.
