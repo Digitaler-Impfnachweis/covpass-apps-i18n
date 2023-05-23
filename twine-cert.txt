@@ -3856,3 +3856,35 @@
 [start_infobox_button]
     de = Mehr anzeigen
     en = Show more
+
+[popup_sundown_info_image]
+    de = Das Bild zeigt eine glückliche Familie, eine Person hält ein Smartphone mit einem grünen Haken.
+    en = Image showing a happy family, one person is holding a smartphone with a green check.
+
+[popup_sundown_info_title]
+    de = Achtung!
+    en = Attention!
+    
+[popup_sundown_info_copy]
+    de = Ab dem 1. Juli 2023 wird die CovPass-App nicht mehr weiterentwickelt. Auf Ihre in der App gespeicherten Zertifikate haben Sie jedoch weiterhin Zugriff.
+    en = As of 1 July 2023, the CovPass app will no longer be developed. However, you will still have access to your certificates stored in the app.
+    
+[popup_sundown_info_subtitle]
+    de = Das bedeutet für Sie:
+    en = This means for you:
+    
+[popup_sundown_info_bullet1]
+    de = Es werden keine neuen Funktionen veröffentlicht.
+    en = No new functions will be released.
+    
+[popup_sundown_info_bullet2]
+    de = Es wird kein Support mehr für die App angeboten.
+    en = Support for the app is no longer offered.
+    
+[popup_sundown_info_bullet3]
+    de = Sie können technisch abgelaufene Zertifikate nicht mehr in der App erneuern.
+    en = You can no longer renew technically expired certificates in the app.
+    
+[popup_sundown_info_bullet4]
+    de = Gespeicherte Zertifikate bleiben erhalten und können als PDF exportiert werden.
+    en = Saved certificates are retained and can be exported as PDFs.
