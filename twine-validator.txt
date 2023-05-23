@@ -1081,13 +1081,21 @@
     en = Domestic rules
 
 [settings_rules_list_features]
-    de = Regelmerkmale
-    en = Rule features
+    de = Regeln nach Infektionsschutzgesetz § 22a
+    en = Rules according to Infection Protection Act § 22a
+
+[settings_rules_list_features_lastupdated]
+    de = Zuletzt aktualisiert am 30.04.2023
+    en = Last updated 30.04.2023
 
 [settings_rules_list_issuer]
     de = Zertifikatsaussteller
     en = Certificate issuer
-    
+
+[settings_rules_list_issuer_lastupdated]
+    de = Zuletzt aktualisiert am 13.06.2023
+    en = Last updated 13.06.2023
+
 [settings_rules_list_countries]
     de = Länderlisten
     en = Country lists
@@ -1152,8 +1160,8 @@
     en = Checking rules
 
 [app_information_offline_revocation_copy_1]
-    de = Hier können Sie die Regeln aktualisieren, nach denen Zertifikate geprüft werden. Sollte Ihr Smartphone üblicherweise mit dem Internet verbunden sein, passiert das automatisch.
-    en = Here you can update the rules based on which you check certificates. If your smartphone is continuously connected to the internet, this will happen automatically. 
+    de = Die App wird ab dem 1. Juli 2023 nicht mehr weiterentwickelt. Die Prüfregeln können nicht mehr aktualisiert werden.
+    en = The app will no longer be developed from 1 July 2023. The checking rules can no longer be updated.
 
 [app_information_offline_revocation_title]
     de = Gesperrte Zertifikate offline prüfen
@@ -1395,8 +1403,8 @@
     en = Checking rules
     
 [infschg_settings_copy_1]
-    de = Hier können Sie die Regeln aktualisieren, nach denen Zertifikate geprüft werden. Sollte Ihr Smartphone üblicherweise mit dem Internet verbunden sein, passiert das automatisch. 
-    en = Here you can update the rules according to which certificates are checked. If your smartphone is usually connected to the Internet, this happens automatically.
+    de = Die App wird ab dem 1. Juli 2023 nicht mehr weiterentwickelt. Die Prüfregeln können nicht mehr aktualisiert werden. 
+    en = The app will no longer be developed from 1 July 2023. The checking rules can no longer be updated.
     
 [infschg_result_mask_optional_title]
     de = Keine Maskenpflicht
@@ -2165,9 +2173,41 @@
     en = #More about the Coronavirus Entry Regulations::https://www.bundesgesundheitsministerium.de/en/service/gesetze-und-verordnungen/guv-19-lp/coronavirus-einreiseverordnung.html#
 
 [start_infobox_title]
-    de = Wichtige Information
-    en = Important information
+    de = Achtung
+    en = Attention
 
 [start_infobox_copy]
-    de = Die Regeln, nach denen die App Zertifikate prüft, werden nicht mehr aktualisiert und verbleiben auf dem Stand vom 30. Mai 2023.
-    en = The rules according to which the app checks certificates will no longer be updated and will remain at the status of 30 May 2023.
+    de = Die Entwicklung der CovPassCheck-App endet, da die gesetzliche Grundlage wegfällt.
+    en = The development of the CovPassCheck app ends as the legal basis ceases to exist.
+
+[start_infobox_button]
+    de = Mehr anzeigen
+    en = Show more
+    
+[popup_sundown_info_image]
+    de = Das Bild zeigt eine glückliche Familie, eine Person hält ein Smartphone mit einem grünen Haken.
+    en = Image showing a happy family, one person is holding a smartphone with a green check.
+
+[popup_sundown_info_title]
+    de = Achtung!
+    en = Attention!
+    
+[popup_sundown_info_copy]
+    de = Ab dem 1. Juli 2023 wird die CovPassCheck-App nicht mehr weiterentwickelt.
+    en = As of 1 July 2023, the CovPassCheck app will no longer be developed.
+    
+[popup_sundown_info_subtitle]
+    de = Das bedeutet für Sie:
+    en = This means for you:
+    
+[popup_sundown_info_bullet1]
+    de = Es werden keine neuen Funktionen veröffentlicht.
+    en = No new functions will be released.
+    
+[popup_sundown_info_bullet2]
+    de = Es wird kein Support mehr für die App angeboten.
+    en = Support for the app is no longer offered.
+    
+[popup_sundown_info_bullet3]
+    de = Die Regeln, nach denen in der App Zertifikate geprüft werden, verbleiben auf dem Stand vom 30.04.2023.
+    en = The rules according to which certificates are checked in the app remain at the status of 30.04.2023.
