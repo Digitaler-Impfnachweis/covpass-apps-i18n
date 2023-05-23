@@ -2183,3 +2183,31 @@
 [start_infobox_button]
     de = Mehr anzeigen
     en = Show more
+    
+[popup_sundown_info_image]
+    de = Das Bild zeigt eine glückliche Familie, eine Person hält ein Smartphone mit einem grünen Haken.
+    en = Image showing a happy family, one person is holding a smartphone with a green check.
+
+[popup_sundown_info_title]
+    de = Achtung!
+    en = Attention!
+    
+[popup_sundown_info_copy]
+    de = Ab dem 1. Juli 2023 wird die CovPassCheck-App nicht mehr weiterentwickelt.
+    en = As of 1 July 2023, the CovPassCheck app will no longer be developed.
+    
+[popup_sundown_info_subtitle]
+    de = Das bedeutet für Sie:
+    en = This means for you:
+    
+[popup_sundown_info_bullet1]
+    de = Es werden keine neuen Funktionen veröffentlicht.
+    en = No new functions will be released.
+    
+[popup_sundown_info_bullet2]
+    de = Es wird kein Support mehr für die App angeboten.
+    en = Support for the app is no longer offered.
+    
+[popup_sundown_info_bullet3]
+    de = Die Regeln, nach denen in der App Zertifikate geprüft werden, verbleiben auf dem Stand vom 30.04.2023.
+    en = The rules according to which certificates are checked in the app remain at the status of 30.04.2023.
