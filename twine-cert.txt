@@ -2602,8 +2602,8 @@
     en = Checking rules
 
 [app_information_message_update]
-    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
-    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
+    de = Die App wird ab dem 1. Juli 2023 nicht mehr weiterentwickelt. Die Prüfregeln können nicht mehr aktualisiert werden.
+    en = The app will no longer be developed from 1 July 2023. The checking rules can no longer be updated.
     
 [app_information_list_update_notifications]
     de = Update-Benachrichtigungen
@@ -2654,12 +2654,20 @@
     en = Domestic rules
 
 [settings_rules_list_features]
-    de = Regelmerkmale
-    en = Rule features
+    de = Regeln nach Infektionsschutzgesetz § 22a
+    en = Rules according to Infection Protection Act § 22a
+    
+[settings_rules_list_features_lastupdated]
+    de = Zuletzt aktualisiert am 30.04.2023
+    en = Last updated 30.04.2023
 
 [settings_rules_list_issuer]
     de = Zertifikatsaussteller
     en = Certificate issuer
+
+[settings_rules_list_issuer_lastupdated]
+    de = Zuletzt aktualisiert am 13.06.2023
+    en = Last updated 13.06.2023
 
 [settings_rules_list_countries]
     de = Länderlisten
