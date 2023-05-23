@@ -2602,8 +2602,8 @@
     en = Checking rules
 
 [app_information_message_update]
-    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
-    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
+    de = Die App wird ab dem 1. Juli 2023 nicht mehr weiterentwickelt. Die Prüfregeln können nicht mehr aktualisiert werden.
+    en = The app will no longer be developed from 1 July 2023. The checking rules can no longer be updated.
     
 [app_information_list_update_notifications]
     de = Update-Benachrichtigungen
@@ -2654,12 +2654,20 @@
     en = Domestic rules
 
 [settings_rules_list_features]
-    de = Regelmerkmale
-    en = Rule features
+    de = Regeln nach Infektionsschutzgesetz § 22a
+    en = Rules according to Infection Protection Act § 22a
+    
+[settings_rules_list_features_lastupdated]
+    de = Zuletzt aktualisiert am 30.04.2023
+    en = Last updated 30.04.2023
 
 [settings_rules_list_issuer]
     de = Zertifikatsaussteller
     en = Certificate issuer
+
+[settings_rules_list_issuer_lastupdated]
+    de = Zuletzt aktualisiert am 13.06.2023
+    en = Last updated 13.06.2023
 
 [settings_rules_list_countries]
     de = Länderlisten
@@ -3298,6 +3306,14 @@
 [renewal_bluebox_copy_expiring_soon_not_available]    
     de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab. Wenn Sie das Zertifikat weiter benötigen, wenden Sie sich bitte an eine Apotheke, um sich ein neues Zertifikat ausstellen zu lassen.
     en = The technical validity of your certificate expires on %@ at %@. If you still need the certificate, please visit a pharmacy to have a new certificate issued.
+
+[renewal_bluebox_copy_expiry_not_available_30_6]
+    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen.
+    en = The technical validity of your certificate has expired on %@ at %@.
+    
+[renewal_bluebox_copy_expiring_soon_not_available_30_6]    
+    de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab.
+    en = The technical validity of your certificate expires on %@ at %@. 
     
 [renewal_bluebox_copy_expiry_not_german]
     de = Die technische Gültigkeit mindestens eines Ihrer Zertifikate ist abgelaufen. Da Ihr Zertifikat nicht in Deutschland ausgestellt wurde, kann dieses nicht in der CovPass-App erneuert werden. Bitte prüfen Sie die Vorgaben des Ausstellungslandes.
@@ -3830,9 +3846,13 @@
     en = Collapse
 
 [start_infobox_title]
-    de = Wichtige Information
-    en = Important information
+    de = Achtung
+    en = Attention
 
 [start_infobox_copy]
-    de = Die Corona-Einreiseverordnung läuft aus. Sie können ihre Zertifikate in der App nicht mehr auf Gültigkeit bei Reisen prüfen.
-    en = The Corona entry regulation is expiring. You can no longer check your certificates in the app for validity when travelling.
+    de = Die Entwicklung der CovPass-App endet, da die gesetzliche Grundlage wegfällt. Ihre Zertifikate bleiben jedoch erhalten.
+    en = The development of the CovPass app ends as the legal basis no longer exists. However, your certificates will remain.
+
+[start_infobox_button]
+    de = Mehr anzeigen
+    en = Show more
