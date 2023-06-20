@@ -3846,13 +3846,9 @@
     en = Collapse
 
 [start_infobox_title]
-    de = Achtung
-    en = Attention
+    de = Wichtige Information
+    en = Important information
 
 [start_infobox_copy]
-    de = Die Entwicklung der CovPass-App endet, da die gesetzliche Grundlage wegfällt. Ihre Zertifikate bleiben jedoch erhalten.
-    en = The development of the CovPass app ends as the legal basis no longer exists. However, your certificates will remain.
-
-[start_infobox_button]
-    de = Mehr anzeigen
-    en = Show more
+    de = Die Corona-Einreiseverordnung läuft aus. Sie können ihre Zertifikate in der App nicht mehr auf Gültigkeit bei Reisen prüfen.
+    en = The Corona entry regulation is expiring. You can no longer check your certificates in the app for validity when travelling.
