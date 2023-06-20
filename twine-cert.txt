@@ -208,14 +208,6 @@
     de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf die Taste "Nachweis hinzufügen" (Plus-Symbol), um ein digitales COVID-Zertifikat der EU hinzuzufügen.
     en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the button "Add a certificate" (plus symbol) to add a Digital COVID Certificate.
 
-[vaccination_start_screen_note_title_after_july]
-    de = Keine Zertifikate vorhanden
-    en = No certificates found
-
-[vaccination_start_screen_note_message_after_july]
-    de = Seit dem 1. Juli 2023 wird die CovPass-App nicht mehr weiterentwickelt. Daher können keine Zertifikate mehr hinzugefügt werden.
-    en = Since 1st of July 2023, the CovPass app will not be developed any further. Therefore, certificates can no longer be added.
-
 [startscreen_card_title]
     de = Digitales COVID-Zertifikat der EU
     en = EU Digital COVID Certificate
