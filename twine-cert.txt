@@ -3834,5 +3834,5 @@
     en = Important information
 
 [start_infobox_copy]
-    de = Die Corona-Einreiseverordnung läuft aus. Sie können ihre Zertifikate in der App nicht mehr auf Gültigkeit bei Reisen prüfen.
-    en = The Corona entry regulation is expiring. You can no longer check your certificates in the app for validity when travelling.
+    de = Sie können Ihre Zertifikate in der App derzeit nicht mehr auf Gültigkeit beim Reisen prüfen. Bitte informieren Sie sich daher im Vorfeld einer Reise über die in Ihrem Bestimmungsland geltenden Regelungen.
+    en = You can currently no longer check your certificates in the app for validity when travelling. Therefore, please inform yourself about the regulations applicable in your country of destination before travelling.
