@@ -2661,6 +2661,14 @@
     de = Zertifikatsaussteller
     en = Certificate issuer
 
+[settings_rules_list_ifsg_title]
+    de = Regeln nach Infektionsschutzgesetz § 22a
+    en = Rules according to § 22a of the Infection Protection Act
+    
+[settings_rules_list_ifsg_subtitle]
+    de = Zuletzt aktualisiert am 30.04.2023
+    en = Last updated 30.04.2023
+    
 [settings_rules_list_countries]
     de = Länderlisten
     en = Country lists
