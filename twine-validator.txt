@@ -1087,6 +1087,14 @@
 [settings_rules_list_issuer]
     de = Zertifikatsaussteller
     en = Certificate issuer
+
+[settings_rules_list_ifsg_title]
+    de = Regeln nach Infektionsschutzgesetz § 22a
+    en = Rules according to § 22a of the Infection Protection Act
+    
+[settings_rules_list_ifsg_subtitle]
+    de = Zuletzt aktualisiert am 30.04.2023
+    en = Last updated 30.04.2023
     
 [settings_rules_list_countries]
     de = Länderlisten
@@ -2169,5 +2177,5 @@
     en = Important information
 
 [start_infobox_copy]
-    de = Die Regeln, nach denen die App Zertifikate prüft, werden nicht mehr aktualisiert und verbleiben auf dem Stand vom 30. Mai 2023.
-    en = The rules according to which the app checks certificates will no longer be updated and will remain at the status of 30 May 2023.
+    de = Zertifikate können derzeit nicht mehr mit der CovPassCheck-App auf Gültigkeit beim Reisen überprüft werden. Nutzerinnen und Nutzern wird empfohlen, sich im Vorfeld einer Reise über die in ihrem Bestimmungsland geltenden Regelungen zu informieren.
+    en = Certificates can currently no longer be checked for validity when travelling using the CovPassCheck app. Users are advised to find out about the regulations in force in their country of destination before travelling.
