@@ -2199,15 +2199,15 @@
 [popup_sundown_info_subtitle]
     de = Das bedeutet für Sie:
     en = This means for you:
-    
+
 [popup_sundown_info_bullet1]
     de = Es werden keine neuen Funktionen veröffentlicht.
     en = No new functions will be released.
-    
+
 [popup_sundown_info_bullet2]
     de = Es wird kein Support mehr für die App angeboten.
     en = Support for the app is no longer offered.
-    
+
 [popup_sundown_info_bullet3]
     de = Die Regeln, nach denen in der App Zertifikate geprüft werden, verbleiben auf dem Stand vom 30.04.2023.
     en = The rules according to which certificates are checked in the app remain at the status of 30.04.2023.
