@@ -3300,12 +3300,12 @@
     en = The technical validity of your certificate expired on %@ at %@. Renew your certificate now to continue using it.
 
 [renewal_bluebox_copy_expiry_not_available]
-    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen.
-    en = The technical validity of your certificate has expired on %@ at %@.
+    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen. Wenn Sie das Zertifikat weiter benötigen, wenden Sie sich bitte an eine Apotheke, um sich ein neues Zertifikat ausstellen zu lassen.
+    en = The technical validity of your certificate has expired on %@ at %@. If you still need the certificate, please visit a pharmacy to have a new certificate issued.
     
 [renewal_bluebox_copy_expiring_soon_not_available]    
-    de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab.
-    en = The technical validity of your certificate expires on %@ at %@. 
+    de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab. Wenn Sie das Zertifikat weiter benötigen, wenden Sie sich bitte an eine Apotheke, um sich ein neues Zertifikat ausstellen zu lassen.
+    en = The technical validity of your certificate expires on %@ at %@. If you still need the certificate, please visit a pharmacy to have a new certificate issued.
     
 [renewal_bluebox_copy_expiry_not_german]
     de = Die technische Gültigkeit mindestens eines Ihrer Zertifikate ist abgelaufen. Da Ihr Zertifikat nicht in Deutschland ausgestellt wurde, kann dieses nicht in der CovPass-App erneuert werden. Bitte prüfen Sie die Vorgaben des Ausstellungslandes.
