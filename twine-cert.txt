@@ -213,8 +213,8 @@
     en = No certificates found
 
 [vaccination_start_screen_note_message_after_july]
-    de = Seit dem 1. Juli 2023 wird die CovPass-App nicht mehr weiterentwickelt. Daher können keine Zertifikate mehr hinzugefügt werden.
-    en = Since 1st of July 2023, the CovPass app will not be developed any further. Therefore, certificates can no longer be added.
+    de = Seit dem 1. Januar 2024 wird die CovPass-App nicht mehr weiterentwickelt. Daher können keine Zertifikate mehr hinzugefügt werden.
+    en = Since 1st of January 2024, the CovPass app will not be developed any further. Therefore, certificates can no longer be added.
 
 [startscreen_card_title]
     de = Digitales COVID-Zertifikat der EU
@@ -3858,8 +3858,8 @@
     en = Attention!
 
 [popup_sundown_info_copy]
-    de = Ab dem 1. Juli 2023 wird die CovPass-App nicht mehr weiterentwickelt. Auf Ihre in der App gespeicherten Zertifikate haben Sie jedoch weiterhin Zugriff.
-    en = As of 1 July 2023, the CovPass app will no longer be developed. However, you will still have access to your certificates stored in the app.
+    de = Ab dem 1. Januar 2024 wird die CovPass-App nicht mehr weiterentwickelt. Auf Ihre in der App gespeicherten Zertifikate haben Sie jedoch weiterhin Zugriff.
+    en = As of 1 January 2024, the CovPass app will no longer be developed. However, you will still have access to your certificates stored in the app.
 
 [popup_sundown_info_subtitle]
     de = Das bedeutet für Sie:

@@ -1108,8 +1108,8 @@
     ref = cancel
 
 [app_information_message_update]
-    de = Die App wird ab dem 1. Juli 2023 nicht mehr weiterentwickelt. Die Prüfregeln können nicht mehr aktualisiert werden.
-    en = The app will no longer be developed from 1 July 2023. The checking rules can no longer be updated.
+    de = Die App wird ab dem 1. Januar 2024 nicht mehr weiterentwickelt. Die Prüfregeln können nicht mehr aktualisiert werden.
+    en = The app will no longer be developed from 1 January 2024. The checking rules can no longer be updated.
 
 [app_information_rules_list_title]
     de = Regelwerk
@@ -2185,8 +2185,8 @@
     en = Attention!
     
 [popup_sundown_info_copy]
-    de = Ab dem 1. Juli 2023 wird die CovPassCheck-App nicht mehr weiterentwickelt.
-    en = As of 1 July 2023, the CovPassCheck app will no longer be developed.
+    de = Ab dem 1. Januar 2024 wird die CovPassCheck-App nicht mehr weiterentwickelt.
+    en = As of 1 January 2024, the CovPassCheck app will no longer be developed.
     
 [popup_sundown_info_subtitle]
     de = Das bedeutet für Sie:
