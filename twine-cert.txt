@@ -5,7 +5,7 @@
     
 [[common]]
 [ok]
-    de = OK
+    de = OKK
     en = OK
 
 [close]
