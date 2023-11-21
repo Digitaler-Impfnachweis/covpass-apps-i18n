@@ -208,6 +208,14 @@
     de = Sie haben aktuell kein digitales COVID-Zertifikat der EU gespeichert. Drücken Sie auf die Taste "Nachweis hinzufügen" (Plus-Symbol), um ein digitales COVID-Zertifikat der EU hinzuzufügen.
     en = You do not have any EU Digital COVID Certificate saved at the moment. Tap the button "Add a certificate" (plus symbol) to add a Digital COVID Certificate.
 
+[vaccination_start_screen_note_title_after_july]
+    de = Keine Zertifikate vorhanden
+    en = No certificates found
+
+[vaccination_start_screen_note_message_after_july]
+    de = Seit dem 1. Januar 2024 wird die CovPass-App nicht mehr weiterentwickelt. Daher können keine Zertifikate mehr hinzugefügt werden.
+    en = Since 1st of January 2024, the CovPass app will not be developed any further. Therefore, certificates can no longer be added.
+
 [startscreen_card_title]
     de = Digitales COVID-Zertifikat der EU
     en = EU Digital COVID Certificate
@@ -2602,9 +2610,9 @@
     en = Checking rules
 
 [app_information_message_update]
-    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
-    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
-    
+    de = Die App wird ab dem 1. Januar 2024 nicht mehr weiterentwickelt. Die Prüfregeln können nicht mehr aktualisiert werden.
+    en = The app will no longer be developed from 1 January 2024. The checking rules can no longer be updated.
+
 [app_information_list_update_notifications]
     de = Update-Benachrichtigungen
     en = Update notifications
@@ -2654,8 +2662,16 @@
     en = Domestic rules
 
 [settings_rules_list_features]
-    de = Regelmerkmale
-    en = Rule features
+    de = Regeln nach Infektionsschutzgesetz § 22a
+    en = Rules according to Infection Protection Act § 22a
+
+[settings_rules_list_features_lastupdated]
+    de = Zuletzt aktualisiert am 30.04.2023
+    en = Last updated 30.04.2023
+
+[settings_rules_list_issuer_lastupdated]
+    de = Zuletzt aktualisiert am 13.06.2023
+    en = Last updated 13.06.2023
 
 [settings_rules_list_issuer]
     de = Zertifikatsaussteller
@@ -2664,11 +2680,11 @@
 [settings_rules_list_ifsg_title]
     de = Regeln nach Infektionsschutzgesetz § 22a
     en = Rules according to § 22a of the Infection Protection Act
-    
+
 [settings_rules_list_ifsg_subtitle]
     de = Zuletzt aktualisiert am 30.04.2023
     en = Last updated 30.04.2023
-    
+
 [settings_rules_list_countries]
     de = Länderlisten
     en = Country lists
@@ -3302,10 +3318,18 @@
 [renewal_bluebox_copy_expiry_not_available]
     de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen. Wenn Sie das Zertifikat weiter benötigen, wenden Sie sich bitte an eine teilnehmende Apotheke, um sich ein neues Zertifikat ausstellen zu lassen.
     en = The technical validity of your certificate has expired on %@ at %@. If you still need the certificate, please visit a participating pharmacy to have a new certificate issued.
-    
-[renewal_bluebox_copy_expiring_soon_not_available]    
+
+[renewal_bluebox_copy_expiring_soon_not_available]
     de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab. Wenn Sie das Zertifikat weiter benötigen, wenden Sie sich bitte an eine teilnehmende Apotheke, um sich ein neues Zertifikat ausstellen zu lassen.
     en = The technical validity of your certificate expires on %@ at %@. If you still need the certificate, please visit a participating pharmacy to have a new certificate issued.
+    
+[renewal_bluebox_copy_expiring_soon_not_available_30_6]
+    de = Die technische Gültigkeit Ihres Zertifikats läuft am %@ um %@ ab.
+    en = The technical validity of your certificate expires on %@ at %@.
+
+[renewal_bluebox_copy_expiry_not_available_30_6]
+    de = Die technische Gültigkeit Ihres Zertifikats ist am %@ um %@ abgelaufen.
+    en = The technical validity of your certificate has expired on %@ at %@.
     
 [renewal_bluebox_copy_expiry_not_german]
     de = Die technische Gültigkeit mindestens eines Ihrer Zertifikate ist abgelaufen. Da Ihr Zertifikat nicht in Deutschland ausgestellt wurde, kann dieses nicht in der CovPass-App erneuert werden. Bitte prüfen Sie die Vorgaben des Ausstellungslandes.
@@ -3838,9 +3862,45 @@
     en = Collapse
 
 [start_infobox_title]
-    de = Wichtige Information
-    en = Important information
+    de = Achtung
+    en = Attention
 
 [start_infobox_copy]
-    de = Sie können Ihre Zertifikate in der App derzeit nicht mehr auf Gültigkeit beim Reisen prüfen. Bitte informieren Sie sich daher im Vorfeld einer Reise über die in Ihrem Bestimmungsland geltenden Regelungen.
-    en = You can currently no longer check your certificates in the app for validity when travelling. Therefore, please inform yourself about the regulations applicable in your country of destination before travelling.
+    de = Die Entwicklung der CovPass-App endet, da die gesetzliche Grundlage wegfällt. Ihre Zertifikate bleiben jedoch erhalten.
+    en = The development of the CovPass app ends as the legal basis no longer exists. However, your certificates will remain.
+
+[start_infobox_button]
+    de = Mehr anzeigen
+    en = Show more
+
+[popup_sundown_info_image]
+    de = Das Bild zeigt eine glückliche Familie, eine Person hält ein Smartphone mit einem grünen Haken.
+    en = Image showing a happy family, one person is holding a smartphone with a green check.
+
+[popup_sundown_info_title]
+    de = Achtung!
+    en = Attention!
+
+[popup_sundown_info_copy]
+    de = Ab dem 1. Januar 2024 wird die CovPass-App nicht mehr weiterentwickelt. Auf Ihre in der App gespeicherten Zertifikate haben Sie jedoch weiterhin Zugriff.
+    en = As of 1 January 2024, the CovPass app will no longer be developed. However, you will still have access to your certificates stored in the app.
+
+[popup_sundown_info_subtitle]
+    de = Das bedeutet für Sie:
+    en = This means for you:
+
+[popup_sundown_info_bullet1]
+    de = Es werden keine neuen Funktionen veröffentlicht.
+    en = No new functions will be released.
+
+[popup_sundown_info_bullet2]
+    de = Es wird kein Support mehr für die App angeboten.
+    en = Support for the app is no longer offered.
+
+[popup_sundown_info_bullet3]
+    de = Sie können technisch abgelaufene Zertifikate nicht mehr in der App erneuern.
+    en = You can no longer renew technically expired certificates in the app.
+
+[popup_sundown_info_bullet4]
+    de = Gespeicherte Zertifikate bleiben erhalten und können als PDF exportiert werden.
+    en = Saved certificates are retained and can be exported as PDFs.

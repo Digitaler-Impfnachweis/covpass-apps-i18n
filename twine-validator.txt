@@ -1091,7 +1091,7 @@
 [settings_rules_list_ifsg_title]
     de = Regeln nach Infektionsschutzgesetz § 22a
     en = Rules according to § 22a of the Infection Protection Act
-    
+
 [settings_rules_list_ifsg_subtitle]
     de = Zuletzt aktualisiert am 30.04.2023
     en = Last updated 30.04.2023
@@ -1116,8 +1116,8 @@
     ref = cancel
 
 [app_information_message_update]
-    de = Zur Überprüfung der Gültigkeit von Zertifikaten benötigt die App aktuelle Listen der vertrauenswürdigen Zertifikatsaussteller.\n\nDiese Listen aktualisieren sich täglich automatisch. Sie können hier auch jederzeit eine manuelle Aktualisierung vornehmen.
-    en = To check the validity of certificates, the app requires up-to-date lists of trusted certificate issuers.\n\nThese lists are updated automatically on a daily basis. You can also manually update them here at any time.
+    de = Die App wird ab dem 1. Januar 2024 nicht mehr weiterentwickelt. Die Prüfregeln können nicht mehr aktualisiert werden.
+    en = The app will no longer be developed from 1 January 2024. The checking rules can no longer be updated.
 
 [app_information_rules_list_title]
     de = Regelwerk
@@ -2173,9 +2173,41 @@
     en = #More about the Coronavirus Entry Regulations::https://www.bundesgesundheitsministerium.de/en/service/gesetze-und-verordnungen/guv-19-lp/coronavirus-einreiseverordnung.html#
 
 [start_infobox_title]
-    de = Wichtige Information
-    en = Important information
+    de = Achtung
+    en = Attention
 
 [start_infobox_copy]
-    de = Zertifikate können derzeit nicht mehr mit der CovPassCheck-App auf Gültigkeit beim Reisen überprüft werden. Nutzerinnen und Nutzern wird empfohlen, sich im Vorfeld einer Reise über die in ihrem Bestimmungsland geltenden Regelungen zu informieren.
-    en = Certificates can currently no longer be checked for validity when travelling using the CovPassCheck app. Users are advised to find out about the regulations in force in their country of destination before travelling.
+    de = Die Entwicklung der CovPassCheck-App endet, da die gesetzliche Grundlage wegfällt.
+    en = The development of the CovPassCheck app ends as the legal basis ceases to exist.
+
+[start_infobox_button]
+    de = Mehr anzeigen
+    en = Show more
+    
+[popup_sundown_info_image]
+    de = Das Bild zeigt eine glückliche Familie, eine Person hält ein Smartphone mit einem grünen Haken.
+    en = Image showing a happy family, one person is holding a smartphone with a green check.
+
+[popup_sundown_info_title]
+    de = Achtung!
+    en = Attention!
+    
+[popup_sundown_info_copy]
+    de = Ab dem 1. Januar 2024 wird die CovPassCheck-App nicht mehr weiterentwickelt.
+    en = As of 1 January 2024, the CovPassCheck app will no longer be developed.
+    
+[popup_sundown_info_subtitle]
+    de = Das bedeutet für Sie:
+    en = This means for you:
+
+[popup_sundown_info_bullet1]
+    de = Es werden keine neuen Funktionen veröffentlicht.
+    en = No new functions will be released.
+
+[popup_sundown_info_bullet2]
+    de = Es wird kein Support mehr für die App angeboten.
+    en = Support for the app is no longer offered.
+
+[popup_sundown_info_bullet3]
+    de = Die Regeln, nach denen in der App Zertifikate geprüft werden, verbleiben auf dem Stand vom 30.04.2023.
+    en = The rules according to which certificates are checked in the app remain at the status of 30.04.2023.
