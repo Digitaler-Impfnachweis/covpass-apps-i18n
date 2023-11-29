@@ -1088,6 +1088,10 @@
     de = Zertifikatsaussteller
     en = Certificate issuer
 
+[settings_rules_list_issuer_lastupdated]
+    de = Zuletzt aktualisiert am 01.12.2023
+    en = Last updated 01.12.2023
+
 [settings_rules_list_ifsg_title]
     de = Regeln nach Infektionsschutzgesetz § 22a
     en = Rules according to § 22a of the Infection Protection Act
