@@ -3920,7 +3920,3 @@
 [popup_sundown_info_bullet8]
     de = Es werden keine neuen Funktionen veröffentlicht.
     en = No new functions will be published.
-
-[popup_sundown_info_bullet8]
-    de = Weitere Hinweise finden Sie außerdem in der Datenschutzerklärung der CovPass-App.
-    en = Further information can also be found in the CovPass app privacy policy.
