@@ -3883,37 +3883,41 @@
 
 [popup_sundown_info_copy]
     de = Die Europäische Union hat im Jahr 2021 mit dem digitalen COVID-Zertifikat einen EU-weit anerkannten Nachweis über eine Impfung, eine Genesung oder eine negative Testung von COVID-19 eingeführt. Diese Verordnung trat zum 30. Juni 2023 außer Kraft. Übergangsweise betreibt die EU die technischen Systeme zur Ermöglichung der länderübergreifenden Zertifikatsprüfung bis zum 31. Dezember 2023 weiter. Der Übergangsbetrieb endet zu diesem Zeitpunkt.\n\nIn Deutschland wird daher die Möglichkeit zur Ausstellung von digitalen COVID-Zertifikaten wie etwa Impf- und Genesenenzertifikaten zum 31. Dezember 2023 eingestellt. Eingestellt werden deshalb auch die CovPass-App und die CovPassCheck-App. Die CovPass-App wird in einen Walletmodus versetzt, in welchem die gespeicherten Zertifikate erhalten bleiben.
-    en = In 2021, the European Union introduced the digital COVID certificate as an EU-wide recognised proof of vaccination, recovery or negative testing for COVID-19. This regulation expired on 30 June 2023. On a transitional basis, the EU will continue to operate the technical systems to enable cross-border certificate testing until 31 December 2023. The transitional operation will end on this date.\n\nIn Germany, the possibility of issuing digital COVID certificates such as vaccination and recovery certificates will therefore be discontinued on 31 December 2023. The CovPass app and the CovPassCheck app will therefore also be discontinued. The CovPass app will be switched to wallet mode, in which the stored certificates will be retained.
+    en = In 2021, the European Union introduced the digital COVID certificate as an EU-wide recognised proof of vaccination, recovery or negative testing for COVID-19. This regulation expired on 30 June 2023. On a transitional basis, the EU will continue to operate the technical systems to enable cross-border certificate checks until 31 December 2023. The transitional operation will end on that date.\n\nIn Germany, the possibility of issuing digital COVID certificates such as vaccination and recovery certificates will therefore be discontinued on 31 December 2023. The CovPass app and the CovPassCheck app will therefore also be discontinued. The CovPass app will be switched to wallet mode, where the stored certificates will be retained.
 
 [popup_sundown_info_subtitle]
     de = Das bedeutet für Sie: Bis zum 31.12.2023 sind alle bisherigen Funktionalitäten verfügbar.\n\nAb dem 01.01.2024:
-    en = This means for you: All previous functionalities are available until 31.12.2023.\n\nFrom 01.01.2024:
+    en = What does this mean for you? All functionalities will continue to beavailable until 31 December 2023.\n\nFrom 1 January2024:
 
 [popup_sundown_info_bullet1]
     de = Ihre in der CovPass-App vorhandenen Zertifikate bleiben auf Ihrem Smartphone gespeichert.
-    en = Your existing certificates in the CovPass app will remain stored on your smartphone.
+    en = Your existing certificates in the CovPass app will still be stored on your smartphone.
 
 [popup_sundown_info_bullet2]
     de = Sie können in der CovPass-App weiterhin auf Ihre gespeicherten Zertifikate zugreifen.
-    en = You can still access your saved certificates in the CovPass app.
+    en = You will still be able to access your saved certificates in the CovPass app.
 
 [popup_sundown_info_bullet3]
     de = Sie können gespeicherte Zertifikate als PDF exportieren (Funktion „PDF erstellen“).
-    en = You can export saved certificates as a PDF ("Create PDF" function).
+    en = You will be able to export saved certificates as a PDF ("Create PDF" function).
 
 [popup_sundown_info_bullet4]
-    de = Sie können technisch abgelaufene Zertifikate nicht mehr in der App erneuern.
-    en = You can no longer renew technically expired certificates in the app.
+    de = Sie können keine Zertifikate mehr hinzufügen (Die Funktion zum Scannen von Zertifikaten haben wir entfernt).
+    en = You will no longer be able to add new certificates (we have removed the function for scanning certificates.)
 
 [popup_sundown_info_bullet5]
-    de = Es wird kein Support mehr für die App angeboten.
-    en = Support for the app is no longer offered.
+    de = Sie können technisch abgelaufene Zertifikate nicht mehr in der App erneuern. Daher wird auch nicht mehr auf deren Ablauf und Erneuerung hingewiesen.
+    en = You will no longer be able to renew technically expired certificates in the app. Therefore, no reference is made to their expiry or renewal.
 
 [popup_sundown_info_bullet6]
-    de = Die Apps sind im App-Store für einen (erneuten) Download nicht mehr verfügbar.
-    en = The apps are no longer available for (re)download in the app store.
+    de = Es wird kein Support mehr für die App angeboten.
+    en = Support for the app will no longer be offered.
 
 [popup_sundown_info_bullet7]
+    de = Die Apps sind im App-Store für einen (erneuten) Download nicht mehr verfügbar.
+    en = The apps will no longer be available for (re)download in the app store.
+
+[popup_sundown_info_bullet8]
     de = Es werden keine neuen Funktionen veröffentlicht.
     en = No new functions will be published.
 
