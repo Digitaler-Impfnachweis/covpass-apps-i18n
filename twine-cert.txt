@@ -3887,7 +3887,7 @@
 
 [popup_sundown_info_subtitle]
     de = Das bedeutet für Sie: Bis zum 31.12.2023 sind alle bisherigen Funktionalitäten verfügbar.\n\nAb dem 01.01.2024:
-    en = What does this mean for you? All functionalities will continue to beavailable until 31 December 2023.\n\nFrom 1 January 2024:
+    en = What does this mean for you? All functionalities will continue to be available until 31 December 2023.\n\nFrom 1 January 2024:
 
 [popup_sundown_info_bullet1]
     de = Ihre in der CovPass-App vorhandenen Zertifikate bleiben auf Ihrem Smartphone gespeichert.
